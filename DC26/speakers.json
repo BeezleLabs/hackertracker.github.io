@@ -1,5 +1,5 @@
 {
-  "updated_at": "2018-07-22T23:14+0000",
+  "updated_at": "2018-07-23T15:16+0000",
   "speakers": [
     {
       "name": "0x200b",
@@ -24,7 +24,7 @@
     {
       "name": "Ruo Ando",
       "link": "",
-      "updated_at": "2018-07-03T17:46+0000",
+      "updated_at": "2018-07-23T15:16+0000",
       "twitter": "",
       "conference": "DC26",
       "id": 26003,
@@ -2970,16 +2970,6 @@
       "id": 26318,
       "title": "",
       "description": "M. Can Kurnaz (@0x43414e) is a penetration tester and currently works at European Network for Cyber Security in Netherlands.\n\nHe is conducting penetration tests over internet, internal networks, web-based applications and Operational Technology infrastructures such as smart meters, RTUs, data concentrators, telecontrol gateways, electric vehicle charging points and various ICS/SCADA systems and components, conducting robustness tests for OT devices and working on physical and wireless security assessments of IT/OT devices.\nAt the same time, he is also contributing as an instructor to \"Red Team \u2013 Blue Team Training for Industrial Control Systems and Smart Grid Cyber Security\" training of ENCS.\n"
-    },
-    {
-      "name": "None",
-      "link": "",
-      "updated_at": "2018-07-22T23:14+0000",
-      "twitter": "@defcon",
-      "conference": "DC26",
-      "id": 26319,
-      "title": "",
-      "description": ""
     }
   ]
 }
