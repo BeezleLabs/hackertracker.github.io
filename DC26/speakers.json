@@ -1,5 +1,5 @@
 {
-  "updated_at": "2018-07-30T00:30+0000",
+  "updated_at": "2018-07-31T21:41+0000",
   "speakers": [
     {
       "link": "",
@@ -2980,6 +2980,346 @@
       "name": "Chris Porter",
       "id": 26320,
       "updated_at": "2018-07-30T00:30+0000"
+    },
+    {
+      "link": "",
+      "description": "",
+      "twitter": "",
+      "conference": "DC26",
+      "title": "",
+      "name": "Uncle G.",
+      "id": 26325,
+      "updated_at": "2018-07-31T21:41+0000"
+    },
+    {
+      "link": "",
+      "description": "",
+      "twitter": "",
+      "conference": "DC26",
+      "title": "",
+      "name": "",
+      "id": 26326,
+      "updated_at": "2018-07-31T21:41+0000"
+    },
+    {
+      "link": "",
+      "description": "",
+      "twitter": "",
+      "conference": "DC26",
+      "title": "",
+      "name": "MasterChen",
+      "id": 26327,
+      "updated_at": "2018-07-31T21:41+0000"
+    },
+    {
+      "link": "",
+      "description": "",
+      "twitter": "",
+      "conference": "DC26",
+      "title": "",
+      "name": "Soldier of FORTRAN",
+      "id": 26328,
+      "updated_at": "2018-07-31T21:41+0000"
+    },
+    {
+      "link": "",
+      "description": "",
+      "twitter": "",
+      "conference": "DC26",
+      "title": "",
+      "name": "Magg",
+      "id": 26329,
+      "updated_at": "2018-07-31T21:41+0000"
+    },
+    {
+      "link": "",
+      "description": "",
+      "twitter": "",
+      "conference": "DC26",
+      "title": "",
+      "name": "William Knowles",
+      "id": 26330,
+      "updated_at": "2018-07-31T21:41+0000"
+    },
+    {
+      "link": "",
+      "description": "",
+      "twitter": "",
+      "conference": "DC26",
+      "title": "",
+      "name": "James Coote",
+      "id": 26331,
+      "updated_at": "2018-07-31T21:41+0000"
+    },
+    {
+      "link": "",
+      "description": "",
+      "twitter": "",
+      "conference": "DC26",
+      "title": "",
+      "name": "RenderMan",
+      "id": 26332,
+      "updated_at": "2018-07-31T21:41+0000"
+    },
+    {
+      "link": "",
+      "description": "",
+      "twitter": "",
+      "conference": "DC26",
+      "title": "",
+      "name": "Ethan Gregory Dodge",
+      "id": 26333,
+      "updated_at": "2018-07-31T21:41+0000"
+    },
+    {
+      "link": "",
+      "description": "",
+      "twitter": "",
+      "conference": "DC26",
+      "title": "",
+      "name": " Laura H",
+      "id": 26334,
+      "updated_at": "2018-07-31T21:41+0000"
+    },
+    {
+      "link": "",
+      "description": "",
+      "twitter": "",
+      "conference": "DC26",
+      "title": "",
+      "name": "\"Brittany 'Straithe' Postnikoff\"",
+      "id": 26335,
+      "updated_at": "2018-07-31T21:41+0000"
+    },
+    {
+      "link": "",
+      "description": "",
+      "twitter": "",
+      "conference": "DC26",
+      "title": "",
+      "name": "Sara-Jayne Terp",
+      "id": 26336,
+      "updated_at": "2018-07-31T21:41+0000"
+    },
+    {
+      "link": "",
+      "description": "",
+      "twitter": "",
+      "conference": "DC26",
+      "title": "",
+      "name": "Daniel Williams (fbus)",
+      "id": 26337,
+      "updated_at": "2018-07-31T21:41+0000"
+    },
+    {
+      "link": "",
+      "description": "",
+      "twitter": "",
+      "conference": "DC26",
+      "title": "",
+      "name": "wornbt@gmail.com",
+      "id": 26338,
+      "updated_at": "2018-07-31T21:41+0000"
+    },
+    {
+      "link": "",
+      "description": "",
+      "twitter": "",
+      "conference": "DC26",
+      "title": "",
+      "name": "Dimitri",
+      "id": 26339,
+      "updated_at": "2018-07-31T21:41+0000"
+    },
+    {
+      "link": "",
+      "description": "",
+      "twitter": "",
+      "conference": "DC26",
+      "title": "",
+      "name": "security panda",
+      "id": 26340,
+      "updated_at": "2018-07-31T21:41+0000"
+    },
+    {
+      "link": "",
+      "description": "",
+      "twitter": "",
+      "conference": "DC26",
+      "title": "",
+      "name": "3ncr1pt3d",
+      "id": 26341,
+      "updated_at": "2018-07-31T21:41+0000"
+    },
+    {
+      "link": "",
+      "description": "",
+      "twitter": "",
+      "conference": "DC26",
+      "title": "",
+      "name": "Sidragon",
+      "id": 26342,
+      "updated_at": "2018-07-31T21:41+0000"
+    },
+    {
+      "link": "",
+      "description": "",
+      "twitter": "",
+      "conference": "DC26",
+      "title": "",
+      "name": "Xavier Ashe",
+      "id": 26343,
+      "updated_at": "2018-07-31T21:41+0000"
+    },
+    {
+      "link": "",
+      "description": "",
+      "twitter": "",
+      "conference": "DC26",
+      "title": "",
+      "name": "Mike Raggo",
+      "id": 26344,
+      "updated_at": "2018-07-31T21:41+0000"
+    },
+    {
+      "link": "",
+      "description": "",
+      "twitter": "",
+      "conference": "DC26",
+      "title": "",
+      "name": "Chet Hosmer",
+      "id": 26345,
+      "updated_at": "2018-07-31T21:41+0000"
+    },
+    {
+      "link": "",
+      "description": "",
+      "twitter": "",
+      "conference": "DC26",
+      "title": "",
+      "name": "Marcelle",
+      "id": 26346,
+      "updated_at": "2018-07-31T21:41+0000"
+    },
+    {
+      "link": "",
+      "description": "",
+      "twitter": "",
+      "conference": "DC26",
+      "title": "",
+      "name": "Kelley",
+      "id": 26347,
+      "updated_at": "2018-07-31T21:41+0000"
+    },
+    {
+      "link": "",
+      "description": "",
+      "twitter": "",
+      "conference": "DC26",
+      "title": "",
+      "name": "Amit Elazari",
+      "id": 26348,
+      "updated_at": "2018-07-31T21:41+0000"
+    },
+    {
+      "link": "",
+      "description": "",
+      "twitter": "",
+      "conference": "DC26",
+      "title": "",
+      "name": "Keren Elazari",
+      "id": 26349,
+      "updated_at": "2018-07-31T21:41+0000"
+    },
+    {
+      "link": "",
+      "description": "",
+      "twitter": "",
+      "conference": "DC26",
+      "title": "",
+      "name": "Shawn Merdinger",
+      "id": 26350,
+      "updated_at": "2018-07-31T21:41+0000"
+    },
+    {
+      "link": "",
+      "description": "",
+      "twitter": "",
+      "conference": "DC26",
+      "title": "",
+      "name": "j3lena",
+      "id": 26351,
+      "updated_at": "2018-07-31T21:41+0000"
+    },
+    {
+      "link": "",
+      "description": "",
+      "twitter": "",
+      "conference": "DC26",
+      "title": "",
+      "name": "Philippe Delteil",
+      "id": 26352,
+      "updated_at": "2018-07-31T21:41+0000"
+    },
+    {
+      "link": "",
+      "description": "",
+      "twitter": "",
+      "conference": "DC26",
+      "title": "",
+      "name": "BACE16",
+      "id": 26353,
+      "updated_at": "2018-07-31T21:41+0000"
+    },
+    {
+      "link": "",
+      "description": "",
+      "twitter": "",
+      "conference": "DC26",
+      "title": "",
+      "name": "Stumbles The Drunk",
+      "id": 26354,
+      "updated_at": "2018-07-31T21:41+0000"
+    },
+    {
+      "link": "",
+      "description": "",
+      "twitter": "",
+      "conference": "DC26",
+      "title": "",
+      "name": "Maggie Mayhem",
+      "id": 26355,
+      "updated_at": "2018-07-31T21:41+0000"
+    },
+    {
+      "link": "",
+      "description": "",
+      "twitter": "",
+      "conference": "DC26",
+      "title": "",
+      "name": "brain",
+      "id": 26356,
+      "updated_at": "2018-07-31T21:41+0000"
+    },
+    {
+      "link": "",
+      "description": "",
+      "twitter": "",
+      "conference": "DC26",
+      "title": "",
+      "name": "9bplus",
+      "id": 26357,
+      "updated_at": "2018-07-31T21:41+0000"
+    },
+    {
+      "link": "",
+      "description": "",
+      "twitter": "",
+      "conference": "DC26",
+      "title": "",
+      "name": "Nick Cano",
+      "id": 26358,
+      "updated_at": "2018-07-31T21:41+0000"
     }
   ]
 }

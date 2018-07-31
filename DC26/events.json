@@ -3502,7 +3502,466 @@
       "end_date": "2018-08-11T03:00+0000",
       "title": "DEF CON Dinner Con",
       "updated_at": "2018-07-22T19:41+0000"
+    },
+    {
+      "description": "     I'm old.  Especially compared to most people here at DC26.  I've been at this since before the OJ Simpson trial.  I've worked on ARCNet networks!  I've seen some shit, man.... Good shit, bad shit, you name it.  It's finally time to get this shit off my chest and go over some of the mistakes I've seen (and allegedly caused), so you can be better.\n     In this talk I will go over IT and IT Security mistakes that the industry, businesses and individuals (including myself) have made over the past few decades.  No holds barred, naming names, and having a laugh and breaking a few NDA's.",
+      "location": 26014,
+      "id": 26275,
+      "includes": "",
+      "link": "",
+      "event_type": 9,
+      "conference": "DC26",
+      "speakers": [
+        26325,
+        26326
+      ],
+      "start_date": "2018-08-10T16:00+0000",
+      "end_date": "2018-08-10T16:50+0000",
+      "title": "Story Time - Biggest ITSec fuck-ups I've seen over the past 25 years.",
+      "updated_at": "2018-07-31T21:41+0000"
+    },
+    {
+      "description": "In 2015, I did a Skytalk called 'Automate Your Stalking'. In that talk, I demonstrated how one can monitor a target by not following them directly, but by following their followers to and who they follow to get an idea of their social life without direct interaction. I felt bad for releasing a tool to enable potential stalkers, but not an antidote. This year's presentation IS that antidote. I will be discussing how we can uncover those stalkers that lie in the shadows.",
+      "location": 26014,
+      "id": 26276,
+      "includes": "",
+      "link": "",
+      "event_type": 9,
+      "conference": "DC26",
+      "speakers": [
+        26326,
+        26327
+      ],
+      "start_date": "2018-08-10T17:00+0000",
+      "end_date": "2018-08-10T17:50+0000",
+      "title": "Stalker In A Haystack",
+      "updated_at": "2018-07-31T21:41+0000"
+    },
+    {
+      "description": "In 2012 hackers were running rampant in Swedens federal mainframes. During the course of the investigation it was thought it might be a good idea to release *ALL* the investigation documentation to the public. Included in these public files were snippets (or full programs) of the tools the hackers developed to work on an IBM z/OS mainframe (see: https://wikileaks.org/gottfrid-docs/). But not every tool developed were included in those papers. Shortly after the documents were released, your speaker was sent a DM out of the blue with a link to a pastebin (https://pastebin.com/Apk5zWDj) and two simple questions: 'was this an exploit? how did it work?' Why did they contact the speaker? Because it was thought he originally was the one who did the breach. This talk will go over the breach in a high level before diving DEEP in to the unix part of a mainframe, looking at exactly what this C program was doing (or attempting to do) and how it accomplished it. This talks got it all when it comes to mainframe privilege escalation, APF authorized unix programs (a special attribute on z/OS),  buffer overflows, hijacking return addresses, debugging C programs and changing ACEEs. All of these will be peppered with demos to show how it worked. After this talk you'll be able to know exactly what DeFeNeStRaTe.C was (trying?) to do and see it in action!",
+      "location": 26014,
+      "id": 26277,
+      "includes": "",
+      "link": "",
+      "event_type": 9,
+      "conference": "DC26",
+      "speakers": [
+        26326,
+        26328
+      ],
+      "start_date": "2018-08-10T18:00+0000",
+      "end_date": "2018-08-10T18:50+0000",
+      "title": "Deconstructing DeFeNeStRaTe.C: The first public buffer overflow on a mainframe?",
+      "updated_at": "2018-07-31T21:46+0000"
+    },
+    {
+      "description": "     Incident Response is a topic that gets major marketing and educational time but what does it actually look like for an average company. \n     This talk is an overview of a real incident response at an average organization. Full of the mistakes and stumbling blocks and a few wins. What does it look like when you have an organization without genius technical resources or unlimited pockets.  ",
+      "location": 26014,
+      "id": 26278,
+      "includes": "",
+      "link": "",
+      "event_type": 9,
+      "conference": "DC26",
+      "speakers": [
+        26326,
+        26329
+      ],
+      "start_date": "2018-08-10T19:00+0000",
+      "end_date": "2018-08-10T19:50+0000",
+      "title": "When Incident Response Meets Reality",
+      "updated_at": "2018-07-31T21:41+0000"
+    },
+    {
+      "description": "There are two commonly held perceptions when it comes to CNI security: that they are under constant threat, and that any form of practical security testing is a bad idea.  So how can we provide demonstrable assurance that these environments are secure?\\n\\nThis talk intends to challenge the perception that practical security testing should be avoided, and will discuss MWR's successes, failures, and lessons learned when conducting goal-oriented CNI attack simulations.\\n     The key topics of discussion will focus on:\\n         - Ignoring theory, what are the technologies being used in real-world CNI environments? Where does IT end and Operational Technology (OT) begin when it comes to assets that a targeted attacker would realistically look to compromise? In particular for affecting the availability and integrity of data sources, or gaining the capability to control physical processes (hint: it is more IT than you would think).\\n          - How can we apply red team methodologies in environments with high stability requirements, while minimising operational risk and testing time?\\n         - Want to know how to turn off the water, stop the gas, or simply control the control room?  Commonly found ways of elevating privileges will be discussed, along with paths for moving towards key asset compromise.",
+      "location": 26014,
+      "id": 26279,
+      "includes": "",
+      "link": "",
+      "event_type": 9,
+      "conference": "DC26",
+      "speakers": [
+        26330,
+        26331
+      ],
+      "start_date": "2018-08-10T20:00+0000",
+      "end_date": "2018-08-10T20:25+0000",
+      "title": "Practical attack simulations in Critical National Infrastructure (CNI): Oh the perils or oh the fun?",
+      "updated_at": "2018-07-31T21:47+0000"
+    },
+    {
+      "description": "The Internet of Dongs project took on the branch of IoT that no one wanted to touch; Internet connected sex toys and intimate wearables. Helping vendors and the public understand the unique challenges associated with privacy and security of these devices has had some 'interesting' discoveries and revelations along the way. This talk will cover some of the wierd, bizarre, and sometimes intriguing discoveries that have been made along the way that may or may not have required mindbleach afterwards.",
+      "location": 26014,
+      "id": 26280,
+      "includes": "",
+      "link": "",
+      "event_type": 9,
+      "conference": "DC26",
+      "speakers": [
+        26326,
+        26332
+      ],
+      "start_date": "2018-08-10T20:30+0000",
+      "end_date": "2018-08-10T20:55+0000",
+      "title": "penetration testing sex toys: 'I've seen things you people wouldn't believe'",
+      "updated_at": "2018-07-31T21:47+0000"
+    },
+    {
+      "description": "Last year Ethan spoke as Privacy P. Pratt, the anonymous technical mind behind the whistle-blowing organization MormonLeaks and chronicled its history and impact up to that point. Since then, he has abandoned the pseudonym, FaithLeaks has been born, and MormonLeaks has uncovered a great deal more. Join Ethan in this sequel to last year and hear about Skytalks-2017-inspired FaithLeaks, exposed sexual and ecclesiastical abuse, financial information the Mormon Church went through great lengths to hide, mistakes made along the way, and how this model is promoting increased transparency in a part of society that desperately needs it.",
+      "location": 26014,
+      "id": 26281,
+      "includes": "",
+      "link": "",
+      "event_type": 9,
+      "conference": "DC26",
+      "speakers": [
+        26326,
+        26333
+      ],
+      "start_date": "2018-08-10T21:00+0000",
+      "end_date": "2018-08-10T21:50+0000",
+      "title": "From MormonLeaks to FaithLeaks",
+      "updated_at": "2018-07-31T21:41+0000"
+    },
+    {
+      "description": "A brief but riveting mini-history of why and how most soccer mom's can out OSINT your collective information security asses any day of the week using actual case studies of two unbelievable unsolved, in real time, homicide investigations, turned SOLVED. This introductory and fast paced talk will take a look at the history of OSINT from 'web-sleuthing' to 'crowdsourcing' and illustrate how, from the experience of the presenter, OSINT is utilized within modern homicide investigations from & via the internet. We will discover along the way the very real consequences and benefits that can occur when policing entities ignore or include OSINT gathered by well meaning public tipsters. Afterall, the large majority of criminal events are solved by the public sending in information. Finally, we will touch on the truth that OSINT is not actually a career path or even a subset skill specific to information security but rather is a set of ever evolving tools, that was born from curiosity and caring about communities and continues to evolve to this day.",
+      "location": 26014,
+      "id": 26282,
+      "includes": "",
+      "link": "",
+      "event_type": 9,
+      "conference": "DC26",
+      "speakers": [
+        26326,
+        26334
+      ],
+      "start_date": "2018-08-10T22:00+0000",
+      "end_date": "2018-08-10T22:50+0000",
+      "title": "OSINT IS FOR SOCCER MOMS",
+      "updated_at": "2018-07-31T21:41+0000"
+    },
+    {
+      "description": "The potential for robots and AI to shake up our lives has scared people for generations, just look at the scenarios put out by sci-fi. A number of these issues, plus many others, have made it to the real world. Cambridge Analytica anyone? How about surveillance robots such as Knight? Our researchers have been investigating and preparing defenses to combat against these artificial beings, but it is a continuous battle. Come participate in a discussion of the concerns, efforts, and gaps that are present in this space.",
+      "location": 26014,
+      "id": 26283,
+      "includes": "",
+      "link": "",
+      "event_type": 9,
+      "conference": "DC26",
+      "speakers": [
+        26335,
+        26336
+      ],
+      "start_date": "2018-08-10T23:00+0000",
+      "end_date": "2018-08-10T23:50+0000",
+      "title": "Robots and AI: What scares the experts?",
+      "updated_at": "2018-07-31T21:41+0000"
+    },
+    {
+      "description": "     Today, much time and effort is spent on making development and deployment easier for the application developer.  Simplification and automation are wonderful efforts to pursue, but with great power comes great responsibility.  Deployments can grow to be a support and technical-debt nightmare if the automation and simplification efforts are not closely managed. \r\n     This talk will walk through a number of case studies, both in software development & deployment and in the greater wild world in an attempt to provide a lens to help judge when automation and simplification are going too far.",
+      "location": 26014,
+      "id": 26284,
+      "includes": "",
+      "link": "",
+      "event_type": 9,
+      "conference": "DC26",
+      "speakers": [
+        26326,
+        26337
+      ],
+      "start_date": "2018-08-11T00:00+0000",
+      "end_date": "2018-08-11T00:50+0000",
+      "title": "The Least Common Denominator Strategy (AKA Don't make DevOps too easy)",
+      "updated_at": "2018-07-31T21:48+0000"
+    },
+    {
+      "description": "     N00b friendly! While the vuln of the week club keeps finding new and fascinating technical exploits all the time, malicious actors keep using old and surprisingly uncomplicated methods; old and simple stuff still works. This talk, we\u2019ll explore real shit aimed at a financial institution and what\u2019s been effective at mitigating these old and simple attacks. If you\u2019re starting out in blue team defense, you\u2019ll come away real simple shit you can do to raise the cost to attackers doing the same old credential stuffing, phishing, and script-kiddie RCE attempts.\n     While new technical vulnerabilities are found continuously, malicious actors often rely on tried and true methods to exploit. These exploits are surprisingly uncomplicated. In this talk, we\u2019ll share attempts we\u2019ve seen from malicious actors. We\u2019ll break down actual attacks and share what\u2019s been most effective in mitigating credential stuffing, phishing, and common RCE attempts. At the end of this talk, you\u2019ll walk away with simple takeaways to raise the cost to attackers for these simple attacks.",
+      "location": 26014,
+      "id": 26285,
+      "includes": "",
+      "link": "",
+      "event_type": 9,
+      "conference": "DC26",
+      "speakers": [
+        26326,
+        26338
+      ],
+      "start_date": "2018-08-11T01:00+0000",
+      "end_date": "2018-08-11T01:50+0000",
+      "title": "Real Simple Blue Team Shit",
+      "updated_at": "2018-07-31T21:41+0000"
+    },
+    {
+      "description": "In the year 2000 several Microsoft sites have been hacked by a Dutch Hacker named Dimitri. Several subdomain servers, such as windowsupdate.microsoft.com, 128download.microsoft.com, events.microsoft.com and so on has been hacked. Not even once but twice in a short period of time. A secret meeting was planned by Microsoft with Dimitri. Why was it secretly? What actually happened behind the closed doors at MS? And why even after 18 years it is still a secret? This presentation includes some Mystery, Drama, Action & NSFW.",
+      "location": 26014,
+      "id": 26286,
+      "includes": "",
+      "link": "",
+      "event_type": 9,
+      "conference": "DC26",
+      "speakers": [
+        26326,
+        26339
+      ],
+      "start_date": "2018-08-11T16:00+0000",
+      "end_date": "2018-08-11T16:25+0000",
+      "title": "What happened behind the closed doors at MS",
+      "updated_at": "2018-07-31T21:41+0000"
+    },
+    {
+      "description": "Although not commonly known, HTTP2 was first published in May 2015 as an update to HTTP 1.1. By the end of that year, the majority of major browsers added HTTP2 support; it is now being utilized all across the Internet. Sites such as Google, Twitter, Facebook, and perhaps even your company\u2019s site have HTTP2 enabled. If so, you probably do not realize you are using it. In fact, many Web Application Firewalls (WAFs) are not keeping pace with HTTP2 security needs and common AppSec testing tools such Burp, Zap, and other DAST products don\u2019t support HTTP2.\n     This talk will discuss the details of the presenter\u2019s discovery process in identifying how many site hosts are utilizing HTTP2, and a sample of common vulnerabilities which were found on these sites. Attendees will come away with having a better understanding of the security implications of HTTP2 and how you can detect these potential pitfalls on your network using freely available tools.",
+      "location": 26014,
+      "id": 26287,
+      "includes": "",
+      "link": "",
+      "event_type": 9,
+      "conference": "DC26",
+      "speakers": [
+        26326,
+        26340
+      ],
+      "start_date": "2018-08-11T16:30+0000",
+      "end_date": "2018-08-11T16:55+0000",
+      "title": "http2 and you",
+      "updated_at": "2018-07-31T21:41+0000"
+    },
+    {
+      "description": "     We're seeing an evolution in botnets. The impact of Mirai bringing down a huge swath of the internet two years ago raised awareness but the release of the Mirai code has raised a new army of botnets that are capable of more than just DDOS on basic systems. But Mirai isn\u2019t the only botnet in town. There are some serious contenders with unexpected enhancements looking for new recruits to work in the bitcoin mines.\nRouters and cameras and toasters \u2013 oh my! The ongoing deluge of devices that connect to the Internet is an IoT nightmare, and an attacker\u2019s dream. Default credentials and weak passwords are only the beginning.  Especially with a bevy of unpatched, vulnerable systems on which to unleash some substantial exploits. Persistence and lateral movement ftw!  \n     DDoS isn\u2019t just child\u2019s play when attacks are in the realm of terabytes. What happens when we move past outages, and into destructive payloads? And what happens when weaponization meets automation? In this talk, we\u2019ll explore what may come next when nation states move into the turf once held by script kiddies, and build-a-bot gets leveled up in a very bad way.",
+      "location": 26014,
+      "id": 26288,
+      "includes": "",
+      "link": "",
+      "event_type": 9,
+      "conference": "DC26",
+      "speakers": [
+        26326,
+        26341
+      ],
+      "start_date": "2018-08-11T17:00+0000",
+      "end_date": "2018-08-11T17:50+0000",
+      "title": "Don't Bring Me Down: Weaponizing botnets",
+      "updated_at": "2018-07-31T21:41+0000"
+    },
+    {
+      "description": "The four paths that human evolution is charging down, and how we choose which one\u2019s right\u2026",
+      "location": 26014,
+      "id": 26289,
+      "includes": "",
+      "link": "",
+      "event_type": 9,
+      "conference": "DC26",
+      "speakers": [
+        26326,
+        26342
+      ],
+      "start_date": "2018-08-11T18:00+0000",
+      "end_date": "2018-08-11T18:50+0000",
+      "title": "The Abyss is Waving Back\u2026",
+      "updated_at": "2018-07-31T21:41+0000"
+    },
+    {
+      "description": "Cloud Security is a magical world of as-a-service miracles.  Just spin up your intrusion-detection-as-a-service, SOC-as-a-service, incident-response-as-a-service, and start feeding it security-intelligence-as-a-service.  Come hear from this CISO-as-a-service unwrap the onion of cloud access security brokers (CASB), cloud workload protection platforms (CWPP), microsegmentation, cloud security posture management (CPSM), and software-defined perimeters (SDP).  What do they do? Do they really work? What do you with all those security appliances you\u2019ve accumulated?",
+      "location": 26014,
+      "id": 26290,
+      "includes": "",
+      "link": "",
+      "event_type": 9,
+      "conference": "DC26",
+      "speakers": [
+        26326,
+        26343
+      ],
+      "start_date": "2018-08-11T19:00+0000",
+      "end_date": "2018-08-11T19:50+0000",
+      "title": "Cloud Security Myths",
+      "updated_at": "2018-07-31T21:41+0000"
+    },
+    {
+      "description": "As IoT continues to introduce new operating systems, protocols, and frequencies the attack surface available for hidden communications increases substantially. In this presentation we explore the fundamental flaws in many of these IoT designs to identify methods of exploiting these communications by hiding data and riding these channels to deliver data and messages between devices and networks. We\u2019ll cover M2M carrier packets, IoT Hub out-of-band communications, and IoT dead-drops in the cloud. Then with proof of concept code we\u2019ll demonstrate these exploits for the audience, and provide the basis for enhancing one\u2019s forensic strategy by looking deeper into these mysterious IoT communications.",
+      "location": 26014,
+      "id": 26291,
+      "includes": "",
+      "link": "",
+      "event_type": 9,
+      "conference": "DC26",
+      "speakers": [
+        26344,
+        26345
+      ],
+      "start_date": "2018-08-11T20:00+0000",
+      "end_date": "2018-08-11T20:50+0000",
+      "title": "Exploiting IoT Communications - A Cover within a Cover",
+      "updated_at": "2018-07-31T21:41+0000"
+    },
+    {
+      "description": "Marcelle and Kelley will provide tips to the audience on how to survive a technical interview and possibly even shine in one!  We are not recruiters or HR professionals.   We have, however, a LOT of experience as interviewees and have developed some strategies that we\u2019d like to share.  Our industry experience lies in various technical arenas, including public sector, private sector, and law enforcement. Topics will include the not-so-subtle art of salary negotiation, how to best prepare for questions (TCP 3-way handshake, anyone?), recognizing the roles of different interviewers, and how to keep your cool.  We are also not attorneys, but will touch on illegal interview questions and how to handle them, as well as new laws about salary history. Also featured will be tales from the trenches, hopefully amusing and/or illuminating.  Time permitting, we will cover some resume best practices.  ",
+      "location": 26014,
+      "id": 26292,
+      "includes": "",
+      "link": "",
+      "event_type": 9,
+      "conference": "DC26",
+      "speakers": [
+        26346,
+        26347
+      ],
+      "start_date": "2018-08-11T21:00+0000",
+      "end_date": "2018-08-11T21:50+0000",
+      "title": "Hacking the Technical Interview",
+      "updated_at": "2018-07-31T21:41+0000"
+    },
+    {
+      "description": "Bug Bounties are one of the fastest growing, most popular and cost-effective ways for companies to engage with the security community and find unknown security vulnerabilities.  Now it\u2019s time to make them fair to the most important element in the Internet\u2019s immune system:  the friendly hackers and algorithmic auditors. This talk will showcase how bug bounty programs put hackers at risk, and how to fix a problem that affects all of us, hunters, security practitioners and technology users. #LEGALBUGBOUNTY \u2013 because Bug Bounties are already popular, it\u2019s time we make them great again.",
+      "location": 26014,
+      "id": 26293,
+      "includes": "",
+      "link": "",
+      "event_type": 9,
+      "conference": "DC26",
+      "speakers": [
+        26348,
+        26349
+      ],
+      "start_date": "2018-08-11T22:00+0000",
+      "end_date": "2018-08-11T22:50+0000",
+      "title": "Leveling the Bug Bounty Playfield - Introducing the #LEGALBUGBOUNTY project",
+      "updated_at": "2018-07-31T21:45+0000"
+    },
+    {
+      "description": "Real-world healthcare exposure of hospitals, patient records, medical devices ",
+      "location": 26014,
+      "id": 26294,
+      "includes": "",
+      "link": "",
+      "event_type": 9,
+      "conference": "DC26",
+      "speakers": [
+        26326,
+        26350
+      ],
+      "start_date": "2018-08-11T23:00+0000",
+      "end_date": "2018-08-11T23:50+0000",
+      "title": "Healthcare Exposure on Public Internet",
+      "updated_at": "2018-07-31T21:41+0000"
+    },
+    {
+      "description": "     It is of utmost importance to keep healthcare data safe, secure and private. As security and healthcare professionals it is important to be aware of the many ways and reasons a criminal can bring harm to a patient. While a criminal may maliciously seek to cause harm to a patient, they are just as likely to impact a hospital or patient as an unintended consequence of a different attack. By making everything digital and connecting it online without making it safe and secure, we have made this possible.\n     The environment within the organization must enable infosec professionals to do the best possible job.\n     We, hospital staff, IT staff, and vendors, can work together to build safe and secure environment in the healthcare.",
+      "location": 26014,
+      "id": 26295,
+      "includes": "",
+      "link": "",
+      "event_type": 9,
+      "conference": "DC26",
+      "speakers": [
+        26326,
+        26351
+      ],
+      "start_date": "2018-08-12T00:00+0000",
+      "end_date": "2018-08-12T00:50+0000",
+      "title": "The challenge of building an secure and safe digital environment in the healthcare",
+      "updated_at": "2018-07-31T21:41+0000"
+    },
+    {
+      "description": "Want to know what happens when a national wide network in the public health sector has no experts on cybersecurity? I will explain how I managed to get over 3 millions files including patients records, people with HIV, abortions and a long etc. And how I managed to get it fixed (spoiler: press was involved).",
+      "location": 26014,
+      "id": 26296,
+      "includes": "",
+      "link": "",
+      "event_type": 9,
+      "conference": "DC26",
+      "speakers": [
+        26326,
+        26352
+      ],
+      "start_date": "2018-08-12T01:00+0000",
+      "end_date": "2018-08-12T01:50+0000",
+      "title": "Macabre stories of a hacker in the public health sector (Chile)",
+      "updated_at": "2018-07-31T21:41+0000"
+    },
+    {
+      "description": "The talk that lives up to its name!  Completely self-centered on how to work with your bait and tackle to jerk off the line of stories in your head and get back to reality.  Avoid phishing by not falling for the hookers!  Even yourself!  Social engineering!  Deep penetrating psychology mixed with blatant innuendo and enough buzzwords to make a CISO throw BitCoin at it...then make engineers figure out a POC for what this Purple Team Darknet vaporware actually does!",
+      "location": 26014,
+      "id": 26297,
+      "includes": "",
+      "link": "",
+      "event_type": 9,
+      "conference": "DC26",
+      "speakers": [
+        26326,
+        26353
+      ],
+      "start_date": "2018-08-12T16:00+0000",
+      "end_date": "2018-08-12T16:50+0000",
+      "title": "Master Baiting!  Don\u2019t Click Bait Click Yourself",
+      "updated_at": "2018-07-31T21:49+0000"
+    },
+    {
+      "description": "Facial Recognition is being inserted in to the authentication and verification process of our Driver Licences, Passports, and other unimportant government documents. Let's talk about how it short falls and how to #$@! with it.",
+      "location": 26014,
+      "id": 26298,
+      "includes": "",
+      "link": "",
+      "event_type": 9,
+      "conference": "DC26",
+      "speakers": [
+        26326,
+        26354
+      ],
+      "start_date": "2018-08-12T17:00+0000",
+      "end_date": "2018-08-12T17:50+0000",
+      "title": "Facial Recognition - Let me let you in on a secret",
+      "updated_at": "2018-07-31T21:41+0000"
+    },
+    {
+      "description": "     Surveillance had been a fact of life for sex workers wherever they have faced prohibition. Only two elements, communication and association, can differentiate between commercial and personal sex, criminal enforcement of prostitution laws have necessarily meant targeting the speech and affiliation of perceived sex workers. Enforcement of this nature is facilitated by profiling, institutional bias, and broad overreaching policies that fundamentally violate individual human rights. This has included condoms as evidence, non-consensual medical screenings, and targeted harassment of black transgender women as well as license plate recording projects and stings that focus disrupting immigration or migrant workers. \n     For all of its risks, screening potential clients is safer over email than it is in person during a street based negotiation often in an isolated part of town. SESTA (Stop Enabling Sex Traffickers Act) comes at a time when compelling research demonstrates that Craigslist resulted in a 17% drop in the female homicide rate. SESTA will also put victims at risk by delaying their identification and recovery by eliminating a digital paper trail. Additionally, Section 230 of the Communications Decency Act is a vital protection for a free internet. Subverting SESTA will create greater economic disparity between sex workers and ultimately empower pimps and agencies over independent  providers.",
+      "location": 26014,
+      "id": 26299,
+      "includes": "",
+      "link": "",
+      "event_type": 9,
+      "conference": "DC26",
+      "speakers": [
+        26326,
+        26355
+      ],
+      "start_date": "2018-08-12T18:00+0000",
+      "end_date": "2018-08-12T18:50+0000",
+      "title": "Sex Work After SESTA",
+      "updated_at": "2018-07-31T21:41+0000"
+    },
+    {
+      "description": "     If the last year has shown us anything, it's that breaches and attacks being surfaced are the new normal. As the public becomes more informed about cyber operations, it's only natural that malicious actors will increase their operational security by using new approaches or subverting existing detection tools. In fact, it's already begun. In order to remain relevant, security teams need to increase the data sets and tools at their disposal. \n\n     In this talk, we will focus on walking through various data sets \u2014 both commonly known and some newer approaches \u2014 in order to identify threat actors and their operations. We will put a focus on ongoing campaigns which have gone unnoticed and highlight additional ways to investigate more recent reported activity. We will also provide insight into how attackers are subverting these data sets and some ideas on how as defenders, we could improve coverage. Our talk will conclude with a brief discussion about future predictions and where defenders should be spending their time.",
+      "location": 26014,
+      "id": 26300,
+      "includes": "",
+      "link": "",
+      "event_type": 9,
+      "conference": "DC26",
+      "speakers": [
+        26356,
+        26357
+      ],
+      "start_date": "2018-08-12T19:00+0000",
+      "end_date": "2018-08-12T19:50+0000",
+      "title": "Alphathreat Soup: Burning Threat Actors with Data",
+      "updated_at": "2018-07-31T21:41+0000"
+    },
+    {
+      "description": "XenoBot is an engineered player, provided to cheaters for use in-game. It's enhanced reaction speed and inability to tire made it ideal for power leveling.\r\n\r\nAfter a series of technological breakthroughs, it's use became ubiquitous and Tibia became a botter haven.\r\n\r\nThe collapse of fair play in the early 2000's led to the rise of DarkstaR, as his bot masked it's synthetic properties and averted detection.\r\n\r\nThrough XenoBot, DarkstaR acquired the keys to a line of botted characters that would silently obey and benefit him.\r\n\r\nMany usurpers \u2013 in-game guilds, software crackers, and DDoSers \u2013 came forth. They hunted him to prove themselves.\r\n\r\nThose he defeated still know him by the name... Game Runner\r\n\r\nThis is a talk for gamers and hackers about the battles I fought during a decade selling an MMORPG bot. I'll talk about what it was like to wield a surveillance system comprised of thousands of botted characters providing me with military-grade in-game intelligence. I'll outline the lessons I learned fighting off massive DDoS attacks on my own, including how I turned the laser on a mirror. I'll share a funny story about how serendipity convinced a forum that I had hacked them, as well as the the time I actually mass-hacked hundreds of users on a forum where child-porn was talked about with normalcy. I'll go into how CloudFlare doxxed me to that forum and how I hacked my way to the top of the situation without anyone being the wiser. After these and other tales, I hope you'll walk away from this talk laughing at my shenanigans while also having learned a few things about game development, hacking, and how to outmaneuver your opposition.",
+      "location": 26014,
+      "id": 26301,
+      "includes": "",
+      "link": "",
+      "event_type": 9,
+      "conference": "DC26",
+      "speakers": [
+        26326,
+        26358
+      ],
+      "start_date": "2018-08-12T20:00+0000",
+      "end_date": "2018-08-12T20:50+0000",
+      "title": "Game Runner 2049: The Battles Fought by the King of the Replicants",
+      "updated_at": "2018-07-31T21:50+0000"
     }
   ],
-  "updated_at": "2018-07-30T16:27+0000"
+  "updated_at": "2018-07-31T21:50+0000"
 }
