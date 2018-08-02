@@ -1,5 +1,5 @@
 {
-  "updated_at": "2018-08-02T04:38+0000",
+  "updated_at": "2018-08-02T17:28+0000",
   "locations": [
     {
       "name": "Track 2",
@@ -125,6 +125,36 @@
       "name": "Crypto & Privacy Village - Caesar's",
       "id": 26021,
       "updated_at": "2018-08-02T04:38+0000",
+      "conference": "DC26"
+    },
+    {
+      "name": "ICS Village - Red Rock - Flamingo",
+      "id": 26022,
+      "updated_at": "2018-08-02T16:39+0000",
+      "conference": "DC26"
+    },
+    {
+      "name": "Puff Puff Village - Flamingo",
+      "id": 26023,
+      "updated_at": "2018-08-02T16:45+0000",
+      "conference": "DC26"
+    },
+    {
+      "name": "Social Engineer Village - Octavios 3-8 - Caesar's",
+      "id": 26024,
+      "updated_at": "2018-08-02T16:49+0000",
+      "conference": "DC26"
+    },
+    {
+      "name": "IOT Village - Turin, Verona, & Trevi - Caesars",
+      "id": 26025,
+      "updated_at": "2018-08-02T17:13+0000",
+      "conference": "DC26"
+    },
+    {
+      "name": "Recon Village - Caesar's",
+      "id": 26026,
+      "updated_at": "2018-08-02T17:28+0000",
       "conference": "DC26"
     }
   ]

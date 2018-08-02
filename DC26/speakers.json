@@ -1,5 +1,5 @@
 {
-  "updated_at": "2018-08-02T14:23+0000",
+  "updated_at": "2018-08-02T17:32+0000",
   "speakers": [
     {
       "name": "0x200b",
@@ -3968,6 +3968,336 @@
       "title": "",
       "id": 26424,
       "twitter": "@chpaquin",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "a nurse",
+      "updated_at": "2018-08-02T16:35+0000",
+      "description": "",
+      "title": "",
+      "id": 26425,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Cristina",
+      "updated_at": "2018-08-02T16:35+0000",
+      "description": "",
+      "title": "",
+      "id": 26426,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Rex",
+      "updated_at": "2018-08-02T16:35+0000",
+      "description": "",
+      "title": "",
+      "id": 26427,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Annie Rouse",
+      "updated_at": "2018-08-02T16:35+0000",
+      "description": "",
+      "title": "",
+      "id": 26428,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Beth Schechter",
+      "updated_at": "2018-08-02T16:36+0000",
+      "description": "",
+      "title": "",
+      "id": 26429,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Harry",
+      "updated_at": "2018-08-02T16:36+0000",
+      "description": "",
+      "title": "",
+      "id": 26430,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Kevin Chen",
+      "updated_at": "2018-08-02T16:36+0000",
+      "description": "",
+      "title": "",
+      "id": 26431,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Adrian, Alex",
+      "updated_at": "2018-08-02T16:36+0000",
+      "description": "",
+      "title": "",
+      "id": 26432,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Project Nexus",
+      "updated_at": "2018-08-02T16:36+0000",
+      "description": "",
+      "title": "",
+      "id": 26433,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Octet In Triplicate",
+      "updated_at": "2018-08-02T16:36+0000",
+      "description": "",
+      "title": "",
+      "id": 26434,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "WeedAnon",
+      "updated_at": "2018-08-02T16:36+0000",
+      "description": "",
+      "title": "",
+      "id": 26435,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Mark Lewis",
+      "updated_at": "2018-08-02T16:36+0000",
+      "description": "",
+      "title": "",
+      "id": 26436,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Algirhythm",
+      "updated_at": "2018-08-02T16:37+0000",
+      "description": "",
+      "title": "",
+      "id": 26437,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Frank",
+      "updated_at": "2018-08-02T16:37+0000",
+      "description": "",
+      "title": "",
+      "id": 26438,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Michael Hiller",
+      "updated_at": "2018-08-02T16:37+0000",
+      "description": "",
+      "title": "",
+      "id": 26439,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Mayor Chad Wanke\t",
+      "updated_at": "2018-08-02T16:37+0000",
+      "description": "",
+      "title": "",
+      "id": 26440,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "OCP (by proxy)",
+      "updated_at": "2018-08-02T16:37+0000",
+      "description": "",
+      "title": "",
+      "id": 26441,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Shubham Mittal ",
+      "updated_at": "2018-08-02T17:29+0000",
+      "description": "",
+      "title": "",
+      "id": 26442,
+      "twitter": "@upgoingstar",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Sudhanshu Chahuhan",
+      "updated_at": "2018-08-02T17:29+0000",
+      "description": "",
+      "title": "",
+      "id": 26443,
+      "twitter": "@sudhanshu_c",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Andrew Macpherson",
+      "updated_at": "2018-08-02T17:29+0000",
+      "description": "",
+      "title": "",
+      "id": 26444,
+      "twitter": "@AndrewMohawk",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Jason Haddix",
+      "updated_at": "2018-08-02T17:29+0000",
+      "description": "",
+      "title": "",
+      "id": 26445,
+      "twitter": "@jhaddix",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "William Suthers",
+      "updated_at": "2018-08-02T17:30+0000",
+      "description": "",
+      "title": "",
+      "id": 26446,
+      "twitter": "@VICT0RIS",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Marc DaCosta",
+      "updated_at": "2018-08-02T17:30+0000",
+      "description": "",
+      "title": "",
+      "id": 26447,
+      "twitter": "@marc_dacosta",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Ethan Gregory Dodge",
+      "updated_at": "2018-08-02T17:30+0000",
+      "description": "",
+      "title": "",
+      "id": 26448,
+      "twitter": "@egd_io",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Dino Covotsos",
+      "updated_at": "2018-08-02T17:30+0000",
+      "description": "",
+      "title": "",
+      "id": 26449,
+      "twitter": "@telspacesystems",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Micah Hoffman",
+      "updated_at": "2018-08-02T17:31+0000",
+      "description": "",
+      "title": "",
+      "id": 26450,
+      "twitter": "@WebBreacher",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Rod Soto ",
+      "updated_at": "2018-08-02T17:31+0000",
+      "description": "",
+      "title": "",
+      "id": 26451,
+      "twitter": "@rodsoto ",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Joseph Zadeh",
+      "updated_at": "2018-08-02T17:31+0000",
+      "description": "",
+      "title": "",
+      "id": 26452,
+      "twitter": "@josephzadeh",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Mauro Caseres",
+      "updated_at": "2018-08-02T17:31+0000",
+      "description": "",
+      "title": "",
+      "id": 26453,
+      "twitter": "@mauroeldritch",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Bharath Kumar",
+      "updated_at": "2018-08-02T17:32+0000",
+      "description": "",
+      "title": "",
+      "id": 26454,
+      "twitter": "@yamakira_",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Madhu",
+      "updated_at": "2018-08-02T17:32+0000",
+      "description": "",
+      "title": "",
+      "id": 26455,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Anshuman Bhartiya ",
+      "updated_at": "2018-08-02T17:32+0000",
+      "description": "",
+      "title": "",
+      "id": 26456,
+      "twitter": "@anshuman_bh",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Glen Grant",
+      "updated_at": "2018-08-02T17:32+0000",
+      "description": "",
+      "title": "",
+      "id": 26457,
+      "twitter": "",
       "conference": "DC26",
       "link": ""
     }
