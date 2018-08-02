@@ -6778,7 +6778,7 @@
       "updated_at": "2018-08-02T18:28+0000"
     },
     {
-      "start_date": "2018-08-11T20:25+0000",
+      "start_date": "2018-08-11T21:00+0000",
       "id": 26503,
       "description": "\u201cHow do you apply open source intelligence techniques to politicians, candidates, and others holding the public trust? It\u2019s easier than you think. This talk will outline the general principles for investigating public figures, how to take information and data and turn it into a news story even when the story is (often) incomplete, and then review several case studies that demonstrate the effectiveness of combining these techniques.\r\n\r\nCase Study #1: Selling Out Before The Financial Crisis: politicians using their positions and insider knowledge to profit and sell stocks before regulatory actions and major events like the 2008 financial crisis\r\n\r\nCase Study #2: Family Money Laundering Campaign Contributions: politician, who lacks the means themselves, illegally fund their campaigns with hundreds of thousands of dollars from family members\r\n\r\nCase Study #3: How To Save $300,000 On A Home: politician purchases a home at a steep discount from a major campaign donor\r\n\r\nCase Study #4: Downton Abbey On Capitol Hill: politicians use public funds to decorate their offices in ostentatious and wasteful ways\r\n\r\nCase Study #5: Voter Fraud Is Real: political candidate actually commits voter fraud\u201d",
       "location": 26026,
@@ -6786,12 +6786,12 @@
       "speakers": [
         26459
       ],
-      "end_date": "2018-08-11T20:55+0000",
+      "end_date": "2018-08-11T21:40+0000",
       "conference": "DC26",
       "event_type": 6,
       "includes": "",
       "title": "Applied OSINT For Politics: Turning Open Data Into News",
-      "updated_at": "2018-08-02T18:29+0000"
+      "updated_at": "2018-08-02T18:31+0000"
     },
     {
       "start_date": "2018-08-12T01:40+0000",
@@ -6808,7 +6808,169 @@
       "includes": "Demo",
       "title": "Social Engineering Course Projects for Undergraduate Students",
       "updated_at": "2018-08-02T18:30+0000"
+    },
+    {
+      "start_date": "2018-08-11T21:45+0000",
+      "id": 26505,
+      "description": "I\u2019m not a programmer. I\u2019m not a hacker\u201a in the traditional sense. But yet I was born in 1983, so surely that makes me a perfect fit for the DEF CON theme this year. Not enough? Ok, well how about the fact that I\u2019m currently using open source tools, techniques and methodologies to combat modern slavery, wildlife trafficking, terrorism and just about every serious organized crime the world is currently battling from a desk in the middle of the London financial district. Interested in hearing from a different viewpoint and perspective, then this is your talk. While you might not walk away with a new tool for your toolbox, you will gain an understanding into how the smallest contribution can end up the most profound and how combining open source resources can take on much bigger problems that you\u2019ve maybe never considered.\r\n\r\nDuring my talk, I will cover a few examples of recent Open Source investigations conducted by myself, including details regarding the methodologies and tools which were used. We actively follow the person not the digital fingerprint to begin to understand and put a face to some of the most prevalent and serious organized crimes facing the world today.\r\n\r\nWhen I was in the forces I knew what I was facing and had to deal with, as Head of Research at a FinTech company I never expected that transferring my skills would end up uncovering individuals within the financial industry who I\u2019ve had to report for terrorist activity, human trafficking, wildlife trafficking, drug smuggling, violent crime, fraud (international and domestic), revenge porn, and stalking.\r\n\r\nAnd while I\u2019m not here to save the world, I think we can all do a little bit to contribute to a counter-future in which the good guys are empowered by technology and the bad guys have nowhere to hide.",
+      "location": 26026,
+      "link": "http://reconvillage.org/talks-2018/#1983-im-born-2018-im-taking-on-the-bad-guys---jennifer-roderick",
+      "speakers": [
+        26462
+      ],
+      "end_date": "2018-08-11T22:05+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "1983: I\u2019m born. 2018: I\u2019m taking on the bad guys",
+      "updated_at": "2018-08-02T18:30+0000"
+    },
+    {
+      "start_date": "2018-08-11T22:10+0000",
+      "id": 26506,
+      "description": "Your client gives you their requirement, \u201c\u201cfind the social media accounts of the target person and any friends they may have\u201d\u201d. Simple enough. You execute your Standard Operating Procedures (you DO have a SOP, right?) and begin running tools, using your sock puppets, scraping web sites, and finding a ton of data. You\u2019ve got CSVs, text output, images, URLs\u2026.OH MY! How do you keep track of all this data and, more importantly, how do you ensure that you can report on it and have covered all the pivot points for the OSINT investigation?\r\n\r\nAs OSINTers, pentesters, defenders, PIs, and others, we can easily get swamped in data. Join me as we look at some bad, some good, and some amazing methods of keeping your investigation on track.",
+      "location": 26026,
+      "link": "http://reconvillage.org/talks-2018/#core-osint-keeping-track-of-and-reporting-all-the-things---micah-hoffman",
+      "speakers": [
+        26450
+      ],
+      "end_date": "2018-08-11T22:50+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Core OSINT: Keeping Track of and Reporting All the Things",
+      "updated_at": "2018-08-02T18:33+0000"
+    },
+    {
+      "start_date": "2018-08-11T23:05+0000",
+      "id": 26507,
+      "description": "In this presentation, we will demonstrate how to build a machine learning model that uses a merged dataset combining cyber related contextual information with Bitcoin (BTC) transaction data. The model can be used by both private and public sectors security professionals, working in the cryptocurrency field, to deny business for certain BTC addresses or, build legal cases to return illegally stolen coins.\r\n\r\nTo build the dataset, we collected a list of BTC addresses involved in illegal activities. Using these addresses as a starting point, we navigated along the chain, and reconstructructed a cluster of connected \u201a\u00c4\u00fadirty\u201a\u00c4\u00f9 addresses. We used rules such as First-In-First-Out (FIFO) to label them. These labeling techniques can be used to tag certain BTC addresses that fall within this path as \u201a\u00c4\u00fadirty\u201a\u00c4\u00f9 addresses because they handled money acquired through illegal activities. We can then take this a step further and analyze the characteristic behavioral elements of these addresses. This behavioral analysis will allow us to determine the features representing this malicious behavior and use them within a machine learning model classifying new BTC addresses.\r\n\r\nOur model-building approach is based on a three part framework: The first part is to collect a set of BTC addresses and classify them as \u201a\u00c4\u00faclean\u201a\u00c4\u00f9 or \u201a\u00c4\u00fadirty\u201a\u00c4\u00f9 to use them as our ground truth. The second part is to test the classification models using this dataset and propose decision metrics to optimally pick a model. In this part, we will also discuss ideas about how to compute expensive, but important features obtained from transaction data. In the third part, we will show how to use the obtained optimal model to predict if an address is \u201a\u00c4\u00fadirty\u201a\u00c4\u00f9. Finally, we will discuss our challenges when solving this problem and propose solutions to overcome them.",
+      "location": 26026,
+      "link": "http://reconvillage.org/talks-2018/#whiterabbit-combining-threat-intelligence-public-blockchain-data-and-machine-learning-to-go-down-the-dirty-money-rabbit-hole---olivia-thet-and-nicolas-kseib",
+      "speakers": [
+        26464,
+        26465
+      ],
+      "end_date": "2018-08-11T23:35+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "WhiteRabbit: Combining Threat Intelligence Public Blockchain Data and Machine Learning to go Down the \u201cDirty Money\u201d Rabbit Hole",
+      "updated_at": "2018-08-02T18:34+0000"
+    },
+    {
+      "start_date": "2018-08-11T19:00+0000",
+      "id": 26508,
+      "description": "When it comes to presenting data, it\u2019s not WHAT you present, it\u2019s HOW you present it! Combining words with pictures has been around for ages. Picking up an understanding of sequential art and how you can use it in your day-to-day life is critical!\r\n\r\nThis talk covers a crash course of data science and visualization. Learn what parts of the information you\u2019re supposed to keep an eye on! Make better line breaks with your text! Bring clarity to your writing! Good for software design, scrapbooking, OSINT, or keeping your shit together! ",
+      "location": 26026,
+      "link": "http://reconvillage.org/talks-2018/#cartoons-sketchnotes-bullet-journals-and-other-data-visualization-tricks---raye-keslensky",
+      "speakers": [
+        26466
+      ],
+      "end_date": "2018-08-11T19:25+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Cartoons, Sketchnotes, Bullet Journals and Other Data Visualization Tricks",
+      "updated_at": "2018-08-02T18:35+0000"
+    },
+    {
+      "start_date": "2018-08-12T00:05+0000",
+      "id": 26509,
+      "description": "Sure, WiFi hacking has been around for a while, and everyone knows about tools like airmon-ng, kismet, et al. But what if you just want to view a list of all networks in your area AND see all devices connected to each network? Or maybe you want to know who\u2019s hogging all the bandwidth (and maybe deauth them if they use too much)? Or, what if you want to know when a certain someone\u2019s cell phone is nearby. Or perhaps you\u2019d like to know if your Airbnb host\u2019s IP Camera is uploading video to the cloud?\r\n\r\nFor all these use-cases, I\u2019ve developed a new tool called \u201c\u201ctrackerjacker\u201d\u201d. In this talk, we\u2019ll use this tool to explore some of the surprisingly-informative data floating around in the radio space, and you\u2019ll come away with a new skill point or two in your radio hacking skill tree, as well as a new magical weapon\u2026 I mean tool.\r\n\r\n",
+      "location": 26026,
+      "link": "http://reconvillage.org/talks-2018/#mapping-wifi-networks-and-triggering-on-interesting-traffic-patterns---caleb-madrigal",
+      "speakers": [
+        26467
+      ],
+      "end_date": "2018-08-12T00:35+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Mapping wifi networks and triggering on interesting traffic patterns",
+      "updated_at": "2018-08-02T18:38+0000"
+    },
+    {
+      "start_date": "2018-08-12T00:40+0000",
+      "id": 26510,
+      "description": "OpenPiMap is the ultimate home/prosumer network utility in order to detect, analyze, and respond to malicious network traffic on a small home or office network. Get an interactive and dynamic interface to detect and respond to botnets, hackers, and script kiddies on a platform that is powered by just 5v and costs less than $10. Everyday any point of presence on the internet can be faced with thousands of scans, exploit attempts, or malicious probes with almost no signature or notification to the end user. OpenPiMap offers the ability to detect and respond to malicious network traffic that would normally be ignored by traditional anti-virus or consumer firewalls.\r\n\r\nOpenPiMap is an open source Netflow protocol analyzer written entirely in Python3, Flask, Javascript, and SQLite that combines open source intelligence with home/SOHO networking and intrusion detection. Running on any version of a Raspberry Pi, Linux OS, or Windows, OpenPiMap consists of two parts: (1) Netflow collection service and (2) Database processing service. The NetFlow service does exactly what it sounds like, it listens on a specified port for Netflow v5 data and logs the data into a local SQL database. The second part is where the magic happens.\r\n\r\nAll of the traffic, both in and out of the network, is compared to dozens of the top IP blacklists for malicious patterns. Once identified, the malicious suspects are mapped, interrogated via Shodan\u2019s Python API for vulnerable services and ownership information, and then staged for exploitation if a readily available exploit exists. This processing is where the bridge between traditional netflow traffic analyzers and OpenPiMap split. There are plenty of free tools on the market to monitor incoming and outgoing connections, bandwidth utilization, and common port usage. However, none of the existing products leverage open source intelligence to the extent of OpenPiMap by providing you with the open ports and services, ownership information, ISP, geographic location, and publically available exploits for the incoming or outgoing IP addresses.\r\n\r\n",
+      "location": 26026,
+      "link": "http://reconvillage.org/talks-2018/#openpimap---hacking-the-hackers-with-osint-raspberry-pis-and-data-analysis---mark-klink",
+      "speakers": [
+        26468
+      ],
+      "end_date": "2018-08-12T01:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "OpenPiMap - Hacking the hackers with OSINT, Raspberry Pis, and Data Analysis",
+      "updated_at": "2018-08-02T18:39+0000"
+    },
+    {
+      "start_date": "2018-08-12T01:05+0000",
+      "id": 26511,
+      "description": "When conducting a web application penetration test understanding and extending the attack surface is an exercise that is critical for success. Having a large wordlist of realistic directories, files and domains is assists immensely with this process.\r\n\r\nCommonspeak is a wordlist generation tool that leverages public datasets from Google\u2019s BigQuery platform. By performing queries on large datasets that are updated frequently, commonspeak is able to generate wordlists that are \u201cevolutionary\u201d, in the sense that they reflect the newest trends on the internet.\r\n\r\nThis presentation will discuss the concept of evolutionary wordlists and how Commonspeak parses URLs from various BigQuery datasets including HTTPArchive, Stack Overflow and HackerNews to build current, consistently evolving and realistic wordlists of directories, files, parameter names for specific technologies, and subdomains.\r\n\r\nWe will also introduce Commonspeak 2 and discuss the additions to the tool including scheduled wordlist creation, comprehensive GitHub queries a permutation engine for subdomain discovery and asynchronous wordlist generation.\r\n\r\n",
+      "location": 26026,
+      "link": "http://reconvillage.org/talks-2018/#supercharge-your-web-recon-with-commonspeak-and-evolutionary-wordlists---michael-gianarakis-and-shubham-shah",
+      "speakers": [
+        26471,
+        26472
+      ],
+      "end_date": "2018-08-12T01:35+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Supercharge Your Web Recon With Commonspeak and Evolutionary Wordlists",
+      "updated_at": "2018-08-02T18:39+0000"
+    },
+    {
+      "start_date": "2018-08-12T17:50+0000",
+      "id": 26512,
+      "description": "When a security professional who is running a SANS training course challenges you to \u2018Socially engineer the answer to the CTF\u2019 out of him, you have a choice: choose something to make him laugh and garner clues to aid you in owning the network and walking away with a CTF coin, or, take it as a personal challenge and a call to own your instructor. Against better judgement, the advice of his peers (\u2018you shouldn\u2019t attack a SANS instructor\u2019) and with the threat of an ex Navy Seal above him, wbbigdave took the second path.\r\n\r\nLearn how good reconnaissance, modern technology which is billed as an aid to connectivity and convenience, can be used to fully draw even then most switched on and vigilant of security professionals down the rabbit hole. Including but not limited to Facebook and Google who lost significant sums of money to similar techniques. Learn how to walk away with a challenge coin without winning the CTF.",
+      "location": 26026,
+      "link": "http://reconvillage.org/talks-2018/#winning-a-sans-504-ctf-without-winning-a-sans-ctf---wbbigdave",
+      "speakers": [
+        26473
+      ],
+      "end_date": "2018-08-12T18:20+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Winning a SANS 504 CTF without winning a SANS CTF",
+      "updated_at": "2018-08-02T18:41+0000"
+    },
+    {
+      "start_date": "2018-08-12T18:25+0000",
+      "id": 26513,
+      "description": "In 2015, I did a Skytalk called \u201cAutomate Your Stalking\u201d. In that talk, I used Twitter to follow my Target\u2019s followers in an effort to monitor the target without following them directly and arousing suspicion. I\u2019m the end, I felt like I released a method that may be dangerous in the hands of the wrong people. Now, \u201cStalker In A Haystack\u201d is the antidote to my first talk.\r\n\r\nI will be putting the power back into the hands of the people who need it. In this talk, I will demonstrate how you can determine if you are being monitored via Twitter, and by who. Isn\u2019t it suspicious when that one handle is following everyone but you? What does that mean? Stalkers can hide in your sea of followers, and the aim of this talk is to uncover those who lie in the shadows.",
+      "location": 26026,
+      "link": "http://reconvillage.org/talks-2018/#stalker-in-a-haystack---masterchen",
+      "speakers": [
+        26474
+      ],
+      "end_date": "2018-08-12T18:55+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Stalker In A Haystack",
+      "updated_at": "2018-08-02T18:43+0000"
+    },
+    {
+      "start_date": "2018-08-12T19:00+0000",
+      "id": 26514,
+      "description": "Performing intelligence gathering on targets is a time consuming process, it typically starts by attempting to find a persons online presence on a variety of social media sites. What if it could be automated and done on a mass scale with hundreds or thousands of targets?\r\n\r\nSocial Mapper is a Open Source Intelligence Tool that uses facial recognition to correlate social media profiles across different sites on a large scale. It takes an automated approach to searching popular social media sites for targets names and pictures to accurately detect and group a person\u2019s presence, outputting the results into report that a human operator can quickly review.\r\n\r\nSocial Mapper has a variety of uses in the security industry, for example the automated gathering of large amounts of social media profiles for use on targeted phishing campaigns. Facial recognition aids this process by removing false positives in the search results, so that reviewing this data is quicker for a human operator.\r\n\r\nSocial Mapper supports the following social media platforms: - LinkedIn - Facebook - Twitter - GooglePlus - Instagram - VKontakte - Weibo - Douban\r\n\r\nSocial Mapper takes a variety of input types such as: - An organisations name, searching via LinkedIn - A folder full of named images - A CSV file with names and url\u2019s to images online",
+      "location": 26026,
+      "link": "http://reconvillage.org/talks-2018/#mapping-social-media-with-facial-recognition---jacob-wilkin",
+      "speakers": [
+        26475
+      ],
+      "end_date": "2018-08-12T19:25+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Mapping Social Media with Facial Recognition",
+      "updated_at": "2018-08-02T18:43+0000"
     }
   ],
-  "updated_at": "2018-08-02T18:30+0000"
+  "updated_at": "2018-08-02T18:43+0000"
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2018-08-02T18:28+0000",
+  "updated_at": "2018-08-02T18:48+0000",
   "speakers": [
     {
       "name": "0x200b",
@@ -4558,6 +4558,26 @@
       "title": "",
       "id": 26483,
       "twitter": "@prof_rege",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Ken Keiser",
+      "updated_at": "2018-08-02T18:47+0000",
+      "description": "Ken Keiser is the Director of Operational Technology Cybersecurity at Parsons Corporation, focusing on critical infrastructure protection risk analysis, and mitigation in the transportation, oil &amp; Gas, water, steel, automotive, and chemical industries. He has over 30 years of industrial control system experience in distributed control systems with Bailey Controls, ABB, and Siemens. Most recently, Ken was the interim Chief Information Security Officer for Amtrak as part of a Parsons project. He holds a Certified Information Systems Security Professional certification as well as a Payment Card Industry Qualified Security Assessor certification. Ken holds a Bachelor of Science in Electrical Engineering from Drexel University, and a Bachelor of Business Administration from Temple University.",
+      "title": "",
+      "id": 26484,
+      "twitter": "@KenKeiser",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Joe Slowik",
+      "updated_at": "2018-08-02T18:48+0000",
+      "description": "Joe Slowik currently hunts ICS adversaries for Dragos, pursuing threat activity groups through their malware, their communications, and any other data available. Prior to his time at Dragos, Joe ran the Incident Response team at Los Alamos National Laboratory, and served as an Information Warfare Officer in the US Navy. Throughout his career in network defense, Joe has consistently worked to 'take the fight to the adversary' by applying forward-looking, active defense measures to constantly keep threat actors off balance. An important part of this strategy is understanding adversary techniques and actions: good defense requires knowing (and at times practicing) offense.",
+      "title": "",
+      "id": 26486,
+      "twitter": "@jfslowik",
       "conference": "DC26",
       "link": ""
     }
