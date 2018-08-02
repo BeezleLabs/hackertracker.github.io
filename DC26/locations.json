@@ -1,5 +1,5 @@
 {
-  "updated_at": "2018-08-01T23:31+0000",
+  "updated_at": "2018-08-02T04:38+0000",
   "locations": [
     {
       "name": "Track 2",
@@ -101,6 +101,30 @@
       "name": "Contest Area",
       "id": 26017,
       "updated_at": "2018-08-01T23:31+0000",
+      "conference": "DC26"
+    },
+    {
+      "name": "Blue Team Village - Savoy - Flamingo",
+      "id": 26018,
+      "updated_at": "2018-08-02T03:03+0000",
+      "conference": "DC26"
+    },
+    {
+      "name": "Wireless Village - Milano V/VI - Caesar's",
+      "id": 26019,
+      "updated_at": "2018-08-02T03:28+0000",
+      "conference": "DC26"
+    },
+    {
+      "name": "Ethics Village - Caesar's",
+      "id": 26020,
+      "updated_at": "2018-08-02T04:12+0000",
+      "conference": "DC26"
+    },
+    {
+      "name": "Crypto & Privacy Village - Caesar's",
+      "id": 26021,
+      "updated_at": "2018-08-02T04:38+0000",
       "conference": "DC26"
     }
   ]

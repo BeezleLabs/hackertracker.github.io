@@ -3132,54 +3132,54 @@
       "location": 26013,
       "link": "",
       "speakers": [],
-      "end_date": "2018-08-10T00:00+0000",
+      "end_date": "2018-08-09T20:00+0000",
       "conference": "DC26",
       "event_type": 5,
       "includes": "",
       "title": "Friends of Bill W",
-      "updated_at": "2018-07-21T23:23+0000"
+      "updated_at": "2018-08-02T14:32+0000"
     },
     {
-      "start_date": "2018-08-10T19:00+0000",
+      "start_date": "2018-08-10T00:00+0000",
       "id": 26240,
       "description": "Friends of Bill W Meetup\r\n\r\nlocated in Office 4 at Caesars Palace",
       "location": 26013,
       "link": "",
       "speakers": [],
-      "end_date": "2018-08-11T00:00+0000",
+      "end_date": "2018-08-10T01:00+0000",
       "conference": "DC26",
       "event_type": 5,
       "includes": "",
       "title": "Friends of Bill W",
-      "updated_at": "2018-07-21T23:26+0000"
+      "updated_at": "2018-08-02T14:33+0000"
     },
     {
-      "start_date": "2018-08-11T19:00+0000",
+      "start_date": "2018-08-10T19:00+0000",
       "id": 26241,
       "description": "Friends of Bill W Meetup\r\n\r\nlocated in Office 4 at Caesars Palace",
       "location": 26013,
       "link": "",
       "speakers": [],
-      "end_date": "2018-08-12T00:00+0000",
+      "end_date": "2018-08-10T20:00+0000",
       "conference": "DC26",
       "event_type": 5,
       "includes": "",
       "title": "Friends of Bill W",
-      "updated_at": "2018-07-21T23:27+0000"
+      "updated_at": "2018-08-02T14:33+0000"
     },
     {
-      "start_date": "2018-08-12T19:00+0000",
+      "start_date": "2018-08-11T00:00+0000",
       "id": 26242,
       "description": "Friends of Bill W Meetup\r\n\r\nlocated in Office 4 at Caesars Palace",
       "location": 26013,
       "link": "",
       "speakers": [],
-      "end_date": "2018-08-13T00:00+0000",
+      "end_date": "2018-08-11T01:00+0000",
       "conference": "DC26",
       "event_type": 5,
       "includes": "",
       "title": "Friends of Bill W",
-      "updated_at": "2018-07-21T23:27+0000"
+      "updated_at": "2018-08-02T14:33+0000"
     },
     {
       "start_date": "2018-08-11T03:30+0000",
@@ -4158,13 +4158,1139 @@
       "location": 26017,
       "link": "http://defcon26foxhunt.com",
       "speakers": [],
+      "end_date": "2018-08-11T03:00+0000",
+      "conference": "DC26",
+      "event_type": 7,
+      "includes": "",
+      "title": "DEF CON Ham Radio Fox Hunting Contest",
+      "updated_at": "2018-08-02T00:02+0000"
+    },
+    {
+      "start_date": "2018-08-11T17:00+0000",
+      "id": 26323,
+      "description": "In the world of amateur radio, groups of hams will often put\r\ntogether a transmitter hunt (also called \"fox hunting\") in order to\r\nhone their radio direction finding skills to locate one or more hidden\r\nradio transmitters broadcasting. The Defcon Fox Hunt will require\r\nparticipants to locate a number of hidden radio transmitters\r\nbroadcasting at very low power which are hidden throughout the\r\nconference. Each transmitter will provide a clue to a larger puzzle,\r\nrequiring participants to piece together the information broadcasted\r\nfrom each transmitter. Once they've decoded the final puzzle, they\r\nwill be sent to find one final ultra low power transmitter\r\nbroadcasting a passphrase which they will enter on a contest website\r\nand receive their trophy for completing the contest. A map with rough\r\nsearch areas will be given to participants to guide them on their\r\nhunt. Additional hints and tips will be provided throughout Defcon to\r\nhelp people who find themselves stuck.\r\n\r\nLocation: Contest Area\r\nHours: Friday 1000-2000, Saturday 1000-2000, Sunday 1000-1200\r\nWebsite: http://defcon26foxhunt.com ",
+      "location": 26017,
+      "link": "http://defcon26foxhunt.com",
+      "speakers": [],
+      "end_date": "2018-08-12T03:00+0000",
+      "conference": "DC26",
+      "event_type": 7,
+      "includes": "",
+      "title": "DEF CON Ham Radio Fox Hunting Contest",
+      "updated_at": "2018-08-02T00:01+0000"
+    },
+    {
+      "start_date": "2018-08-12T17:00+0000",
+      "id": 26324,
+      "description": "In the world of amateur radio, groups of hams will often put\r\ntogether a transmitter hunt (also called \"fox hunting\") in order to\r\nhone their radio direction finding skills to locate one or more hidden\r\nradio transmitters broadcasting. The Defcon Fox Hunt will require\r\nparticipants to locate a number of hidden radio transmitters\r\nbroadcasting at very low power which are hidden throughout the\r\nconference. Each transmitter will provide a clue to a larger puzzle,\r\nrequiring participants to piece together the information broadcasted\r\nfrom each transmitter. Once they've decoded the final puzzle, they\r\nwill be sent to find one final ultra low power transmitter\r\nbroadcasting a passphrase which they will enter on a contest website\r\nand receive their trophy for completing the contest. A map with rough\r\nsearch areas will be given to participants to guide them on their\r\nhunt. Additional hints and tips will be provided throughout Defcon to\r\nhelp people who find themselves stuck.\r\n\r\nLocation: Contest Area\r\nHours: Friday 1000-2000, Saturday 1000-2000, Sunday 1000-1200\r\nWebsite: http://defcon26foxhunt.com ",
+      "location": 26017,
+      "link": "http://defcon26foxhunt.com",
+      "speakers": [],
       "end_date": "2018-08-12T19:00+0000",
       "conference": "DC26",
       "event_type": 7,
       "includes": "",
       "title": "DEF CON Ham Radio Fox Hunting Contest",
-      "updated_at": "2018-08-01T23:58+0000"
+      "updated_at": "2018-08-02T00:03+0000"
+    },
+    {
+      "start_date": "2018-08-10T17:00+0000",
+      "id": 26326,
+      "description": "Automation has been the forefront of almost every tool or talk in the recent years. The DFIR industry has been moving rapidly towards automating everything! With some great work being done in the area of integrating workflows and various toolsets to make things easier for analysts, automation has really taken off. While that sounds like a worthwhile solution to help SOC analysts weed out the run of the mill adware/PUPs or phishing expeditions, can we really automate a response to the more sophisticated or targeted attack on our company\u2019s crown jewels?\r\n\r\nThe current argument being made, is that -- rather than building in house Incident Response teams, we should utilize automation to substitute analysts and use third party retainers for skilled analysis. Large investments in automation technologies, rather than resource development reflect this strategy. What does this mean for career progression for budding DFIR analysts? With security engineering taking the forefront, is analysis as a career in DFIR a dying star? Is automation moving us towards click forensics rather than intelligent analysis? I\u2019d like to challenge groupthink, and debate where automation will lead the industry trends. Additionally, I will share some of my experiences in the changing face of DFIR.",
+      "location": 26018,
+      "link": "https://blueteamvillage.org/talks.html",
+      "speakers": [
+        26359
+      ],
+      "end_date": "2018-08-10T17:20+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Automating DFIR: The Counter Future",
+      "updated_at": "2018-08-02T03:35+0000"
+    },
+    {
+      "start_date": "2018-08-10T17:40+0000",
+      "id": 26327,
+      "description": "Cloud Security is a magical world of as-a-service miracles. Just spin up your intrusion-detection- as-a-service, SOC-as-a-service, incident-response-as-a-service, and start feeding it security- intelligence-as-a-service. Come hear from this CISO-as-a-service unwrap the onion of cloud access security brokers (CASB), cloud workload protection platforms (CWPP), microsegmentation, cloud security posture management (CSPM), software-defined perimeters (SDP), and bunch of other cloud related topics. What do they do? Do they really work? What do you with all those security appliances you\u2019ve accumulated?\r\n",
+      "location": 26018,
+      "link": "https://blueteamvillage.org/talks.html",
+      "speakers": [
+        26360
+      ],
+      "end_date": "2018-08-10T18:30+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Cloud Security Myths",
+      "updated_at": "2018-08-02T03:36+0000"
+    },
+    {
+      "start_date": "2018-08-11T18:50+0000",
+      "id": 26328,
+      "description": "Logs, right? Do you run an expensive SIEM? If not, this talk is for you. An effective process for managing logs and security events with built-in and open-source tools will be detailed. I'll share reports and tickets from our organization and describe how we analyze them to improve IT operations, situational awareness, security posture, and pass audits.\r\n\r\n",
+      "location": 26018,
+      "link": "https://blueteamvillage.org/talks.html",
+      "speakers": [
+        26361
+      ],
+      "end_date": "2018-08-11T19:10+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Effective Log & Events Management",
+      "updated_at": "2018-08-02T03:37+0000"
+    },
+    {
+      "start_date": "2018-08-11T19:30+0000",
+      "id": 26329,
+      "description": "The security operations aspect of your Information Security risk management program is where the \u201crubber meets the road\u201d \u2014 the tools and people you have to implement the process and procedures you put together to find the badness and put out the fires. How has the concept of security operations evolved, and where are we headed? There is plenty of buzzword bingo: UBA, UEBA, machine learning and artificial intelligence, network abnormality detection, the marketing conversations of evolving to that SOC of 2020 \u2014 what do all these really mean to you and your operations and which can be useful in your efforts to find the badness?\r\n\r\n",
+      "location": 26018,
+      "link": "https://blueteamvillage.org/talks.html",
+      "speakers": [
+        26362
+      ],
+      "end_date": "2018-08-11T20:20+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Evolving security operations to the year 2020",
+      "updated_at": "2018-08-02T03:38+0000"
+    },
+    {
+      "start_date": "2018-08-11T20:40+0000",
+      "id": 26330,
+      "description": "Have you wondered whether developers can play any significant role in the security world? Come hear from a diehard programmer and hacker who loves to break and loves to build, and learn how a regular programmer can make major contributions to security from the trenches. This presentation will dive into the intersection between development and security. You will learn about the SDL -- Secure Development Lifecycle, and why in the world a hacker would care about processes and procedures. You will learn how \"processes\" and \"lifecycles\" can be useful -- and how they can be a complete waste of time. Included are real world success stories of organizational hacking -- getting other engineers to change their practices -- and real world fail stories. Attendees will come away with knowledge of how development and security intersect, and how they can use their programming day job to save the world. If you are a developer who cares deeply about security, enjoys exploits, and wants to make the world a better place, this is for you.\r\n\r\n",
+      "location": 26018,
+      "link": "https://blueteamvillage.org/talks.html",
+      "speakers": [
+        26363
+      ],
+      "end_date": "2018-08-11T21:30+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Hacking Your Dev Job to Save the World - Where Programming and Hacking Meet",
+      "updated_at": "2018-08-02T03:38+0000"
+    },
+    {
+      "start_date": "2018-08-11T21:50+0000",
+      "id": 26331,
+      "description": "In the current cyber landscape several vulnerabilities are discovered every day. The volume of information and multiple sources to consume this information create interesting challenges for any security team. In the recent months several organizations have been prey of bad actors, exposing private data of millions of users, many times from month old vulnerabilities.\r\n\r\nVulnerability management is often disregarded, improperly staffed and rarely discuss in the infosec community, yet is one of the single point of failures allowing for breaches to take place. Under this circumstance, are you prepared to deal with vulnerabilities accordingly?\r\n\r\nIn this talk, we\u2019ll share our experiences dealing vulnerabilities at scale. What works, what does not and why. More importantly, what actions you should consider improving or build your Vulnerability program. In the process, we\u2019ll introduce some of the custom tools created internally to automate and enhance the program.\r\n\r\nUnlike most Vulnerability Management talks, this talk is about the hands-on portion and day-to- day activities that must take place. Whether you are a seasoned infosec professional or new to the field, there is something for you to take away, especially at scale.\r\n\r\n",
+      "location": 26018,
+      "link": "https://blueteamvillage.org/talks.html",
+      "speakers": [
+        26364,
+        26365
+      ],
+      "end_date": "2018-08-11T22:40+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "How not to suck at Vulnerability Management [at Scale]",
+      "updated_at": "2018-08-02T03:39+0000"
+    },
+    {
+      "start_date": "2018-08-11T23:00+0000",
+      "id": 26332,
+      "description": "Industrial espionage is the practice of secretly gathering information about competing corporation or business interest, with the objective of placing one\u2019s own organization at a strategic or financial advantage. A common practice to achieve this advantage is to elicit information from unwitting individuals through what today is called social engineering (SE). We all hear the term SE so often that we become desensitized to it, thereby INCREASING the effectiveness of it against ourselves and organizations. Thus, will call it what it is - Human Intelligence, also known as HUMINT.\r\n\r\nPresenting personal experiences as an Army counterintelligence agent with examples of military and industrial espionage, will examine tradecraft employed against individuals every day. We will apply lessons learned from the US military and the intelligence community by using two acronyms taught to Army counterintelligence agents: SAEDA (Subversion and Espionage Directed against the Army) and MICE (Money, Ideology, Coercion, Ego). By presenting different aspects of HUMINT collection efforts will enable individuals to possibly detect, deflect, and protect oneself from such actions.\r\n\r\n",
+      "location": 26018,
+      "link": "https://blueteamvillage.org/talks.html",
+      "speakers": [
+        26366
+      ],
+      "end_date": "2018-08-11T23:40+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "SAEDAY: Subversion and Espionage Directed Against You",
+      "updated_at": "2018-08-02T03:39+0000"
+    },
+    {
+      "start_date": "2018-08-11T00:10+0000",
+      "id": 26333,
+      "description": "Traditionally SOCs look outward from their network perimeters, missing the adversaries already operating in their networks. As SOCs improve their capabilities by turning inwards, where should they start? What techniques should they be worried about? What tools will help them? Without knowing what your adversaries can do and what your current capabilities are, it\u2019s hard to make improvements.\r\n\r\nThis talk will describe how to use the MITRE ATT&CK framework as a \u201cscorecard\u201d within the SOC to understand and tune defensive capabilities, making it easier to answer these hard questions. We\u2019ll describe key use cases for how SOCs can use ATT&CK, covering hunting, threat intelligence, red teaming, and security engineering. To enable these use cases, we\u2019ll present a non-invasive technique to construct a detective coverage map that highlights the SOC\u2019s strengths and weaknesses, focusing on minimizing resource requirements while still providing usable results. To accompany this, we describe a process to create a remediation plan that provides the highest return on investment by orienting on the most relevant threats and prioritizing defensive improvements based on current coverage. Throughout the talk, we will provide real examples, making it easy for those in attendance to understand and replicate at home.\r\n\r\n",
+      "location": 26018,
+      "link": "https://blueteamvillage.org/talks.html",
+      "speakers": [
+        26367
+      ],
+      "end_date": "2018-08-11T01:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Stop, Drop, and Assess your SOC",
+      "updated_at": "2018-08-02T03:40+0000"
+    },
+    {
+      "start_date": "2018-08-11T01:20+0000",
+      "id": 26334,
+      "description": "There is a rising trend within Threat actors to find newer, more effective and stealthy ways to attack and gain persistence in a network. One way to achieve this is by abusing legitimate software such as Windows Management Instrumentation and PowerShell. This is the case for Living Off the Land and Fileless threats. By using these techniques, attackers can distribute their malicious code bypassing software whitelisting and avoid antivirus detection. A method to detect these threats is by monitoring endpoints activity. However, this option comes with many challenges that range from getting enough system\u2019s activity information to handle hundreds of events per second.\r\n\r\nIn our research, we analyze this monitoring method and the design challenges involved in it. Furthermore, we propose a solution that aims to detect and alert when advance threats are identified in a system. In order to provide an endpoint monitoring system free of any vendor lock-in, this solution combines the capabilities of different open source projects as well as free tools. These include, Sysmon for monitoring system activity, Elastic Stack (ELK) to store and search the collected data, ElastAlert to trigger alarms and the Sigma Project to define the rules for the alarms. This highly customizable solution would enable organizations to hunt for threats inside their network or create rules that would automatically detect specific threats upfront.\r\n\r\n",
+      "location": 26018,
+      "link": "https://blueteamvillage.org/talks.html",
+      "speakers": [
+        26368,
+        26369
+      ],
+      "end_date": "2018-08-11T02:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Open Source Endpoint Monitoring",
+      "updated_at": "2018-08-02T03:40+0000"
+    },
+    {
+      "start_date": "2018-08-11T17:00+0000",
+      "id": 26335,
+      "description": "FREE: SOLD OUT, stand-by seat might be available\r\n\r\nThis is a one-day workshop that provides a foundation for investigating malicious network traffic. It begins with investigation concepts, using Wireshark, and identifying hosts from traffic indicators. The workshop then covers characteristics of malware infections and suspicious network traffic. Participants will learn how to determine the root cause of an infection. The workshop concludes with an evaluation in reviewing traffic and drafting an incident report.\r\n\r\nBrad Duncan\r\nThreat Intelligence Analyst, Palo Alto Networks - Unit 42",
+      "location": 26018,
+      "link": "https://www.eventbrite.com/e/traffic-analysis-workshop-blue-team-village-dc26-tickets-47979079719",
+      "speakers": [],
+      "end_date": "2018-08-11T21:00+0000",
+      "conference": "DC26",
+      "event_type": 3,
+      "includes": "",
+      "title": "Traffic Analysis Workshop ",
+      "updated_at": "2018-08-02T03:41+0000"
+    },
+    {
+      "start_date": "2018-08-10T18:00+0000",
+      "id": 26337,
+      "description": "Goodwatch",
+      "location": 26019,
+      "link": "https://wctf.us/speakersched.html",
+      "speakers": [
+        26370
+      ],
+      "end_date": "2018-08-10T18:55+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Goodwatch Update",
+      "updated_at": "2018-08-02T03:57+0000"
+    },
+    {
+      "start_date": "2018-08-10T19:00+0000",
+      "id": 26338,
+      "description": "Present, and (hopefully) Demo using a raspberry pi to detect wifi signal strength via audio click frequency.",
+      "location": 26019,
+      "link": "https://wctf.us/speakersched.html",
+      "speakers": [
+        26372
+      ],
+      "end_date": "2018-08-10T19:25+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "BSSI [Brain Signal Strength Indicator] - finding foxes with acoustic help (piClicker)",
+      "updated_at": "2018-08-02T03:56+0000"
+    },
+    {
+      "start_date": "2018-08-10T19:30+0000",
+      "id": 26339,
+      "description": "This presentation will introduce RFNoC (RF Network-On-Chip), a network-distributed heterogeneous processing framework that enables FPGA processing for USRP software-defined radios (SDR). It provides a way to leverage FPGA processing capabilities and IP in your SDR application. RFNoC and FPGA-based systems provide low latencies and deterministic throughput for large bandwidths. A demonstration of RFNoC running the Fosphor real-time spectrum monitoring application will be presented.",
+      "location": 26019,
+      "link": "https://wctf.us/speakersched.html",
+      "speakers": [
+        26373,
+        26374
+      ],
+      "end_date": "2018-08-10T19:55+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "RFNoC: Accelerating the Spectrum with the FPGA",
+      "updated_at": "2018-08-02T03:56+0000"
+    },
+    {
+      "start_date": "2018-08-10T20:00+0000",
+      "id": 26340,
+      "description": "Using cheap commodity RF hardware to act as secure or backchannel communications for security research and pen tests. Wireless communication is getting cheaper and hobby projects are integrating long range low powered communication to link devices in all sorts of unique ways. But what about in the world of information security? This talk will cover the acronym soup of current communication systems including LoRA, RFM, Satellite, ASK, and many others to identify what protocols make sense when you are trying to communicate either stealthily or in remote areas. In addition, this talk will cover how to improve reliability of wireless communication and the costs associated with making your super pen test box. Or perhaps even what evil things can be done with these and how to protect yourself. The aim for this talk is to be interactive, and allow people to share experiences.",
+      "location": 26019,
+      "link": "https://wctf.us/speakersched.html",
+      "speakers": [
+        26375
+      ],
+      "end_date": "2018-08-10T20:55+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Can you hear me now, DEF CON?",
+      "updated_at": "2018-08-02T03:45+0000"
+    },
+    {
+      "start_date": "2018-08-10T22:00+0000",
+      "id": 26341,
+      "description": "",
+      "location": 26019,
+      "link": "https://wctf.us/speakersched.html",
+      "speakers": [
+        26376,
+        26377
+      ],
+      "end_date": "2018-08-10T22:55+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "WEP and WPA Cracking 101",
+      "updated_at": "2018-08-02T03:47+0000"
+    },
+    {
+      "start_date": "2018-08-10T23:00+0000",
+      "id": 26342,
+      "description": "SirenJack is a vulnerability that was found to affect radio-controlled emergency warning siren systems from ATI Systems. It allows a bad actor, with a $30 handheld radio and a laptop, to set off all sirens in a deployment. Hackers can trigger false alarms at will because the custom digital radio protocol does not implement encryption in vulnerable deployments. Emergency warning siren systems are public safety tools used to alert the population of incidents, such as weather and man-made threats. They are widely deployed in cities, industrial sites, military installations and educational institutions across the US and abroad. Sirens are often activated via a radio frequency (RF) communications system to provide coverage over a large area. Does the security of these RF-based systems match their status as critical infrastructure? The 2017 Dallas siren hack showed that many older siren systems are susceptible to replay attacks, but what about more modern ones? I studied San Francisco\u2019s Outdoor Public Warning System, an ATI deployment, for two years to learn how it was controlled. After piecing together clues on siren poles, and searching the entire radio spectrum for one unknown signal, I found the system\u2019s frequency and began passive analysis of the protocol. Monitoring the weekly siren tests, I made sense of patterns in the raw binary data and found the system was insecure and vulnerable to attack. This presentation will take you on the journey of the research, and detail the tools and techniques used, including leveraging Software Defined Radio and open source software to collect and analyse massive sets of RF data, and analyse a custom digital protocol. It will also cover the Responsible Disclosure process with the vendor, their response, and subsequent change to the protocol. A proof-of-concept will be shown for good measure.",
+      "location": 26019,
+      "link": "https://wctf.us/speakersched.html",
+      "speakers": [
+        26378
+      ],
+      "end_date": "2018-08-10T23:55+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "SirenJack: Cracking a 'Secure' Emergency Waring Siren System",
+      "updated_at": "2018-08-02T03:48+0000"
+    },
+    {
+      "start_date": "2018-08-11T00:00+0000",
+      "id": 26343,
+      "description": "Given the challenge of locating a static Access Point this presentation highlights our strategy, pitfalls, and success.",
+      "location": 26019,
+      "link": "https://wctf.us/speakersched.html",
+      "speakers": [
+        26371
+      ],
+      "end_date": "2018-08-11T00:25+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Hunting Rogue APs: Hard Lessons",
+      "updated_at": "2018-08-02T03:57+0000"
+    },
+    {
+      "start_date": "2018-08-11T00:30+0000",
+      "id": 26344,
+      "description": "Whilst 802.15.4 technologies such as Zigbee have been around for some time, our understanding of threats and risks associated with it have been lacking. As new use cases evolve, so have the opportunities for attack and exploitation. The purpose of this talk is to provide a real world exploration of where I've been finding zigbee devices with a purpose built war driving kit, some of the live collection I've done as well as an exploration of risks and what can be done. By the end of this talk, audience members will have an appreciation for cool technologies floating around their environments, an appreciation the issues associated with the 802.15.4 protocol, and how to plan and prepare from a security standpoint.",
+      "location": 26019,
+      "link": "https://wctf.us/speakersched.html",
+      "speakers": [
+        26379
+      ],
+      "end_date": "2018-08-11T00:55+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Exploring the 802.15.4 Attack Surface",
+      "updated_at": "2018-08-02T03:51+0000"
+    },
+    {
+      "start_date": "2018-08-11T01:00+0000",
+      "id": 26345,
+      "description": "BlueTooth is everywhere, it is in all of our pockets and the only protection most use is not being in discoverable mode. This will be a talk on enumeration, tracking non-discoverable Bluetooth devices, as well as an operators perspective on some awesome use cases for Blue_Sonar. Of course it is already in Pentoo. This talk is imperative for those in the WCTF, because you will need this tool to find many of the BlueTooth foxes.",
+      "location": 26019,
+      "link": "https://wctf.us/speakersched.html",
+      "speakers": [
+        26376,
+        26380
+      ],
+      "end_date": "2018-08-11T01:55+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Blue_Sonar",
+      "updated_at": "2018-08-02T03:52+0000"
+    },
+    {
+      "start_date": "2018-08-11T02:00+0000",
+      "id": 26346,
+      "description": "In conjunction with the Wireless Village Crew, members of the GNU Radio project will be holding a meetup at the Wireless Village during the DEF CON conference, starting at 7:00 PM on Friday, August 10. This is an informal social event to meet, greet, discuss, get to know us and fellow GNU Radio users, and generally have a good time. Punctuality is not important and there will be no formal seating or organized schedule. Just come by when you can for however long you wish. The meetup has no cost and is free to attend, however, a DEF CON badge is required. We hope to see you there!",
+      "location": 26019,
+      "link": "https://wctf.us/speakersched.html",
+      "speakers": [],
+      "end_date": "2018-08-11T04:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "GNURadio Meetup",
+      "updated_at": "2018-08-02T03:53+0000"
+    },
+    {
+      "start_date": "2018-08-11T18:00+0000",
+      "id": 26347,
+      "description": "In 2017 Defcon alumnai Gabrial Ryan presented his research on using statistical analysis to detect rogue wifi signals. In this talk, John Dunlap will expand on Gabe\u2019s research by presenting an extension to Ryan\u2019s tool to use machine learning algorithms to better detect and anticipate rogue wifi signals. A practical demonstration and tool will be presented with this work.",
+      "location": 26019,
+      "link": "https://wctf.us/speakersched.html",
+      "speakers": [
+        26381
+      ],
+      "end_date": "2018-08-11T18:55+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Learning to Listen: Machine Learning for Adaptive Wireless Adversary Detection",
+      "updated_at": "2018-08-02T03:56+0000"
+    },
+    {
+      "start_date": "2018-08-11T19:00+0000",
+      "id": 26348,
+      "description": "",
+      "location": 26019,
+      "link": "https://wctf.us/speakersched.html",
+      "speakers": [
+        26382
+      ],
+      "end_date": "2018-08-11T19:55+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Attacking Gotenna Networks",
+      "updated_at": "2018-08-02T03:55+0000"
+    },
+    {
+      "start_date": "2018-08-11T20:00+0000",
+      "id": 26349,
+      "description": "For some us wardriving is a way of life, its what we do for fun and sometimes for work. Wardriving is seeing a resurgence in importance with all devices connecting to the network. Truly we are in a wardriving renaissance, we are seeing more and more devices and protocols being used. The tools we use have adopted to the changing landscape as well , no longer are we wardriving with 3 alfa cards to our laptop in our car, some of us have build wifi wardriving devices that fit in our pocket, some of us have build rigs that can capture all dem waves. This talk will be a panel discussion between panelists covering the wardriving scene of today. It will cover all aspects of wardriving from the why and how and anecdotal stories of wardriving in different situations. It will cover topics as \u201cSDR: The ultimate tool? or the nuclear option?\u201d,\u201cHow do you travel (internationally) with your wifi gear?\u201d , \u201cIsn\u2019t wardriving wiretapping?\u201d , \u201cThe bestest wifi adaptor eva\u201d , \u201cDo you even Wigle, bro?\u201d and others. The talk aims to be a supportive dialogue for wardrivers.\r\n\r\n",
+      "location": 26019,
+      "link": "https://wctf.us/speakersched.html",
+      "speakers": [
+        26376,
+        26380,
+        26383,
+        26384,
+        26385
+      ],
+      "end_date": "2018-08-11T20:55+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Wardrivers Anonymous",
+      "updated_at": "2018-08-02T03:59+0000"
+    },
+    {
+      "start_date": "2018-08-11T21:30+0000",
+      "id": 26350,
+      "description": "",
+      "location": 26019,
+      "link": "https://wctf.us/speakersched.html",
+      "speakers": [
+        26378
+      ],
+      "end_date": "2018-08-11T22:25+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "SDR Basics Class",
+      "updated_at": "2018-08-02T04:00+0000"
+    },
+    {
+      "start_date": "2018-08-11T22:30+0000",
+      "id": 26351,
+      "description": "The purpose of BLE CTF (https://github.com/hackgnar/ble_ctf) is to teach the core concepts of Bluetooth low energy client and server interactions. While it has also been built to be fun, it was built with the intent to teach and reinforce core concepts that are needed to plunge into the world of Bluetooth hacking. After completing this CTF, you should have everything you need to start fiddling with any BLE GATT device you can find.",
+      "location": 26019,
+      "link": "https://wctf.us/speakersched.html",
+      "speakers": [
+        26386
+      ],
+      "end_date": "2018-08-11T22:55+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "BLE CTF",
+      "updated_at": "2018-08-02T04:01+0000"
+    },
+    {
+      "start_date": "2018-08-11T23:00+0000",
+      "id": 26352,
+      "description": "North American railroads use several wireless systems for remote control, monitoring, and tracking of locomotives, railcars, signals, and other equipment. This talk will provide an overview of the systems in use, an in-depth look of two of them: The end-of-train (EOT) device contributed to the demise of the caboose 35 years ago, taking over one of its primary functions: monitoring brake pipe pressure. The EOT transmits pressure, its unique ID, and other data, encoded into AFSK packets, to a corresponding head-of-train (HOT) device in the locomotive. A secondary function is venting the line in an emergency braking event, under command of the HOT. BCH error correction is employed for reliability, but there are inherent security flaws. A SDR/GNU Radio/Python workflow for decoding and verifying packets will be demonstrated. Attempts at automatically identifying passing railcars were largely unsuccessful until the introduction of the Automatic Equipment Identification (AEI) system in the early 90s. This 900 MHz RFID system consists of passive tags on each locomotive and car and wayside readers at rail yard entrances and other locations of interest. The author's day job in environmental noise consulting led to a study of the feasibility of using AEI for rail noise studies. It had to be reverse-engineered first, of course. Using a repurposed commercial reader, Raspberry Pi, and cellular modem, a remote monitoring system gathered tag date for 5 weeks. Details of the protocol and monitoring system will be presented, along with video demonstrations.\r\n\r\n",
+      "location": 26019,
+      "link": "https://wctf.us/speakersched.html",
+      "speakers": [
+        26387
+      ],
+      "end_date": "2018-08-11T23:55+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Introduction to Railroad Telemetry",
+      "updated_at": "2018-08-02T04:02+0000"
+    },
+    {
+      "start_date": "2018-08-12T00:00+0000",
+      "id": 26353,
+      "description": "",
+      "location": 26019,
+      "link": "https://wctf.us/speakersched.html",
+      "speakers": [
+        26388,
+        26389
+      ],
+      "end_date": "2018-08-12T00:55+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "It's not wifi: Stories in Wireless Reverse Engineering",
+      "updated_at": "2018-08-02T04:03+0000"
+    },
+    {
+      "start_date": "2018-08-12T01:00+0000",
+      "id": 26354,
+      "description": "What happens when a Pineapple, a Turtle and a Squirrel get high...up in the clouds? It's been a solid year for Hak5 and we're excited to debut some epic new features! Like a centralized web consoles for all your networked Hak5 Gear, WiFi Pineapple WPA Enterprise harvesting, credential capturing and pass-through, or LIVE reconnaissance and more! Join Sebastian Kinne and Darren Kitchen of famed pentesting tools for a peek into what's right around the corner.",
+      "location": 26019,
+      "link": "https://wctf.us/speakersched.html",
+      "speakers": [
+        26390,
+        26391
+      ],
+      "end_date": "2018-08-12T01:55+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Little Fluffy Pineapple Clouds - Commanding a Fleet of Wireless Fruit",
+      "updated_at": "2018-08-02T04:04+0000"
+    },
+    {
+      "start_date": "2018-08-12T02:00+0000",
+      "id": 26355,
+      "description": "Join the Hackers Belong social and Hak5 Meetup presented by the Wireless Village. Hear inspiring personal stories from community members, and how they have overcome adversities all too common in our industry. Come share in the conversation, mix with peers and enjoy some Hak5 hospitality.",
+      "location": 26019,
+      "link": "https://wctf.us/speakersched.html",
+      "speakers": [],
+      "end_date": "2018-08-12T05:00+0000",
+      "conference": "DC26",
+      "event_type": 5,
+      "includes": "",
+      "title": "Hackers Belong Party with Hak5",
+      "updated_at": "2018-08-02T04:06+0000"
+    },
+    {
+      "start_date": "2018-08-10T17:00+0000",
+      "id": 26356,
+      "description": "",
+      "location": 26019,
+      "link": "https://wctf.us/wctf.html",
+      "speakers": [],
+      "end_date": "2018-08-11T02:00+0000",
+      "conference": "DC26",
+      "event_type": 7,
+      "includes": "",
+      "title": "Wireless Capture The Flag (WCTF)",
+      "updated_at": "2018-08-02T04:07+0000"
+    },
+    {
+      "start_date": "2018-08-11T17:00+0000",
+      "id": 26357,
+      "description": "",
+      "location": 26019,
+      "link": "https://wctf.us/wctf.html",
+      "speakers": [],
+      "end_date": "2018-08-12T02:00+0000",
+      "conference": "DC26",
+      "event_type": 7,
+      "includes": "",
+      "title": "Wireless Capture The Flag (WCTF)",
+      "updated_at": "2018-08-02T04:08+0000"
+    },
+    {
+      "start_date": "2018-08-12T17:00+0000",
+      "id": 26358,
+      "description": "",
+      "location": 26019,
+      "link": "https://wctf.us/wctf.html",
+      "speakers": [],
+      "end_date": "2018-08-12T20:00+0000",
+      "conference": "DC26",
+      "event_type": 7,
+      "includes": "",
+      "title": "Wireless Capture The Flag (WCTF)",
+      "updated_at": "2018-08-02T04:09+0000"
+    },
+    {
+      "start_date": "2018-08-10T02:00+0000",
+      "id": 26359,
+      "description": "The Bay Area SDR Meetup will serve as a forum to exchange knowledge and ideas related to Software Defined Radio (the software and hardware), and generally aim to get people excited about all the applications that can be realised with the technology. At each meetup, attendees will have the opportunity to present their work/ideas to the group. Engineers, enthusiasts, hobbyists and people of all experience levels are welcome, no matter what your software/hardware background.\r\n\r\nPlease RSVP for this special meetup at the DEF CON Wireless Village.",
+      "location": 26019,
+      "link": "https://www.meetup.com/Cyberspectrum/events/253258931/",
+      "speakers": [],
+      "end_date": "2018-08-10T04:00+0000",
+      "conference": "DC26",
+      "event_type": 8,
+      "includes": "",
+      "title": "Cyberspectrum Meetup",
+      "updated_at": "2018-08-02T04:10+0000"
+    },
+    {
+      "start_date": "2018-08-10T19:00+0000",
+      "id": 26360,
+      "description": "",
+      "location": 26020,
+      "link": "http://ethicsvillage.org/",
+      "speakers": [],
+      "end_date": "2018-08-10T20:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Asking for a Friend",
+      "updated_at": "2018-08-02T04:13+0000"
+    },
+    {
+      "start_date": "2018-08-10T20:00+0000",
+      "id": 26361,
+      "description": "While at the first glance infosec might seem to be a mainly technical domain you might encounter ethical dilemmas very soon once you start working in the field (namely when you do offensive stuff). In this talk I'll provide an introduction how to tackle such situations in a structured way and on the basis of common approaches and values.",
+      "location": 26020,
+      "link": "http://ethicsvillage.org/",
+      "speakers": [],
+      "end_date": "2018-08-10T21:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Ethics for Security Practitioners ",
+      "updated_at": "2018-08-02T04:14+0000"
+    },
+    {
+      "start_date": "2018-08-10T21:00+0000",
+      "id": 26362,
+      "description": "Protecting volunteers from retribution, and why the fear of unknown unknowns is paralyzing to the academic measurement community.",
+      "location": 26020,
+      "link": "http://ethicsvillage.org/",
+      "speakers": [],
+      "end_date": "2018-08-10T22:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Accountability without accountability: A censorship measurement case study ",
+      "updated_at": "2018-08-02T04:15+0000"
+    },
+    {
+      "start_date": "2018-08-10T22:00+0000",
+      "id": 26363,
+      "description": "In today's climate of data breaches and information leaks, how do we in the infosec community disclose the vulnerabilities we discover responsibly? Who are we responsible to? Can we set a standard practice that is ethical, fair and effective? These and other questions will be discussed by some familiar faces on our Responsible Disclosure Panel.",
+      "location": 26020,
+      "link": "http://ethicsvillage.org/",
+      "speakers": [],
+      "end_date": "2018-08-10T23:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Responsible Disclosure Panel ",
+      "updated_at": "2018-08-02T04:16+0000"
+    },
+    {
+      "start_date": "2018-08-10T23:00+0000",
+      "id": 26364,
+      "description": "How does a researcher become empowered to influence business and marketing leaders to balance coordinated disclosure, opsec protection, and tradecraft protection, with corporate interests? This talk examines use cases gone wrong, and opportunities for all groups to work together to make it right.",
+      "location": 26020,
+      "link": "http://ethicsvillage.org/",
+      "speakers": [],
+      "end_date": "2018-08-11T23:30+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Ethical Disclosure and the Reduction of Harm ",
+      "updated_at": "2018-08-02T04:18+0000"
+    },
+    {
+      "start_date": "2018-08-11T00:30+0000",
+      "id": 26365,
+      "description": "Care about fixing the CFAA? Hear about a new proposal to better protect security research: the Computer Intrusion and Abuse Act. Because the proposal relies on norms/ethics in the security research community, we will debate the hard cases - situations where researcher norms vary.\r\n",
+      "location": 26020,
+      "link": "http://ethicsvillage.org/",
+      "speakers": [],
+      "end_date": "2018-08-11T01:30+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Patching the CFAA: The New CIAA and \u201cEthical\u201d Conduct in Security Research ",
+      "updated_at": "2018-08-02T04:19+0000"
+    },
+    {
+      "start_date": "2018-08-11T18:00+0000",
+      "id": 26366,
+      "description": "How do we combat the moral dilemmas technology brings to humanitarian and disaster response? Ethically based decision making can improve the influence of technology during a crisis.",
+      "location": 26020,
+      "link": "http://ethicsvillage.org/",
+      "speakers": [],
+      "end_date": "2018-08-11T20:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Ethics of Technology in Humanitarian and Disaster Response",
+      "updated_at": "2018-08-02T04:20+0000"
+    },
+    {
+      "start_date": "2018-08-11T20:00+0000",
+      "id": 26367,
+      "description": "When talent comes from intelligence agencies, what masters do we server, who takes priority, and how can companies ensure providers are supporting their interests above past masters? And how have companies muddied the waters so that these questions are relevant in the first place? Some exploration of conflicting duties and possible responses.",
+      "location": 26020,
+      "link": "http://ethicsvillage.org/",
+      "speakers": [],
+      "end_date": "2018-08-11T22:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Nations and Nationalism and Cyber Security - Navigating Difficult Relationships in the Private Infosec Space",
+      "updated_at": "2018-08-02T04:20+0000"
+    },
+    {
+      "start_date": "2018-08-11T22:00+0000",
+      "id": 26368,
+      "description": "David Scott Lewis\r\n\r\n\u201cThey don\u2019t fear us.\u201d This was General Nakasone\u2019s response to Senator Sullivan\u2019s remark that \u201cwe\u2019re the world\u2019s cyber punching bag\u201d during Mr. Nakasone's confirmation hearings as NSA Director and USCYBERCOM Commander. This talk will present hack back as a form of offensive cyber going beyond active defense, persistent engagement, and the cyber kill chain, yet consistent with proposed legislation, and will put forth the claim that nextgen hack back will evolve into a hyperwar battlespace deterrent.\r\n\r\nConcerns such as attribution and escalation will be addressed, as will the potential role of AI, cybernetics, and quantum computing. A working framework for hack back will be presented \u2013 HBaaS/ADaaS (Hack Back-as-a-Service/Active Defense-as-a-Service), as will reasons why culture must play a key role in developing policy options.\r\n\r\nFor illustrative purposes, China and Chinese culture will be examined in depth. This examination will begin with a look at China\u2019s Mearsheimerian foreign relations practices, and will then review how Chinese culture and cultural norms should guide U.S. hack back policies specific to China.",
+      "location": 26020,
+      "link": "http://ethicsvillage.org/",
+      "speakers": [],
+      "end_date": "2018-08-12T00:00+0000",
+      "conference": "DC26",
+      "event_type": 3,
+      "includes": "",
+      "title": "Hack Back: Not An Option, But A Necessity? (A Mini-Workshop)",
+      "updated_at": "2018-08-02T04:21+0000"
+    },
+    {
+      "start_date": "2018-08-12T00:00+0000",
+      "id": 26369,
+      "description": "As the field of Infosec continues to grow in numbers, it is also growing in terms of diversity. Arguably the field needs bring in as many diverse perspectives as possible in order to face ever escalating technological and non-technological challenges. We seek to discuss the ethics of promoting diversity and equality, the ethics of the current methods in promoting diversity and equality, and what can be done to ethically promote diversity and equality in infosec.",
+      "location": 26020,
+      "link": "http://ethicsvillage.org/",
+      "speakers": [],
+      "end_date": "2018-08-12T01:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Diversity and Equality in Infosec",
+      "updated_at": "2018-08-02T04:22+0000"
+    },
+    {
+      "start_date": "2018-08-10T17:30+0000",
+      "id": 26370,
+      "description": "We present a scalable dynamic analysis framework that allows for the automatic evaluation of the privacy behaviors of Android apps. We use our system to analyze mobile apps' compliance with the Children's Online Privacy Protection Act (COPPA), one of the few stringent privacy laws in the U.S. Based on our automated analysis of 5,855 of the most popular free children's apps, we found that a majority are potentially in violation of COPPA, mainly due to their use of third-party SDKs. While many of these SDKs offer configuration options to respect COPPA by disabling tracking and behavioral advertising, our data suggest that a majority of apps either do not make use of these options or incorrectly propagate them across mediation SDKs. Worse, we observed that 19% of children's apps collect identifiers or other personally identifiable information (PII) via SDKs whose terms of service outright prohibit their use in child-directed apps. Finally, we show that efforts by Google to limit tracking through the use of a resettable advertising ID have had little success: of the 3,454 apps that share the resettable ID with advertisers, 66% transmit other, non-resettable, persistent identifiers as well, negating any intended privacy-preserving properties of the advertising ID.",
+      "location": 26021,
+      "link": "https://cryptovillage.org/def-con-26-schedule-speakers/",
+      "speakers": [
+        26392,
+        26393
+      ],
+      "end_date": "2018-08-10T18:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "\"Won't Somebody Think of the Children?\" Examining COPPA Compliance at Scale",
+      "updated_at": "2018-08-02T04:39+0000"
+    },
+    {
+      "start_date": "2018-08-10T18:00+0000",
+      "id": 26371,
+      "description": "In the Sixteenth Century, English Puritan preacher John Udal published a series of pamphlets criticizing the Anglican Church.  He signed the pamphlets under a pseudonym, Martin Marprelate.  The Bishops soon determined his identity, and Udal was sent to prison, where he died.  Such prosecutions for political views were common throughout in England throughout the Sixteenth, Seventeenth, and Eighteenth centuries.  \r\n\r\nSo it was not surprising that once the British colonies in America had achieved independence and were determining the future of their government, much of the debate occurred without real names.  When Alexander Hamilton, James Madison, and John Jay published the Federalist Papers, they did so under a single pseudonym, Publius.  \r\n\r\nAlthough the First Amendment does not explicitly require anonymity, U.S. courts repeatedly have held that that its free speech protections guarantee a strong (but not absolute) right to speak anonymously. In 1960, the Supreme Court struck down a Los Angeles ordinance that prohibited the distribution of anonymous handbills, and it invalidated a similar Ohio law in 1995.  Since the mid \u201990s, state and federal courts have relied on this right to anonymity in rejecting defamation plaintiffs\u2019 attempts to use the court discovery process to unmask the identities of anonymous Internet posters.   Although the United States is not the only nation to protect anonymity, its anonymity protections are among the strongest in the world, and have helped establish the robust online debate that we know today.\r\n\r\nLegal and policy debates surrounding encryption often focus on privacy rights and the Fourth Amendment.  While these discussions are vital, that they too often overlook the free speech-based anonymity rights that have been fundamental to the United States since its founding.  In this presentation, I present the research conducted to date for my book-in-progress, United States of Anonymity, tracing the history of this First Amendment-based right to speak anonymously.  I explain how this strong history of ensuring the right to speak anonymously applies to the current encryption debates, as well as the distinct but related issue of anonymity tools such as Tor.  I argue that encryption and anonymity are essential for Twenty-First Century free speech, and explain how the legal protection of pamphleteers extends to encryption and anonymity. \r\n\r\nTo be sure, some efforts to weaken encryption may not necessarily threaten an individual\u2019s anonymity. And encryption is not the only protection for anonymity. However, there is significant overlap between the values underlying the First Amendment anonymity opinions and some justifications for encryption. Moreover, encryption has been an essential component of many of the most innovative anonymity tools (such as the techniques that newsrooms have adopted to receive anonymous tips). ",
+      "location": 26021,
+      "link": "https://cryptovillage.org/def-con-26-schedule-speakers/",
+      "speakers": [
+        26394
+      ],
+      "end_date": "2018-08-10T19:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": " Hamilton's Private Key: American Exceptionalism and the Right to Anonymity ",
+      "updated_at": "2018-08-02T04:41+0000"
+    },
+    {
+      "start_date": "2018-08-10T19:00+0000",
+      "id": 26372,
+      "description": "What's the difference between a code and a cipher? What is the earliest known use of cryptography? Are there any codes that have never been solved? Whether you are new to the subject or a seasoned pro, this talk will have something for you. We will journey from the beginnings of secret writing to the future of secure communications in a post quantum world.\r\n",
+      "location": 26021,
+      "link": "https://cryptovillage.org/def-con-26-schedule-speakers/",
+      "speakers": [
+        26395
+      ],
+      "end_date": "2018-08-10T20:30+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": " Cryptography, Codes, and Secret Writing: An Introduction to Secret Communications",
+      "updated_at": "2018-08-02T04:41+0000"
+    },
+    {
+      "start_date": "2018-08-10T20:30+0000",
+      "id": 26373,
+      "description": "I will present results of a collaboration between the Tor Project, Mozilla, and Cloudflare to deploy onion services in Cloudflare's infrastructure in order to protect the security and privacy of Tor user connections terminating in our network. Leveraging the HTTP Alternative Services, we demonstrate how to defend against passive attacks by malicious Exit Nodes. As a secondary feature, this method enables distinguishing individual Tor circuits, which allows Cloudflare to assign reputation to circuits rather than IP addresses, therefore showing less CAPTCHA to humans.\r\nAdditionally, I will introduce an open-source plugin for the Caddy Web Server which allows website admins to enable Opportunistic Onion using an existing HTTPS certificate with a simple configuration, nullifying the need to purchase Extended Validation certificates. Moreover, this plugin enables load balancing for the onion service.\r\n",
+      "location": 26021,
+      "link": "https://cryptovillage.org/def-con-26-schedule-speakers/",
+      "speakers": [],
+      "end_date": "2018-08-10T21:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Opportunistic Onion: More Protection Some of the Time",
+      "updated_at": "2018-08-02T04:42+0000"
+    },
+    {
+      "start_date": "2018-08-10T21:00+0000",
+      "id": 26374,
+      "description": "If you work in privacy, technology, marketing, or the law, or if you have an email account, you've heard of the GDPR. But what is it really? Why is your in-house lawyer grumpy all the time? Why is your marketing team walking around with stickers that say \"legitimate business use of data\" and trying to slap them on random objects to see if they stick? Why, legally, can't you remember anyone's names anymore? This presentation will attempt to take a look at the GDPR from the perspective of a confused outsider who can't quite believe what's going on (as opposed to a burned-out practitioner), without getting too worked up about it. We'll cover why the GDPR exists, what it does, why some people are freaked out about it, why to be concerned and/or unconcerned, and whether kittens or puppies make the better reference animal for GDPR compliance memes. Relax! It's all going to be fine! Probably.",
+      "location": 26021,
+      "link": "https://cryptovillage.org/def-con-26-schedule-speakers/",
+      "speakers": [
+        26397
+      ],
+      "end_date": "2018-08-10T22:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "\"Probably\": an Irreverent Overview of the GDPR",
+      "updated_at": "2018-08-02T04:44+0000"
+    },
+    {
+      "start_date": "2018-08-10T22:00+0000",
+      "id": 26375,
+      "description": "Domain-fronting is a technique used to disguise HTTPS traffic as being destined for one service, but actually communicating with a different service. It relies on an implementation detail of HTTPS stacks which share infrastructure between customers. Recently, there has been a large amount of media attention surrounding a popular instant-messaging app using this technique to evade censorship. What is domain fronting and how does it work? This talk aims to give you everything you need to fully understand domain fronting, try it yourself, and understand how domain-fronting can also open a path to DoS and IP spoofing attacks.",
+      "location": 26021,
+      "link": "https://cryptovillage.org/def-con-26-schedule-speakers/",
+      "speakers": [
+        26398
+      ],
+      "end_date": "2018-08-10T23:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": " Hiding in plain sight: Disguising HTTPS traffic with domain-fronting",
+      "updated_at": "2018-08-02T04:45+0000"
+    },
+    {
+      "start_date": "2018-08-10T23:00+0000",
+      "id": 26376,
+      "description": "The online cryptography challenge that's been sometimes called by the mainstream \"the hardest puzzle on the internet\" and \"one of the greatest online mysteries\" certainly earned those titles. Though mostly completed now for some years, there's a number of valuable things to be learned from how they handled and presented cryptography for both the well-versed as well as the uninitiated. A staggering number of individuals found themselves trying to study cryptography for the first time because of the pull the puzzles had on anyone who came across them, and somehow despite a massive online undertaking to find the creators, the question of their identity remains unanswered now 6 years later. The strategies and the attitudes used in the creation of these challenges could teach us all something about how we approach cryptography teaching and study, as well as how modern approaches to privacy actually fare against interested threats.\r\n",
+      "location": 26021,
+      "link": "https://cryptovillage.org/def-con-26-schedule-speakers/",
+      "speakers": [
+        26399
+      ],
+      "end_date": "2018-08-11T00:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Cicada: What the Puzzles Can Teach Us About Cryptography and Privacy.",
+      "updated_at": "2018-08-02T04:46+0000"
+    },
+    {
+      "start_date": "2018-08-11T00:00+0000",
+      "id": 26377,
+      "description": "Current schemes to protect user passwords like bcrypt, scrypt, and iterative hashing are insufficient to resist offline dictionary attacks when password databases are stolen. We present a modern cloud service, called Pythia, which protects passwords using a cryptographically keyed pseudorandom function (PRF). Unlike existing schemes like HMAC, Pythia permits key updates as a response to compromises. Key updates nullify stolen password digests, enable digests to be updated to the new key, and don't require users to change their passwords. The keystone of is a new cryptographic construction called a partially-oblivious PRF that provides these new features.\r\n\r\nPythia was originally unveiled at Usenix Security 2015. In 2018, a production implementation of Pythia was created and open sourced via GitHub by Virgil Security. In addition to a presenting the Pythia construction, and demonstrating it's unique security features and performance advantage over the state of the art, we will provide a live demonstration of Virgil Security's Pythia client tool from installation through protecting and checking passwords.\r\n",
+      "location": 26021,
+      "link": "https://cryptovillage.org/def-con-26-schedule-speakers/",
+      "speakers": [
+        26400
+      ],
+      "end_date": "2018-08-11T01:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Revolutionizing Authentication with Oblivious Cryptography",
+      "updated_at": "2018-08-02T04:46+0000"
+    },
+    {
+      "start_date": "2018-08-11T01:00+0000",
+      "id": 26378,
+      "description": "This session announces the winners of the 5th annual Underhanded Crypto Contest.\r\n",
+      "location": 26021,
+      "link": "https://cryptovillage.org/def-con-26-schedule-speakers/",
+      "speakers": [
+        26401,
+        26402
+      ],
+      "end_date": "2018-08-11T01:30+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Announcing the Underhanded Crypto Contest Winners",
+      "updated_at": "2018-08-02T04:47+0000"
+    },
+    {
+      "start_date": "2018-08-11T17:30+0000",
+      "id": 26379,
+      "description": "Common Cloud Data Encryption patterns are not preventing data breaches because many are doing encryption key management wrong. There is a tendency to apply \"compliance checkbox\" encryption, which does nothing to protect data against common threats. In many cases, it's like buying a strong FIPS140-2 certified deadbolt but leaving the key in the door. \r\n\r\nWe'll roll up our sleeves and take a deep dive at the problem and explore practical, actionable ways a security practitioner can get better control of encryption keys used in cloud solutions.  Finally, we'll discuss new ways of detecting when Bad Things are happening, and ways of using cloud automation to stop the bleeding.",
+      "location": 26021,
+      "link": "https://cryptovillage.org/def-con-26-schedule-speakers/",
+      "speakers": [
+        26403
+      ],
+      "end_date": "2018-08-11T18:30+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Cloud Encryption: How to not suck at securing your encryption keys",
+      "updated_at": "2018-08-02T04:48+0000"
+    },
+    {
+      "start_date": "2018-08-11T18:30+0000",
+      "id": 26380,
+      "description": "How do you give your personal domain a green \"Secure\" lock? Can you prevent your domain from being used for spam and phishing emails? \r\n\r\nThis talk is a little different from most \"crypto\" talks - it's not about how some neat new encryption algorithm works, or writing code. Instead, it's about how to use the awesome crypto tools already available to make your online presence more secure. This talk came out of my frustration with tutorials online for setting up my personal website domain with TLS and my email domain with DMARC/DKIM/SPF. We'll walk through how to use free services to serve a website over TLS and how to configure a personal email domain to block it from being used to send spam and phishing emails.",
+      "location": 26021,
+      "link": "https://cryptovillage.org/def-con-26-schedule-speakers/",
+      "speakers": [
+        26404
+      ],
+      "end_date": "2018-08-11T19:30+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": " Green Locks for You and Me",
+      "updated_at": "2018-08-02T04:49+0000"
+    },
+    {
+      "start_date": "2018-08-11T19:00+0000",
+      "id": 26381,
+      "description": "The past three years of vulnerability research and cryptanalysis has not been kind to the JOSE family of Internet standards (most commonly known as JSON Web Tokens a.k.a. JWT). This has led to many security experts declaring boldly, \"Don't use JWT!\" but has left many developers in want of a viable alternative. Scott went a step further and designed a safer alternative: PASETO (Platform-Agnostic SEcurity TOkens), which is currently implemented in 10 programming languages.",
+      "location": 26021,
+      "link": "https://cryptovillage.org/def-con-26-schedule-speakers/",
+      "speakers": [
+        26405
+      ],
+      "end_date": "2018-08-11T20:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": " No Way JOSE! Designing Cryptography Features for Mere Mortals",
+      "updated_at": "2018-08-02T04:50+0000"
+    },
+    {
+      "start_date": "2018-08-11T20:00+0000",
+      "id": 26382,
+      "description": "You try to lock down your privacy on apps, but the settings are poorly thought out. You use a Signal and VPN, but all the best privacy technology in the world isn\u2019t going to save you from the gossipy neighbor who overshares your information. And when it comes to kids, well, we know better than anyone that they\u2019ll figure a way around netnanny, but they make horrible choices when they do. All these problems stem from the general public needing to be more sophisticated in the design and use of digital privacy. We took a hard look at  the digital privacy curriculum most people are getting, and propose a new way forward which ditches slut shaming for celebrating identity, and trades silencing voices for negotiating boundaries.\r\n",
+      "location": 26021,
+      "link": "https://cryptovillage.org/def-con-26-schedule-speakers/",
+      "speakers": [
+        26406,
+        26407
+      ],
+      "end_date": "2018-08-11T20:30+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": " Sluts, Bullies, and Best Selves: Rethinking Digital Privacy Education",
+      "updated_at": "2018-08-02T04:51+0000"
+    },
+    {
+      "start_date": "2018-08-11T20:30+0000",
+      "id": 26383,
+      "description": "Unlike common examples of a backdoor, cryptographic backdoors are the field of surreptitiosly weakening cryptographic systems such as deliberately inserting vulnerabilities to a pseudorandom number gen-erator to make cryptanalysis easier. OpenSSL as become since many years ago, the defacto library/tool for implementing cryptographic protocols into our applications and secure them. In this talk, we will try to modify the code of OpenSSL to bulid a new method of cryptographic backdoor, and then the attacker can easy decrypt the encryption data by RSA or ECC.",
+      "location": 26021,
+      "link": "https://cryptovillage.org/def-con-26-schedule-speakers/",
+      "speakers": [
+        26408
+      ],
+      "end_date": "2018-08-11T21:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": " Building a Cryptographic Backdoor in OpenSSL",
+      "updated_at": "2018-08-02T04:53+0000"
+    },
+    {
+      "start_date": "2018-08-11T21:00+0000",
+      "id": 26384,
+      "description": "Crypto Auth Tokens (CATs) are used in Facebook\u2019s scalable, token-based authentication backend infrastructure. They were created to deal with an ever growing, large-scale, multi-system organization. CATs are flexible, performant, and reliable. They support authentication at scope and scale for Facebook\u2019s backend infrastructure.",
+      "location": 26021,
+      "link": "https://cryptovillage.org/def-con-26-schedule-speakers/",
+      "speakers": [
+        26409
+      ],
+      "end_date": "2018-08-11T21:30+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "CATs - A Tale of Scalable Authentication",
+      "updated_at": "2018-08-02T04:53+0000"
+    },
+    {
+      "start_date": "2018-08-11T21:30+0000",
+      "id": 26385,
+      "description": "Far from a chapter in A Handmaids Tale, today those who try, succeed, or even consider ending their own pregnancies are arrested and imprisoned, often incriminated by their own devices. We have the opportunity to lend our security skills to those disproportionately likely to experience surveillance: those seeking to self-induce abortions by ordering medication online. We'll cover what the portal to online care (and resulting digital paper trail) looks like, and why \"single-use\u201d privacy needs are the next major challenge in protecting our digital reproductive rights.\r\n",
+      "location": 26021,
+      "link": "https://cryptovillage.org/def-con-26-schedule-speakers/",
+      "speakers": [
+        26410
+      ],
+      "end_date": "2018-08-12T00:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Jailed by a Google Search: the Surveillance State's War on Self-induced Abortion",
+      "updated_at": "2018-08-02T04:54+0000"
+    },
+    {
+      "start_date": "2018-08-11T22:00+0000",
+      "id": 26386,
+      "description": "Exploits, Backdoors, and Hacks: words we do not commonly hear when speaking of Machine Learning (ML). In this talk, I will present the relatively new field of hacking and manipulate machine learning systems and the potential these techniques pose for active offensive research. \r\nThe study of Adversarial ML allows us to leverage the techniques used by these algorithms to find weak points and exploit them in order to achieve: \r\n* Privacy leakage - can we tell if someone was part of the dataset the ML trained on?\r\n* Unexpected consequences (why did it decide this rifle is a banana?), \r\n* Data leakage (how did they know Joe has diabetes) \r\n* Memory corruption and other exploitation techniques (boom! RCE)\r\n* Influence the output (input: virus, output: safe!, as seen on (DEF CON 25 - Hyrum Anderson - Evading next-gen AV using AI)[https://www.youtube.com/watch?v=FGCle6T0Jpc]).\r\nIn other words, while ML is great at identifying and classifying patterns, and an attacker can take advantage of this and take control of the system.\r\nThis talk is an extension of research made by many people, including presenters at DefCon, CCC, and others - a live demo will be shown on stage!\r\n\r\nGarbage In, RCE Out :-)",
+      "location": 26021,
+      "link": "https://cryptovillage.org/def-con-26-schedule-speakers/",
+      "speakers": [
+        26411,
+        26412
+      ],
+      "end_date": "2018-08-11T23:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": " JARVIS never saw it coming: Hacking machine learning (ML) in speech, text and face recognition - and frankly, everywhere else",
+      "updated_at": "2018-08-02T04:55+0000"
+    },
+    {
+      "start_date": "2018-08-11T23:00+0000",
+      "id": 26387,
+      "description": "Anonymous data collection systems allows users to contribute the data necessary to build services and applications while preserving their privacy.\r\n\r\nAnonymity, however, can be abused by malicious agents, injecting fabricated data, aiming to subvert or to sabotage the data collection.\r\n\r\nAt Cliqz we deal with the same challenge. Our data collection systems in Cliqz Browser and Extension which power our search engine[1], anti-tracking systems[2] are designed in a way that server cannot link that two messages are from the same user.\r\nBut if the user is fully anonymous, how can the system prevent an attacker\r\nfrom polluting the data collection?\r\n\r\nWe will showcase an efficient mechanism to block an attacker without compromising the privacy and anonymity of the users. \r\nThis system builds on top of Direct Anonymous Attestation, a proven cryptographic primitive to implement service rate-limiting in a scenario where messages between users and the service are sent anonymously and message unlinkability is to be preserved. \r\nRate-limiting constraints for a service are defined as an arbitrary mapping from every possible valid message to a 'rate-limiting tag' string, in such a way that the constraints can be enforced if the service never accepts more than one message from the same user with same tag. \r\nUnder this definition, we employ DAA protocol to enforce these 'message quotas' without being able to link user messages. If authorized, users receive credentials issued by the service. These can be used to sign messages with respect to a 'basename' string, in such a way that two signatures performed with the same credentials are unlinkable if and only if their basenames are different. By forcing the mentioned rate-limiting tag to be in the signature basename the rate-limiting constraints can be enforced. \r\nService will verify the signature according to the DAA protocol and accept the message if and only if the tag that maps to the rate-limiting \u2018basename\u2019 has still not been seen. \r\n\r\nWe present all components needed to build and deploy such protection on existing\r\ndata collection systems with little overhead.\r\n\r\nThis system which is running in production for Cliqz browser is however not limited to browsers or extensions, it has been implemented in a scenario where user code is running in a web browser, thanks to WebAssembly and asm.js.\r\n\r\nReferences:\r\n1.\tHuman-web Overview: https://gist.github.com/solso/423a1104a9e3c1e3b8d7c9ca14e885e5\r\n2.\tAnti-tracking: https://static.cliqz.com/wp-content/uploads/2016/07/Cliqz-Studie-Tracking-the-Trackers.pdf\r\n\r\n",
+      "location": 26021,
+      "link": "https://cryptovillage.org/def-con-26-schedule-speakers/",
+      "speakers": [
+        26413,
+        26414,
+        26415,
+        26416
+      ],
+      "end_date": "2018-08-12T00:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Anonymous rate-limiting in services with Direct Anonymous Attestation",
+      "updated_at": "2018-08-02T04:57+0000"
+    },
+    {
+      "start_date": "2018-08-12T00:00+0000",
+      "id": 26388,
+      "description": "Modern cryptographic research uses a variety of lesser known primitives like homomorphic encryption, sigma protocols, oblivious transfer, and bilinear groups.  Charm is a Python framework that implements many of these primitives and makes it easy to implement your own.  In this workshop, I will discuss the primitives and demonstrate how they can be used. If you would like to follow along you can clone the charm repo from https://github.com/JHUISI/charm\r\n\r\n",
+      "location": 26021,
+      "link": "https://cryptovillage.org/def-con-26-schedule-speakers/",
+      "speakers": [
+        26417
+      ],
+      "end_date": "2018-08-12T01:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": " Prototyping Cryptographic Protocols With Charm",
+      "updated_at": "2018-08-02T04:58+0000"
+    },
+    {
+      "start_date": "2018-08-11T01:00+0000",
+      "id": 26389,
+      "description": "Roger Dingledine, president and co-founder of the Tor Project, a nonprofit that develops free and open source software to protect people from tracking, censorship, and surveillance online, will give an overview of several aspects of Tor, including new developments since he last spoke at DEF CON. The majority of the session will be devoted to questions from the audience, AMA style.",
+      "location": 26021,
+      "link": "https://cryptovillage.org/def-con-26-schedule-speakers/",
+      "speakers": [
+        26418
+      ],
+      "end_date": "2018-08-11T01:30+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Ask Me Anything about Tor: AMA with Roger Dingledine",
+      "updated_at": "2018-08-02T04:59+0000"
+    },
+    {
+      "start_date": "2018-08-12T17:30+0000",
+      "id": 26390,
+      "description": "How often are apps asking for your location? Lat/lng coordinates reveal a lot about you, but we share them every day with web services to look up our location and find nearby businesses.\r\n\r\nWhat if it were possible to encrypt the coordinates which we were searching, and a web service could find results for us anyway? This talk shows sample code of homomorphic encryption being used in geo/location searches (Paillier cryptosystem, JavaScript and Python), and potential futures for private geodata.",
+      "location": 26021,
+      "link": "https://cryptovillage.org/def-con-26-schedule-speakers/",
+      "speakers": [
+        26419
+      ],
+      "end_date": "2018-08-12T18:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Geolocation and Homomorphic Encryption",
+      "updated_at": "2018-08-02T05:00+0000"
+    },
+    {
+      "start_date": "2018-08-12T18:00+0000",
+      "id": 26391,
+      "description": "Authentication is not a company\u2019s silver bullet. We will walk through common methods used in MFA including SMS, TOTP (i.e. Google Authenticator), Push Notifications, and U2F Security Keys. We will show how each method works in simple terms and the weaknesses of all of them. You will be able to generate your own TOTP six digit code and learn how to break each MFA method. You will also learn additional controls to protect your environments. This presentation will appeal to both red and blue teams.",
+      "location": 26021,
+      "link": "https://cryptovillage.org/def-con-26-schedule-speakers/",
+      "speakers": [
+        26420,
+        26421
+      ],
+      "end_date": "2018-08-12T19:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Two-Steps to Owning MFA When",
+      "updated_at": "2018-08-02T05:01+0000"
+    },
+    {
+      "start_date": "2018-08-12T19:00+0000",
+      "id": 26392,
+      "description": "We will present background on transform cryptography, also known as proxy re-encryption, We start with an overview of elliptic curves over finite fields and pairings using bilinear maps and discuss how they can be used to implement cryptographic primitives. We next describe the idea of transform cryptography and enumerate desirable properties of transform cryptography schemes, then examine in more detail a specific multi-hop transform encryption scheme.\r\n\r\nWe will then describe how we implemented a library to provide the primitives required for that multi-hop transform encryption scheme. Finally, we discuss the security implications of recent advances in evaluating discrete logarithms using the special number field sieve, and why that led us to increase the key length of the scheme from 256 bits to 480 bits.\r\n",
+      "location": 26021,
+      "link": "https://cryptovillage.org/def-con-26-schedule-speakers/",
+      "speakers": [
+        26422,
+        26423
+      ],
+      "end_date": "2018-08-12T20:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": " Implementing a Library for Pairing-based Transform Cryptography",
+      "updated_at": "2018-08-02T05:02+0000"
+    },
+    {
+      "start_date": "2018-08-12T20:00+0000",
+      "id": 26393,
+      "description": "Quantum computers pose a grave threat to the public-key cryptography we use today. Many quantum-safe alternatives have been proposed to alleviate this problem. None of these, however, provide a perfect replacement for our conventional algorithms. Indeed, they either result in increased bandwidth, bigger keys, and/or slower runtime, thus greatly impacting their integration into crypto applications.\r\n\r\nIn this talk, I\u2019ll give an overview of the emerging post-quantum cryptography (PQC) schemes. I\u2019ll then present the lessons we have learned from our prototype integrations into real-life protocols and applications (such as TLS, SSH, and VPN), and our experiments on a variety of devices, ranging from IoT devices, to cloud servers, to HSMs. I\u2019ll discuss the Open Quantum Safe project for PQC development, and related open-source forks of OpenSSL, OpenSSH, and OpenVPN that can be used to experiment with PQC today. I\u2019ll present a demo of a full (key exchange + authentication) PQC TLS 1.3 connection.\r\n\r\nThis work sheds lights on the practicality of PQC, encouraging early adoption and experimentation by the security community.",
+      "location": 26021,
+      "link": "https://cryptovillage.org/def-con-26-schedule-speakers/",
+      "speakers": [
+        26424
+      ],
+      "end_date": "2018-08-12T21:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": " Integrating post-quantum crypto into real-life applications",
+      "updated_at": "2018-08-02T05:03+0000"
+    },
+    {
+      "start_date": "2018-08-11T19:00+0000",
+      "id": 26394,
+      "description": "Friends of Bill W Meetup\r\n\r\nlocated in Office 4 at Caesars Palace",
+      "location": 26013,
+      "link": "",
+      "speakers": [],
+      "end_date": "2018-08-11T20:00+0000",
+      "conference": "DC26",
+      "event_type": 5,
+      "includes": "",
+      "title": "Friends of Bill W",
+      "updated_at": "2018-08-02T14:36+0000"
+    },
+    {
+      "start_date": "2018-08-12T00:00+0000",
+      "id": 26395,
+      "description": "Friends of Bill W Meetup\r\n\r\nlocated in Office 4 at Caesars Palace",
+      "location": 26013,
+      "link": "",
+      "speakers": [],
+      "end_date": "2018-08-12T01:00+0000",
+      "conference": "DC26",
+      "event_type": 5,
+      "includes": "",
+      "title": "Friends of Bill W",
+      "updated_at": "2018-08-02T14:37+0000"
+    },
+    {
+      "start_date": "2018-08-12T19:00+0000",
+      "id": 26396,
+      "description": "Friends of Bill W Meetup\r\n\r\nlocation in Office 4 of Caesars Palace",
+      "location": 26013,
+      "link": "",
+      "speakers": [],
+      "end_date": "2018-08-12T20:00+0000",
+      "conference": "DC26",
+      "event_type": 5,
+      "includes": "",
+      "title": "Friends of Bill W",
+      "updated_at": "2018-08-02T14:38+0000"
     }
   ],
-  "updated_at": "2018-08-01T23:58+0000"
+  "updated_at": "2018-08-02T14:38+0000"
 }
