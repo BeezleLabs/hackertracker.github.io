@@ -3048,12 +3048,12 @@
       "location": 26013,
       "link": "",
       "speakers": [],
-      "end_date": "2018-08-11T06:59+0000",
+      "end_date": "2018-08-11T09:00+0000",
       "conference": "DC26",
       "event_type": 5,
       "includes": "",
       "title": "303",
-      "updated_at": "2018-07-21T22:57+0000"
+      "updated_at": "2018-08-02T19:04+0000"
     },
     {
       "start_date": "2018-08-12T03:30+0000",
@@ -3062,12 +3062,12 @@
       "location": 26013,
       "link": "",
       "speakers": [],
-      "end_date": "2018-08-12T06:59+0000",
+      "end_date": "2018-08-12T09:00+0000",
       "conference": "DC26",
       "event_type": 5,
       "includes": "",
       "title": "303",
-      "updated_at": "2018-07-21T22:59+0000"
+      "updated_at": "2018-08-02T19:04+0000"
     },
     {
       "start_date": "2018-08-11T03:30+0000",
@@ -3076,12 +3076,12 @@
       "location": 26013,
       "link": "",
       "speakers": [],
-      "end_date": "2018-08-11T06:59+0000",
+      "end_date": "2018-08-11T09:00+0000",
       "conference": "DC26",
       "event_type": 5,
       "includes": "",
       "title": "/r/DEFCON",
-      "updated_at": "2018-07-21T23:01+0000"
+      "updated_at": "2018-08-02T19:05+0000"
     },
     {
       "start_date": "2018-08-08T19:00+0000",
@@ -3104,12 +3104,12 @@
       "location": 26013,
       "link": "",
       "speakers": [],
-      "end_date": "2018-08-12T06:59+0000",
+      "end_date": "2018-08-12T09:00+0000",
       "conference": "DC26",
       "event_type": 5,
       "includes": "",
       "title": "BlanketFortCon",
-      "updated_at": "2018-07-21T23:09+0000"
+      "updated_at": "2018-08-02T19:06+0000"
     },
     {
       "start_date": "2018-08-09T23:00+0000",
@@ -5336,16 +5336,16 @@
     {
       "start_date": "2018-08-12T04:00+0000",
       "id": 26400,
-      "description": "One night only at DEF CON 26, Drunk Hacker History is back by popular demand for a 4th historic year! The past three years proved to the entire galaxy that in the game of intoxicated nostalgic recall, there are no losers and those who won, lost. The DEF CON community has a history of sorts. It is a history is filled with mephitic adventures, quarter-truths, poor life choices, incontinence, and various forms of C2H6O. This year, we will connect our stacks to extract some of the most celebrated, exaggerated and entertaining moments in Hacker History through the interpretation of a group of well-trained participants. In the end, we will, again, crown the Drunkest Hacker in History and you, the audience, will rejoice! Hosted by c7five & jaku, if you like eating from an 80s candy cannon, \u201cCats\u201d the musical, and feats of strength, you won\u2019t want to miss the return of Drunk Hacker History! Presented in DEF CON 4D and made possible by a grant from monkeyhelpers.org.\r\n\r\nLocation: \r\nHours: Saturday Night - \r\nTwitter: @drunkHackerHist",
-      "location": 26005,
+      "description": "One night only at DEF CON 26, Drunk Hacker History is back by popular demand for a 4th historic year! The past three years proved to the entire galaxy that in the game of intoxicated nostalgic recall, there are no losers and those who won, lost. The DEF CON community has a history of sorts. It is a history is filled with mephitic adventures, quarter-truths, poor life choices, incontinence, and various forms of C2H6O. This year, we will connect our stacks to extract some of the most celebrated, exaggerated and entertaining moments in Hacker History through the interpretation of a group of well-trained participants. In the end, we will, again, crown the Drunkest Hacker in History and you, the audience, will rejoice! Hosted by c7five & jaku, if you like eating from an 80s candy cannon, \u201cCats\u201d the musical, and feats of strength, you won\u2019t want to miss the return of Drunk Hacker History! Presented in DEF CON 4D and made possible by a grant from monkeyhelpers.org.\r\n\r\nLocation: Contest Area Stage, Augustus ballroom\r\nHours: Saturday Night - 9-11pm\r\nTwitter: @drunkHackerHist",
+      "location": 26017,
       "link": "https://twitter.com/drunkHackerHist",
       "speakers": [],
-      "end_date": "2018-08-12T07:00+0000",
+      "end_date": "2018-08-12T06:00+0000",
       "conference": "DC26",
       "event_type": 7,
       "includes": "",
       "title": "Drunk Hacker History",
-      "updated_at": "2018-08-02T16:05+0000"
+      "updated_at": "2018-08-02T19:54+0000"
     },
     {
       "start_date": "2018-08-10T17:00+0000",
@@ -6970,7 +6970,399 @@
       "includes": "",
       "title": "Mapping Social Media with Facial Recognition",
       "updated_at": "2018-08-02T18:43+0000"
+    },
+    {
+      "start_date": "2018-08-10T17:40+0000",
+      "id": 26515,
+      "description": "IoT and IIot devices are more prevalent in homes and industry. When these two areas share the same space, malware could move from one domain to another. For example, smart meters used by an electric utility could be compromised by other smart devices in the home. How can an electric utility protect their industrial equipment and ensure that home based IoT devices stay in their place? Join us in a demonstration of techniques that could be used to cloak an electric meter from the wild west of commercial-off-the-shelf IoT devices",
+      "location": 26022,
+      "link": "https://www.icsvillage.com/schedule",
+      "speakers": [
+        26484,
+        26504
+      ],
+      "end_date": "2018-08-10T18:10+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "How can industrial IioT be protected from the great unwashed masses of IoT devices",
+      "updated_at": "2018-08-02T19:17+0000"
+    },
+    {
+      "start_date": "2018-08-10T20:50+0000",
+      "id": 26516,
+      "description": "Successful cyber-attacks against cyber-physical systems require expert knowledge about the dynamic behavior of the underlying physical process (yes, it is actually required). This information is a crucial part during the attack preparation. Previous work has shown manual acquisition of knowledge about process dynamics to be prohibitively laborious (we will show why). This talk will present first insights into automated process-aware system discovery that goes beyond IT-related trivia and focuses on the physical core of an industrial plant. We will share the results of 12 months\u2019 worth of work, which approaches worked and which did not (and why). Notably, our work already had a follow up work at S4x2017, we will share the insights into that work too. Reverse engineering of the physical processes es is a novel topic for which we yet to find workable/standardized approaches. We encourage you to be a part of the process.",
+      "location": 26022,
+      "link": "https://www.icsvillage.com/schedule",
+      "speakers": [
+        26486
+      ],
+      "end_date": "2018-08-10T21:20+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Behavior-Based Defense in ICS Environments: Leveraging Minor Incidents to Protect Against Major Attacks",
+      "updated_at": "2018-08-02T19:23+0000"
+    },
+    {
+      "start_date": "2018-08-10T21:30+0000",
+      "id": 26517,
+      "description": "Hacking SCADA, or more commonly ICS is serious business - unlike other areas of offensive security one mistake can cost lives. Mike and Matt will present their ICS research which was carried out at one of the UKs top Industrial training facilities, walk through caveats, protocols and show some demos. They will also show how one can start researching industrial systems safely and cover what one needs to know to not get someone killed. They will also share the story and method behind how they cost a company \u00a31.2M+ ($2M+) in lost earnings in under 5 seconds with only 4 lines of code. We will not be showing exploit code as we believe given what's at stake, it's highly irresponsible, but what we will do is give responsible researchers the knowledge they need to get involved and start helping to secure critical infrastructure. We\u2019ll also show process, insight and what exploiting this kit actually means.",
+      "location": 26022,
+      "link": "https://www.icsvillage.com/schedule",
+      "speakers": [
+        26491
+      ],
+      "end_date": "2018-08-10T22:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "How We Cost Our Client \u00a31.2M with 4 lines of code and less than 2 Hours ($2M)",
+      "updated_at": "2018-08-02T19:23+0000"
+    },
+    {
+      "start_date": "2018-08-10T22:10+0000",
+      "id": 26518,
+      "description": "Today's evolving threat landscape makes training new talent to defend critical infrastructure networks more important than ever. One way to both help people build their technical skills and introduce new people to the world of ICS security is with Capture-the-Flag exercises (CTFs). This presentation will analyze the development of a real-life CTF, including some of the problems faced and how to solve them, to show how you can create challenging, yet educational, CTFs to train the next generation of ICS defenders.",
+      "location": 26022,
+      "link": "https://www.icsvillage.com/schedule",
+      "speakers": [
+        26492
+      ],
+      "end_date": "2018-08-10T22:40+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "A CTF That Teaches: Challenging the Next Generation of ICS Ethical Hackers",
+      "updated_at": "2018-08-02T19:24+0000"
+    },
+    {
+      "start_date": "2018-08-11T17:00+0000",
+      "id": 26519,
+      "description": "Coming soon.",
+      "location": 26022,
+      "link": "https://www.icsvillage.com/schedule",
+      "speakers": [
+        26493,
+        26494
+      ],
+      "end_date": "2018-08-11T17:30+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Securing Critical Infrastructure through Side-Channel Monitoring",
+      "updated_at": "2018-08-02T19:25+0000"
+    },
+    {
+      "start_date": "2018-08-11T17:40+0000",
+      "id": 26520,
+      "description": "Since May of 2018 Cisco Talos has been releasing information to the public detailing the capabilities of a nation-state sponsored malware campaign known as VPNFilter. This global, multi-year campaign targets numerous network routing devices which range from low-end small office, home office (SOHO) WiFi routers to rack-mount enterprise-grade network appliances. Of special interest to the ICS community is the existence of a post-exploitation module focused specifically on identifying a subset of Modbus traffic while also capturing credentials transmitted via HTTP. For our talk, we will discuss some background on the VPNFilter campaign, malware analysis, capabilities, and cover some hypothetical scenarios in which the Modbus module would be useful.\r\n\r\n",
+      "location": 26022,
+      "link": "https://www.icsvillage.com/schedule",
+      "speakers": [
+        26495,
+        26496
+      ],
+      "end_date": "2018-08-11T18:10+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Analyzing VPNFilter's Modbus Module",
+      "updated_at": "2018-08-02T19:26+0000"
+    },
+    {
+      "start_date": "2018-08-11T20:15+0000",
+      "id": 26521,
+      "description": "In this session we'll cover: Why EVERYTHING is a computer running software and can be attacked Vulnerability and capability assessment of firmware attacks Physical ramifications of tool attacks Finding and verifying firmware Some instances where \"less security\" is better Safety / Security tips for firmware Screen reader support enabled.",
+      "location": 26022,
+      "link": "https://www.icsvillage.com/schedule",
+      "speakers": [
+        26497
+      ],
+      "end_date": "2018-08-11T20:45+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Disassembly and Hacking of Firmware Where You Least Expect It: In Your Tools- with live hacking demonstration",
+      "updated_at": "2018-08-02T19:26+0000"
+    },
+    {
+      "start_date": "2018-08-11T20:55+0000",
+      "id": 26522,
+      "description": "Exploitation is a given. Unwanted parties will gain access eventually whether it is through technical, physical, or social means. The only other certainty is they will continue to come up with new ways to innovate. They have to blend in to succeed so how do they balance those two competing influences? More than just the inconvenience, at worst, of taking over simple I/IOT or the creepiness of your home webcam. We will begin by analyzing the attacks that have happened and how they worked. Then, we will build our own. I will walk through how an attacker doesn\u2019t just attack you, but can easily build a mass attack campaign to take over thousands. Once they do, I show how instead of that inconvenience, they can laterally take over the house and hop to steal interesting things like embarrassing photos, social security numbers, bank account information, intellectual property, and tax returns for profit. If you cannot keep them out what can you do? For starters, let\u2019s understand how they communicate including some unique ideas for protocols (Google Suite) and infrastructure (traditional smokescreen for non-attribution to re-purposing I/IoT devices). This is the attacker\u2019s vulnerability: They have to use your connectivity. Finding them on endpoints is fairly difficult because they have numerous ways to evade. But, on the wire\u2026 the options are limited to just blending in. This talk is aimed to provide something to both offense and defense. For offense, demonstration of basic (orientation of concepts) to novel approaches for traffic protocols and infrastructure. For defense, awareness of traffic patterns along with protocol analysis with experiential detail (wireshark) helps them learn to fish (no pun intended) for a lifetime instead of just eating for a day since none of this is static in real life.",
+      "location": 26022,
+      "link": "https://www.icsvillage.com/schedule",
+      "speakers": [
+        26498
+      ],
+      "end_date": "2018-08-11T21:25+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "TOR for The IOT aka TORT Reform",
+      "updated_at": "2018-08-02T19:27+0000"
+    },
+    {
+      "start_date": "2018-08-11T23:55+0000",
+      "id": 26523,
+      "description": "Successful cyber-attacks against cyber-physical systems require expert knowledge about the dynamic behavior of the underlying physical process (yes, it is actually required). This information is a crucial part during the attack preparation. Previous work has shown manual acquisition of knowledge about process dynamics to be prohibitively laborious (we will show why). This talk will present first insights into automated process-aware system discovery that goes beyond IT-related trivia and focuses on the physical core of an industrial plant. We will share the results of 12 months\u2019 worth of work, which approaches worked and which did not (and why). Notably, our work already had a follow up work at S4x2017, we will share the insights into that work too. Reverse engineering of the physical processes es is a novel topic for which we ",
+      "location": 26022,
+      "link": "https://www.icsvillage.com/schedule",
+      "speakers": [
+        26499,
+        26500
+      ],
+      "end_date": "2018-08-12T00:25+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Reverse Engineering Physical Processes in Industrial Control Systems",
+      "updated_at": "2018-08-02T19:28+0000"
+    },
+    {
+      "start_date": "2018-08-12T00:35+0000",
+      "id": 26524,
+      "description": "Security operation centers (SOC) have a been around on the enterprise networks for a while now, but what about OT SOCS? This talk will cover some technologies that are available for the plant floor that works with your SOC. After the talk, a live demonstration will take place in the ICS Village.",
+      "location": 26022,
+      "link": "https://www.icsvillage.com/schedule",
+      "speakers": [
+        26501
+      ],
+      "end_date": "2018-08-12T01:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "A SOC in the Village",
+      "updated_at": "2018-08-02T19:29+0000"
+    },
+    {
+      "start_date": "2018-08-10T17:15+0000",
+      "id": 26525,
+      "description": "There are advancements made on a daily basis, with regards to medical implantable devices. These devices offer life extensions when organic systems fail. Are these systems secured? There are shocking amounts of vulnerabilities found on these devices. The medical industry has the hard job to balance accessibility and availability of these devices while trying to maintain their security. With the new patient monitoring systems which can download your heart information wirelessly and send it to you physician, medical devices are becoming part of the internet of things. Is the theoretical threat soon to become a real one? A unique perspective from a security professional with an IoT device which keeps her alive.\r\n\r\n",
+      "location": 26025,
+      "link": "https://www.iotvillage.org/",
+      "speakers": [
+        26505
+      ],
+      "end_date": "2018-08-10T18:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Internet of Medicine : The ultimate key to Rooting the human being",
+      "updated_at": "2018-08-02T19:39+0000"
+    },
+    {
+      "start_date": "2018-08-10T18:30+0000",
+      "id": 26526,
+      "description": "TBA but you will see the origins of the SOHOpelessly broken research and some of the new research from our new research lab.\r\n\r\n",
+      "location": 26025,
+      "link": "https://www.iotvillage.org/",
+      "speakers": [
+        26506,
+        26507
+      ],
+      "end_date": "2018-08-10T19:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "IoT Village Keynote - Tales of a SOHOpeful Journey: Where our Research Started and Where it's Going",
+      "updated_at": "2018-08-02T19:41+0000"
+    },
+    {
+      "start_date": "2018-08-10T19:30+0000",
+      "id": 26527,
+      "description": "As homes become more interconnected the attacks on them are becoming better and more sophisticated. Come learn how Nest is taking steps to prevent security vulnerabilities in our products when your product has to be in the field for many years. \r\nIn this talk we will discuss how the way Nest does verified boot, the basics of Thread/Weave and how to connect to Nest devices, our approach to the SDLC and a few possibilities of where we think the industry is going in the next couple years.",
+      "location": 26025,
+      "link": "https://www.iotvillage.org/",
+      "speakers": [
+        26508,
+        26509
+      ],
+      "end_date": "2018-08-10T20:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "NEST: Securing the Home",
+      "updated_at": "2018-08-02T19:42+0000"
+    },
+    {
+      "start_date": "2018-08-10T20:15+0000",
+      "id": 26528,
+      "description": "In the home IoT service, the IoT hub is an important device that links users and various things in the house. \r\nWhat are the security threats to these hubs and are they securely configured? \r\nThis presentation explores the importance of targeting IoT hubs in the home IoT environment and the role and features of the IoT hub in the IoT environment. We will explain the analysis process and related issues about the vulnerabilities of various IoT hubs discovered through the research, and present the threat scenarios that may arise in the home IoT service. \r\nFinally, we will talk about what security factors to consider in a home IoT environment, including the IoT hub, and how to solve them. \r\nWe found various 0-days (Buffer Overflow, Command Injection, Local Privilege Escalation, Backdoor etc) for IoT hubs in terms of STRIDE threat model. In addition, we can show the practical threats in modern smart home by exploiting the IoT hub.",
+      "location": 26025,
+      "link": "https://www.iotvillage.org/",
+      "speakers": [
+        26510,
+        26511
+      ],
+      "end_date": "2018-08-10T21:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Exploiting the IoT hub : What happened to my home?",
+      "updated_at": "2018-08-02T19:43+0000"
+    },
+    {
+      "start_date": "2018-08-10T21:30+0000",
+      "id": 26529,
+      "description": "The world might be getting more connected but not less risky to hack. This talk will give IoT hackers a quick intro to the variety of legal pitfalls that govern IoT hacking, from the notorious Computer Fraud and Abuse Act and the DMCA to bug bounty legal terms and the \u201cgood-faith\u201d security exemption now pending renewal. Hackers will learn which terms they should beware of in light of recent developments in anti-hacking laws, recent developments in CFAA case law and bug bounties legal scandals, and which strategies could be useful to comply with the DMCA security exemption and anti-hacking laws in general.",
+      "location": 26025,
+      "link": "https://www.iotvillage.org/",
+      "speakers": [
+        26512
+      ],
+      "end_date": "2018-08-10T22:15+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Internet of Laws: Navigating to IoT Hacking Legal Landscape",
+      "updated_at": "2018-08-02T19:43+0000"
+    },
+    {
+      "start_date": "2018-08-10T22:45+0000",
+      "id": 26530,
+      "description": "IoT connected devices are being released at a staggering rate. According to Gartner it\u2019s speculated that by the end of 2018, there will be 11.2 billion IoT devices currently connected at any given time. A large part of that connected ecosystem includes wireless speaker systems created by some of the largest manufacturers around the globe \r\nLooking closer at Sonos and Bose wireless speaker systems, this research looks to find flaws in these common household devices. This research analyzes the default configuration flaws of the devices, open diagnostic tool availability, API flaws, and more. Additionally, this research will cover the easiness of physically locating where these devices are used (and who is using them). Then move into deep dives in the firmware and hardware will help attendees understand the nuances between IoT speaker devices and the wider IoT environment as a whole. \r\nWhile this talk will focus on two IoT speaker systems, the issues here persist into other IoT devices. Attendees should learn about IoT speakers and how they function, why even after reporting issues things will go un-resolved and remain un-secure, and what we can do about it to help reduce the risk of these devices.\r\n\r\n",
+      "location": 26025,
+      "link": "https://www.iotvillage.org/",
+      "speakers": [
+        26513
+      ],
+      "end_date": "2018-08-10T23:30+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "The Sound of a Targeted Attack: Attacking IoT Speakers",
+      "updated_at": "2018-08-02T19:44+0000"
+    },
+    {
+      "start_date": "2018-08-10T23:45+0000",
+      "id": 26531,
+      "description": "In 2017, I discovered that a popular IP-based door access control system (badge reader and door lock controller) used poorly-implemented cryptography. Through binary analysis and live testing against a functional device, I was able to construct an exploit that would unlock the door without talking to the central authority database or logging the door open event. I'll walk the audience through the steps that made me realize there was a problem, through the binary analysis, and then finally into building a working exploit.\r\n\r\n",
+      "location": 26025,
+      "link": "https://www.iotvillage.org/",
+      "speakers": [
+        26514
+      ],
+      "end_date": "2018-08-11T00:30+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "I'm the One Who Doesn't Knock: Unlocking Doors from the Network",
+      "updated_at": "2018-08-02T19:45+0000"
+    },
+    {
+      "start_date": "2018-08-11T17:15+0000",
+      "id": 26532,
+      "description": "In this talk, reverse engineer and security expert John Dunlap will present security hazards concerning the ever expanding use of Field Programmable Gate Array systems. FPGA\u2019s are reconfigurable computers that allow programmers to redesign a CPU as if it were hardware. With this amazing capability comes significant security risks. \r\nJohn Dunlap will present a threat model for FPGA systems, including methods of both hardware and software attack for the purposes of exploitation and reverse engineering. \r\nJohn will also present a security tool to aid in security testing of FPGA devices.\r\n\r\n",
+      "location": 26025,
+      "link": "https://www.iotvillage.org/",
+      "speakers": [
+        26515
+      ],
+      "end_date": "2018-08-11T18:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "FPGA\u2019s: a new attack surface for embedded adversaries.",
+      "updated_at": "2018-08-02T19:45+0000"
+    },
+    {
+      "start_date": "2018-08-11T18:15+0000",
+      "id": 26533,
+      "description": "Cheaper devices that consume less power - What more can you ask for? SECURITY!. Based on multiple tests we have done across a variety of devices, we can conclude that there are still many vendors who lack the security awareness and fail to protect their users. All tested devices were vulnerable to various degrees: A smart scale, a smart lock, a smart band, a smart light bulb and even Amazon\u2019s Alexa. Live demos included!\r\n\r\n",
+      "location": 26025,
+      "link": "https://www.iotvillage.org/",
+      "speakers": [
+        26516
+      ],
+      "end_date": "2018-08-11T19:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Your Smart Scale is Leaking More than Your Weight",
+      "updated_at": "2018-08-02T19:46+0000"
+    },
+    {
+      "start_date": "2018-08-11T19:30+0000",
+      "id": 26534,
+      "description": "Have you ever wondered what the makers of your smart devices think about when they design it? What about their security and how they protect your info? Now is your chance to hear it from Nest, Geotab, Fitbit, and Kwikset and you get to meet Lisa Green",
+      "location": 26025,
+      "link": "https://www.iotvillage.org/",
+      "speakers": [
+        26516
+      ],
+      "end_date": "2018-08-11T20:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Panel Q&A \u2013 IoT Manufacturers: Answers on Security Straight from the Source",
+      "updated_at": "2018-08-02T19:47+0000"
+    },
+    {
+      "start_date": "2018-08-11T20:15+0000",
+      "id": 26535,
+      "description": "Nematodes, often called \u201canti-worms\u201d or \u201cbeneficial worms\u201d, are a controversial topic. They involve exploiting the same vulnerabilities used by malicious worms, but, rather than installing malware or being used to form a botnet, nematodes attempt to disinfect and patch the vulnerable host. In some variants, nematodes also try to perform some kind of beneficial action, such as compressing files, or reporting illegal content to law enforcement. \r\nDespite being brought up a few times in previous talks and papers, nematodes remain largely on the fringes of the security community\u2019s consciousness. Perhaps part of the reason for this is the demise of traditional network worms \u2013 after all, it\u2019s not 2004 any more \u2013 and perhaps, for good reason, most people think the idea usually doesn\u2019t work in practice, or has significant legal implications. However, there has recently been a trend of wormable vulnerabilities which utilise rather different mediums \u2013 such as WiFi (Broadpwn), Bluetooth (BlueBorne), light (smart lightbulbs), RFID tags, and more - and, of course, a huge number of wormable vulnerabilities in a wide range of IoT devices. The rise of these, and the fact that IoT security issues are not easily resolvable with patching, antivirus solutions, and other security mechanisms, may make it worth re-opening the nematode debate. \r\nIn this talk, I\u2019ll consider whether it actually is worth doing so, given that we could be on the threshold of an era involving new and devastating types of worms. Along the way, I\u2019ll cover the history of nematodes and take a journey back in time with some 'digital paleovirology', starting with the murky history of Creeper, Reaper and PERVADE in the 1970s, then moving on to Brain and Denzuko in 1986; ADM and Max Vision in 1998; PolyPedo in 2001; the \u2018worm wars\u2019 of 2003-2004; and right up to the present day battles between IoT botnets such as Mirai with IoT nematodes such as Hajime and Brickerbot. \r\nI\u2019ll also cover the legal and ethical issues posed by nematodes; the challenges and benefits they can bring; and will present some demos of custom nematodes. These include custom-developed worms and corresponding nematodes for both a recent web application vulnerability and an IoT device, and an improved and updated alternative to the PolyPedo worm. I'll also discuss 'Antidote', an in-progress and experimental modular framework for deploying and configuring anti-worms based on recent exploits and attack techniques. Finally, I'll outline some ideas for future research in this area.\r\n\r\n",
+      "location": 26025,
+      "link": "https://www.iotvillage.org/",
+      "speakers": [
+        26517
+      ],
+      "end_date": "2018-08-11T21:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Worms that fight back: Nematodes as an antidote for IoT malware",
+      "updated_at": "2018-08-02T19:47+0000"
+    },
+    {
+      "start_date": "2018-08-11T21:30+0000",
+      "id": 26536,
+      "description": "Smart irrigation systems, a new IoT device which is aimed at saving water and money, have already been adopted by smart cities (e.g., Barcelona), agriculture, and the private sector around the world and will replace existing traditional irrigation systems in the next few years as part of the smart water grid revolution. Connected to the Internet (via Wi-Fi/GSM communication) and critical infrastructure (e.g., water reservoirs), they will become a new target for motivated hackers and attackers. In this talk, we present research that was conducted over the past year, in which we investigated and reversed engineered three of the 10 most sold commercial smart irrigation systems (GreenIQ, RainMachine, and BlueSpray). We analyzed their interfaces with weather forecast services, cloud servers, sensors, and C&C devices, and based on this analysis, we present novel attack vectors against smart irrigation systems. We demonstrate (in videos) the implementation of the attack vectors on commercial smart irrigation systems and show how each of them contains a critical security vulnerability which allows a motivated hacker to remotely gain complete control of the system by: (1) hijacking or (2) influencing the smart irrigation system\u2019s artificial intelligence. Finally, we talk about the damage that hackers can cause by performing attacks on smart irrigation systems and hypothesize whether the next generation of plumbers will use Kali Linux instead of a monkey wrench.\r\n\r\n",
+      "location": 26025,
+      "link": "https://www.iotvillage.org/",
+      "speakers": [
+        26518
+      ],
+      "end_date": "2018-08-11T22:15+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Attacking Commercial Smart Irrigation Systems",
+      "updated_at": "2018-08-02T19:48+0000"
+    },
+    {
+      "start_date": "2018-08-11T22:45+0000",
+      "id": 26537,
+      "description": "Many IoT devices use an ARM Cortex-M based MCU and run some kind of RTOS/\"bare metal\" OS. In comparison to Linux-based firmwares it is a lot more difficult to modify the firmware. If you want to change the functionality you usually have the choice between rewriting the whole firmware yourself or do binary patching manually. In this talk we would like to demonstrate an easier method and show a step-by-step approach. \r\nYou will see how to get access to the firmware of different Xiaomi Cloud products like lightbulbs or smart home gateways. \r\nTheir IoT devices are unable to function fully without cloud connection. The connection to the cloud is protected by AES and a unique device key. Data generated by the devices gets uploaded to the cloud of the vendor (e.g. Logfiles, etc.). In May 2018 a subcontractor of Xiaomi, Lumi, denied EU-based users and their devices access to their cloud infrastructure due the GDPR. To become independent from the vendor the way to go might be to modify or replace the firmware in the device. \r\nFor that, we are not only using methods that require opening the devices but also methods which leave the devices intact. The Nexmon framework (by the SEEMOO Lab) is used to alter the firmware of the ARM-based IoT devices. \r\nThe modified firmware is then used to extract secrets which are needed to run the IoT devices with your own cloud software. It is also possible to easily implement completely new functions into the firmware using C code.",
+      "location": 26025,
+      "link": "https://www.iotvillage.org/",
+      "speakers": [
+        26519
+      ],
+      "end_date": "2018-08-11T23:30+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "How-to modify ARM Cortex-M based firmware: A step-by-step approach for Xiaomi devices",
+      "updated_at": "2018-08-02T19:48+0000"
+    },
+    {
+      "start_date": "2018-08-11T23:45+0000",
+      "id": 26538,
+      "description": "U-boot is one of the most popular boot loaders used in embedded devices. We all have seen the importance of boot loaders while rooting android devices. This workshop gives an introduction to practical attacks against embedded devices using boot loader(u-boot) as an interface. The workshop covers various interesting concepts which mainly include: \r\n1. U-boot 101 \r\n2. Embedded device boot process \r\n3. Getting into U-boot shell on various devices. \r\n4. UART authentication bypass using U-boot. \r\n5. Planting backdoors in the filesystem using U-boot \r\n6. Preventive measures \r\nConsidering the number of devices using U-boot as the boot loader across the world, it is important to understand the flaw that come with it. In this workshop/talk the speakers will demonstrate most commonly found practical attacks.",
+      "location": 26025,
+      "link": "https://www.iotvillage.org/",
+      "speakers": [
+        26520,
+        26521
+      ],
+      "end_date": "2018-08-12T00:30+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Hacking U-Boot",
+      "updated_at": "2018-08-02T19:49+0000"
     }
   ],
-  "updated_at": "2018-08-02T18:43+0000"
+  "updated_at": "2018-08-02T19:54+0000"
 }

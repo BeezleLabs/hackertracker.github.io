@@ -1,5 +1,5 @@
 {
-  "updated_at": "2018-08-02T18:48+0000",
+  "updated_at": "2018-08-02T19:38+0000",
   "speakers": [
     {
       "name": "0x200b",
@@ -4578,6 +4578,296 @@
       "title": "",
       "id": 26486,
       "twitter": "@jfslowik",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Mike Godfrey",
+      "updated_at": "2018-08-02T19:04+0000",
+      "description": "Mike Godfrey is a Network Specialist and Ethical Hacker with over 20 years experience in building and breaking computers. He has enjoyed a successful career in Information Technology, having qualified in Cisco CCNA (Network Associate) over 10 years ago and going on to work on some of the countries largest technological infrastructure. Mike is qualified and experienced in IT but is also a qualified Electro-technical / Electro-mechanical Engineer, specialising in hardware exploitation. Mike\u2019s qualifications and experience have led to INSINIA becoming the only Gas Safe Registered Cyber Security Company in the UK, allowing it to test industrial process and building infrastructure in a unique way. Mike\u2019s skills have also led to the design and production of a range of new products and services, including securing the hardware and fabric of buildings and identifying key vulnerabilities within the buildings \u201cPowerLine\u201d (230V circuit), which can allow an attacker to exfiltrate information undetected, as well as discovering vulnerabilities in key industrial gas systems and controls. Mike was the first ethical hacker to successfully hack Trend\u2019s 963 BMS system back in 2006, the Sentry Safe with a magnet and a sock in 2014, the Philips Hue smart home system in 2017 and many more.",
+      "title": "",
+      "id": 26491,
+      "twitter": "@mikeghacks",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Brandon Workentin ",
+      "updated_at": "2018-08-02T19:05+0000",
+      "description": "Brandon Workentin joined SecurityMatters as an ICS Security Engineer in early 2017. Prior to that, Brandon worked for EnergySec, where he started as an intern in 2014 and finished as a Cybersecurity Analyst II. At EnergySec, Brandon focused on security regulations, including the NERC CIP cybersecurity standards, as well as threats, research, and news affecting the electric industry. He was also involved in the creation of the EnergySec Information Sharing and Analysis Organization (ISAO), as well as a member of multiple ISAO Standards Organization Working Groups. Prior to joining the cybersecurity field, Brandon spent several years teaching math and English in Idaho and Oregon. Brandon also enjoys public speaking, highlighted by having presented on ICS security at multiple BSides events. He has a BA in Mathematics and English Education from Northwest Nazarene University and an AS in Cybersecurity and Networking from Mt. Hood Community College.\r\n\r\n",
+      "title": "",
+      "id": 26492,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "James Harris",
+      "updated_at": "2018-08-02T19:05+0000",
+      "description": "James Harris began his career as an Engineer/Scientist at IBM PC Company in the 1990s, and as a Senior Field Applications Engineer at Silicon Image in the early 2000\u2019s. After the terrorist attacks of September 11, 2001, he joined the FBI as a Special Agent primarily focused on Cyber matters, where he remained for more than a decade. At the FBI, he served in a number of positions, including as the Senior Liaison Officer to DHS\u2019s Cybersecurity and Communications Division, and as the Assistant Section Chief of the Counterterrorism Internet Operations Section. In 2014, he co-founded Eunomic, Inc., a Software Defined Network security start-up, which was acquired by Caveonix, Inc. in 2017. Today he is the Vice President of Engineering for PFP Cybersecurity, leading the company\u2019s product development. PFP was recently named a Gartner \u201cCool Vendor\u201d for using side channel analysis to protect endpoint devices.",
+      "title": "",
+      "id": 26493,
+      "twitter": "@jimeharrisjr",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Carlos Aguayo",
+      "updated_at": "2018-08-02T19:05+0000",
+      "description": "Carlos R. Aguayo Gonzalez, is one of the Founders and Chief Technology Officer of PFP Cybersecurity, which develops unique physics-based cyber security solutions for critical infrastructure, including industrial control systems and supply-chain risk management. He received his PhD and MS degrees from Virginia Tech both in Electrical Engineering. The PFP Cybersecurity approach has its foundation on Dr. Aguayo Gonzalez\u2019s doctoral work. He has extensive research and development (R&D) experience in cyber security, critical infrastructure protection, side-channel analysis, machine learning, and signal processing. Dr. Aguayo Gonzalez has served as Principal Investigator in multiple R&D projects in cyber security protection of critical infrastructure. Key sponsors of this research include: National Science Foundation, Army, Air Force, the Defense Advanced Research Projects Agency, and the Department of Homeland Security",
+      "title": "",
+      "id": 26494,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Carlos Pacho",
+      "updated_at": "2018-08-02T19:06+0000",
+      "description": "As security researchers with Cisco Talos, Carlos Pacho (@carlosmpacho) and Patrick DeSantis (@pat_r10t) focus on discovering new and exploitable vulnerabilities in Industrial Control Systems (ICS) and other computing devices that have an impact on the physical world. The Talos ICS team has been responsible for the coordinated disclosure of dozens of ICS-related security vulnerabilities in devices ranging from secure industrial routers to programmable logic controllers (PLCs). They also built an ICS-controlled kegerator.",
+      "title": "",
+      "id": 26495,
+      "twitter": "@carlosmpacho",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Patrick DeSantis",
+      "updated_at": "2018-08-02T19:07+0000",
+      "description": "As security researchers with Cisco Talos, Carlos Pacho (@carlosmpacho) and Patrick DeSantis (@pat_r10t) focus on discovering new and exploitable vulnerabilities in Industrial Control Systems (ICS) and other computing devices that have an impact on the physical world. The Talos ICS team has been responsible for the coordinated disclosure of dozens of ICS-related security vulnerabilities in devices ranging from secure industrial routers to programmable logic controllers (PLCs). They also built an ICS-controlled kegerator.",
+      "title": "",
+      "id": 26496,
+      "twitter": "@pat_r10t",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Monta Elkins",
+      "updated_at": "2018-08-02T19:07+0000",
+      "description": "Monta Elkins is currently Hacker-in-Chief for FoxGuard Solutions, an ICS patch provider. Considered by many of his friends to be the Chuck Norris of ICS Cybersecurity, Rackspace enjoyed his tenure as Security Architect. Monta has been a speaker at more security conferences than even his enormous ego can remember including: DEFCON, EnergySec, ICSJWG, GridSecCon, CIP Emerging Technology Roundtable, ICS CyberSecurity, SANS ICS Summit, and Nuke CIP Pyongyang. In his spare time, Monta is the totally-safe-for-work \"Coke and Strippers\" YouTube channel creator, solving all the world's problems using Cold War era electronic technologies. https://tinyurl.com/y6vpmbw4 Known for having once discovered ALL the devices on an ICS network, Monta has served as a guest lecturer for colleges, universities and elsewhere teaching Arduino programming/circuit design, SDR, and rapid prototyping techniques. As a small child, he entertained himself by memorizing Pi -- backwards.",
+      "title": "",
+      "id": 26497,
+      "twitter": "@montaelkins",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Bryson Bort",
+      "updated_at": "2018-08-02T19:07+0000",
+      "description": "Bryson is the Founder and CEO of SCYTHE, Founder of GRIMM, and Founding Member of the ICS Village, a non-profit advancing education and awareness of security for industrial control systems. Prior to launching SCYTHE and GRIMM, Bryson led an elite research & development (R&D) division that directly contributed towards National Security priorities and interest. Prior to that he developed an enterprise R&D program and supported creation of a cybersecurity strategy as a Deputy CTO and Program Director focused on supporting technology research and global infrastructure for the DoD and the Intelligence Community. As a U.S. Army Officer, Bryson led a tactical communications platoon in support of Operation Bright Star in September 2001. He served as a Battle Captain and as a Brigade Engineering Officer in support of Operation Iraqi Freedom before leaving the Army at the rank of Captain. Bryson received his Bachelor of Science in Computer Science with honors from the United States Military Academy at West Point and completed numerous U.S. Army professional education courses in tactical communications and information assurance. He holds a Master\u2019s Degree in Telecommunications Management from the University of Maryland and a Master\u2019s in Business Administration from the University of Florida in addition to completing graduate studies in Electrical Engineering and Computer Science at the University of Texas.",
+      "title": "",
+      "id": 26498,
+      "twitter": "@brysonbort",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Marina Krotofil ",
+      "updated_at": "2018-08-02T19:09+0000",
+      "description": "Marina Krotofil is an experienced ICS/SCADA professional who specializes on offensive Industrial Control Systems (ICS) security: discovering and weaponizing unique attack vectors, engineering damage scenarios and understanding attacker techniques when exploiting ICS. She previously worked as a Principal Analyst in Cyber-Physical group at FireEye (USA), Lead Cyber Security Researcher at Honeywell (USA) and as a Senior Security Consultant at the European Network for Cyber Security (Netherlands). She authored more than 20 academic/white papers and 3 book chapters on ICS security and is a frequent speaker at the leading security events around the world. She holds MBA in Technology Management, MSc in Telecommunication and MSc in Information and Communication Systems.",
+      "title": "",
+      "id": 26499,
+      "twitter": "@Marmusha",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Alexander Winnicki ",
+      "updated_at": "2018-08-02T19:09+0000",
+      "description": "Alexander Winnicki is a Security Integrator ICS at Airbus CyberSecurity (Germany). He previously worked as a security engineer at SILVER ATENA Electronics Systems Engineering GmbH (Germany) where he was involved with the embedded systems security. His interest for ICS security has started through Bachelor and Master Theses at Hamburg University of Technology (Germany). Alexander's research contributions were presented at Black Hat and Def Con 2015 as well as published at few top ranking academic conference proceedings.",
+      "title": "",
+      "id": 26500,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Thomas VanNorman",
+      "updated_at": "2018-08-02T19:10+0000",
+      "description": "Thomas has been working in Operational Technology field for more than two decades. He is currently the Director of Engineering Services at Dragos, and a Founding Member of ICS Village. Thomas is also retired from the Air National Guard where he worked in Cyber Warfare Operations. For over the past 10 years Thomas focus area has been working on securing Industrial Control Systems and the networking of such systems leveraging his operational knowledge of such systems. Thomas currently holds a Certified Information Systems Security Professional (CISSP) through ISC(2), Global Industrial Cyber Security Professional (GICSP) and GIAC Certified Incident Handler (GCIH) both through GIAC.",
+      "title": "",
+      "id": 26501,
+      "twitter": "@Tom_VanNorman",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Ben Barenz",
+      "updated_at": "2018-08-02T19:14+0000",
+      "description": "Ben Barenz is a Systems Engineer at Parsons Corporation, focusing on critical asset protection and critical infrastructure protection. He has over 8 years of industry experience in critical asset protection under DoD contracts and has recently moved under critical infrastructure protection. Ben holds a Bachelors of Science in Electrical Engineering from the University of Nebraska and numerous industry related certifications.",
+      "title": "",
+      "id": 26504,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Veronica Schmitt ",
+      "updated_at": "2018-08-02T19:32+0000",
+      "description": "Veronica is a Partner at DFIRLABS. She is a forensicator, avid researcher and quite literally the superglue that holds DFIRLABS together. She was previously in charge of the Free State Cyber Forensic Laboratory of the Special Investigating Unit. After deciding that this title on its own wasn\u2019t already too much of a mouthful, she departed the SIU in order to add Malware (Reverse) Engineer, Photographer, Seamstress, Super Mom and Sleep-deprived MSc Chaser to her list.",
+      "title": "",
+      "id": 26505,
+      "twitter": "@Po1Zon_P1x13",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Rick Ramgattie ",
+      "updated_at": "2018-08-02T19:33+0000",
+      "description": "Rick Ramgattie @RRamgattie is a Security Analyst at Independent Security Evaluators (ISE), where he conducts high-end, custom security assessments of computer hardware, software products, and manages a team of security researchers. Growing up in the city of Bayam\u00f3n, Puerto Rico, speaker Rick Ramgattie recognizes that it isn't all that easy to get into the information security community. In a self-taught manner he strived to learn what he could, before attending college in the mainland and then migrating to Baltimore. Now, as someone who appreciates the art of reverse engineering, he has taken part in hands-on security assessments of complex systems, IoT devices, and many different native and mobile applications. Rick enjoys reverse engineering, occasional CTFs, and reading.",
+      "title": "",
+      "id": 26506,
+      "twitter": "@RRamgattie ",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": " Jacob Holcomb ",
+      "updated_at": "2018-08-02T19:33+0000",
+      "description": "",
+      "title": "",
+      "id": 26507,
+      "twitter": "@rootHak42",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Matt Mahler",
+      "updated_at": "2018-08-02T19:33+0000",
+      "description": "Matt has been working on security at Nest for over 6 years (SWE, SRE, Sec Engineer)",
+      "title": "",
+      "id": 26508,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Kat Mansourimoaied",
+      "updated_at": "2018-08-02T19:34+0000",
+      "description": "Member of the Nest S&P Engineering team focusing on penetration testing and automated fuzzing.",
+      "title": "",
+      "id": 26509,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Hwiwon Lee",
+      "updated_at": "2018-08-02T19:34+0000",
+      "description": "Hwiwon Lee is a cyber security researcher from Korea University with expertise in embedded security, offensive research, and playing CTFs. He has participated and won a lot of CTFs which includes DEFCON, SECCON, XCTF, Belluminar as CyKor or DEFKOR team. He researched for smart home security by exploiting IoT hub devices from domestic manufacturer and found many vulnerabilities which could be compromised like Mirai Botnet. Also, he likes to find 0-days in common softwares based on fuzzing.\r\n",
+      "title": "",
+      "id": 26510,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Changhyun Park ",
+      "updated_at": "2018-08-02T19:34+0000",
+      "description": "Changhyun Park is a cyber security consultant with @EY(Ernst & Young) Korea. He has experienced many IoT security analysis and consulting. He worked on a project related to IoT Security at OWASP Korea in Busan chapter and studied security consulting at KITRI BOB 4th. Also, he did a lot of IoT research and bug bounty in a security research group \"hacktagon\". He's currently research on secure models in smart home, factory, and healthcare. In addition, He is making efforts to make a presentation at an international conference.",
+      "title": "",
+      "id": 26511,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Amit Elazari ",
+      "updated_at": "2018-08-02T19:35+0000",
+      "description": "Amit is a doctoral law candidate at UC Berkeley and a Berkeley Center for Long-Term Cybersecurity Grantee. Her work has been published in leading technology law journals, presented in conferences such as ESCAR, RSA, USENIX Enigma, BsidesLV, BsidesSF, Black Hat and DEF CON-Skytalks and featured in leading news sites such as Vice, The Washington Post and The Verge. On 2018, Amit was granted a CLTC grant for her work exploring safe harbors for security researchers.",
+      "title": "",
+      "id": 26512,
+      "twitter": "@amitelazari",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Stephen Hilt ",
+      "updated_at": "2018-08-02T19:35+0000",
+      "description": "Stephen Hilt is a Sr. Threat Researcher at Trend Micro, where he focuses on Threat Actors, Malware behind attacks, and ICS and IoT Security. Stephen is a world-renowned researcher, having spoken multiple times at Derbycon, Blackhat US, and RSA. Stephen is a Nmap Contributor has written Nmap scripts for ICS protocols. This work took him into becoming an expert on ICS protocols and co-authored the book Hacking Exposed Industrial Control Systems: ICS and SCADA Security Secrets & Solutions",
+      "title": "",
+      "id": 26513,
+      "twitter": "@sjhilt",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "David Tomaschik ",
+      "updated_at": "2018-08-02T19:35+0000",
+      "description": "David is a hacker with an interest in embedded devices and hardware security. He's currently a Senior Security Engineer at Google, working on security assessments and Red Teaming.",
+      "title": "",
+      "id": 26514,
+      "twitter": "@Matir",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "John Dunlap ",
+      "updated_at": "2018-08-02T19:36+0000",
+      "description": "John Dunlap is a NYC cyber security expert. He has given presentations on his exploit development research both at home and abroad, including talks at Defcon, Derbycon, and Australia\u2019s Ruxcon. John Dunlap is a major proponent of hacker culture preservation, and is a supporter of the international demoscene. John Dunlap specializes in reverse engineering, exploit development, social engineering and source code analysis.",
+      "title": "",
+      "id": 26515,
+      "twitter": "@JohnDunlap2",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Erez Yalon ",
+      "updated_at": "2018-08-02T19:36+0000",
+      "description": "Head of Security Research at Checkmarx",
+      "title": "",
+      "id": 26516,
+      "twitter": "@ErezYalon",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Matt Wixey",
+      "updated_at": "2018-08-02T19:36+0000",
+      "description": "Matt leads technical research for the PwC Cyber Security practice in the UK, works on its Ethical Hacking team, and is a PhD candidate at University College London. Prior to joining PwC, Matt led a technical R&D team for a law enforcement agency in the UK. His research interests include antivirus and sandboxing technologies, unconventional attack vectors, side-channels, and radio security.",
+      "title": "",
+      "id": 26517,
+      "twitter": "@darkartlab",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Ben Nassi ",
+      "updated_at": "2018-08-02T19:37+0000",
+      "description": "Ben Nassi is a Ph.D. student at Ben-Gurion University of the Negev (BGU), a security researcher at BGU\u2019s Cyber Security Research Center, and a former Google employee. He holds a B.Sc. degree in computer science and an M.Sc. degree in software and information systems engineering from BGU. His Ph.D. topic is titled, \"Cyber Security in the IoT Era.\" His primary research interest is the security of IoT devices.",
+      "title": "",
+      "id": 26518,
+      "twitter": "@ben_nassi",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Dennis Giese",
+      "updated_at": "2018-08-02T19:37+0000",
+      "description": "Dennis is a grad student at TU Darmstadt and a researcher at Northeastern University. He was a member of one european ISP's CERT for several years. \r\nWhile being interested in physical security and lockpicking, he enjoys applied research and reverse engineering malware and all kind of devices. His latest victim is the Xiaomi IoT cloud. He was a speaker at the Chaos Communication Congress and the REcon BRX.",
+      "title": "",
+      "id": 26519,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Srinivas Rao ",
+      "updated_at": "2018-08-02T19:38+0000",
+      "description": "Srinivas(@srini0x00) has extensive hands-on experience performing Web Application, Infrastructure and Mobile Security Assessments. He delivered training sessions on Web, Infrastructure and Mobile penetration testing for organisations across the world, which include India, Malaysia, Brunei, Vietnam etc. He blogs at www.androidpentesting.com ",
+      "title": "",
+      "id": 26520,
+      "twitter": "@srini0x00 ",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Abhijeth D ",
+      "updated_at": "2018-08-02T19:38+0000",
+      "description": "Abhijeth D Twitter: @abhijeth Abhijeth D(@abhijeth) is an AppSec dude and an Adjunct lecturer in Australia. Previously worked with Adobe Systems, TCS and Sourcenxt. Security Enthusiast in the fields of Penetration Testing, Application/Mobile/Infrastructure Security. Believes in need for more security awareness and free responsible disclosures. Got lucky in finding few vulnerabilities with Google, Yahoo, Facebook, Microsoft, Ebay, Dropbox, etc and one among Top 5 researchers in Synack a bug bounty platform. Got a chance to speak at Defcon, Blackhat, OWASP AppSec USA, c0c0n etc.",
+      "title": "",
+      "id": 26521,
+      "twitter": "@abhijeth",
       "conference": "DC26",
       "link": ""
     }
