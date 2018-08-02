@@ -325,7 +325,7 @@
       "start_date": "2018-08-11T03:00+0000",
       "id": 26020,
       "description": "Healthcare cybersecurity is in critical condition. That's not FUD, that's the bottom line from the Congressionally mandated Health Care Industry Cybersecurity Task Force report released just last year, a year which also saw the twin specters of WannaCry and NotPetya take down entire hospital systems while over half a million implanted pacemakers were recalled in the fallout of one of the most (ir?)responsible disclosures in recent memory. It's enough to make any concerned white hat reach for a stiff drink. And that's where we come in. After an incredibly successful, near-fire-code-violating jam packed session at DC25 as an Evening Lounge, 'D0 N0 H4rm' is diving deeper and going longer as it transforms into a Fireside Hax, assembling an even larger and more distinguished panel of expert hackers, policymakers, wonks, and health care providers to continue discussing, dissecting, and most importantly, debating the ways to keep patients safe in an increasingly perilous space. Featuring continuous audience interaction and with the same loose and informal flow that characterized the initial, libation rich hotel room gatherings, moderators quaddi and r3plicant invite you to add your voice to this incredibly important conversation. Pin this one down quickly, pre-registration is going to go fast.",
-      "location": 26005,
+      "location": 26001,
       "link": "",
       "speakers": [
         26036,
@@ -342,7 +342,7 @@
       "event_type": 1,
       "includes": "",
       "title": "D0 N0 H4RM: A Healthcare Security Conversation",
-      "updated_at": "2018-07-30T16:24+0000"
+      "updated_at": "2018-08-02T22:52+0000"
     },
     {
       "start_date": "2018-08-11T00:00+0000",
@@ -552,7 +552,7 @@
       "start_date": "2018-08-12T03:00+0000",
       "id": 26033,
       "description": "White hat or critical grey hat trolling? Trolling as art? Trolling as hybrid warfare? Trolling as propaganda? In this Fireside Hax, we will challenge your assumptions about trolling. Trolls are attention hackers, using social and technical means to bait journalists, set agendas, game media gatekeepers, and direct audiences. Sometimes they also have fun. We will discuss a range of trolling techniques like sockpuppeting, dogpiling, doxing, attention honeypots, and cognitive denial of service attacks that we have not seen concisely catalogued elsewhere. We will also discuss high-profile examples of trolling such as\"training\" the Microsoft Tay chatbot, fake Antifa accounts, Russian sockpuppet accounts, and Phineas Fisher's use of Hacking Team's twitter account--and ask attendees to consider each as black hat attacks or grey hat attempts to point out critical societal vulnerabilities that should be\"patched.\" We will also talk about\"troll the troll\" accounts like ImposterBuster and YesYoureRacist and the role\"white hat trolls\" might play in auditing platforms or proposing platform-based controls. Time permitting, we will discuss art projects that trollishly critiqued the European Commission, Google AdSense, and the NSA. This will not be a lecture and it will not shy away from controversy. Join two members of the Media Manipulation Team at Data & Society to collectively consider the role trolling can play in pointing out the flaws in our attention/media landscape.",
-      "location": 26005,
+      "location": 26001,
       "link": "",
       "speakers": [
         26067,
@@ -564,7 +564,7 @@
       "event_type": 1,
       "includes": "",
       "title": "Beyond the Lulz:  Black-Hat Trolling, White-Hat Trolling, Attacking and Defending Our Attention Landscape",
-      "updated_at": "2018-07-30T16:26+0000"
+      "updated_at": "2018-08-02T22:52+0000"
     },
     {
       "start_date": "2018-08-09T18:00+0000",
@@ -1171,7 +1171,7 @@
       "start_date": "2018-08-12T03:00+0000",
       "id": 26070,
       "description": "Relax and enjoy a Fireside Hax chat while you get the latest information about how the law is racing to catch up with technological change from staffers at the Electronic Frontier Foundation, the nation's premiere digital civil liberties group fighting for freedom and privacy in the computer age. This Fireside Hax discussion will include updates on current EFF issues such as the government's effort to undermine encryption (and add backdoors), the fight for network neutrality, discussion of our technology projects to spread encryption across the Web and emails, updates on cases and legislation affecting security research, and much more.  Half the session will be given over to question-and-answer, so it's your chance to ask EFF questions about the law and technology issues that are important to you.",
-      "location": 26005,
+      "location": 26027,
       "link": "",
       "speakers": [
         26130,
@@ -1186,7 +1186,7 @@
       "event_type": 1,
       "includes": "Audience Participation",
       "title": "EFF Fireside Hax (AKA Ask the EFF)",
-      "updated_at": "2018-07-30T16:26+0000"
+      "updated_at": "2018-08-02T22:51+0000"
     },
     {
       "start_date": "2018-08-10T21:00+0000",
@@ -1242,7 +1242,7 @@
       "start_date": "2018-08-11T03:00+0000",
       "id": 26074,
       "description": "The term\"incident response exercise\" can strike fear in the hearts of even the mostly steely-eyed professional. The idea of sitting around a table, talking through a catastrophic security event can be both simultaneously exhausting and incredibly boring. However, what instead of an participating in an\"incident response exercise,\" you instead got to plan an\"incident response role playing game?\" \r\nEnter our IR roleplaying game,\"Oh Noes! An Adventure Through the Cybers and Shit.\" As part of our day job, we do quarterly IR exercises. In order to make these exercises more engaging, more fun, and more useful, we turned these exercises into a role playing game. We found it so useful and fun, we're releasing it at DEF CON along with numerous scenarios for your dungeon master to take you through. \r\nAt this talk, we will talk about gamifying IR exercises and the rules of Oh Noes! We will equip you with dice and your own character sheet and we will walk you through the character creating process. That's right, in Oh Noes! you create your own character with specific skills and abilities that you level up as you play. A group of us will play through a short scenario so you can see how the game works. We will provide several sample scenarios, some ripped from the headlines (and some cribbed from @badthingsdaily) as well as provide guidance on what makes successful scenarios as you transition to be your own dungeon master.",
-      "location": 26005,
+      "location": 26027,
       "link": "",
       "speakers": [
         26141,
@@ -1253,7 +1253,7 @@
       "event_type": 1,
       "includes": "Demo, Audience Participation, Tool",
       "title": "Oh Noes!\u2014A Role Playing Incident Response Game",
-      "updated_at": "2018-07-30T16:24+0000"
+      "updated_at": "2018-08-02T22:46+0000"
     },
     {
       "start_date": "2018-08-11T23:00+0000",
@@ -1506,7 +1506,7 @@
       "start_date": "2018-08-12T03:00+0000",
       "id": 26090,
       "description": "A talk at DEF CON 25 claimed that privacy is \"gone and never coming back.\" This talk offers a different view, inviting the audience to see privacy as fundamentally about equality-something we have never fully had but also should never regard as gone.\r\n\r\n\r\nThe speaker is a human rights lawyer and investigator, and will draw on decades of human rights thinking about state surveillance as well as her 2017 revelations about Defense Department monitoring of \"homegrown violent extremists.\" Adopting a feminist and race-conscious perspective and inviting audience participation, the talk will challenge received wisdom about basic concepts such as privacy, national security, the warrant requirement, and online radicalization. With a view to the future, it will also offer a thought-provoking history of the connections between privacy and equality in the United States-and the ways unchecked surveillance operates to categorize us and reinforce divisions between us.\r\n\r\n\r\nIt is easy to forget that _1984_ was partly a story about poverty and economic inequality. This talk embraces Orwell's insight into the connection between the erosion of privacy and a dangerous loss of equality, and carries it forward.",
-      "location": 26005,
+      "location": 26001,
       "link": "",
       "speakers": [
         26165
@@ -1516,7 +1516,7 @@
       "event_type": 1,
       "includes": "",
       "title": "Privacy Is Equality\u2014And It's Far from Dead",
-      "updated_at": "2018-07-30T16:27+0000"
+      "updated_at": "2018-08-02T22:53+0000"
     },
     {
       "start_date": "2018-08-11T23:00+0000",
@@ -1717,7 +1717,7 @@
       "start_date": "2018-08-11T03:00+0000",
       "id": 26103,
       "description": "1984 didn't just happen because of a calendar. The world of 1984 was built by politicians who used the rule of law to change society into an oppressive surveillance state. In Washington D.C., politicians today are making decisions about what technologies we're permitted to use and how they'll be used in society. In this talk we'll break down 4-5 bills currently under discussion in Congress and explain who they'll impact the DEF CON community.",
-      "location": 26005,
+      "location": 26001,
       "link": "",
       "speakers": [
         26131,
@@ -1728,7 +1728,7 @@
       "event_type": 1,
       "includes": "Audience Participation",
       "title": "Disrupting the Digital Dystopia or What the hell is happening in computer law?",
-      "updated_at": "2018-07-30T16:25+0000"
+      "updated_at": "2018-08-02T22:52+0000"
     },
     {
       "start_date": "2018-08-12T21:00+0000",
@@ -7364,5 +7364,5 @@
       "updated_at": "2018-08-02T19:49+0000"
     }
   ],
-  "updated_at": "2018-08-02T19:54+0000"
+  "updated_at": "2018-08-02T22:53+0000"
 }
