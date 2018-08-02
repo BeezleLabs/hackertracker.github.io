@@ -1,5 +1,5 @@
 {
-  "updated_at": "2018-08-02T17:32+0000",
+  "updated_at": "2018-08-02T18:28+0000",
   "speakers": [
     {
       "name": "0x200b",
@@ -4298,6 +4298,266 @@
       "title": "",
       "id": 26457,
       "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Mbis0n Shadoru",
+      "updated_at": "2018-08-02T18:08+0000",
+      "description": "",
+      "title": "",
+      "id": 26458,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Lloyd Miller",
+      "updated_at": "2018-08-02T18:09+0000",
+      "description": "",
+      "title": "",
+      "id": 26459,
+      "twitter": "@lloydamiller",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Hannah Silvers",
+      "updated_at": "2018-08-02T18:04+0000",
+      "description": "Hannah Silvers is a writer, editor, and content strategist based in Atlanta, GA. During the day, she writes and presents SEO content marketing strategy for nonprofit service providers. But after the ride home, she moonlights as the director of outreach for CG Silvers Consulting and a lexicographic content contributor for Dictionary.com, charting the course of the English language through definitions of slang, politics, pop culture, and emoji. Hannah is also a veteran of Social-Engineer, LLC, holding corporate technical writing and vishing experience as well as the current record of youngest contestant to enter the SECTF booth at DEF CON.",
+      "title": "",
+      "id": 26460,
+      "twitter": "@hannah_silvers",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "illwill",
+      "updated_at": "2018-08-02T18:08+0000",
+      "description": "",
+      "title": "",
+      "id": 26461,
+      "twitter": "@xillwillx",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Jennifer Roderick\t",
+      "updated_at": "2018-08-02T18:09+0000",
+      "description": "",
+      "title": "",
+      "id": 26462,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Ryan MacDougall",
+      "updated_at": "2018-08-02T18:09+0000",
+      "description": "Ryan MacDougall is a Senior Social Engineer Pentester for Social-Engineer LLC, who has over 20 years\u2019 experience in the information technology world and 5 years in the security space specifically. Naturally a deep introvert, he has achieved goals and experienced life that early on did not seem possible or even imaginable. With the help of professionals and experts in the field of psychology, he amassed techniques to navigate the social world to achieve goals he wanted and some he never knew he wanted.",
+      "title": "",
+      "id": 26463,
+      "twitter": "@joemontmania",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Olivia Thet ",
+      "updated_at": "2018-08-02T18:10+0000",
+      "description": "",
+      "title": "",
+      "id": 26464,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Nicolas Kseib",
+      "updated_at": "2018-08-02T18:10+0000",
+      "description": "",
+      "title": "",
+      "id": 26465,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Raye Keslensky",
+      "updated_at": "2018-08-02T18:10+0000",
+      "description": "",
+      "title": "",
+      "id": 26466,
+      "twitter": "@lastres0rt",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Caleb Madrigal",
+      "updated_at": "2018-08-02T18:10+0000",
+      "description": "",
+      "title": "",
+      "id": 26467,
+      "twitter": "@caleb_madrigal",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Mark Klink",
+      "updated_at": "2018-08-02T18:10+0000",
+      "description": "",
+      "title": "",
+      "id": 26468,
+      "twitter": "@evilbotnet",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Neil Fallon",
+      "updated_at": "2018-08-02T18:11+0000",
+      "description": "Neil Fallon is the lyricist, singer, and rhythm guitar player of the rock band Clutch. Since forming in 1991, Clutch has released 11 full length records and has performed numerous times in North America, Europe, South America, Australia, and Japan.\r\n\r\nIn 2009, Neil, along with his bandmates and manager, created Weathermaker Music, a completely independent record label. To date, Weathermaker Music has had 58 world wide releases. The most recent release, \u201cPsychic Warfare,\u201d reached #11 on the Billboard Top 100 and #1 on Hard Rock & Rock Billboard chart.",
+      "title": "",
+      "id": 26469,
+      "twitter": "@npfallon",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Billy Boatright",
+      "updated_at": "2018-08-02T18:13+0000",
+      "description": "Billy began his social engineering career without even knowing it. He was a bartender on the Las Vegas Strip for the better part of a decade. He won numerous awards from all over the world as a Top-ranked Flair Bartender. He has taken the skills he learned behind the bar to the Information Security world. Billy has been a Judge for the Social Engineering Capture the Flag event at Def Con. He is also the namesake for the BSides Las Vegas Social Engineering Capture the Flag Championship Belt. Billy also volunteers time and expertise to the Las Vegas ISSA Chapter as a Board Member. He is also a member of the BSides Las Vegas Senior Staff.\r\n\r\nBilly has multiple degrees and numerous certifications. However, when asked about them he will gladly quote George Moriarty, \u201cThe shining trophies on our shelves can never win tomorrow\u2019s game.\u201d",
+      "title": "",
+      "id": 26470,
+      "twitter": "@fuzzy_l0gic",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Michael Gianarakis ",
+      "updated_at": "2018-08-02T18:14+0000",
+      "description": "",
+      "title": "",
+      "id": 26471,
+      "twitter": "@mgianarakis",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Shubham Shah",
+      "updated_at": "2018-08-02T18:14+0000",
+      "description": "",
+      "title": "",
+      "id": 26472,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Wbbigdave",
+      "updated_at": "2018-08-02T18:15+0000",
+      "description": "",
+      "title": "",
+      "id": 26473,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "MasterChen",
+      "updated_at": "2018-08-02T18:15+0000",
+      "description": "",
+      "title": "",
+      "id": 26474,
+      "twitter": "@chenb0x",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Jacob Wilkin",
+      "updated_at": "2018-08-02T18:15+0000",
+      "description": "",
+      "title": "",
+      "id": 26475,
+      "twitter": "@Jacob_Wilkin",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Wayne Ronaldson",
+      "updated_at": "2018-08-02T18:16+0000",
+      "description": "Wayne has conducted security assessments for a range of leading Australian and international organisations. Wayne has unique expertise in Red Team Assessments, Physical, Digital and Social Engineering, and has presented to a number of organisations and government departments on the current and future state of the cyber security landscape in Australia and overseas.",
+      "title": "",
+      "id": 26476,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Nancy Eckert",
+      "updated_at": "2018-08-02T18:18+0000",
+      "description": "Nancy Eckert (Pongolyn) is a systems analyst and web developer in Seattle, Washington. In the augmented reality game of Ingress, Pongo is a champion strategist and team organizer for \u201croughly a thousand cats\u201d across the northwestern United States. She leads competitive team-based operations across the world, where she coordinates hundreds of agents under cover of secrecy to walk, bike, drive, climb, snowshoe, boat, fly, hack, and engineer their way to remote locations in order to score points for the game. She builds neural networks in her spare time.",
+      "title": "",
+      "id": 26477,
+      "twitter": "@Pongolyn",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Kathleen Mullin",
+      "updated_at": "2018-08-02T18:20+0000",
+      "description": "Kate Mullin is an influential information security practitioner with more than 30 years of experience in various accounting, audit, risk, governance, and information security roles. She has been a CISO at various organizations including publicly traded, private, not-for-profit, and governmental entities. Kate established the role of CISO at Tampa Airport and at Healthplan Services.\r\nKate provides interim CISO and vCISO services, specifically executive and board consultation on governance, risk, compliance, and cyber security that includes stakeholder engagement, training and development, IT infrastructure management, social engineering, incident response, business continuity, and disaster recovery strategies.\r\nThroughout her career, Kate has volunteered and participated in maturing information security as a profession. Kate is a former member of the ISACA CGEIT Certification and Credentials Committee and a past chapter president and CISA, CISM, CRISC, and CGEIT coordinator for West Florida ISACA. Kate has been a part of the CISO Coalition governing board.",
+      "title": "",
+      "id": 26478,
+      "twitter": "@kate944032",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Chris Roberts",
+      "updated_at": "2018-08-02T18:22+0000",
+      "description": "Chris Roberts is a multi-colored bearded hacker that loves whiskey, kilts and really enjoys when strangers tell him he is a fine welshman.",
+      "title": "",
+      "id": 26479,
+      "twitter": "@Sidragon1",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Chris Hadnagy",
+      "updated_at": "2018-08-02T18:24+0000",
+      "description": "Chris is a professional social engineer with over 16 years of experience. His passion is understanding the why not just the what. Chris has had the opportunity to work with some of the world\u2019s greatest minds in learning how to use skills that might not be too common in the infused industry. You can find out more by looking at www.social-engineer.com",
+      "title": "",
+      "id": 26480,
+      "twitter": "@humanhacker",
+      "conference": "DC26",
+      "link": "http://www.social-engineer.com"
+    },
+    {
+      "name": "Taylor Banks",
+      "updated_at": "2018-08-02T18:25+0000",
+      "description": "Taylor Banks, Founder of ACE Hackware, has spent 15 years in information security. Experienced in applied hacking and countermeasures, Taylor has performed pen-tests and provided training for organizations including the FBI, NSA, US Navy and Marine Corps.",
+      "title": "",
+      "id": 26481,
+      "twitter": "@taylorbanks",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Chris Silvers",
+      "updated_at": "2018-08-02T18:26+0000",
+      "description": "Chris Silvers is founder and CEO of CG Silvers Consulting as well as DEF CON black badge winner. Chris\u2019 passion for education and 20 years of experience in information security have landed him on the presenter\u2019s stage at conferences such as Derby Con and GrrCon.",
+      "title": "",
+      "id": 26482,
+      "twitter": "@cgsilvers",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Aunsuhl Rege",
+      "updated_at": "2018-08-02T18:28+0000",
+      "description": "Aunshul Rege is a criminology professor at Temple University. Her National Science Foundation sponsored research and education projects examine the human element of cybercrimes, focusing on behavior, decision-making, adaptation, and group dynamics. She is passionate about educating the next generation workforce across the social and hard sciences about the relevance of the human factor in cybersecurity. She has published in the area of cybersecurity education in USENIX, American Society for Engineering Education, and International Symposium on Resilient Control Systems (IEEE). She has a BSc in Computer Science, a BA and MA in Criminology, and an MA and PhD in Criminal Justice.\r\n",
+      "title": "",
+      "id": 26483,
+      "twitter": "@prof_rege",
       "conference": "DC26",
       "link": ""
     }

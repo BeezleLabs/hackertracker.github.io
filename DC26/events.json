@@ -3226,30 +3226,30 @@
     {
       "start_date": "2018-08-11T03:00+0000",
       "id": 26248,
-      "description": "Two great things that go great together! Join the fun as your fellow hackers make their way through songs from every era and style. Everyone has a voice and this is your opportunity to show it off! Quickly becoming a DEF CON tradition and a favorite of people from all skill levels.\r\n\r\nlocated in Emperors Ballroom at Caesars Palace",
+      "description": "Two great things that go great together! Join the fun as your fellow hackers make their way through songs from every era and style. Everyone has a voice and this is your opportunity to show it off! Quickly becoming a DEF CON tradition and a favorite of people from all skill levels.\r\n\r\nDo you like to sing? Do you want to perform? Ever wanted to sing in front of others? Come on down to the 10th Annual Hacker Karaoke, DEFCON's on-site karaoke experience. You can be a star, or if you don't want to be a star, you can also take pride in making an utter fool of yourself. \r\n\r\nLocation: Emperors Ballroom at Caesars Palace\r\nHours: Friday 2000-0200, Saturday 2000-0200\r\nTwitter: @hackerkaraoke\r\nWebsite: https://hackerkaraoke.org/",
       "location": 26013,
-      "link": "",
+      "link": "https://hackerkaraoke.org/",
       "speakers": [],
       "end_date": "2018-08-11T07:00+0000",
       "conference": "DC26",
       "event_type": 5,
-      "includes": "",
+      "includes": "Singing (Bad), Music",
       "title": "Hacker Karaoke",
-      "updated_at": "2018-07-21T23:38+0000"
+      "updated_at": "2018-08-02T17:53+0000"
     },
     {
       "start_date": "2018-08-12T03:00+0000",
       "id": 26249,
-      "description": "Two great things that go great together! Join the fun as your fellow hackers make their way through songs from every era and style. Everyone has a voice and this is your opportunity to show it off! Quickly becoming a DEF CON tradition and a favorite of people from all skill levels.\r\n\r\nlocated in Emperors Ballroom at Caesars Palace",
+      "description": "Two great things that go great together! Join the fun as your fellow hackers make their way through songs from every era and style. Everyone has a voice and this is your opportunity to show it off! Quickly becoming a DEF CON tradition and a favorite of people from all skill levels.\r\n\r\nDo you like to sing? Do you want to perform? Ever wanted to sing in front of others? Come on down to the 10th Annual Hacker Karaoke, DEFCON's on-site karaoke experience. You can be a star, or if you don't want to be a star, you can also take pride in making an utter fool of yourself. \r\n\r\nLocation: Emperors Ballroom at Caesars Palace\r\nHours: Friday 2000-0200, Saturday 2000-0200\r\nTwitter: @hackerkaraoke\r\nWebsite: https://hackerkaraoke.org/",
       "location": 26013,
-      "link": "",
+      "link": "https://hackerkaraoke.org/",
       "speakers": [],
       "end_date": "2018-08-12T07:00+0000",
       "conference": "DC26",
       "event_type": 5,
-      "includes": "",
+      "includes": "Singing, Music",
       "title": "Hacker Karaoke",
-      "updated_at": "2018-07-21T23:39+0000"
+      "updated_at": "2018-08-02T17:53+0000"
     },
     {
       "start_date": "2018-08-10T00:00+0000",
@@ -6336,47 +6336,479 @@
       "updated_at": "2018-08-02T17:35+0000"
     },
     {
-      "start_date": "2018-08-10T17:00+0000",
+      "start_date": "2018-08-11T17:00+0000",
       "id": 26473,
-      "description": "The Wireless Village presents the Wireless Capture the Flag (WCTF). We cater to those who are new to this game and those who have been playing for a long time. Each WCTF begins with a presentation on How to WCTF. We also have a resources page on our website that guides participants in their selection of equipment to bring.\r\n\r\nLocation: Wireless Village\r\nTwitter: @wctf_us\r\nWebsite: http://www.wirelessvillage.ninja/wctf.html",
-      "location": 26019,
-      "link": "http://www.wirelessvillage.ninja/wctf.html",
-      "speakers": [],
-      "end_date": "2018-08-11T02:00+0000",
+      "description": "\u201cReconnaissance is about gathering information. The information gathered is only as good as the insights and actionable decisions that we can gain from it. A lot of research is focused on finding OSINT data but little is done towards converting the data into insights and actionable decisions. Visualisation is an easy and efficient way to gain insights from any the data gleaned.\r\n\r\nIn this workshop, we will look at how we can gather OSINT data and visualise it using free and open source solutions. Visualising data is not enough, we\u2019ll also look at how we can use the metrics to answer business questions and lead to actionable decisions.\r\n\r\nWe\u2019ll tackle the problem by breaking it into following steps:\r\n\r\nGathering OSINT data\r\nStoring the OSINT data\r\nProcessing & visualising the data\r\nGaining insights and making actionable decisions\r\nSome specific use-cases we\u2019ll look at during the workshop includes:\r\n\r\nMonitoring an organisation\u2019s SSL/TLS certificates, domains and subdomains in near-real time\r\nCreating dashboards using public datasets(scans.io) to gain insights into an organisation\u2019s external posture\r\nBuilding monitoring and alerting solutions using OSINT data that will help us take business decisions\r\nParticipants will get\r\n\r\nStep by Step Gitbook covering the entire training (html, pdf, epub, mobi)\r\nCustom scripts, playbooks and tools used as part of the workshop\r\nScenarios that can be readily implemented for your use cases\r\nReferences to the data used in the workshop\u201d",
+      "location": 26026,
+      "link": "http://reconvillage.org/talks-2018/#building-visualisation-platforms-for-osint-data-using-open-source-solutions---bharath-kumar-and-madhu-akula",
+      "speakers": [
+        26454,
+        26455
+      ],
+      "end_date": "2018-08-11T19:00+0000",
       "conference": "DC26",
-      "event_type": 7,
+      "event_type": 3,
       "includes": "",
-      "title": "Wireless CTF",
-      "updated_at": "2018-08-02T17:37+0000"
+      "title": "Building visualisation platforms for OSINT data using open source solutions",
+      "updated_at": "2018-08-02T17:47+0000"
+    },
+    {
+      "start_date": "2018-08-11T19:10+0000",
+      "id": 26474,
+      "description": "Bug bounty programs are a hot topic these days. More and more companies are realizing the benefits of running a program, and researchers are jumping at the opportunity to grab some swag and make some extra cash from the bugs they find. Reporting security issues has never been as easy, open, and risk-free as it is right now. Everybody wins!\r\n\r\nThough that doesn\u2019t mean we should stop there. As researchers, we spend a lot of time doing the same menial tasks for each program: monitoring for new targets, checking for common issues, remembering just which flags you needed to pass to that tool (or even which tool is best for that job). We build new tools, hack together shell scripts, and generally make small incremental changes to our process. But surely there\u2019s a better approach?\r\n\r\nAre you sick of repeating the same tedious tasks over and over? Wouldn\u2019t it be nice to have your own bug hunting machine? One that -\r\n\r\nIs always watching\r\nReacts as soon as a new target becomes available\r\nTakes care of those tedious repetitive steps for you\r\nMakes life easy when you want to integrate a new tool/workflow\r\nDoesn\u2019t cost the world to run, and trivially scales\r\nLeverages lessons and technologies battle tested in the dev world to improve your offensive capacity, capability and productivity\r\nMonitors your own infrastructure and reacts before hackers can (while saving you the cost of those Bug Bounty payouts in the meantime)\r\nWe call this approach Bug Bounty Hunting on Steroids. We will discuss our research and approach to building such a machine, sharing some of the lessons we learned along the way.\tx",
+      "location": 26026,
+      "link": "http://reconvillage.org/talks-2018/#bug-bounty-hunting-on-steroids---anshuman-bhartiya-and-glenn-devalias-grant",
+      "speakers": [
+        26456,
+        26457
+      ],
+      "end_date": "2018-08-11T19:55+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Bug Bounty Hunting on Steroids",
+      "updated_at": "2018-08-02T17:47+0000"
+    },
+    {
+      "start_date": "2018-08-12T20:00+0000",
+      "id": 26475,
+      "description": "Many significant breaches have resulted from adversaries knowing who to target, how to target them and where to target them. Most corporations are not effectively using the largest collection of targeting data that is available on the public internet and fail to build and refine data driven threat models using the information that our adversaries are using against us. Targeted User Analytics and Human Honeypots is a research project I am working on to identify and model targeting methods with the hope of tipping the scales in our favor to defend our networks, users and critical systems.\r\n\r\nLinkedIn is the largest collection of Business Social Networking data available to \u201a\u00c4\u00faunathenticated\u201a\u00c4\u00f9 persons on the public internet. With the right techniques this data can be mined to identify and enrich targets. The purpose of my talk is to present targeting techniques through a use case and to demonstrate the value of other enrichment methods involving data sets that are widely available or collected from corporate security tools. The end result is analytics that predict who will be targeted and why they are more likely to be compromised if they are targeted. This will allow for proactive action to be taken to defend users and our assets.\r\n\r\nBackground\r\nUsers are still the weakest link\r\nSeed files\r\nSample seed File terms & Query\r\nSearch Engine Query\r\nHarvest\r\nExternal Enrichment\r\nInternal Enrichment\r\nHuman Honeypots and Operationalizing Defenses\r\nThe Things that we can expect an adversary to do\r\nHow can we disrupt this targeting approach\r\nIndustry trends",
+      "location": 26026,
+      "link": "http://reconvillage.org/talks-2018/#targeted-user-analytics-and-human-honeypotss---mbis0n-shador-not-a-real-name",
+      "speakers": [
+        26458
+      ],
+      "end_date": "2018-08-12T20:20+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Targeted User Analytics and Human Honeypotss",
+      "updated_at": "2018-08-02T18:09+0000"
+    },
+    {
+      "start_date": "2018-08-10T13:00+0000",
+      "id": 26476,
+      "description": "At 6am on Friday, the @cycle_override crew will be hosting the 8th Defcon Bikeride. We'll meet at a local bikeshop, get some rental bicycles, and about 7am will make the ride out to Red Rocks. It's about a 15 mile ride, all downhill on the return journey. So, if you are crazy enough to join us, get some water, and head over to cycleoverride.org for more info. See at 6am Friday! @jp_bourget @gdead @heidishmoo. \r\n\r\nLocation:\r\nHours: Friday - 0600\r\nTwitter: @cycle_override\r\nWebsite: http://cycleoverride.org",
+      "location": 26013,
+      "link": "http://cycleoverride.org",
+      "speakers": [],
+      "end_date": "2018-08-10T19:00+0000",
+      "conference": "DC26",
+      "event_type": 8,
+      "includes": "Exercise",
+      "title": "8th Defcon Bike Ride",
+      "updated_at": "2018-08-02T17:48+0000"
+    },
+    {
+      "start_date": "2018-08-11T19:00+0000",
+      "id": 26477,
+      "description": "DEAF CON is a California 501 (c)(3) Non-profit organization. We provide outreach to the Deaf and HH community and information security community. We encourage Deaf and HH information security professionals to attend conferences, like Defcon. We help to provide communication services and spaces for professionals to meet and network with others. Anyone can come and attend our meet up and hangout!\u00a0 \r\n\r\nLocation: Chill-out Lounge\r\nHours: Saturday 1200\r\nTwitter: @_DEAFCON_\r\nWebsite: https://www.deafconinc.org/",
+      "location": 26013,
+      "link": "https://www.deafconinc.org/",
+      "speakers": [],
+      "end_date": "2018-08-11T21:00+0000",
+      "conference": "DC26",
+      "event_type": 8,
+      "includes": "",
+      "title": "DEAF CON Meet Up",
+      "updated_at": "2018-08-02T17:50+0000"
+    },
+    {
+      "start_date": "2018-08-10T17:00+0000",
+      "id": 26478,
+      "description": "Mohawk-Con returns for another year of shaving & coloring heads and transforming you into the cool kid at the con.\r\nCharitable event to support the EFF & Hackers For Charity, get a cool new hawk in support of the causes that matter to you.\r\n\r\nLocation: Contest Area\r\nHours: Friday 1000-2000, Saturday 1000-2000, Sunday 1000-1200\r\nWebsite: https://www.facebook.com/MohawkCon/",
+      "location": 26017,
+      "link": "https://www.facebook.com/MohawkCon/",
+      "speakers": [],
+      "end_date": "2018-08-11T03:00+0000",
+      "conference": "DC26",
+      "event_type": 8,
+      "includes": "",
+      "title": "Mohawk-Con",
+      "updated_at": "2018-08-02T17:56+0000"
     },
     {
       "start_date": "2018-08-11T17:00+0000",
-      "id": 26474,
-      "description": "The Wireless Village presents the Wireless Capture the Flag (WCTF). We cater to those who are new to this game and those who have been playing for a long time. Each WCTF begins with a presentation on How to WCTF. We also have a resources page on our website that guides participants in their selection of equipment to bring.\r\n\r\nLocation: Wireless Village\r\nTwitter: @wctf_us\r\nWebsite: http://www.wirelessvillage.ninja/wctf.html",
-      "location": 26019,
-      "link": "http://www.wirelessvillage.ninja/wctf.html",
+      "id": 26479,
+      "description": "Mohawk-Con returns for another year of shaving & coloring heads and transforming you into the cool kid at the con.\r\nCharitable event to support the EFF & Hackers For Charity, get a cool new hawk in support of the causes that matter to you.\r\n\r\nLocation: Contest Area\r\nHours: Friday 1000-2000, Saturday 1000-2000, Sunday 1000-1200\r\nWebsite: https://www.facebook.com/MohawkCon/",
+      "location": 26017,
+      "link": "https://www.facebook.com/MohawkCon/",
       "speakers": [],
-      "end_date": "2018-08-12T02:00+0000",
+      "end_date": "2018-08-12T03:00+0000",
       "conference": "DC26",
-      "event_type": 7,
+      "event_type": 8,
       "includes": "",
-      "title": "Wireless CTF",
-      "updated_at": "2018-08-02T17:37+0000"
+      "title": "Mohawk-Con",
+      "updated_at": "2018-08-02T17:56+0000"
     },
     {
       "start_date": "2018-08-12T17:00+0000",
-      "id": 26475,
-      "description": "The Wireless Village presents the Wireless Capture the Flag (WCTF). We cater to those who are new to this game and those who have been playing for a long time. Each WCTF begins with a presentation on How to WCTF. We also have a resources page on our website that guides participants in their selection of equipment to bring.\r\n\r\nLocation: Wireless Village\r\nTwitter: @wctf_us\r\nWebsite: http://www.wirelessvillage.ninja/wctf.html",
-      "location": 26019,
-      "link": "http://www.wirelessvillage.ninja/wctf.html",
+      "id": 26480,
+      "description": "Mohawk-Con returns for another year of shaving & coloring heads and transforming you into the cool kid at the con.\r\nCharitable event to support the EFF & Hackers For Charity, get a cool new hawk in support of the causes that matter to you.\r\n\r\nLocation: Contest Area\r\nHours: Friday 1000-2000, Saturday 1000-2000, Sunday 1000-1200\r\nWebsite: https://www.facebook.com/MohawkCon/",
+      "location": 26017,
+      "link": "https://www.facebook.com/MohawkCon/",
       "speakers": [],
-      "end_date": "2018-08-12T20:00+0000",
+      "end_date": "2018-08-12T19:00+0000",
       "conference": "DC26",
-      "event_type": 7,
+      "event_type": 8,
       "includes": "",
-      "title": "Wireless CTF",
-      "updated_at": "2018-08-02T17:37+0000"
+      "title": "Mohawk-Con",
+      "updated_at": "2018-08-02T17:56+0000"
+    },
+    {
+      "start_date": "2018-08-10T22:30+0000",
+      "id": 26481,
+      "description": "You\u2019re mindlessly scrolling through Facebook when you see your friend share a post and comment, \u201cMine is Bubbles Sunset!\u201d\r\n\r\nYou click. It\u2019s a meme that reads: \u201cWhat\u2019s your stripper name? It\u2019s the name of your first pet and the first street you lived on! Comment with your answers, and share with your friends!\u201d\r\n\r\nAre alarm bells going off in your head yet?\r\n\r\nSecurity-savvy internet browsers know to be on the lookout for the digital version of a mustached man in a trench coat, like emails selling discounted Viagra. But as you\u2019ve gotten smarter about avoiding these obvious bids for information, attackers and online marketers have gotten subtler to persuade you to divulge personal information. Every second, users willingly divulge sensitive information in comments on social media memes like the stripper name post because they don\u2019t see them as a threat.\r\n\r\nIn this talk, Hannah Silvers \u2014 social engineer and SEO marketing content strategist \u2014brings the two worlds together. Using (hilarious) real-life examples, she will illustrate how social media memes are hotbeds of valuable PII for marketers and attackers alike, how these memes encourage users to engage with and share them, and the ways attackers can make use of them as an attack vector.\r\n\r\nOf course, the talk won\u2019t stop at the doom and gloom. The presenter will discuss implications to the work of security educators and what users can do to mitigate the risk these memes present once they understand how they work.",
+      "location": 26024,
+      "link": "https://www.social-engineer.org/sevillage-def-con/human-track-sevillage/#HS",
+      "speakers": [
+        26460
+      ],
+      "end_date": "2018-08-10T23:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "Demo",
+      "title": "My Stripper Name is Bubbles Sunset: What SEO Meme Marketing Means for Social Engineering",
+      "updated_at": "2018-08-02T18:09+0000"
+    },
+    {
+      "start_date": "2018-08-10T23:00+0000",
+      "id": 26482,
+      "description": "In 20 years I learned how to step outside my introverted personality to explore the world in a more successful way, but not without bumps and bruises which taught me valuable lessons.\r\n\r\nThis is my story of that journey which I hope to convey to those listening that being a deep introvert should not prevent them from trying and achieving goals in life up to and including being a professional social engineer and beyond. I wrap up with the specific lessons I learned over the course of that time, so others can reap the benefits of those lessons in a much shorter time frame.",
+      "location": 26024,
+      "link": "https://www.social-engineer.org/sevillage-def-con/human-track-sevillage/#RM",
+      "speakers": [
+        26463
+      ],
+      "end_date": "2018-08-10T23:50+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "From Introvert to SE: The Journey",
+      "updated_at": "2018-08-02T18:10+0000"
+    },
+    {
+      "start_date": "2018-08-10T23:55+0000",
+      "id": 26483,
+      "description": "Across the globe for millennia upon millennia, a cabal of social engineers have been working to manipulate realities, collective and singular.  They influence decision making processes in a matter of minutes and leave no evidence of their presence.  They\u2019ve made camp in your computers, your cars, your places of worship, and your schools.  They may be doing it right now as you read this. They are everywhere.  They are musicians.",
+      "location": 26024,
+      "link": "https://www.social-engineer.org/sevillage-def-con/human-track-sevillage/#NF",
+      "speakers": [
+        26469
+      ],
+      "end_date": "2018-08-11T00:45+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "Demo",
+      "title": "Mr. Sinatra Will Hack You Now",
+      "updated_at": "2018-08-02T18:13+0000"
+    },
+    {
+      "start_date": "2018-08-11T00:50+0000",
+      "id": 26484,
+      "description": "Without the right tools the engagement can be over before it begins, as upfront resistance can prevent you from entering with your tools. Billy Boatright demonstrates and discusses how to use social engineering tactics to get in without any difficulty. While most think outside of the box, Billy shows us how to think inside the box and embrace your own handicaps to arm yourself with advanced tactics and unfair advantages. Billy shows us how handicaps and familiar objects can be used to covertly carry your toolbox into an engagement, increasing your success. Rather than dealing with a perceived disadvantage, use it to exploit the world around you.",
+      "location": 26024,
+      "link": "https://www.social-engineer.org/sevillage-def-con/human-track-sevillage/#BB",
+      "speakers": [
+        26470
+      ],
+      "end_date": "2018-08-11T01:40+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "Demo",
+      "title": "In-N-Out \u2013 That\u2019s What It\u2019s All About",
+      "updated_at": "2018-08-02T18:15+0000"
+    },
+    {
+      "start_date": "2018-08-10T23:40+0000",
+      "id": 26485,
+      "description": "Red Teams are designed to penetrate security in a real world test of effectiveness of security controls, policy, technology and infrastructure. Red Teams view security from an adversary perspective in order to simulate realistic attack scenarios that enable an organisation as a whole to prepare and protect against both simply and sophisticated threats. Red Teams build security culture and provide opportunities for staff to be trained using real world examples. During this presentation we will walk through a Red Team Assessment that simulates a state sponsored attack against Executives, and using their access to then test the entire security posture of the organisation from a digital, physical, social and supply chain.",
+      "location": 26024,
+      "link": "https://www.social-engineer.org/sevillage-def-con/human-track-sevillage/#WR",
+      "speakers": [
+        26476
+      ],
+      "end_date": "2018-08-11T00:30+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "Demo",
+      "title": "The Art of Business Warfare",
+      "updated_at": "2018-08-02T18:17+0000"
+    },
+    {
+      "start_date": "2018-08-10T19:00+0000",
+      "id": 26486,
+      "description": "",
+      "location": 26026,
+      "link": "http://reconvillage.org/schedule/",
+      "speakers": [
+        26444
+      ],
+      "end_date": "2018-08-10T19:50+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Keynote - From Breach to Bust: A short story of graphing and grey data",
+      "updated_at": "2018-08-02T18:17+0000"
+    },
+    {
+      "start_date": "2018-08-10T19:55+0000",
+      "id": 26487,
+      "description": "Recon is an art AND an science. The landscape for methods of finding hosts to attack is constantly changing. Whether you call it \u201cAsset Discovery\u201d or something else, it remains a core part of bounty hunter and red teaming life. Join Jason as he expands on his ever changing recon methodology.\r\n\r\nThis talk will focus on what tools to incorporate (and which tools not to). It will outline new methods coined in 2018, plus frameworks to automate and document your workflow. Topics include: brand/TLD discovery, host enumeration, application threat modeling, and more!",
+      "location": 26026,
+      "link": "http://reconvillage.org/talks-2018/#emergent-recon---fresh-methodology-and-tools-for-hackers-in-2018---jason-haddix",
+      "speakers": [
+        26445
+      ],
+      "end_date": "2018-08-10T20:35+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Emergent Recon - fresh methodology and tools for hackers in 2018",
+      "updated_at": "2018-08-02T18:18+0000"
+    },
+    {
+      "start_date": "2018-08-10T21:40+0000",
+      "id": 26488,
+      "description": "When attacking modern internal networks, intelligence is everything. Understanding the environment you are operating in can be the difference between successfully penetrating your target environment or missing targets of opportunity due to lack of understand about the target environment.\r\n\r\nWhile true, obtaining information about the environment in a stealthy manner, when required, can be difficult within a mature environment. Even during overt engagements, obtaining the information you need within a limited time window can be difficult, especially during engagement delays.\r\n\r\nFurther complicating things, often testing scope is based off of poor assumptions about the target environment, often leading unrealistic scope reductions a real-world attacker would not operate out of.\r\n\r\nOver the years internal testing engagements have been operating on various assumptions within switched networks, often driving engagement execution methods, but what if these assumptions were wrong? What if we could utilize the wasted time, even weeks in advance, between deployment and engagement execution, to take the time to understand the network? What if we could leverage the realities of modern networks and the things customers do to \u201a\u00c4\u00f2prepare\u2019 for an engagement (backups, security scans, etc.) through 100% passive methods, challenging your assumptions about the network?\r\n\r\nPrebellico is pre-engagement and post compromise intelligence gathering mechanism designed to gather as much information about the target environment through 100% passive methods. Utilizing very few resources, Prebellico permits an attacker the ability to understand the target environment by providing information such as the intent of internal systems, internal network address space, hostnames, egress filtering, TCP trust relationships, as well as map open TCP/UDP ports through reverse port scanning using 100% passive techniques.\u201d",
+      "location": 26026,
+      "link": "http://reconvillage.org/talks-2018/#prebellico---100-passive-pre-engagement-and-post-compromise-network-reconnaissance-tool---william-suthers",
+      "speakers": [
+        26446
+      ],
+      "end_date": "2018-08-10T22:10+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Prebellico - 100% Passive Pre-Engagement and Post Compromise Network Reconnaissance Tool",
+      "updated_at": "2018-08-02T18:19+0000"
+    },
+    {
+      "start_date": "2018-08-11T02:35+0000",
+      "id": 26489,
+      "description": "What do a flock of starlings, a colony of warrior ants, and a hundred-person flash mob all have in common with the red team? Swarm intelligence, the collective behavior of individuals acting autonomously, is a concept that we can apply to human systems to unlock their potential. Swarming methodologies teach a group of individuals what to do, where to go, and how to operate as a team.\r\n\r\nNancy Eckert (Pongolyn) explores swarm intelligence through augmented reality gaming, where\r\nshe leads teams of agents in capture-the-flag style competitions across the world. She shows how to apply social engineering strategies to groups of individuals, with the goal of achieving a collective intelligence that is greater than the sum of its parts.",
+      "location": 26024,
+      "link": "https://www.social-engineer.org/sevillage-def-con/human-track-sevillage/#NE",
+      "speakers": [
+        26477
+      ],
+      "end_date": "2018-08-11T03:05+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Swarm Intelligence and Augmented Reality Gaming",
+      "updated_at": "2018-08-02T18:19+0000"
+    },
+    {
+      "start_date": "2018-08-11T22:30+0000",
+      "id": 26490,
+      "description": "Social Engineering is a powerful tool. With the weapons gathered through Open Source Intelligence (OSINT) gathering and well crafted vishing or phishing a Social Engineer wields incredible power to do good.\r\n\r\nUnfortunately, for some the power of being a Social Engineer is one that they wield to show they are smarter than those around them and cause stress and fear doing damage to any potential relationship they or the department they represents.\r\n\r\nThis discussion will be about how to create meaningful, targeted phish and vish in an enterprise while strengthening information security from the real world perspective of a CISO as well as a few specifics to avoid. In conclusion this presentation will cover the importance of trust and how social engineering can help build or destroy trust.",
+      "location": 26024,
+      "link": "https://www.social-engineer.org/sevillage-def-con/human-track-sevillage/#KM",
+      "speakers": [
+        26478
+      ],
+      "end_date": "2018-08-11T23:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "Demo",
+      "title": "Social Engineering from a CISO\u2019s Perspective",
+      "updated_at": "2018-08-02T18:21+0000"
+    },
+    {
+      "start_date": "2018-08-10T22:15+0000",
+      "id": 26491,
+      "description": "Government bureaucracy is your friend. The US federal government alone produces tens of thousands of different forms that collect information on everything from the owner and location of every oil well in the country, to the VIN number of every car that\u2019s imported, the location and height of every cell phone tower, and much more. While most of this data is locked behind clunky 1990s-era search forms, or in exports of antiquated database formats, the enterprising researcher will find a treasure trove that exists outside the indexes of Google and LexisNexis.\r\n\r\nI have written scrapers and parsers for 100s of these databases and will share with you what I\u2019ve learned about coaxing OSINT out of some of the messiest and hard to find data out there.\r\n\r\nThe talk will specifically feature a deep dive into the data produced by the US Federal Communications Commission. The FCC has issued over 20 million licenses for transmitting on regulated parts of the electromagnetic spectrum. The data residue of this process can be used for everything from geo-locating electronic border surveillance infrastructure to discovering the location and transmission frequency of every McDonald\u2019s drive-thru radio. In the second portion of the talk, I will discuss how various protocols for data transmission can be decoded and joined with other contextual public data. For instance, every cargo ship emits an \u201c\u201cAutomated Identification System\u201d\u201d signal that can be joined with shipping records to understand what the ship is carrying.\r\n\r\nBy the end of the talk, I hope attendees will develop new intuitions and techniques for finding and working with government data, and specifically have the tools to run their own investigations using FCC data.",
+      "location": 26026,
+      "link": "http://reconvillage.org/talks-2018/#adventures-in-the-dark-web-of-government-data---marc-dacosta",
+      "speakers": [
+        26447
+      ],
+      "end_date": "2018-08-10T22:45+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Adventures in the dark web of government data",
+      "updated_at": "2018-08-02T18:21+0000"
+    },
+    {
+      "start_date": "2018-08-10T22:50+0000",
+      "id": 26492,
+      "description": "It\u2019s always been suspected that the Mormon Church is worth billions of dollars and has a sizable amount of investments in the United States stock market. However their finances are almost entirely opaque. In May 2018, MormonLeaks released a compilation of information connecting the dots between the Mormon Church and $32 billion.\r\n\r\nIt all started with WHOIS data and was further verified with almost entirely publicly available and open sources. Come hear the entire story in lightning style fashion.",
+      "location": 26026,
+      "link": "http://reconvillage.org/talks-2018/#how-whois-data-uncovered-32-billion-connected-to-the-mormon-church---ethan-dodge",
+      "speakers": [
+        26448
+      ],
+      "end_date": "2018-08-10T23:10+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "How WHOIS Data Uncovered $32 Billion Connected to the Mormon Church",
+      "updated_at": "2018-08-02T18:22+0000"
+    },
+    {
+      "start_date": "2018-08-11T23:00+0000",
+      "id": 26493,
+      "description": "As humans we have four evolutionary paths:\r\n1. We embrace nanotechnology and Bionanotechnology\u2026 we become more dependent upon machines and slowly move towards integration with the systems (we know we\u2019re looking at 80% integration in the next 20 years at least)\r\n2. We embrace consciousness and some of us end up in New Zealand hanging out in an AS/400\u2026bodies no longer needed\r\n3. AI wakes up, looks round wonders WHY humans are in the driving seat and takes over\u2026 OR we end up unplugging it and rebooting back to the 1900\u2019s\u2026\r\n4. The stumbling drunk\u2026simply put we keep staring into the abyss and almost falling in, only to somehow manage to come back from the collapse, the challenge is HOW many times can we do this before we simply fall in?",
+      "location": 26024,
+      "link": "https://www.social-engineer.org/sevillage-def-con/human-track-sevillage/#CR",
+      "speakers": [
+        26479
+      ],
+      "end_date": "2018-08-11T23:50+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "The Abyss is Waving Back\u2026",
+      "updated_at": "2018-08-02T18:23+0000"
+    },
+    {
+      "start_date": "2018-08-10T23:15+0000",
+      "id": 26495,
+      "description": "Thanks to the \u201a\u00c4\u00faboom\u201a\u00c4\u00f9 in the information security industry combined with the latest buzzwords, more and more large corporate companies are looking for the latest \u201a\u00c4\u00fanext gen\u201a\u00c4\u00f9 anti-haxor services and technologies. In doing so they often go out publicly on tender and / or issue an RFP/RFQ in order to obtain the best possible solution to meet their requirements and budget (usually cost wins).\r\n\r\nDue to this and a lack of maturity in the field, companies issue public RFQs / RFPs that contain classified and confidential / secret information such as network diagrams, architectural designs, software versions etc. This type of information would usually require that an attacker spend an extensive amount of time performing enumeration and / or gaining access to the internal network first and taking a significant amount of time to learn about that environment. Targeting the procurement process of an organisation exposes a largely unexplored attack surface.\r\n\r\nThis new research and presentation aims to demystify the above and give practical examples of large international organisations, which unfortunately fail at the RFP/RFQ process badly. This opens a \u201a\u00c4\u00fafree and easy\u201a\u00c4\u00f9 attack vector for attackers to exploit without even conducting extensive enumeration and fingerprinting, or anything close to intrusive attacks. As a result, an attacker often has access to an extensive amount confidential information about the organisation, which could be utilised to launch more targeted attacks. Depending on the type of information gathered, such attacks, could be likened to an attacker that has insider knowledge.\r\n\r\nI will also be demonstrating, via real world examples, the dangers of going out blindly and looking for specific services and products in the information security industry, with real life networks being shown on stage.\r\n\r\nA short breakdown of what will be presented is as follows:\r\n\r\nAn explanation of what is wrong with the RFQ/RFP process worldwide including proof of these issues.\r\nMultiple attack avenues of real hackers taking advantage of the process / information leaked.\r\nScenarios where attackers would be in an advantageous position.\r\nPersonal examples that I\u2019ve seen over the last 16 years (I\u2019ve contributed towards over 4000 responses to RFQs/RFPs over the years!).\r\nReal life examples that we\u2019ve seen and found publicly online, including private information that attackers could utilise.\r\nSome advice on solving this difficult issue.\u201d",
+      "location": 26026,
+      "link": "http://reconvillage.org/talks-2018/#hacking-the-international-rfq-process-killthebuzzwords---dino-covotsos",
+      "speakers": [
+        26449
+      ],
+      "end_date": "2018-08-10T23:45+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Hacking the international RFQ Process #killthebuzzwords",
+      "updated_at": "2018-08-02T18:23+0000"
+    },
+    {
+      "start_date": "2018-08-10T23:50+0000",
+      "id": 26496,
+      "description": "If you have ever performed reconnaissance on a target or conducted an OSINT investigation you know that there are a huge number of places to gather OSINT data. One of the biggest challenges is in taking the next steps with that data once you have it. How do you take what you have and transform use it to get more? For instance, if you found email addresses, where do you search to find other data about those accounts? We have excellent resources such as [http://osintframework.com)[http://osintframework.com] and https://bit.ly/technisette that are huge lists of well-organized bookmarks which can be overwhelming. That is why I created YOGA.\r\n\r\nYour OSINT Graphical Analyzer (YOGA) seeks to answer that most-common of data-gathering questions, \u201cWhat do I do now?\u201d It is designed to help when you have one type of data and need to know different actions you can take to get more data. Come to this session and learn how you and your team can use and extend this online tool in your work.",
+      "location": 26026,
+      "link": "http://reconvillage.org/talks-2018/#introducing-yoga-your-osint-graphical-analyzer---micah-hoffman",
+      "speakers": [
+        26450
+      ],
+      "end_date": "2018-08-11T00:20+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Introducing YOGA: Your OSINT Graphical Analyzer",
+      "updated_at": "2018-08-02T18:24+0000"
+    },
+    {
+      "start_date": "2018-08-11T23:55+0000",
+      "id": 26497,
+      "description": "It was just about 1 year ago that Chris announced the launching of The Innocent Lives Foundation. What has happened in the last year? What have we accomplished? What are our challenges? What is next in the future? This talk will help the community see what your support, money and love has done to save children and catch predators.",
+      "location": 26024,
+      "link": "",
+      "speakers": [
+        26480
+      ],
+      "end_date": "2018-08-12T00:45+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Hunting Predators: SE Style",
+      "updated_at": "2018-08-02T18:25+0000"
+    },
+    {
+      "start_date": "2018-08-11T00:25+0000",
+      "id": 26498,
+      "description": "This presentation shows how data driven techniques can be used to provide vision and establish relationships between users and participants of DarkWeb forums. These relationships can provide clues to uncover and reveal tracks of malicious actors. Things such as chat room transcripts and forum data are used can be used to build graphical relationships.\r\n\r\nThis provides a context where it is possible to use machine learning algorithms to unmask relationships and profile users of these dark forums. Some of the methods used include Machine Learning Algorithms such as Googles PageRank. Once this users are profiled it is possible to predict behaviors, gaining further understanding of actors using these forums to obfuscate and evade attribution.",
+      "location": 26026,
+      "link": "http://reconvillage.org/talks-2018/#using-deep-learning-to-uncover-darkweb-malicious-actors-and-their-close-circle----rod-soto-and-josephzadeh",
+      "speakers": [
+        26451,
+        26452
+      ],
+      "end_date": "2018-08-11T00:55+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Using Deep Learning to uncover darkweb malicious actors and their close circle",
+      "updated_at": "2018-08-02T18:25+0000"
+    },
+    {
+      "start_date": "2018-08-11T01:00+0000",
+      "id": 26500,
+      "description": "\u201cI fought the law and the law lost\u201d is a series of talks that aims to collect vulnerabilities in the field of Argentine Security forces. This chapter focuses on both Federal and Buenos Aires City Police, which according to the Head of Government Horacio Rodr\u00edguez Larreta, has the \u201cmost modern technology in the world\u201d.\r\n\r\nWe will analyze four particular cases (two on the lightning talk version), all of them ending in national scandals:\r\n\r\nThe leaking of the Police Reports database. Which led to the disclosure of private information of criminals, informants, involved police agents and even original reporters. This database contained cases related to drug trafficking and proxenetism.\r\nThe leaking of Proyecto X, a joined intelligence task force composed by members of different forces.\r\nThe leaking of the SNIC (Criminal Information National System), that led to the disclosure of intelligence information regarding criminal gangs undergoing federal investigation but not prosecuted/captured yet.\r\nThe leaking of Buenos Aires City Police entire database, that led to the disclosure of every agents personal information, including religious and health related concerns, like STDs, clinical and psychological history, and more.\r\n\r\nBut we\u2019ll do it having in mind a special requirement: passive action. We\u2019ll use Recon & OSINT at it\u2019s best in order to reconstruct how the leaks were carried from start to end. A police chief using his daughter\u2019s name as a password? A Police CIO using his own National ID Number as recovery question? Public databases exposing too much information? Reused passwords across every site on the internet? Sure, but it\u2019s not the worst. We\u2019ll use hand crafted DIY tools and without compromising a single system, reveal a lot of bugs and vulns. This talk is heavily focused on obtaining OSINT from public sources (specially in countries with weak or ambiguous laws, like Argentina)\r\n\r\nThis talk aims to demonstrate various flaws with a critical, technical and impartial approach to bring to the public a prevailing reality: First, argentine law allows a lot of compromising data to be used as \u201cpublic\u201d (thus leaving the place for OSINT based attacks to occur), and second\u2026 we are not safe against computer threats, and those who take care of us, neither are.",
+      "location": 26026,
+      "link": "http://reconvillage.org/talks-2018/#i-fought-the-law-and-law-lost---mauro-caseres",
+      "speakers": [
+        26453
+      ],
+      "end_date": "2018-08-11T01:35+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "I fought the law and law lost",
+      "updated_at": "2018-08-02T18:27+0000"
+    },
+    {
+      "start_date": "2018-08-12T00:50+0000",
+      "id": 26501,
+      "description": "Dynamic duo DEF CON SECTF black badge winner Chris Silvers and ACE Hackware founder Taylor Banks return to the stage to take audiences on a hunt \u00e2\u20ac\u201d of the hunt group, that is.\r\n\r\nIn this talk, Chris and Taylor will walk through the evolution of the \u201c\u201dyou called me!\u201d\u201d vishing attack from 1980s phone pranking and 3-way calling to 2010s perceived phone system glitch exploits. You\u2019ll learn how to engineer a successful \u201c\u201dsimultaneous answer\u201d\u201d vishing call through reconnaissance, rapport-building, and attack. Most importantly, you\u2019ll walk away with actionable strategies to prepare yourself and your organization against such attacks.\r\n\r\nOh, and the best part? Chris and Taylor will play real recordings of phone system glitch vishing calls on stage. Listen (and laugh) to what worked and what didn\u2019t, then learn a little something through an interactive analysis of each call with the presenters.\r\n",
+      "location": 26024,
+      "link": "https://www.social-engineer.org/sevillage-def-con/human-track-sevillage/#CS",
+      "speakers": [
+        26481,
+        26482
+      ],
+      "end_date": "2018-08-12T01:40+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "Exploit,Demo",
+      "title": "On the Hunt: Hacking the Hunt Group",
+      "updated_at": "2018-08-02T18:28+0000"
+    },
+    {
+      "start_date": "2018-08-11T20:25+0000",
+      "id": 26502,
+      "description": "Initial attack vectors for recon usually involve utilizing pay-for-data/API (Recon-NG), or paying to utilize transforms (Maltego) to get data mining results. Using some basic python webscraping of PII paywall sites to compile passive information on a target on a ramen noodle budget. The modules will allow queries for phone/email/screen names/real names/addresses/IP/Hostname/breach credentials etc..\r\n\r\nThis demo will go over the basic outline of using the script, the problems and pitfalls of dealing with scrapers, and how it will help you collect relevant information about a target to help expand your attack surface.",
+      "location": 26026,
+      "link": "http://reconvillage.org/talks-2018/#skiptracer---ghetto-osint-for-broke-hackers---illwill",
+      "speakers": [
+        26461
+      ],
+      "end_date": "2018-08-11T20:55+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Skiptracer - ghetto OSINT for broke hackers",
+      "updated_at": "2018-08-02T18:28+0000"
+    },
+    {
+      "start_date": "2018-08-11T20:25+0000",
+      "id": 26503,
+      "description": "\u201cHow do you apply open source intelligence techniques to politicians, candidates, and others holding the public trust? It\u2019s easier than you think. This talk will outline the general principles for investigating public figures, how to take information and data and turn it into a news story even when the story is (often) incomplete, and then review several case studies that demonstrate the effectiveness of combining these techniques.\r\n\r\nCase Study #1: Selling Out Before The Financial Crisis: politicians using their positions and insider knowledge to profit and sell stocks before regulatory actions and major events like the 2008 financial crisis\r\n\r\nCase Study #2: Family Money Laundering Campaign Contributions: politician, who lacks the means themselves, illegally fund their campaigns with hundreds of thousands of dollars from family members\r\n\r\nCase Study #3: How To Save $300,000 On A Home: politician purchases a home at a steep discount from a major campaign donor\r\n\r\nCase Study #4: Downton Abbey On Capitol Hill: politicians use public funds to decorate their offices in ostentatious and wasteful ways\r\n\r\nCase Study #5: Voter Fraud Is Real: political candidate actually commits voter fraud\u201d",
+      "location": 26026,
+      "link": "http://reconvillage.org/talks-2018/#applied-osint-for-politics-turning-open-data-into-news---lloyd-miller",
+      "speakers": [
+        26459
+      ],
+      "end_date": "2018-08-11T20:55+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Applied OSINT For Politics: Turning Open Data Into News",
+      "updated_at": "2018-08-02T18:29+0000"
+    },
+    {
+      "start_date": "2018-08-12T01:40+0000",
+      "id": 26504,
+      "description": "The hard science disciplines (computer science, electrical and computer engineering) have already started investing heavily in cybersecurity education. Security experts, however, note that cybersecurity is a wider discipline than simply the [technical] fields, and professionals with backgrounds [in] the social sciences \u2026 will be needed in the cyber workforce of the future. The relevance of incorporating social sciences into the cybersecurity domain has been acknowledged by the National Academies of Sciences, Engineering, and Medicine and the Department of Homeland Security. Social science disciplines, such as sociology, criminology/criminal justice, anthropology, political science, and psychology are particularly adept at unpacking the complex facets of human behavior and should therefore be leveraged for their contributions to the area of cybersecurity. Yet, the social science arena remains weak in cybersecurity training and education of the future cyber workforce.\r\n\r\nThis talk shares an educator\u2019s efforts to engage undergraduate students in a hands-on social engineering project across Fall 2017 and Spring 2018 semesters. It uses the experiential learning framework that promotes \u201clearning by doing\u201d. Specifically, this talk focuses on three sub-projects: (i) shoulder surfing where student teams competed against each other, (ii) laptop distraction, where student teams attempted to convince Temple University Computer Services employees to leave their laptops (designed for the class exercise) so that the students could remove a bogus \u2018intellectual property\u2019 file and place a fake \u2018malware\u2019 program on the employees\u2019 machines, and (iii) convince individuals on Temple University campus to take a selfie with team members and a funny prop.\r\n\r\nThe talk also offers a comparative analysis of these projects over the two semesters, sharing the experiences and challenges of both the students and this educator. It also details the issues about designing projects that follow university ethics standards, training students in human subjects research ethics, generating relevant rubrics, and how to evaluate student engagement and learning. To conclude, the educator shares these cases discussed to initiate dialog in the area of hands-on learning for social science students. Audience feedback is welcomed as this educator is still exploring the experiential learning approach, especially in the area of social engineering.",
+      "location": 26024,
+      "link": "https://www.social-engineer.org/sevillage-def-con/human-track-sevillage/#AR",
+      "speakers": [
+        26483
+      ],
+      "end_date": "2018-08-12T02:30+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "Demo",
+      "title": "Social Engineering Course Projects for Undergraduate Students",
+      "updated_at": "2018-08-02T18:30+0000"
     }
   ],
-  "updated_at": "2018-08-02T17:37+0000"
+  "updated_at": "2018-08-02T18:30+0000"
 }
