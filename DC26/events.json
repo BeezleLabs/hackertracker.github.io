@@ -5658,7 +5658,7 @@
     {
       "start_date": "2018-08-10T17:30+0000",
       "id": 26424,
-      "description": "A primer on microdosing yourself for fun and performance, from a nurse (though not medical advice)\r\n",
+      "description": "What is Microdosing? Why and how would one use it in their personal life day to day? The Nurse will show us. Though this talk will NOT focus on the medical use of Cannabis or hardcore research, it will discuss using Cannabis as a life-hack, some physiological traits to potentially target, and how one would go about measuring its effectiveness.",
       "location": 26023,
       "link": "https://puffpuffhack.com/schedule.html",
       "speakers": [
@@ -5669,7 +5669,7 @@
       "event_type": 6,
       "includes": "",
       "title": "How to Microdose Yourself\t",
-      "updated_at": "2018-08-02T16:57+0000"
+      "updated_at": "2018-08-03T00:25+0000"
     },
     {
       "start_date": "2018-08-12T17:00+0000",
@@ -5698,8 +5698,8 @@
       "conference": "DC26",
       "event_type": 6,
       "includes": "",
-      "title": "Weed Hacking: A Pragmatic Primer For Home Grows\t",
-      "updated_at": "2018-08-02T16:58+0000"
+      "title": "Closet Grows - The Hacker Way",
+      "updated_at": "2018-08-03T00:30+0000"
     },
     {
       "start_date": "2018-08-10T17:00+0000",
@@ -5732,7 +5732,7 @@
     {
       "start_date": "2018-08-10T20:00+0000",
       "id": 26429,
-      "description": "The context & implications of several breaches in 2017\t",
+      "description": "Case studies of breaches in Cannabis Software. Recently a major Cannabis POS provider found itself on the business end of a sophisticated digital attack not once, not twice, but thrice. Or maybe four times; Poor disclosure policy and a lack of transparency made it hard to tell. A large portion of all dispensaries in the country were forced to enter sales by paper, spreadsheet, or to close their doors temporarily when this software was crashed by attackers. Government contracts were lost. All eyes are on the industry right now and, given its precarious federal legal status, the next moves made will be crucial. What mightve actually happened? How far beyond the carefully prepared press releases can we see by using OSINT, Social Engineering, source code analysis,and some good ol fashioned scripting & hacking? What makes the Cannabis industry a hotbed for this kind of behavior? Lets umm....answer those questions!",
       "location": 26023,
       "link": "https://puffpuffhack.com/schedule.html",
       "speakers": [
@@ -5743,7 +5743,7 @@
       "event_type": 6,
       "includes": "",
       "title": "Cruising the Cannabis Highway: Major Breaches in Cannabis Software",
-      "updated_at": "2018-08-02T17:00+0000"
+      "updated_at": "2018-08-03T00:13+0000"
     },
     {
       "start_date": "2018-08-12T17:00+0000",
@@ -5820,7 +5820,7 @@
     {
       "start_date": "2018-08-10T22:00+0000",
       "id": 26435,
-      "description": "Open sourcing the full sequence of genomes of many strains\t",
+      "description": "The Open Cannabis Project (OCP) is a community-led, research-driven non-profit with a simple mission: to defend the richness and diversity of cannabis from illegitimate and overreaching patents. To fulfill this mission, we are building a transparent and open source repository of data about cannabis genetics, chemistry, and traits. In addition to documenting plants that already exist in the public domain, such a robust data set can also provide a unique lens into cannabis en masse, allowing us to gain an understanding of this variable little plant in a way we've never before been able to see. ",
       "location": 26023,
       "link": "https://puffpuffhack.com/schedule.html",
       "speakers": [
@@ -5831,7 +5831,7 @@
       "event_type": 6,
       "includes": "",
       "title": "About the Open Cannabis Project\t",
-      "updated_at": "2018-08-02T17:06+0000"
+      "updated_at": "2018-08-03T00:09+0000"
     },
     {
       "start_date": "2018-08-10T17:00+0000",
@@ -5850,7 +5850,7 @@
     {
       "start_date": "2018-08-10T23:00+0000",
       "id": 26437,
-      "description": "Machine Learning + webcam = auto-diagnosing of Cannabis\t",
+      "description": " Using cutting edge approaches in the field of Machine Learning and Computer Visions, we\u2019ll take you through the steps for building an ML model for classifying sick cannabis plants. This is a feature present in many plant or cannabis monitoring systems, but why pay big bucks for big licenses when it could be freely available?",
       "location": 26023,
       "link": "https://puffpuffhack.com/schedule.html",
       "speakers": [
@@ -5861,7 +5861,7 @@
       "event_type": 6,
       "includes": "",
       "title": "Diagnosing Sick Plants with Computer Vision\t",
-      "updated_at": "2018-08-02T17:08+0000"
+      "updated_at": "2018-08-03T00:26+0000"
     },
     {
       "start_date": "2018-08-11T17:00+0000",
@@ -5880,7 +5880,7 @@
     {
       "start_date": "2018-08-11T00:00+0000",
       "id": 26439,
-      "description": "",
+      "description": " Kevin will speak about his work hacking the genome of yeast to make it produce THC. Being that this process is more in alignment with current pharmaceutical practices and is able to scale much more effectively, he hopes this approach will enable many to explore the benefits of Cannabis-related medicine and products more consistently.",
       "location": 26023,
       "link": "https://puffpuffhack.com/schedule.html",
       "speakers": [
@@ -5891,23 +5891,24 @@
       "event_type": 6,
       "includes": "",
       "title": "THC Producing, Genetically Modified Yeast\t",
-      "updated_at": "2018-08-02T17:09+0000"
+      "updated_at": "2018-08-03T00:15+0000"
     },
     {
       "start_date": "2018-08-11T00:30+0000",
       "id": 26440,
-      "description": "",
+      "description": "Through Alex and Adrian\u2019s experience in the National Science Foundation I-CORPS Program they had the opportunity to visit several different types of cannabis farms. In this demonstration they will discuss the varied types of hydroponics systems that the farms are using and what their advantages and disadvantages are. The lecture will delve into the basics of different hydroponics systems for those that are just getting their hands wet. It will also provide some insights for those who want to understand the business decision behind what type of growing process to use and what technology can be used to optimally manage that system.",
       "location": 26023,
       "link": "https://puffpuffhack.com/schedule.html",
       "speakers": [
-        26432
+        26432,
+        26522
       ],
       "end_date": "2018-08-11T01:15+0000",
       "conference": "DC26",
       "event_type": 6,
       "includes": "",
       "title": "An Overview of Hydroponic Grow Techniques\t",
-      "updated_at": "2018-08-02T17:11+0000"
+      "updated_at": "2018-08-03T00:19+0000"
     },
     {
       "start_date": "2018-08-10T16:15+0000",
@@ -5926,7 +5927,7 @@
     {
       "start_date": "2018-08-11T01:15+0000",
       "id": 26442,
-      "description": "",
+      "description": "Recent attacks provide insight on cyber assaults which could halt the cannabis industry. Cannabis financial systems are little more than a set of promises between various online and real life entities. Processes designed to make cannabis financial services safe have created new vulnerabilities. If systemic institutions were compromised, panic could spread. Better testing is needed. However, cracking cannabis financial systems is harder than it looks. Project Nexus shows how certain testing methodologies can affect cannabis financial services and might even have an impact on our chances for success.",
       "location": 26023,
       "link": "https://puffpuffhack.com/schedule.html",
       "speakers": [
@@ -5937,7 +5938,7 @@
       "event_type": 6,
       "includes": "",
       "title": "Vulnerabilities in Cannabis Software\t",
-      "updated_at": "2018-08-02T17:12+0000"
+      "updated_at": "2018-08-03T00:28+0000"
     },
     {
       "start_date": "2018-08-11T16:15+0000",
@@ -5956,7 +5957,7 @@
     {
       "start_date": "2018-08-11T18:00+0000",
       "id": 26444,
-      "description": "Cryptocurrency, Big Data & their efficacies re: security, economics, and operations",
+      "description": " Cannabis legalization has been occurring in more places just as the popularity of blockchains as a technology has been increasing.  As such, it comes as no surprise for cannabis and cryptocurrencies to intertwine.  In this talk, Octet ln Triplicate will be comparing and contrasting the designs and utilities of multiple cryptocurrencies and blockchains commonly used or created for the Cannabis Industry, including PotCoin, Smoke.Network, Bitcoin, Ethereum, Monero, and more.",
       "location": 26023,
       "link": "https://puffpuffhack.com/schedule.html",
       "speakers": [
@@ -5967,12 +5968,12 @@
       "event_type": 6,
       "includes": "",
       "title": "The Cantankerous Cannabis Cryptocurrency Kerfuffle\t",
-      "updated_at": "2018-08-02T17:14+0000"
+      "updated_at": "2018-08-03T00:15+0000"
     },
     {
       "start_date": "2018-08-11T20:00+0000",
       "id": 26445,
-      "description": "",
+      "description": "This talk will discuss the emerging attack surface of the cannabis industry. Analysis of physical, digital, and compliance risks that go hand-in-hand with newly drafted medical and recreational legislation will be examined. Examples of discussion points include topics such as the secure management of PII, various compliance requirements, secure data storage, interaction with regulatory authorities, physical security issues, IoT security, legal loopholes and ambiguities, as well as suggestions for best practices and resources for followup research.",
       "location": 26023,
       "link": "https://puffpuffhack.com/schedule.html",
       "speakers": [
@@ -5982,8 +5983,8 @@
       "conference": "DC26",
       "event_type": 6,
       "includes": "",
-      "title": "How Compliance Affects the Surface Area of Cannabis POS\t",
-      "updated_at": "2018-08-02T17:15+0000"
+      "title": "Compliance & Infosec within the Cannabis Industry",
+      "updated_at": "2018-08-03T00:27+0000"
     },
     {
       "start_date": "2018-08-10T17:00+0000",
@@ -6016,16 +6017,18 @@
     {
       "start_date": "2018-08-11T21:00+0000",
       "id": 26448,
-      "description": "Notes from a Cannabis breeder\t",
+      "description": " Selective breeding has been used for thousands of years to create better agricultural crops. Recent advances in the human understanding of genomics have led to breakthroughs in our ability to hack plant genomes to create better and better plants. The analogic relationship between computer programming paradigms and the central dogma of molecular biology are very uncanny and even justify the use of the word \u201chacking\u201d when describing the selective breeding and administration of tailormade drugs to humans. Whether deleting genes or add genes, techniques have been developed that can modify the plant source code, this development can turn off or turn on programs in the plant that ultimately change the final chemistry of cannabis plants. The final chemistry of the plant can, therefore, be tailor-made to hack individual human metabolomes by design and to fix \u2018buggy\u2019 humans or human behaviors.",
       "location": 26023,
       "link": "https://puffpuffhack.com/schedule.html",
-      "speakers": [],
+      "speakers": [
+        26436
+      ],
       "end_date": "2018-08-11T22:00+0000",
       "conference": "DC26",
       "event_type": 6,
       "includes": "",
       "title": "Hacking phenotypal pathways in Cannabis\t",
-      "updated_at": "2018-08-02T17:18+0000"
+      "updated_at": "2018-08-03T00:24+0000"
     },
     {
       "start_date": "2018-08-12T17:00+0000",
@@ -6044,7 +6047,7 @@
     {
       "start_date": "2018-08-10T22:00+0000",
       "id": 26450,
-      "description": "The macroeconomics of Big Cannabis\t",
+      "description": "This talk reveals how the mass social engineering effort behind cannabis legalization could be a strategic play to protect against the decoupling of the petrodollar system. We touch upon players & history behind regulation, extrapolate how legalizing today enables the U.S. to reopen and control the renegotiation of major trade treaties such as the WTO, then finally elucidate the knock-on effects with respect to individual security and self sovereignty.",
       "location": 26023,
       "link": "https://puffpuffhack.com/schedule.html",
       "speakers": [
@@ -6056,7 +6059,7 @@
       "event_type": 6,
       "includes": "",
       "title": "The Invisible Hands Tending the Secret Greens\t",
-      "updated_at": "2018-08-02T17:19+0000"
+      "updated_at": "2018-08-03T00:11+0000"
     },
     {
       "start_date": "2018-08-10T17:00+0000",
@@ -6075,7 +6078,7 @@
     {
       "start_date": "2018-08-11T23:00+0000",
       "id": 26452,
-      "description": "",
+      "description": " Michael - helping represent some professional athletes, military vets, and parents who wish to treat their children with CBD derived products - is currently involved in a federal lawsuit against the US Attorney General, Jeff Sessions regarding the scheduling, or classification, of Cannabis. This lawsuit challenges the constitutionality of the Controlled Substances Act as it pertains to Cannabis/Marijuana. In a 90-page Complaint, attorneys representing five plaintiffs maintain that the CSA, in classifying Cannabis as a Schedule I drug, is so irrational that it violates the U.S. Constitution.",
       "location": 26023,
       "link": "https://puffpuffhack.com/schedule.html",
       "speakers": [
@@ -6086,12 +6089,12 @@
       "event_type": 6,
       "includes": "",
       "title": "legal suit against Jeff Sessions to legalize Cannabis\t",
-      "updated_at": "2018-08-02T17:20+0000"
+      "updated_at": "2018-08-03T00:17+0000"
     },
     {
       "start_date": "2018-08-12T00:00+0000",
       "id": 26453,
-      "description": "",
+      "description": " Chad will present a primer on the critical role local government plays in the Cannabis industry. This will touch upon the areas of local Cannabis permits, business licenses, building permits, law enforcement, code enforcement, health/safety/fire, etc, which are all handled at the municipal or County level and are the pain-points most likely to get someone shut down, arrested, or their permit application stopped in its tracks & their business never opened in the first place.",
       "location": 26023,
       "link": "https://puffpuffhack.com/schedule.html",
       "speakers": [
@@ -6101,8 +6104,8 @@
       "conference": "DC26",
       "event_type": 6,
       "includes": "",
-      "title": "How to deal w/ local gov and LEOs when starting/running a \"cannabusiness\"",
-      "updated_at": "2018-08-02T17:21+0000"
+      "title": "A Primer On Dealing w/ Local Gov. & Legal Cannabis",
+      "updated_at": "2018-08-03T00:23+0000"
     },
     {
       "start_date": "2018-08-10T17:00+0000",
@@ -6322,18 +6325,18 @@
       "updated_at": "2018-08-02T17:31+0000"
     },
     {
-      "start_date": "2018-08-10T17:00+0000",
+      "start_date": "2018-08-11T04:00+0000",
       "id": 26472,
-      "description": "\u201cWhose Slide Is It Anyway?\u201d is an unholy union of improv comedy, hacking and slide deck sado-masochism.\r\n\r\nLocation: \r\nHours: \r\nTwitter: @ImprovHacker\r\nWebsite: http://improvhacker.com/",
-      "location": 26005,
+      "description": "\u201cWhose Slide Is It Anyway?\u201d is an unholy union of improv comedy, hacking and slide deck sado-masochism.\r\n\r\nLocation: Contest Floor\r\nHours: 9-11\r\nTwitter: @ImprovHacker\r\nWebsite: http://improvhacker.com/",
+      "location": 26017,
       "link": "http://improvhacker.com/",
       "speakers": [],
-      "end_date": "2018-08-11T02:00+0000",
+      "end_date": "2018-08-12T06:00+0000",
       "conference": "DC26",
       "event_type": 7,
       "includes": "",
       "title": "Whose Slide is it anyway?",
-      "updated_at": "2018-08-02T17:35+0000"
+      "updated_at": "2018-08-03T00:45+0000"
     },
     {
       "start_date": "2018-08-11T17:00+0000",
@@ -7362,7 +7365,186 @@
       "includes": "",
       "title": "Hacking U-Boot",
       "updated_at": "2018-08-02T19:49+0000"
+    },
+    {
+      "start_date": "2018-08-10T19:00+0000",
+      "id": 26539,
+      "description": "OpenXC builds its firmware -- for both the open and proprietary builds -- using JSON data structures which define the CAN signals. These definitions are akin to the CAN database files (.dbc) files. Reverse engineering of the open openXC builds (as an educational excersise) reveals that it is a straightforward matter to identify and extract the CAN signal definitions from the binary. Attendees will learn:  What are dbc files? How strings lead reverse engineers to interesting code via backwards cross-references? What tools do attackers use to reverse engineer raw binary firmwares? How do they use them? What are some simple, useful deterrents? How do descriptive data structures -- JSON in particular -- aid attackers in their reverse engineering efforts? What mitigations are possible for this risk? The exposition of machine code in the talk will be via the free radare2 RE tool.",
+      "location": 26028,
+      "link": "https://www.carhackingvillage.com/defcon26talks",
+      "speakers": [
+        26523
+      ],
+      "end_date": "2018-08-10T19:25+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Can Signal Extraction From OpenXC With Radare2",
+      "updated_at": "2018-08-03T01:41+0000"
+    },
+    {
+      "start_date": "2018-08-10T19:30+0000",
+      "id": 26540,
+      "description": "Getting started in car hacking can be a daunting and expensive hobby. In this talk I am going to walk you through what you need to buy (and what you can likely skip). I will also be releasing a quick start guide and a script to help new car hackers build a \"Car Hacking\" system.",
+      "location": 26028,
+      "link": "https://www.carhackingvillage.com/defcon26talks",
+      "speakers": [
+        26524
+      ],
+      "end_date": "2018-08-10T20:15+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "So You Want To Hack A Car?",
+      "updated_at": "2018-08-03T01:42+0000"
+    },
+    {
+      "start_date": "2018-08-10T20:20+0000",
+      "id": 26541,
+      "description": "Golang is a pretty nifty language, and it's remarkably well suited for car hacking. SocketCAN provides a great framework for interacting with CAN devices, so why not use it from Go? We'll present an open source Go library for making SocketCAN easy, and show how to work with raw CAN and ISOTP data. Attendees will get all the info they need to start hacking CAN buses with Go.",
+      "location": 26028,
+      "link": "https://www.carhackingvillage.com/defcon26talks",
+      "speakers": [
+        26525
+      ],
+      "end_date": "2018-08-10T20:45+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Go Hack Cars",
+      "updated_at": "2018-08-03T01:42+0000"
+    },
+    {
+      "start_date": "2018-08-10T22:50+0000",
+      "id": 26542,
+      "description": "Nowadays any recent car up to 5 years old comes with something called \u201cInfotainment\u201d, this is that IPad-looking screen that allows you to use the GPS Navigation, select your favorite music from your IPod, make or receive calls while speaking through the Car\u2019s speakers, or even ask the Car to read a SMS message for you, that along with the latest self-driving technologies popping up everywhere cannot longer be handled by a microcontroller, it requires an embedded OS to support all those features and therefore the world started worrying about the possibility to get Ransomware on the Car or an Infostealer reading all your SMS messages while you are driving, or triggering a DoS on the CAN Bus so that the Car cannot work properly, etc. All those scenarios used to be hypothetical until now, we grabbed an infotainment, broke into it and reversed engineer all its main components with one goal in mind: to infect the Infotainment with malware that can be commanded remotely through SMS messages.\r\n\r\n",
+      "location": 26028,
+      "link": "https://www.carhackingvillage.com/defcon26talks",
+      "speakers": [
+        26526
+      ],
+      "end_date": "2018-08-10T23:35+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Meet Salinas, The First Ever SMS-Commanded Car Infotainment Rat",
+      "updated_at": "2018-08-03T01:44+0000"
+    },
+    {
+      "start_date": "2018-08-10T23:40+0000",
+      "id": 26543,
+      "description": "The presentation will cover security implications of GPS and positioning attacks. We will discuss real world attacks and incidents. We will touch upon increased reliance on positioning data in accident reconstruction and assistive driving technologies.",
+      "location": 26028,
+      "link": "https://www.carhackingvillage.com/defcon26talks",
+      "speakers": [
+        26527
+      ],
+      "end_date": "2018-08-11T00:05+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Automotive Evidence Collection - Automotive Driving Aids and Liability",
+      "updated_at": "2018-08-03T01:45+0000"
+    },
+    {
+      "start_date": "2018-08-11T00:10+0000",
+      "id": 26544,
+      "description": "Unified Diagnostic Services (UDS) provides a powerful interface into vehicle diagnostics. OEMs use these services to update firmware, manipulate calibration data, send and receive information from vehicle ECUs, and now more recently for over the air updates. This talk pulls back the curtain on automotive bootloaders and how poor security design or implementation choices can be used by attackers to exfiltrate firmware or even gain persistent code execution.AUTOMOTIVE FLASH BOOTLOADERS: EXPOSING AUTOMOTIVE ECU UPDATES",
+      "location": 26028,
+      "link": "https://www.carhackingvillage.com/defcon26talks",
+      "speakers": [
+        26529
+      ],
+      "end_date": "2018-08-11T00:55+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Automotive Flash Bootloaders: Exposing Automotive ECU Updates",
+      "updated_at": "2018-08-03T01:49+0000"
+    },
+    {
+      "start_date": "2018-08-11T18:20+0000",
+      "id": 26545,
+      "description": "The security of automobiles accesses control system is a topic often discussed. Today's vehicles rely on key-fob control modules, to ensure the vehicle is accessible to authorized users only. While most traditional automobile key-fob systems have been shown to be insecure in the past, here comes a game changer. Instead of the regular key-fob system, some car owners will be able to access their vehicle by having their smartphone authenticate as a digital car key.\r\n\r\nIn this talk, we will reveal the research and attacks for one of the digital car key system in the current market. By investigating how these features work, and how to exploit it through different possibilities of attack vectors, we will demonstrate the security limitations of such system. By the end of this talk, the attendees will not only understand how to exploit these systems, but also which tools can be used to achieve our goals.",
+      "location": 26028,
+      "link": "https://www.carhackingvillage.com/defcon26talks",
+      "speakers": [
+        26531
+      ],
+      "end_date": "2018-08-11T19:05+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Grand Theft Hacking: Digital Key Hacking",
+      "updated_at": "2018-08-03T01:54+0000"
+    },
+    {
+      "start_date": "2018-08-11T19:15+0000",
+      "id": 26546,
+      "description": "The Automotive Exploitation Sandbox is a hands-on educational tool designed to provide stakeholders with little to no previous exposure to automotive security a hands-on experience with real hardware following a basic attack chain against a typical automotive development board. The attack chain provides instructions for the user to remotely exploit, escalate privilege, exfiltrate data, and modify memory using synthetic vulnerabilities placed on a remote test platform running an OS and hardware typically found in automotive systems.\r\n\r\n\r\nAn illustrated summary can be found at:\r\nhttps://sandbox.redballoonsecurity.com/\r\n",
+      "location": 26028,
+      "link": "https://www.carhackingvillage.com/defcon26talks",
+      "speakers": [
+        26532,
+        26533,
+        26534,
+        26535
+      ],
+      "end_date": "2018-08-11T19:40+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Automotive Exploitation Sandbox: A Hands-On Educational Introduction to Embedded Device Exploitation",
+      "updated_at": "2018-08-03T01:53+0000"
+    },
+    {
+      "start_date": "2018-08-11T19:45+0000",
+      "id": 26547,
+      "description": "An overview of commercial performance tuning tools for vehicles and their uses: engine and transmission performance tuning tools have been around before infosec 'car hacking' was a thing and you should be aware of their capabilities. The presenter will discuss HPtuners, EFI Live, MSD Gold Box, Megasquirt, various handhelds and others, and how they are commonly used.",
+      "location": 26028,
+      "link": "https://www.carhackingvillage.com/defcon26talks",
+      "speakers": [
+        26361
+      ],
+      "end_date": "2018-08-11T20:10+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Performance Tuning Tools and Their Capabilities",
+      "updated_at": "2018-08-03T01:54+0000"
+    },
+    {
+      "start_date": "2018-08-11T21:35+0000",
+      "id": 26548,
+      "description": "There exist several approaches to misbehavior detection in V2X networks in research literature, many of them not necessarily taking automotive restrictions into account. Only few approaches do and there is only one approach that has been tested in actual vehicles as far as I know. And that approach has it challenges - although it is an important first step towards implementation. I will present how this (and one or two other) approach works and how it can be tricked. Although misbehavior detection is an integral part of the V2X security system nobody seems to care that V2X gets deployed, but there is no feasible approach for misbehavior detection. I will present a hypothesis why this is and will discuss it with the audience.",
+      "location": 26028,
+      "link": "https://www.carhackingvillage.com/defcon26talks",
+      "speakers": [
+        26530
+      ],
+      "end_date": "2018-08-11T22:20+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Misbehavior Detection in V2X Networks",
+      "updated_at": "2018-08-03T01:55+0000"
+    },
+    {
+      "start_date": "2018-08-11T22:30+0000",
+      "id": 26549,
+      "description": "The Controller Area Network (CAN) bus has been mandated in all cars sold in the United States since 2008. But CAN is terrible in many unique and disturbing ways. CAN has served as a convenient punching bag for automotive security researches for a plethora of reasons, but all of the available analysis tools share a shortcoming. They invariably use a microcontroller with a built-in CAN peripheral that automatically takes care of the low-level (ISO layer 1 and 2) communication details, and ensures that the CAN peripheral plays nicely and behaves at those low levels. However, a good hardware hacker understands that the sole purpose of the electron is to be bent to our will, and breaking assumptions by making \u201cThat CANT happen!\u201d happen is a surefire way to find bugs. CANT is a (partial) CAN bus peripheral implemented in software that allows security researchers to exercise the electrical bus-level error handling capability of CAN devices. The ability to selectively attack specific ECUs in a manner that is not detectable by automotive IDS/IPS systems (see ICS-ALERT-17-209-01) is invaluable to automotive security researchers as more automakers integrate advanced security measures into their vehicles.",
+      "location": 26028,
+      "link": "https://www.carhackingvillage.com/defcon26talks",
+      "speakers": [
+        26528
+      ],
+      "end_date": "2018-08-11T23:15+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "CANT",
+      "updated_at": "2018-08-03T01:56+0000"
     }
   ],
-  "updated_at": "2018-08-02T22:53+0000"
+  "updated_at": "2018-08-03T01:56+0000"
 }

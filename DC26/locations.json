@@ -1,5 +1,5 @@
 {
-  "updated_at": "2018-08-02T22:45+0000",
+  "updated_at": "2018-08-03T01:40+0000",
   "locations": [
     {
       "name": "Track 2 - Octavius Ballroom - Caesar's",
@@ -134,9 +134,9 @@
       "conference": "DC26"
     },
     {
-      "name": "Puff Puff Village - Flamingo",
+      "name": "Cannabis Village - Flamingo",
       "id": 26023,
-      "updated_at": "2018-08-02T16:45+0000",
+      "updated_at": "2018-08-03T00:07+0000",
       "conference": "DC26"
     },
     {
@@ -161,6 +161,12 @@
       "name": "Chillout - Roman - Caesar's",
       "id": 26027,
       "updated_at": "2018-08-02T22:45+0000",
+      "conference": "DC26"
+    },
+    {
+      "name": "Car Hacking Village - Flamingo",
+      "id": 26028,
+      "updated_at": "2018-08-03T01:40+0000",
       "conference": "DC26"
     }
   ]
