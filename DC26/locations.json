@@ -1,10 +1,10 @@
 {
-  "updated_at": "2018-08-03T01:40+0000",
+  "updated_at": "2018-08-03T15:28+0000",
   "locations": [
     {
-      "name": "Track 2 - Octavius Ballroom - Caesar's",
+      "name": "Track 2 - Octavius - Caesar's",
       "id": 26001,
-      "updated_at": "2018-08-02T22:42+0000",
+      "updated_at": "2018-08-03T15:21+0000",
       "conference": "DC26"
     },
     {
@@ -167,6 +167,42 @@
       "name": "Car Hacking Village - Flamingo",
       "id": 26028,
       "updated_at": "2018-08-03T01:40+0000",
+      "conference": "DC26"
+    },
+    {
+      "name": "VX (Chip-off) Village - Caesar's",
+      "id": 26029,
+      "updated_at": "2018-08-03T03:43+0000",
+      "conference": "DC26"
+    },
+    {
+      "name": "CAAD Village - Flamingo",
+      "id": 26030,
+      "updated_at": "2018-08-03T04:13+0000",
+      "conference": "DC26"
+    },
+    {
+      "name": "Data Duplication Village - Caesar's",
+      "id": 26031,
+      "updated_at": "2018-08-03T04:40+0000",
+      "conference": "DC26"
+    },
+    {
+      "name": "r00tz - Caesar's",
+      "id": 26032,
+      "updated_at": "2018-08-03T13:52+0000",
+      "conference": "DC26"
+    },
+    {
+      "name": "Vendor Area - Caesar's",
+      "id": 26033,
+      "updated_at": "2018-08-03T15:21+0000",
+      "conference": "DC26"
+    },
+    {
+      "name": "Packet Hacking Village - Caesar's",
+      "id": 26034,
+      "updated_at": "2018-08-03T15:28+0000",
       "conference": "DC26"
     }
   ]

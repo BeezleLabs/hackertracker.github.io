@@ -1,5 +1,5 @@
 {
-  "updated_at": "2018-08-03T01:50+0000",
+  "updated_at": "2018-08-03T15:58+0000",
   "speakers": [
     {
       "name": "0x200b",
@@ -4963,11 +4963,11 @@
     },
     {
       "name": "Kevin2600",
-      "updated_at": "2018-08-03T01:46+0000",
-      "description": "",
+      "updated_at": "2018-08-03T14:59+0000",
+      "description": "Huajiang \"Kevin2600\" Chen (Twitter: @kevin2600) is a security researcher at Ingeek. And a member of Team-Trinity. The Team-Trinity is a Non-profit group of security researchers, mainly focus on wireless and embedded systems vulnerability research. Team members have worked extensively with binary reverse engineering, mobile security, and hardware security. Kevin2600 has spoken at various conferences including XCON, KCON, OZSecCon, BSides, and Alibaba-Cloud-Zcon.\r\n\r\n",
       "title": "",
       "id": 26531,
-      "twitter": "",
+      "twitter": "@kevin2600",
       "conference": "DC26",
       "link": ""
     },
@@ -5017,6 +5017,1006 @@
       "description": "",
       "title": "",
       "id": 26536,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Joe FitzPatrick",
+      "updated_at": "2018-08-03T03:29+0000",
+      "description": "Joe (@securelyfitz) is an Instructor and Researcher at https://SecuringHardware.com (@securinghw). Joe has spent over a decade working on low-level silicon debug, security validation, and penetration testing of CPUS, SOCs, and microcontrollers. He has spent the past 5 years developing and leading hardware security related training, instructing hundreds of security researchers, pen testers, hardware validators worldwide. When not teaching Applied Physical Attacks training, Joe is busy developing new course content or working on contributions to the NSA Playset and other misdirected hardware projects, which he regularly presents at all sorts of fun conferences.",
+      "title": "",
+      "id": 26537,
+      "twitter": "@securelyfitz",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "@arinerron",
+      "updated_at": "2018-08-03T03:29+0000",
+      "description": "@arinerron is a student, security enthusiast, CTF player, bug bounty hunter, software developer, and ham radio operator (K1ARE). He\u2019s interested in many aspects of security, though most of his experience is in web and binary exploitation.",
+      "title": "",
+      "id": 26538,
+      "twitter": "@arinerron",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Chaos Pixie",
+      "updated_at": "2018-08-03T03:29+0000",
+      "description": "Chaos Pixie (@pixieofchaos) works for the man doing embedded systems security.\r\n\r\n",
+      "title": "",
+      "id": 26539,
+      "twitter": "@pixieofchaos",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Chris Gammell",
+      "updated_at": "2018-08-03T03:29+0000",
+      "description": "Chris Gammell is the host of The Amp Hour Electronics podcast and the owner of Contextual Electronics, an online apprenticeship program. He has been teaching people to design and build electronics online for 8 years, including 5 as an online instructor. His interests are in hands on education and making the electronics learning process easier. He also focuses on low cost and no cost tools, like the open source CAD program KiCad. Prior to teaching online, Chris was an electronics designer for 15 years in various industrial settings.\r\n\r\n",
+      "title": "",
+      "id": 26540,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Mike Davis",
+      "updated_at": "2018-08-03T03:30+0000",
+      "description": "Software/hardware developer, currently studying an MSc Computer Science (infosec), not yet a cyborg\r\n\r\n",
+      "title": "",
+      "id": 26541,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Brian Milliron",
+      "updated_at": "2018-08-03T03:30+0000",
+      "description": "Brian Milliron works as a freelance penetration tester for ECR Security. He has been monkeying around with security since his teens and has worked as a pentester for the last 8 years, working primarily with the Energy/Utility sector. Besides popping shells and defeating Big Brother technology, he also enjoys exploring the RF spectrum, finding new uses for Raspberry Pis, studying malware, nature and off-grid living.\r\n\r\n",
+      "title": "",
+      "id": 26542,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Salvador Mendoza ",
+      "updated_at": "2018-08-03T03:30+0000",
+      "description": "Salvador Mendoza is a security researcher focusing in tokenization processes, magnetic stripe information and embedded prototypes. He has presented on tokenization flaws and payment methods at Black Hat USA, DEF CON 24/25, DerbyCon, Ekoparty, BugCON, 8.8, and Troopers 17/18. Salvador designed different tools to pentest magnetic stripe information and tokenization processes. In his designed toolset includes MagSpoofPI, JamSpay, TokenGet, SamyKam and lately BlueSpoof.\r\n\r\n",
+      "title": "",
+      "id": 26543,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Bryan Austin",
+      "updated_at": "2018-08-03T03:30+0000",
+      "description": "Bryan Austin is an information security researcher with a background in electronics, threat analysis, social engineering, working with at-risk children, mentorship and research. He is also the co-founder of Through the Hacking Glass, a free mentorship community partnered with Peerlyst. By day, he secures people and organizations against scammers and hackers but by night he works with children with behavioral issues and a variety of other challenges. When not crusading against internet evil doers, he enjoys hiking, Taekwondo, and hacking with his beautiful wife and 3 amazing children.\r\n\r\n",
+      "title": "",
+      "id": 26544,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "John Aho",
+      "updated_at": "2018-08-03T03:31+0000",
+      "description": "John is a programmer who makes gloriously useless things and occasionally useful ones by accident.",
+      "title": "",
+      "id": 26545,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Commodore Z",
+      "updated_at": "2018-08-03T03:31+0000",
+      "description": "Commodore Z is vintage computer geek by night, and a broadcast engineer by day. He collects and restores vintage computers & robots, studies historical telephony, and peers into the past to better understand the future. He lives by the mantra \u201cjack of all trades, master of none, but better than a master of one\u201d, and doctors say there are traces of blood in his lead stream. When time permits, he volunteers for the Vintage Computer Federation.",
+      "title": "",
+      "id": 26546,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "David Melendez Cano",
+      "updated_at": "2018-08-03T03:32+0000",
+      "description": "David Melendez, Spain, works as R&D software engineer for TV Studio manufacturer company, Albal\u00e1 Ingenieros S.A. in Madrid. He has won several prices in robotic contests and he has been a speaker at Nuit Du Hack, RootedCON, NoConName, Codemotion, HKOSCON, etc. Author of the book \u201cHacking con Drones\u201d and robot builder.\r\n\r\n",
+      "title": "",
+      "id": 26547,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Captain",
+      "updated_at": "2018-08-03T03:44+0000",
+      "description": "Captain is the founder of Chip-off Village. It had been held in the different security conference like HITB AMS and Defcon China, and the coming Hardware Security Conference in The Hague and HITB Dubai. He has also delivered chip-off forensics analysis training in HTCIA US, HITCON and CodeBlue security conference.",
+      "title": "",
+      "id": 26548,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Anthony Lai",
+      "updated_at": "2018-08-03T03:45+0000",
+      "description": "Anthony Lai focus on offensive \"Kungfu\", malware analysis, target attack research as well as attribution. He is passionate over Capture the Flag game, reverse engineering and exploitation for years. Anthony found VXRL since 2009 and he is Blackhat Asia and HITB CFP review board members, speaking at Blackhat USA and DEFCON on malware analysis, APT and DDoS attack techniques.\r\n\r\n",
+      "title": "",
+      "id": 26549,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Alan Ho",
+      "updated_at": "2018-08-03T03:45+0000",
+      "description": "Alan Ho is passionate over Web and Application security and various research. He is now working as a Security Consultant and Engineer. He got experience in development, penetration test, incident response, security operation planning and investigation. Alan is also involved in secure cryptocurrency exchange platform design and development. He holds OSCP and SANS GWAPT (Gold) and has spoken at SANS DFIR Summit, DFRWS EU and HITCON.",
+      "title": "",
+      "id": 26550,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Boris",
+      "updated_at": "2018-08-03T03:45+0000",
+      "description": "Boris is a software security specialist in a world\u2019s leading financial services institutes, specializing in software design and architecture, threat modeling, secure programming and static code analysis, penetration and simulation test, code obfuscation, steganography, as well as rootkit research. Currently he is involved in projects developing machine learning and statistical modeling application in threat detection. Boris holds 2 bachelor degrees in computing and surveying, and a master degrees in computer forensics.",
+      "title": "",
+      "id": 26551,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Chris",
+      "updated_at": "2018-08-03T03:46+0000",
+      "description": "Chris is a security analyst of Udomain Web Hosting Ltd, focusing on web application security, malware analysis and various research. He was contributed malware analysis to a Hong Kong threat intelligence sharing platform and first CTF in Hong Kong. He holds OSCP and CEH and is providing penetration test for web hosting client. He was a speaker of security congress APAC 2017 and DragonCon 2017.\r\n",
+      "title": "",
+      "id": 26552,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Zetta",
+      "updated_at": "2018-08-03T03:46+0000",
+      "description": "Zetta is a researcher who focuses on security-related topics. He holds a PhD degree in management information systems. He taught several courses on security from both technical and managerial perspectives for various audience ranging from master-level students to business managers. He is also the team leader of VXRL CTF team.",
+      "title": "",
+      "id": 26553,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Harry",
+      "updated_at": "2018-08-03T03:46+0000",
+      "description": "Harry is passionate over cryptography and security-related research. Being an undergraduate student in HKUST, he is now working as a security engineer at the same time. He is also a crew member of VXRL CTF team and involved in creating VXCTF, a CTF for local enthusiasts. Currently he is involved in projects around blockchains, distributed systems and cryptographic designs.",
+      "title": "",
+      "id": 26554,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Tessy",
+      "updated_at": "2018-08-03T03:47+0000",
+      "description": "AVTOKYO founder, CODE BLUE / SECCON / sutegoma2 from Japan\r\n\r\n",
+      "title": "",
+      "id": 26555,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Moonbeom Park",
+      "updated_at": "2018-08-03T03:47+0000",
+      "description": "Moonbeom is general researcher in KISA(Korea Internet Security Agency) of Korea, has 11 years of experience in hacking analysis, digital forensic, research on hacking and profiling hacking source. He is one of experts among government and private sector in fields of forensic, hacking analysis, hacker profiling, counter-attack on hackers. Also he has participated in various international security conference such as FIRST, TROOPERS, HITB, HITCON, Ekoparty, VXCON, AVTOKYO.",
+      "title": "",
+      "id": 26556,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Dr. Bo Li",
+      "updated_at": "2018-08-03T03:53+0000",
+      "description": "Dr. Bo Li is assistant professor in the department of Computer Science at University of Illinois at Urbana\u2013Champaign, and is a recipient of the Symantec Research Labs Graduate Fellowship. She was a postdoctoral researcher in UC Berkeley, working with Professor Dawn Song. Her research focuses on both theoretical and practical aspects of machine learning, computer vision, security, privacy, game theory, social networks, and adversarial deep learning. She has designed several robust learning algorithms, a scalable framework for achieving robustness for a range of learning methods, and a privacy preserving data publishing system.\r\n\r\n",
+      "title": "",
+      "id": 26557,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Joey Bose",
+      "updated_at": "2018-08-03T03:53+0000",
+      "description": "Joey Bose (Tweet@bose_joey)is a Master\u2019s student at the University of Toronto under the supervision of Parham Aarabi. His current research interests involve crafting Adversarial Attacks on Computer Vision models using GAN\u2019s. Beginning Fall 2018 he will start his PhD at McGill / MILA under the supervision of Will Hamilton and Jackie Cheung.He is also a research intern at Borealis AI where he works on on applying adversarial learning principles to learn better embeddings models through adversarial sampling schemes.",
+      "title": "",
+      "id": 26558,
+      "twitter": "@bose_joey",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Joseph Clements",
+      "updated_at": "2018-08-03T03:53+0000",
+      "description": "Joseph Clements works with Dr. Yingjie Lao\u2019s Secure and Innovative Computing Research Group conducting research on Adversarial AI in edge based Deep Learning technologies. In the fall semester of 2017, Joseph joined Clemson University\u2019s Holcombe Department of Electrical and Computer Engineering in pursuit of his PhD. He graduated with a bachelor\u2019s degree in computer engineering from the University of South Alabama in May of 2016. There, he engaged in research with Dr. Mark Yampolskiy on the security of additive manufacturing and cyber-physical systems. His research interests include machine learning and artificial intelligence, security and VLSI design.",
+      "title": "",
+      "id": 26559,
+      "twitter": "@bose_joey",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Xiaojin Jiao, NorthWestSec",
+      "updated_at": "2018-08-03T03:54+0000",
+      "description": "NorthWestSec, a team of independent security researchers concentrating on AI and security topic. They have demonstrated the Hacking Google reCaptcha using Deep learning technology at GeekPwn 2017 in Silicon Valley.",
+      "title": "",
+      "id": 26560,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Wei Li, NorthWestSec",
+      "updated_at": "2018-08-03T03:55+0000",
+      "description": "NorthWestSec, a team of independent security researchers concentrating on AI and security topic. They have demonstrated the Hacking Google reCaptcha using Deep learning technology at GeekPwn 2017 in Silicon Valley.",
+      "title": "",
+      "id": 26561,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Wenbo Guo",
+      "updated_at": "2018-08-03T03:55+0000",
+      "description": "Wenbo Guo is a Ph.D. student in the College of Information Science and Technology at Pennsylvania State University. Currently, he is a research intern at JD security research center in Silicon Valley. Before joining the Penn State, he got his Master degree from Shanghai Jiao Tong University in 2017. His research mainly focuses on deep learning as well as its applications in program analysis and security. He has published several research papers in the high-quality journals and conferences, such as KDD.",
+      "title": "",
+      "id": 26562,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Alejandro Cuevas",
+      "updated_at": "2018-08-03T03:55+0000",
+      "description": "Alejandro Cuevas, originally from Paraguay, graduated in May 2018 from The Pennsylvania State University with a B.S. Security and Risk Analysis. As an undergraduate, Alejandro co-authored 2 papers in different areas within computer security. At Penn State, Alejandro has worked on analyzing the challenges in the reproduction of crowd-reported vulnerabilities and is currently involved in a project presenting a novel RNN for memory alias analysis. Furthermore, Alejandro has also extensively collaborated with EPFL, exploring the security challenges faced by the ICRC and helping in the deployment of an anonymous communication protocol with provable traffic-analysis resistance. Alejandro is currently applying to Ph.D. programs and hopes to start in the fall of 2019.",
+      "title": "",
+      "id": 26563,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Zhuang Zhang",
+      "updated_at": "2018-08-03T03:55+0000",
+      "description": "Zhuang Zhang is the senior researcher at Tencent Yunding Laboratory.\r\n\r\n",
+      "title": "",
+      "id": 26564,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Bo Shi ",
+      "updated_at": "2018-08-03T03:55+0000",
+      "description": "Bo Shi is the Ecosystem Director of Tencent Yunding Laboratory.\r\n\r\n",
+      "title": "",
+      "id": 26565,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Hangfeng Dong ",
+      "updated_at": "2018-08-03T03:56+0000",
+      "description": "Hangfeng Dong is the researcher of Tencent Yunding Laboratory.\r\n\r\n",
+      "title": "",
+      "id": 26566,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Tianyu Pang",
+      "updated_at": "2018-08-03T04:09+0000",
+      "description": "Tianyu Pang is a first-year Ph.D. student of TSAIL Group in the Department of Computer Science and Technology, Tsinghua University, advised by Prof. Jun Zhu. His research interest includes machine learning, deep learning and their applications in computer vision, especially robustness of deep learning.\r\n\r\n",
+      "title": "",
+      "id": 26567,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Bruce Hou",
+      "updated_at": "2018-08-03T04:10+0000",
+      "description": "Bruce Hou, senior security researcher with more than four years of experience in Tencent Security Platform Department, mainly focuses on the classification of images and videos, human-machine confrontation and the attacks and defenses of cyber security.\r\n\r\nTencent Blade Team was founded by Tencent Security Platform Department, focusing in security researches of AI, mobile Internet, IoT, wireless devices and other cutting-edge technologies. So far, Tencent Blade Team has reported many security vulnerabilities to a large number of international manufacturers, including Google and Apple. In the future, Tencent Blade Team will continue to make the Internet a safer place for everyone.",
+      "title": "",
+      "id": 26568,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Wen Zhou",
+      "updated_at": "2018-08-03T04:10+0000",
+      "description": "Wen Zhou, senior security researcher with multiple years of experience in Tencent Security Platform Department, mainly focuses on the research of computer vision, adversarial-examples and so on.\r\n\r\nTencent Blade Team was founded by Tencent Security Platform Department, focusing in security researches of AI, mobile Internet, IoT, wireless devices and other cutting-edge technologies. So far, Tencent Blade Team has reported many security vulnerabilities to a large number of international manufacturers, including Google and Apple. In the future, Tencent Blade Team will continue to make the Internet a safer place for everyone.",
+      "title": "",
+      "id": 26569,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Rohan Taori",
+      "updated_at": "2018-08-03T04:11+0000",
+      "description": "Rohan Taori(Tweet@rtaori13) is an undergrade at UC Berkeley studying EECS with an interest in machine learning and AI. He heads the educational division at Machine Learning at Berkeley and is also a researcher at BAIR (Berkeley AI Research).\r\n\r\n",
+      "title": "",
+      "id": 26570,
+      "twitter": "@rtaori13",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Amog Kamsetty",
+      "updated_at": "2018-08-03T04:11+0000",
+      "description": "Amog Kamsetty is an undergraduate studying EECS at UC Berkeley, with an interest in both machine learning and systems. He is involved with Machine Learning @ Berkeley and is currently pursuing research at UC Berkeley RISE Lab.\r\n\r\n",
+      "title": "",
+      "id": 26571,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Weilin Xu",
+      "updated_at": "2018-08-03T04:11+0000",
+      "description": "Weilin Xu is the intern at Baidu X-Lab, PhD candidate at the University of Virginia.\r\n\r\n",
+      "title": "",
+      "id": 26572,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Yunhan Jia",
+      "updated_at": "2018-08-03T04:11+0000",
+      "description": "Yunhan Jia is the senior security scientist at Baidu X-Lab.\r\n\r\n",
+      "title": "",
+      "id": 26573,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Zhenyu Zhong ",
+      "updated_at": "2018-08-03T04:11+0000",
+      "description": "Zhenyu Zhong is the staff security scientist at Baidu X-Lab.\r\n\r\n",
+      "title": "",
+      "id": 26574,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Yao Zhao",
+      "updated_at": "2018-08-03T04:12+0000",
+      "description": "Yao Zhao is an applied scientist at Microsoft AI & Research working on natural language understanding/generation and search ranking. During his Ph.D. at Yale University, he worked in the field of computuer vision and optics.",
+      "title": "",
+      "id": 26575,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Moustafa Alzantot",
+      "updated_at": "2018-08-03T04:12+0000",
+      "description": "Moustafa Alzantot is a Ph.D. Candidate in Computer Science at UCLA. His research interests include machine learning, privacy, and mobile computing. He is an inventor of two US patents and the recipient of several awards including the COMESA 2014 innovation award. He worked as an intern at Google, Facebook, and Qualcom.\r\n\r\n",
+      "title": "",
+      "id": 26576,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Yash Sharma",
+      "updated_at": "2018-08-03T04:12+0000",
+      "description": "Yash Sharma is a visiting scientist at Cornell who recently graduated with a Bachelors and Masters in Electrical Engineering. His research has focused on adversarial examples, namely pushing the state-of-the-art in attacks in both limited access settings and challenging domains. He is interested in finding more principled solutions for resolving the robustness problem, as well as studying other practical issues which are inhibiting us from achieving AGI.\r\n\r\n",
+      "title": "",
+      "id": 26577,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Yuzhe Zhao",
+      "updated_at": "2018-08-03T04:12+0000",
+      "description": "Yuzhe Zhao is a software engineer in Google Research, working on natural language understanding. He recently earned his Ph.D. from Yale University. Previously, he received his undergraduate degree in mathematics and physics from Shanghai Jiao Tong University.",
+      "title": "",
+      "id": 26578,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Andy Klein",
+      "updated_at": "2018-08-03T04:40+0000",
+      "description": "",
+      "title": "",
+      "id": 26579,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Jessica \u201cZhanna\u201d Malekos Smith",
+      "updated_at": "2018-08-03T04:40+0000",
+      "description": "",
+      "title": "",
+      "id": 26580,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Lior Kolnik",
+      "updated_at": "2018-08-03T04:40+0000",
+      "description": "",
+      "title": "",
+      "id": 26581,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Mauro C\u00e1seres",
+      "updated_at": "2018-08-03T04:41+0000",
+      "description": "",
+      "title": "",
+      "id": 26582,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Bracken Darell",
+      "updated_at": "2018-08-03T13:45+0000",
+      "description": "",
+      "title": "",
+      "id": 26583,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Bianca",
+      "updated_at": "2018-08-03T13:45+0000",
+      "description": "",
+      "title": "",
+      "id": 26584,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Jen Savage",
+      "updated_at": "2018-08-03T13:46+0000",
+      "description": "",
+      "title": "",
+      "id": 26585,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Eh?Mae",
+      "updated_at": "2018-08-03T14:08+0000",
+      "description": "",
+      "title": "",
+      "id": 26586,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "&na",
+      "updated_at": "2018-08-03T13:46+0000",
+      "description": "",
+      "title": "",
+      "id": 26587,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Jake Braun",
+      "updated_at": "2018-08-03T13:47+0000",
+      "description": "",
+      "title": "",
+      "id": 26588,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Rob Joyce",
+      "updated_at": "2018-08-03T13:47+0000",
+      "description": "",
+      "title": "",
+      "id": 26589,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Addie of Tymkrs",
+      "updated_at": "2018-08-03T13:47+0000",
+      "description": "",
+      "title": "",
+      "id": 26590,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Jason Taylor",
+      "updated_at": "2018-08-03T13:48+0000",
+      "description": "",
+      "title": "",
+      "id": 26591,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Gajetgirl",
+      "updated_at": "2018-08-03T13:48+0000",
+      "description": "",
+      "title": "",
+      "id": 26592,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "p0wnyb0y",
+      "updated_at": "2018-08-03T13:48+0000",
+      "description": "",
+      "title": "",
+      "id": 26593,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Erin Owens",
+      "updated_at": "2018-08-03T13:48+0000",
+      "description": "",
+      "title": "",
+      "id": 26594,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "RomanFire",
+      "updated_at": "2018-08-03T13:48+0000",
+      "description": "",
+      "title": "",
+      "id": 26595,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Meecles",
+      "updated_at": "2018-08-03T13:48+0000",
+      "description": "",
+      "title": "",
+      "id": 26596,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "CryptoKait",
+      "updated_at": "2018-08-03T13:49+0000",
+      "description": "",
+      "title": "",
+      "id": 26597,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Christopher Beaumont",
+      "updated_at": "2018-08-03T13:49+0000",
+      "description": "",
+      "title": "",
+      "id": 26598,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Pamela",
+      "updated_at": "2018-08-03T13:49+0000",
+      "description": "",
+      "title": "",
+      "id": 26599,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Erik",
+      "updated_at": "2018-08-03T13:49+0000",
+      "description": "",
+      "title": "",
+      "id": 26600,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Unmaned",
+      "updated_at": "2018-08-03T13:49+0000",
+      "description": "",
+      "title": "",
+      "id": 26601,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "David Hernandez",
+      "updated_at": "2018-08-03T13:50+0000",
+      "description": "",
+      "title": "",
+      "id": 26602,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Caroline Hardin",
+      "updated_at": "2018-08-03T13:50+0000",
+      "description": "",
+      "title": "",
+      "id": 26603,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Jennifer Dalsen",
+      "updated_at": "2018-08-03T13:50+0000",
+      "description": "",
+      "title": "",
+      "id": 26604,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Sven Cattell",
+      "updated_at": "2018-08-03T13:53+0000",
+      "description": "",
+      "title": "",
+      "id": 26605,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Joseph Muniz",
+      "updated_at": "2018-08-03T14:57+0000",
+      "description": "Joseph Muniz is an architect at Cisco Systems.",
+      "title": "",
+      "id": 26606,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Mike",
+      "updated_at": "2018-08-03T14:15+0000",
+      "description": "",
+      "title": "",
+      "id": 26607,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Synack",
+      "updated_at": "2018-08-03T14:15+0000",
+      "description": "",
+      "title": "",
+      "id": 26608,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Ed Miles",
+      "updated_at": "2018-08-03T14:51+0000",
+      "description": "Ed Miles (Twitter: @criznash) is a researcher at DiDi Chuxing's California-based DiDi Labs. Working in technology professionally since 2001, and as a hobbyist since 1991, Ed has been focused on forensics, incident response, malware analysis, reverse engineering, and detection since 2010.\r\n\r\n",
+      "title": "",
+      "id": 26609,
+      "twitter": "@criznash",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Ed Miles",
+      "updated_at": "2018-08-03T14:52+0000",
+      "description": "Ed Miles (Twitter: @criznash) is a researcher at DiDi Chuxing's California-based DiDi Labs. Working in technology professionally since 2001, and as a hobbyist since 1991, Ed has been focused on forensics, incident response, malware analysis, reverse engineering, and detection since 2010.\r\n\r\n",
+      "title": "",
+      "id": 26610,
+      "twitter": "@criznash",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Andrew Johnson",
+      "updated_at": "2018-08-03T14:52+0000",
+      "description": "Andrew Johnson (Twitter: @pierogipowered) is implementing a dedicated security operations team at Carnegie Mellon University. The security operations group has a dual focus on both the traditional aspect of securing the university as well as a focus on training student colleagues on the practical application of their degree. Prior to Carnegie Mellon University, Andrew was with HM Health Solutions. He had been responsible for creating a security operations platform in the heavily regulated health insurance/provider space. Andrew is a co-organizer for the BSides Pittsburgh (@bsidespgh) conference and enjoys recreational cycling and cooking when not participating in information security related activities.\r\n\r\n",
+      "title": "",
+      "id": 26611,
+      "twitter": "@pierogipowered",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Silas Cutler",
+      "updated_at": "2018-08-03T14:53+0000",
+      "description": "Silas Cutler (Twitter: @silascutler) is a Senior Security Researcher at CrowdStrike, Project Director for MalShare and DEFCON 21 Black Badge (from Capture the Packet). Endorsed on LinkedIn by [REDACTED] for \"tcpdump\". His prior managers have described him as \"a guy\" and \"meeting necessary skills to perform job functions.\"\r\n\r\n\r\n",
+      "title": "",
+      "id": 26612,
+      "twitter": "@silascutler",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Jay Turla",
+      "updated_at": "2018-08-03T14:53+0000",
+      "description": "Jay Turla (Twitter: @shipcod3) is an application security engineer at Bugcrowd Inc., and one of the goons of ROOTCON. He has been acknowledged and rewarded by Facebook, Adobe, Yahoo, Microsoft, Mozilla, etc. for his responsible disclosures. He has also contributed auxiliary and exploit modules to the Metasploit Framework and presented at ROOTCON, Nullcon, and TCON. He used to work for HP Fortify where he performs Vulnerability Assessment, Remediation and Advance Testing.",
+      "title": "",
+      "id": 26613,
+      "twitter": "@shipcod3",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Sam Erb",
+      "updated_at": "2018-08-03T14:56+0000",
+      "description": "Sam Erb (Twitter: @erbbysam) is a 2x black badge winner with Co9 in the Badge Challenge and is working to make the Internet a safer place.",
+      "title": "",
+      "id": 26614,
+      "twitter": "@erbbysam",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Esteban Rodriguez ",
+      "updated_at": "2018-08-03T14:56+0000",
+      "description": "Esteban Rodriguez (Twitter: @n00py1) a Security Consultant at Coalfire Labs. He primarily perform network and web application penetration testing. Esteban worked previously at Apple Inc performing intrusion analysis and incident response. Outside of work, Esteban blog at n00py.io and perform independent security research. He have authored multiple penetration testing tools and have presented at BSides Puerto Rico covering penetration testing techniques.",
+      "title": "",
+      "id": 26615,
+      "twitter": "@n00py1",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Aamir Lakhani",
+      "updated_at": "2018-08-03T14:57+0000",
+      "description": "Aamir Lakhani (Twitter: @SecureBlogger) is a lead researcher at Fortinet.",
+      "title": "",
+      "id": 26616,
+      "twitter": "@SecureBlogger",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Elliott Brink",
+      "updated_at": "2018-08-03T14:58+0000",
+      "description": "Elliott Brink (Twitter: @ebrinkster) is an information security consultant based out of NYC. He specializes in internal/external pentesting, security architecture and social engineering. He loves computer history, tracking bad guys, honeypots, an expertly crafted bloody mary, and traveling the globe.",
+      "title": "",
+      "id": 26617,
+      "twitter": "@ebrinkster",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Jin Yang",
+      "updated_at": "2018-08-03T14:59+0000",
+      "description": "Jin Yang is a member of Team-Trinity. The Team-Trinity is a Non-profit group of security researchers, mainly focus on wireless and embedded systems vulnerability research. He work in network security industry for over 10 years and focus on the Automated Virus Analysis, IoT Security, Threat Intelligence and Rootkits. Jin has spoken at XCon; AVAR and KCon.",
+      "title": "",
+      "id": 26618,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Gita Ziabari",
+      "updated_at": "2018-08-03T14:59+0000",
+      "description": "Gita Ziabari (Twitter: @gitaziabri) is working at as a Senior Consultant Engineer at Verizon. She has more than 14 years of experience in threat research, networking, testing and building automated tools. Her main focus is creating automated tools in cybersecurity for mining data.",
+      "title": "",
+      "id": 26619,
+      "twitter": "@gitaziabri",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "gh057",
+      "updated_at": "2018-08-03T15:02+0000",
+      "description": "gh057 has worked on almost every aspect of the software development lifecycle. For the majority of his career, he worked as a front-end, full stack engineer specializing in UI/UX. During this time, he was involved in development and also testing efforts, which included quality and security best practices. In the last few years, gh057 completed a career transition to application security, most notably through security evangelism roles, where he worked closely with development teams. As an application security engineer, gh057 is responsible for security best practices, which encompasses both digital and physical threat vectors. Most recently, gh057 has been the concept creator and team lead for the Day of Shecurity conference which took place on June 16th in San Francisco, CA. In his free time, he is passionate about promoting equality in the cybersecurity industry and offering mentorship to young technologists. His goal is to leave behind a better industry than the one he found when he first began his career.",
+      "title": "",
+      "id": 26620,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Rogan Dawes",
+      "updated_at": "2018-08-03T15:04+0000",
+      "description": "Rogan Dawes (Twitter: @RoganDawes) is a Senior Researcher at SensePost and has been hacking since 1998, which, coincidentally, is also the time he settled on a final wardrobe. He used the time he saved on choosing outfits to live up to his colleague's frequent joke that he has an offline copy of the Internet in his head. Rogan spent many years building web application assessment tools, and is credited as having built one of the first and most widely used intercepting proxies, WebScarab.\r\n\r\n",
+      "title": "",
+      "id": 26621,
+      "twitter": "@RoganDawes",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Utku Sen",
+      "updated_at": "2018-08-03T15:04+0000",
+      "description": "Utku Sen (Twitter: @utkusen) is a security researcher who is mostly focused on following areas: application security, network security, tool development. He presented his tool, Leviathan Framework in Black Hat USA Arsenal and DEF CON Demo Labs in 2017. He also nominated for Pwnie Awards on \"Best Backdoor\" category in 2016.\r\n\r\n\r\n",
+      "title": "",
+      "id": 26622,
+      "twitter": "@utkusen",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Gozde Sinturk",
+      "updated_at": "2018-08-03T15:04+0000",
+      "description": "Gozde Sinturk is Security Researcher and Python Developer who involved in projects related to machine learning, natural language processing, and big data. She is developing security tools in her current position.",
+      "title": "",
+      "id": 26623,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Lokesh Pidawekar",
+      "updated_at": "2018-08-03T15:11+0000",
+      "description": "Lokesh Pidawekar (Twitter: @MaverickRocky02) work as Senior Cloud and Application Security Engineer in Cisco InfoSec team where he is responsible for designing secure architecture for applications, evaluating third party cloud service providers, and providing training to enterprise architects. He has Master's in Information Assurance & Cyber Security from Northeastern University, Boston. Previously, he has spoken at BSides Las Vegas, DEFCON Packet Hacking Village talks, OWASP Boston chapter and CarolinaCon. He likes to read about application vulnerabilities in free time and has reported security bugs to vendors as part of their bug bounty program.",
+      "title": "",
+      "id": 26624,
+      "twitter": "@MaverickRocky02",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "TryCatchHCF",
+      "updated_at": "2018-08-03T15:11+0000",
+      "description": "TryCatchHCF (Twitter: @TryCatchHCF) is Red Team Lead at a Fortune 500 company, and creator of the Cloakify Exfiltration and DumpsterFire Incident Automation Toolsets (https://github.com/TryCatchHCF). Previous roles have included Lead Pentester and AppSec Team Lead. He hacked into his first systems in 1981 and wrote his first malware the following year, all while nearly being eaten by a grue. He has 25+ years of security and software engineering experience, and served as an Intelligence Analyst and Counterintelligence Specialist in the United States Marine Corps. Education includes a bachelors degree in Cognitive Science, a masters degree in Information Assurance, and the collective HiveMind of the global hacking community.",
+      "title": "",
+      "id": 26625,
+      "twitter": "@TryCatchHCF",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Pedro Fortuna",
+      "updated_at": "2018-08-03T15:12+0000",
+      "description": "Pedro Fortuna (Twitter: @pedrofortuna) is CTO and Co-Founder of Jscrambler where he leads the technical vision for the product suite and contributes with his cybersecurity knowledge for R&D. Pedro holds a degree in Computing Engineering and a MSc in Computer Networks and Services, having more than a decade of experience researching and working in the application security area. He is a regular speaker at OWASP AppSec events and other cybersecurity conferences but also contributes to web development events. His research interests lie in the fields of Application Security, Reverse Engineering and Malware and Software Engineering. Author of several patents in application security.\r\n\r\n",
+      "title": "",
+      "id": 26626,
+      "twitter": "@pedrofortuna",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Kat Sweet",
+      "updated_at": "2018-08-03T15:13+0000",
+      "description": "Kat Sweet (Twitter: @TheSweetKat) works for Duo Security's corporate security team as an information security analyst (and senior pun architect). A passionate security educator, she is heavily involved in building her team's employee security awareness and engagement program, and is frequently the first security team member that new Duo employees meet. She also serves as the lockpick village coordinator for BSides Las Vegas, a mentor for the SANS Women's Immersion Academy, and a teaching assistant for the Ann Arbor chapter of Girl Develop It. When she's not in security mode, you can often find her bursting into song or picking unsuspecting locks.\r\n",
+      "title": "",
+      "id": 26627,
+      "twitter": "@TheSweetKat",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Josh Mitchell ",
+      "updated_at": "2018-08-03T15:13+0000",
+      "description": "Josh Mitchell has more than a decade's experience as an information security researcher. He has authored numerous technical documents and presented his findings at conferences, academic discussions, and in the classroom. Josh is an expert at discovering and exploiting vulnerabilities and writing code to protect operating systems and programs. He holds patents in classifying computer files and executable files as malware or whiteware. Josh has served in the United States Air Force and held numerous defense contracting roles covering electronic signals intelligence exploitation, electronic warfare, malware analysis, exploit development, and reverse engineering. He also provided security services for General Dynamics Advanced Information Systems, Endgame, and Accuvant and assisted multiple computer emergency response teams with investigations vital to national security.",
+      "title": "",
+      "id": 26628,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Chris Hanlon",
+      "updated_at": "2018-08-03T15:14+0000",
+      "description": "Chris Hanlon (Twitter: @ChrisHanlonCA) has been maintaining Unix, Linux, and Windows Servers since 1998 and submitting vulnerability reports since 2000. Chris's submissions have resulted in security and privacy enhancements in Google Apps, the Linux Kernel, and Interac email transfers.\r\n\r\n",
+      "title": "",
+      "id": 26629,
+      "twitter": "@ChrisHanlonCA",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Garett Montgomery",
+      "updated_at": "2018-08-03T15:14+0000",
+      "description": "Garett Montgomery (Twitter: @garett_monty) has been a Security Researcher at BreakingPoint (since acquired by Ixia; since acquired by KeySight) for the last 6+ years. Prior to joining BreakingPoint he had been employed as a Security Analyst at the Naval Postgraduate School and then an IPS Signature Developer. He holds an MS in Information Assurance and numerous (likely since-expired) security certifications. A self-described packet-monkey, he enjoys automating all the things.\r\n",
+      "title": "",
+      "id": 26630,
+      "twitter": "@garett_monty",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Hadar",
+      "updated_at": "2018-08-03T15:14+0000",
+      "description": "Hadar (Twitter: @hadar0x) is a Security Researcher at Illusive Networks. He has eight years of experience in cyber security, with six of those years focused on digital forensics and incident response (DFIR), both in the Israeli Air Force and in the private sector. Before joining Illusive Networks, he was a malware researcher for IBM Security where he hunted for new malware families and researched new techniques for malware detection. Hadar holds a Bachelor's degree in Computer Science from the Holon Institute of Technology, and several certifications, including the GIAC Certified Forensic Analyst (GCFA). In his free time he likes to develop open source forensic tools and solve forensic challenges.",
+      "title": "",
+      "id": 26631,
+      "twitter": "@hadar0x",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Tom Sela",
+      "updated_at": "2018-08-03T15:15+0000",
+      "description": "Tom Sela (Twitter: @4x6hw) is Head of Security Research at Illusive Networks. He specializes in reverse engineering, malware research, deception development and OS internals. Prior to joining Illusive, Tom headed the Malware Research team at Trusteer (acquired by IBM), where he was responsible for Trusteer's anti-fraud endpoint product. At Trusteer he also led a team of reverse-engineers, researching the internals of advanced malware. As an active contributor to the security research community, Tom has spoken at DefCon and IEEE events. He attended the Israeli Naval Academy at the University of Haifa and holds a B.Sc. from Ben-Gurion University.",
+      "title": "",
+      "id": 26632,
+      "twitter": "@4x6hw",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Tom Kahana",
+      "updated_at": "2018-08-03T15:15+0000",
+      "description": "Tom Kahana (Twitter: @tomkahana1) is a Security Researcher at Illusive Networks, with over nine years in cybersecurity. He specializes in Windows internals. Prior to Illusive Networks, Tom worked for Trusteer, where he specialized in exploitation techniques. Among other accomplishments, he is credited with discovery of ASLR security bypass vulnerability CVE-2016-0012. Tom served five years in an elite unit of the Israel Defense Force (IDF), specializing in Cyber Security Research and Development. Tom is studying for his Bachelor's of Computer Science degree at the Open University of Israel.\r\n\r\n",
+      "title": "",
+      "id": 26633,
+      "twitter": "@tomkahana1",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Damon Small",
+      "updated_at": "2018-08-03T15:15+0000",
+      "description": "Damon Small (Twitter: @damonsmall) began his career studying music at Louisiana State University. Pursuing the changing job market, he took advantage of computer skills learned in the LSU recording studio to become a systems administrator in the mid 1990s. Over the past 18 years as a security professional he has supported infosec initiatives in the healthcare, defense, aerospace, and oil and gas industries. In addition to his Bachelor of Arts in Music, Small completed the Master of Science in Information Assurance degree from Norwich University in 2005. His role as Technical Director includes working closely with NCC Group consultants and clients in delivering complex security assessments that meet varied business requirements.\r\n",
+      "title": "",
+      "id": 26634,
+      "twitter": "@damonsmall",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Alex Stanev",
+      "updated_at": "2018-08-03T15:16+0000",
+      "description": "Alex Stanev (Twitter: @RealEnderSec) started as a software developer in late 90s working on a wide range of projects - from specialized hardware drivers to large scale information systems for private and public sectors, including e-government services, elections management and smart cities. Going through virtually all mainstream enterprise platforms, Alex also took some time to explore various niche technologies and did a lot of low level stuff.",
+      "title": "",
+      "id": 26635,
+      "twitter": "@RealEnderSec",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Recon InfoSec, LLC",
+      "updated_at": "2018-08-03T15:58+0000",
+      "description": "",
+      "title": "",
+      "id": 26636,
       "twitter": "",
       "conference": "DC26",
       "link": ""

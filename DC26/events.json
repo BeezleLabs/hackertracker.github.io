@@ -7544,7 +7544,1599 @@
       "includes": "",
       "title": "CANT",
       "updated_at": "2018-08-03T01:56+0000"
+    },
+    {
+      "start_date": "2018-08-10T17:00+0000",
+      "id": 26550,
+      "description": "This workshop introduces several different relatively accessible interfaces on embedded systems. Attendees will get hands-on experience with UART, SPI, and JTAG interfaces on a MIPS-based wifi development board. After a brief architectural overview of each interface, hands-on labs will guide through the process understanding, observing, interacting with, and exploiting the interface to potentially access a root shell on the target.\r\n\r\nWhat to Bring\r\nNo hardware or electrical background is required. Computer architecture knowledge, Linux internals, command-line familiarity, and low-level programming experience all very helpful but not actually required.\r\n\r\nAll equipment, including laptops, will be provided for use in the class. Students will be provided with a lab manual that includes an equipment list of all materials used for the class.\r\n\r\nMax size: 24, first come first serve basis.",
+      "location": 26016,
+      "link": "https://dchhv.org/schedule/#applied-physical-attacks-on-embedded-systems-introductory-version",
+      "speakers": [
+        26537,
+        26538,
+        26539
+      ],
+      "end_date": "2018-08-10T20:00+0000",
+      "conference": "DC26",
+      "event_type": 3,
+      "includes": "",
+      "title": "Applied Physical Attacks on Embedded Systems, Introductory Version",
+      "updated_at": "2018-08-03T03:33+0000"
+    },
+    {
+      "start_date": "2018-08-10T21:00+0000",
+      "id": 26551,
+      "description": "This is an in-person, hands-on version of \u201cGetting To Blinky\u201d, an online course series that has taught thousands to use the free and open source electronics CAD program, KiCad. This would be a \u201cDEFCON badge\u201d version of that course which showcases how to add a blinking circuit, get acquainted with the tool and also add customizable artwork to a Printed Circuit Board (PCB). By the end, attendees will be able to actually order a low cost PCB from online sources.\r\n\r\nWhat to Bring\r\nPlease come to this session with a computer with KiCad set up and running. Course is aimed at KiCad 4.0.7, slightly earlier is fine but 5.0.0 is not advised. Install assistance can be given during the beginning of the presentation if needed.\r\n\r\nMax size: 24, first come first serve basis.",
+      "location": 26016,
+      "link": "https://dchhv.org/schedule/#getting-to-blinky-badgelife-begins-with-a-single-blink",
+      "speakers": [
+        26540
+      ],
+      "end_date": "2018-08-11T01:00+0000",
+      "conference": "DC26",
+      "event_type": 3,
+      "includes": "",
+      "title": "Getting to Blinky: #badgelife begins with a single blink",
+      "updated_at": "2018-08-03T03:33+0000"
+    },
+    {
+      "start_date": "2018-08-11T17:00+0000",
+      "id": 26552,
+      "description": "The HackRF isn\u2019t just an SDR - it\u2019s an open-source, open-hardware device that\u2019s designed to be modified. In this talk I walk through the basics of how to open and modify the hardware and software. I also show all the mods and hacks I\u2019ve done to/with my HackRFs, including physical synchronisation between HackRFs, quadcopter transmitter adaptation, audio encoding/decoding, quadcopter vtx and a future project to add USB3\r\n\r\n",
+      "location": 26016,
+      "link": "https://dchhv.org/schedule/#hacking-your-hackrf",
+      "speakers": [
+        26541
+      ],
+      "end_date": "2018-08-11T17:40+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Hacking your HackRF",
+      "updated_at": "2018-08-03T03:35+0000"
+    },
+    {
+      "start_date": "2018-08-11T18:00+0000",
+      "id": 26553,
+      "description": "Modern OSes have consistently raised the bar in regards to security with each revision, largely due to the efforts of the security community to find and report bugs. Because of this the OS layer is reasonably secure at this point. However the security of the hardware layer has fallen far behind and now represents the biggest threat. In particular, the Intel Management Engine is a huge security hole which Intel has put great effort into forcing users to accept blindly. No more. This talk will present a how to on permanently disabling Intel ME by reflashing the BIOS using a Raspberry Pi. Take back control of your own hardware and give Big Brother\u2019s Backdoor the boot.",
+      "location": 26016,
+      "link": "https://dchhv.org/schedule/#disabling-intel-me-in-firmware",
+      "speakers": [
+        26542
+      ],
+      "end_date": "2018-08-11T18:30+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Disabling Intel ME in Firmware",
+      "updated_at": "2018-08-03T03:35+0000"
+    },
+    {
+      "start_date": "2018-08-11T19:00+0000",
+      "id": 26554,
+      "description": "Relay and replay attacks are becoming more common in the payment industry. Getting more complex and sophisticated day by day. We are not just seeing simple skimming techniques but complex attack vectors that are a combination of technologies and implementations involving SDR(Software-Defined Radio), NFC, APDU(Application Protocol Data Unit), hardware emulation design, specialized software, tokenization protocols and social engineering. In this talk, we will discuss what these attacks are, or what kind of hardware or software could be implemented.\r\n\r\n",
+      "location": 26016,
+      "link": "https://dchhv.org/schedule/#nfc-payments-the-art-of-relay--replay-attacks",
+      "speakers": [
+        26543
+      ],
+      "end_date": "2018-08-11T19:50+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "NFC Payments: The Art of Relay & Replay Attacks",
+      "updated_at": "2018-08-03T03:36+0000"
+    },
+    {
+      "start_date": "2018-08-11T22:00+0000",
+      "id": 26555,
+      "description": "Building a home lab is critical to making you as a hacker better, but between space, hardware costs and learning it can quickly become an expensive habit. This talk will aim to show you some of the low cost options to learning the skills of the trade, and a bit of the mindset you need to finish that project.\r\n\r\n",
+      "location": 26016,
+      "link": "https://dchhv.org/schedule/#breaking-in-building-a-home-lab-without-having-to-rob-a-bank",
+      "speakers": [
+        26544
+      ],
+      "end_date": "2018-08-11T22:30+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Breaking In: Building a home lab without having to rob a bank",
+      "updated_at": "2018-08-03T03:37+0000"
+    },
+    {
+      "start_date": "2018-08-11T23:00+0000",
+      "id": 26556,
+      "description": "While many machines prior to the microcomputer boom of 1977 were commonly found with front panel interfaces and blinkenlights, only a few obscure examples use a 6502 microprocessor. What seemed like a perfect blend of inexpensive computer technologies didn\u2019t mix well in practice, thus kits and the majority of homebrew machines opted for other microprocessor/interface combinations. Building a computer from the ground up around a microprocessor was a process worth exploring, so why not approach it from a historical perspective? Enter the Cactus: a technological \u201cwhat if\u201d built with the goal of recreating the homebrew computer experience of the 1970s. This includes parts and construction techniques of the era, with only a few post-1980 concessions where appropriate. I will describe the process involved in making a 1970s homebrew computer ~40 years too late, as well as why such a machine never could have come to be in the era it was designed to mimic.\r\n\r\n",
+      "location": 26016,
+      "link": "https://dchhv.org/schedule/#the-cactus-6502-blinkenlights-40-years-late",
+      "speakers": [
+        26546
+      ],
+      "end_date": "2018-08-11T23:30+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "The Cactus: 6502 Blinkenlights 40 Years Late",
+      "updated_at": "2018-08-03T03:38+0000"
+    },
+    {
+      "start_date": "2018-08-12T00:00+0000",
+      "id": 26557,
+      "description": "A quick and dirty intro to making wifi beacons with esp8266 modules. A new small tool to help you generate your own beacon and unveiling of a fun multi-beacon setup.\r\n\r\n",
+      "location": 26016,
+      "link": "https://dchhv.org/schedule/#wifi-beacons-will-give-you-up",
+      "speakers": [
+        26545
+      ],
+      "end_date": "2018-08-12T00:20+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "WiFi Beacons will give you up",
+      "updated_at": "2018-08-03T03:39+0000"
+    },
+    {
+      "start_date": "2018-08-12T01:00+0000",
+      "id": 26558,
+      "description": "Drones are now \u201cthe sexy technology\u201d but few people really know what kind of algorithms and hardware mix is involved.\r\n\r\nThis talk will show the roadmap of building two homemade drones, built from scratch. No ardupilot/pilot boards was used to develop this project. Topics like real time scheduling on Linux, DeviceTree configuration, I2C bitbanging , Attitude estimation and PID control functions will be covered.",
+      "location": 26016,
+      "link": "https://dchhv.org/schedule/#building-drones-the-hard-way",
+      "speakers": [
+        26547
+      ],
+      "end_date": "2018-08-12T01:45+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Building Drones the Hard Way",
+      "updated_at": "2018-08-03T03:39+0000"
+    },
+    {
+      "start_date": "2018-08-10T17:00+0000",
+      "id": 26559,
+      "description": "",
+      "location": 26029,
+      "link": "https://www.vxrl.hk/dcvxv/",
+      "speakers": [
+        26548,
+        26550
+      ],
+      "end_date": "2018-08-10T19:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Chips off Village - Session 1",
+      "updated_at": "2018-08-03T03:50+0000"
+    },
+    {
+      "start_date": "2018-08-10T22:00+0000",
+      "id": 26560,
+      "description": "",
+      "location": 26029,
+      "link": "https://www.vxrl.hk/dcvxv/",
+      "speakers": [
+        26549,
+        26551,
+        26555
+      ],
+      "end_date": "2018-08-11T00:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Chips off Village - Session 2",
+      "updated_at": "2018-08-03T03:51+0000"
+    },
+    {
+      "start_date": "2018-08-11T17:00+0000",
+      "id": 26561,
+      "description": "",
+      "location": 26029,
+      "link": "https://www.vxrl.hk/dcvxv/",
+      "speakers": [
+        26552,
+        26553,
+        26554
+      ],
+      "end_date": "2018-08-11T19:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Chips off Village - Session 1",
+      "updated_at": "2018-08-03T03:51+0000"
+    },
+    {
+      "start_date": "2018-08-11T22:00+0000",
+      "id": 26562,
+      "description": "",
+      "location": 26029,
+      "link": "https://www.vxrl.hk/dcvxv/",
+      "speakers": [
+        26548,
+        26550,
+        26556
+      ],
+      "end_date": "2018-08-12T00:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Chips off Village - Session 2",
+      "updated_at": "2018-08-03T03:52+0000"
+    },
+    {
+      "start_date": "2018-08-10T17:30+0000",
+      "id": 26563,
+      "description": "Bo Li, assistant professor in the department of Computer Science at University of Illinois at Urbana\u2013Champaign\r\n\r\nAdvances in machine learning have led to rapid and widespread deployment of software-based inference and decision making, resulting in various applications such as data analytics, autonomous systems, and security diagnostics. Current machine learning systems, however, assume that training and test data follow the same, or similar, distributions, and do not consider active adversaries manipulating either distribution. Recent work has demonstrated that motivated adversaries can circumvent anomaly detection or classification models at test time through evasion attacks, or can inject well-crafted malicious instances into training data to induce errors in classification through poisoning attacks. In addition, by undermining the integrity of learning systems, the privacy of users\u2019 data can also be compromised. In this talk, I will describe my recent research on generating evasion attacks in adversarial environments. I will also provide some insights about how to leverage data properties, such as spatial consistency as potential detection approach against such adversarial attacks.",
+      "location": 26017,
+      "link": "https://blog.geekpwn.org/2018/07/25/geekpwn-contest-caad-village-schedule/",
+      "speakers": [
+        26557
+      ],
+      "end_date": "2018-08-10T17:50+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Secure learning in adversarial environments",
+      "updated_at": "2018-08-03T04:23+0000"
+    },
+    {
+      "start_date": "2018-08-10T17:50+0000",
+      "id": 26564,
+      "description": "Avishek Bose, Master\u2019s student at University of Toronto\r\n\r\nAdversarial attacks involve adding, small, often imperceptible, perturbations to inputs with the goal of getting a machine learning model to misclassifying them. While many different adversarial attack strategies have been proposed on image classification models, object detection pipelines have been much harder to break. In this talk, I propose a novel strategy to craft adversarial examples by solving a constrained optimization problem using an adversarial generator network. The approach is fast and scalable, requiring only a forward pass through our trained generator network to craft an adversarial sample. Unlike in many attack strategies, we show that the same trained generator is capable of attacking new images without explicitly optimizing on them. The attack is evaluate on a trained Faster R-CNN face detector on the cropped 300-W face dataset where it manages to reduce the number of detected faces to 0.5% of all originally detected faces. In a different experiment, also on 300-W,I demonstrate the robustness of our attack to a JPEG compression based defense typical JPEG compression level of 75% reduces the effectiveness of our attack from only 0.5% of detected faces to a modest 5.0%.",
+      "location": 26017,
+      "link": "https://blog.geekpwn.org/2018/07/25/geekpwn-contest-caad-village-schedule/",
+      "speakers": [
+        26558
+      ],
+      "end_date": "2018-08-10T18:15+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Adversarial Attacks on Face Detectors using Neural Net based Constrained Optimization",
+      "updated_at": "2018-08-03T04:23+0000"
+    },
+    {
+      "start_date": "2018-08-10T21:00+0000",
+      "id": 26565,
+      "description": "Joseph Clements, work with Dr. Yingjie Lao\u2019s Secure and Innovative Computing Research Group conducting research\r\n\r\nDriven by their accessibility and ubiquity, deep learning has seen rapid growth into a variety of fields, in recent years, including many safety-critical areas. With the rising demands for computational power and speed in machine learning, there is a growing need for hardware architectures optimized for deep learning and other machine learning models, specifically in tightly constrained edge based systems. Unfortunately, the modern fabless business model of manufacturing hardware, while economic, leads to deficiencies in security through the supply chain. In addition, the embedded, distributed, unsupervised, and physically exposed nature of edge devices would make various hardware or physical attacks on edge devices as critical threats. In this talk, I will first introduce the landscape of adversarial machine learning on the edge. I will discuss several new attacks on neural networks from the hardware or physical perspective. I will then present our method for inserting a backdoor into neural networks. Our method is distinct from prior attacks in that it was generated to neither alter the weights nor inputs of a neural network. But rather, it inserts a backdoor by altering the functionality of operations implemented by the network on those parameters during the production of the neural network.",
+      "location": 26030,
+      "link": "https://blog.geekpwn.org/2018/07/25/geekpwn-contest-caad-village-schedule/",
+      "speakers": [
+        26559
+      ],
+      "end_date": "2018-08-10T21:30+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Hardware Trojan Attacks on Neural Networks",
+      "updated_at": "2018-08-03T04:23+0000"
+    },
+    {
+      "start_date": "2018-08-10T21:30+0000",
+      "id": 26566,
+      "description": "Wei Li and Xiaojin Jiao, NorthWestSec\r\n\r\nAdversarial attack/defense against machine learning models in digital world.\r\n\r\n",
+      "location": 26030,
+      "link": "https://blog.geekpwn.org/2018/07/25/geekpwn-contest-caad-village-schedule/",
+      "speakers": [
+        26560,
+        26561
+      ],
+      "end_date": "2018-08-10T22:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "How to leverage the open-source information to make an effective adversarial attack/defense against deep learning model",
+      "updated_at": "2018-08-03T04:24+0000"
+    },
+    {
+      "start_date": "2018-08-10T22:00+0000",
+      "id": 26567,
+      "description": "Wenbo Guo and Alejandro Cuevas, JD-Omega\r\n\r\nIn this talk, the speaker will introduce the state-of-art techniques in both defense and attack. More specifically, he will summary the most effective attack approach and the defense mechanisms. He will also share the approaches their team adopted for the competition.\r\n\r\n",
+      "location": 26030,
+      "link": "https://blog.geekpwn.org/2018/07/25/geekpwn-contest-caad-village-schedule/",
+      "speakers": [
+        26562,
+        26563
+      ],
+      "end_date": "2018-08-10T22:30+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Recent progress in adversarial deep learning attack and defense",
+      "updated_at": "2018-08-03T04:24+0000"
+    },
+    {
+      "start_date": "2018-08-10T22:30+0000",
+      "id": 26571,
+      "description": "Zhuang Zhang, Bo Shi, Hangfeng Dong, from Tencent Yunding Lab (Tweet@YDLab9)\r\nSince the malware come out, there is a fight between malware and AV. So more and more methods based on machine learning apply to detect malware. We will share how to detect  polymorphic malware based on CNN, then we will introduce a method use generative adversarial network to generate adversarial malware examples to  bypass machine learning based detection models.\r\n\r\n",
+      "location": 26030,
+      "link": "https://blog.geekpwn.org/2018/07/25/geekpwn-contest-caad-village-schedule/",
+      "speakers": [
+        26564,
+        26565,
+        26566
+      ],
+      "end_date": "2018-08-10T23:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Weapons for Dog FightAdapting Malware to Anti-Detection based on GAN",
+      "updated_at": "2018-08-03T04:24+0000"
+    },
+    {
+      "start_date": "2018-08-10T23:00+0000",
+      "id": 26572,
+      "description": "Tianyu Pang and Chao Du, THU\r\n\r\nDeep neural networks are vulnerable to adversarial examples, which poses security concerns on these algorithms due to the potentially severe consequences. Adversarial at- tacks serve as an important surrogate to evaluate the robustness of deep learning models before they are deployed. However, most of existing adversarial attacks can only fool a black-box model with a low success rate. To address this issue, we propose a broad class of momentum-based iterative algorithms to boost adversarial attacks. By integrating the momentum term into the iterative process for attacks, our methods can stabilize update directions and escape from poor local maxima during the iterations, resulting in more transferable adversarial examples. To further improve the success rates for black-box attacks, we apply momentum iterative algorithms to an ensemble of models, and show that the adversarially trained models with a strong defense ability are also vulnerable to our black-box attacks. We hope that the proposed methods will serve as a benchmark for evaluating the robustness of various deep models and defense methods. With this method, we won the first places in NIPS 2017 Non-targeted Adversarial Attack and Targeted Adversarial Attack competitions.",
+      "location": 26030,
+      "link": "https://blog.geekpwn.org/2018/07/25/geekpwn-contest-caad-village-schedule/",
+      "speakers": [
+        26567
+      ],
+      "end_date": "2018-08-10T23:30+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Boosting Adversarial Attacks with Momentum",
+      "updated_at": "2018-08-03T04:24+0000"
+    },
+    {
+      "start_date": "2018-08-11T17:00+0000",
+      "id": 26573,
+      "description": "Bruce Hou and Wen Zhou, Tencent Security Platform Department\r\n\r\nState-of-the-art deep neural network classifiers are highly vulnerable to adversarial examples which are designed to mislead classifiers with a very small perturbation. However, the performance of black-box attacks (without knowledge of the model parameters) against deployed models always degrades significantly. In this paper, We propose a novel way of perturbations for adversarial examples to enable black-box transfer. We first show that maximizing distance between natural images and their adversarial examples in the intermediate feature maps can improve both white-box attacks (with knowledge of the model parameters) and black-box attacks. We also show that smooth regularization on adversarial perturbations enables transferring across models. Extensive experimental results show that our approach outperforms state-of-the-art methods both in white-box and black-box attacks.\r\n\r\n",
+      "location": 26030,
+      "link": "https://blog.geekpwn.org/2018/07/25/geekpwn-contest-caad-village-schedule/",
+      "speakers": [
+        26568,
+        26569
+      ],
+      "end_date": "2018-08-11T17:30+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Transferable Adversarial Perturbations",
+      "updated_at": "2018-08-03T04:26+0000"
+    },
+    {
+      "start_date": "2018-08-11T17:30+0000",
+      "id": 26574,
+      "description": "Rohan Taori and Amog Kamsetty,  undergrades at UC Berkeley studying EECS\r\n\r\nThe application of deep recurrent networks to audio transcription has led to impressive gains in automatic speech recognition (ASR) systems. Many have demonstrated that small adversarial perturbations can fool deep neural networks into incorrectly predicting a specified target with high confidence. Current work on fooling ASR systems have focused on white-box attacks, in which the model architecture and parameters are known. In this paper, we adopt a black-box approach to adversarial generation, combining the approaches of both genetic algorithms and gradient estimation to solve the task. We achieve a 89.25% targeted attack similarity after 3000 generations while maintaining 94.6% audio file similarity.",
+      "location": 26030,
+      "link": "https://blog.geekpwn.org/2018/07/25/geekpwn-contest-caad-village-schedule/",
+      "speakers": [
+        26570,
+        26571
+      ],
+      "end_date": "2018-08-11T18:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Targeted Adversarial Examples for Black Box Audio Systems",
+      "updated_at": "2018-08-03T04:27+0000"
+    },
+    {
+      "start_date": "2018-08-11T18:00+0000",
+      "id": 26575,
+      "description": "Weilin Xu, Yunhan Jia, Zhenyu Zhong, from Baidu X-Lab\r\n\r\nWe will introduce a magic trick that vanishes objects in front of self-driving cars adversarial machine learning techniques.\r\n\r\n",
+      "location": 26030,
+      "link": "https://blog.geekpwn.org/2018/07/25/geekpwn-contest-caad-village-schedule/",
+      "speakers": [
+        26572,
+        26573
+      ],
+      "end_date": "2018-08-11T18:30+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "The Vanishing Trick for Self-driving Cars",
+      "updated_at": "2018-08-03T04:29+0000"
+    },
+    {
+      "start_date": "2018-08-11T18:30+0000",
+      "id": 26576,
+      "description": "",
+      "location": 26030,
+      "link": "https://blog.geekpwn.org/2018/07/25/geekpwn-contest-caad-village-schedule/",
+      "speakers": [
+        26576,
+        26577
+      ],
+      "end_date": "2018-08-11T19:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Practical adversarial attacks against challenging models environments",
+      "updated_at": "2018-08-03T04:31+0000"
+    },
+    {
+      "start_date": "2018-08-11T19:00+0000",
+      "id": 26577,
+      "description": "Yao Zhao and Yuzhe Zhao, from YYZZ Team\r\n\r\nTargeted attacks of image classifiers are difficult to transfer from one model to another. Only strong adversarial attacks with the knowledge of the classifier can bypass existing defenses. To defend against such attacks, we implement an \u201cadversarial^2 training\u201d method to strengthen the existing defenses.",
+      "location": 26030,
+      "link": "https://blog.geekpwn.org/2018/07/25/geekpwn-contest-caad-village-schedule/",
+      "speakers": [
+        26575,
+        26578
+      ],
+      "end_date": "2018-08-11T19:30+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Adversarial^2 Training",
+      "updated_at": "2018-08-03T04:31+0000"
+    },
+    {
+      "start_date": "2018-08-10T22:00+0000",
+      "id": 26578,
+      "description": "For the last five years Backblaze has collected daily operational data from the hard drives in our data centers. This includes daily SMART statistics from over 100,000 hard drives totaling over 500 Petabytes of storage. We\u2019ll start by looking at the lifetime statistics for all the hard drives we have ever used, split out by size and manufacturer. Then we\u2019ll compare the failure rates of consumer versus enterprise drives and we\u2019ll also compare helium-filled versus air-filled drives. We\u2019ll finish up with looking at a handful of SMART attributes to see how temperature relates to hard drive failure and whether or not you can use SMART stats to predict hard drive failure. As a bonus, we\u2019ll show you where to get the data so you can do your own analysis \u2013 enjoy.",
+      "location": 26031,
+      "link": "https://dcddv.org/talk-schedule/2018/8/10/facts-figures-and-fun-from-managing-100000-hard-drives",
+      "speakers": [
+        26579
+      ],
+      "end_date": "2018-08-10T22:55+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Facts, Figures, and Fun From Managing 100,000 Hard Drives",
+      "updated_at": "2018-08-03T04:42+0000"
+    },
+    {
+      "start_date": "2018-08-10T23:00+0000",
+      "id": 26579,
+      "description": "Whether you have a background in information security, law, or national security, this talk is a beginner\u2019s guide to understanding the law of war in cyberspace. By juxtaposing the law of war with a keyboard, the process of how states evaluate the scale and effects of a cyber operation and determine a basis for resorting to a use of force under the Law of Armed Conflict, can be more readily conceptualized. For if music is indeed, the universal language of mankind, then by encouraging society to learn about this area we can collectively better strategize ways to mitigate cyber conflict.",
+      "location": 26031,
+      "link": "https://dcddv.org/talk-schedule/2018/6/18/the-beginners-guide-to-the-musical-scales-of-cyberwar",
+      "speakers": [
+        26580
+      ],
+      "end_date": "2018-08-10T23:55+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "The Beginner's Guide to the Musical Scales of Cyberwar",
+      "updated_at": "2018-08-03T04:44+0000"
+    },
+    {
+      "start_date": "2018-08-11T21:00+0000",
+      "id": 26582,
+      "description": "Full disk images introduce large amounts of data into a forensic investigation. Still, certain evidence exists only in memory, especially when dealing with malware or fileless attacks designed to stay completely in memory and avoid hitting the disk, exactly for the purposes of avoiding detection and analysis by forensic examiners. Memory forensics is a rapidly growing field, offering many free tools for RAM analysis to uncover important evidence and further the case quickly. As it turns out, these tools can also be applied to a cold drive. Due to OS features such as hibernation, paging and swap space, data from memory ends up being written to disk and survives even when the machine is powered down. In this session, the presenter will introduce the challenges faced when investigations rely solely on disk images, in cases where live memory had not been captured. The audience will then learn how investigators can still benefit from memory forensics in such cases. The presenter will give a full walkthrough of applying techniques, discuss their benefits and limitations, and show examples of results.",
+      "location": 26031,
+      "link": "https://dcddv.org/talk-schedule",
+      "speakers": [
+        26581
+      ],
+      "end_date": "2018-08-11T21:55+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "The Memory Remains - Cold Drive Memory Forensics 101",
+      "updated_at": "2018-08-03T04:45+0000"
+    },
+    {
+      "start_date": "2018-08-11T22:00+0000",
+      "id": 26583,
+      "description": "Gluster is a free scalable network filesystem. Using common off-the-shelf hardware, it allows the user to create large, distributed storage solution for media streaming, data analysis, and other data and bandwidth intensive tasks, thus providing a nice alternative to create a data replication pool easily. It was acquired by Red Hat in 2011, and merged into Red Hat Storage server in 2012, while still available in the open source world. Gluster itself doesn't have a large vulnerabilities history, having only 6 vulnerabilities reported in the last 6 years (2 of them after being bought by Red Hat). In this talk, we'll focus on the latter two, releasing GEVAUDAN, an exploit for newcomers to the gluster world to learn about it's architecture and security, and the implicancies of proper access managament on replicated data systems. This is a talk for begginers from both fields: data replication schemas and exploits writing, so both fields will have a proper introductory section. A live demo will take place during the talk, and the public can actively participate.\r\n\r\n",
+      "location": 26031,
+      "link": "https://dcddv.org/talk-schedule/2018/8/11/owning-gluster-fs-with-gevaudan",
+      "speakers": [
+        26582
+      ],
+      "end_date": "2018-08-11T22:55+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Owning GlusterFS With Gevaudan",
+      "updated_at": "2018-08-03T04:46+0000"
+    },
+    {
+      "start_date": "2018-08-10T20:00+0000",
+      "id": 26584,
+      "description": "Compete for awesome prizes and learn new security skills in this computer-based competition. Players will work on teams to earn points and gain control of the game map by completing both defense and offense challenges. ",
+      "location": 26032,
+      "link": "https://r00tz.org/2018-schedule",
+      "speakers": [],
+      "end_date": "2018-08-10T23:00+0000",
+      "conference": "DC26",
+      "event_type": 7,
+      "includes": "",
+      "title": "Capture the Flag (CTF) by NeverLAN CTF",
+      "updated_at": "2018-08-03T13:54+0000"
+    },
+    {
+      "start_date": "2018-08-12T20:00+0000",
+      "id": 26585,
+      "description": "",
+      "location": 26032,
+      "link": "https://r00tz.org/2018-schedule",
+      "speakers": [],
+      "end_date": "2018-08-12T21:00+0000",
+      "conference": "DC26",
+      "event_type": 7,
+      "includes": "",
+      "title": "r00tz Hacker Jeopardy",
+      "updated_at": "2018-08-03T13:55+0000"
+    },
+    {
+      "start_date": "2018-08-10T17:30+0000",
+      "id": 26586,
+      "description": "Disassemble and explore smartphones, laptops, and other electronic gadgets.",
+      "location": 26032,
+      "link": "https://r00tz.org/2018-schedule",
+      "speakers": [],
+      "end_date": "2018-08-10T23:00+0000",
+      "conference": "DC26",
+      "event_type": 3,
+      "includes": "",
+      "title": "Junkyard by AT&T",
+      "updated_at": "2018-08-03T13:57+0000"
+    },
+    {
+      "start_date": "2018-08-10T17:30+0000",
+      "id": 26587,
+      "description": "This year all kids will be soldering their own r00tz badge and then coding them.",
+      "location": 26032,
+      "link": "https://r00tz.org/2018-schedule",
+      "speakers": [
+        26599,
+        26600
+      ],
+      "end_date": "2018-08-10T23:00+0000",
+      "conference": "DC26",
+      "event_type": 3,
+      "includes": "",
+      "title": "Soldering/Coding",
+      "updated_at": "2018-08-03T13:57+0000"
+    },
+    {
+      "start_date": "2018-08-10T17:30+0000",
+      "id": 26588,
+      "description": "Learn, create and print any 3-dimensional object you want including wearables.",
+      "location": 26032,
+      "link": "https://r00tz.org/2018-schedule",
+      "speakers": [
+        26592,
+        26595,
+        26596
+      ],
+      "end_date": "2018-08-10T23:00+0000",
+      "conference": "DC26",
+      "event_type": 3,
+      "includes": "",
+      "title": "3D Printing & Wearables",
+      "updated_at": "2018-08-03T13:58+0000"
+    },
+    {
+      "start_date": "2018-08-10T17:30+0000",
+      "id": 26589,
+      "description": "",
+      "location": 26032,
+      "link": "https://r00tz.org/2018-schedule",
+      "speakers": [
+        26607
+      ],
+      "end_date": "2018-08-10T23:00+0000",
+      "conference": "DC26",
+      "event_type": 3,
+      "includes": "",
+      "title": "Puzzles & Lock Picking",
+      "updated_at": "2018-08-03T13:58+0000"
+    },
+    {
+      "start_date": "2018-08-10T17:15+0000",
+      "id": 26590,
+      "description": "",
+      "location": 26032,
+      "link": "https://r00tz.org/2018-schedule",
+      "speakers": [
+        26599,
+        26600
+      ],
+      "end_date": "2018-08-10T17:30+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "r00tz Badge",
+      "updated_at": "2018-08-03T13:59+0000"
+    },
+    {
+      "start_date": "2018-08-10T17:30+0000",
+      "id": 26591,
+      "description": "",
+      "location": 26032,
+      "link": "https://r00tz.org/2018-schedule",
+      "speakers": [
+        26583
+      ],
+      "end_date": "2018-08-10T17:45+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Hacking Design",
+      "updated_at": "2018-08-03T13:59+0000"
+    },
+    {
+      "start_date": "2018-08-10T17:45+0000",
+      "id": 26592,
+      "description": "",
+      "location": 26032,
+      "link": "https://r00tz.org/2018-schedule",
+      "speakers": [
+        26584
+      ],
+      "end_date": "2018-08-10T18:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Capture Them All! ",
+      "updated_at": "2018-08-03T14:00+0000"
+    },
+    {
+      "start_date": "2018-08-10T18:00+0000",
+      "id": 26593,
+      "description": "",
+      "location": 26032,
+      "link": "https://r00tz.org/2018-schedule",
+      "speakers": [
+        26585
+      ],
+      "end_date": "2018-08-10T18:15+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Outsmarting Smart Cities",
+      "updated_at": "2018-08-03T14:08+0000"
+    },
+    {
+      "start_date": "2018-08-10T18:15+0000",
+      "id": 26594,
+      "description": "",
+      "location": 26032,
+      "link": "https://r00tz.org/2018-schedule",
+      "speakers": [
+        26586,
+        26587
+      ],
+      "end_date": "2018-08-10T18:30+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "The Haunted Lightbulb",
+      "updated_at": "2018-08-03T14:08+0000"
+    },
+    {
+      "start_date": "2018-08-10T18:30+0000",
+      "id": 26595,
+      "description": "",
+      "location": 26032,
+      "link": "https://r00tz.org/2018-schedule",
+      "speakers": [
+        26090
+      ],
+      "end_date": "2018-08-10T18:45+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Prototype This",
+      "updated_at": "2018-08-03T14:09+0000"
+    },
+    {
+      "start_date": "2018-08-10T18:45+0000",
+      "id": 26596,
+      "description": "",
+      "location": 26032,
+      "link": "https://r00tz.org/2018-schedule",
+      "speakers": [
+        26588
+      ],
+      "end_date": "2018-08-10T19:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Hacking America\u2019s Elections",
+      "updated_at": "2018-08-03T14:11+0000"
+    },
+    {
+      "start_date": "2018-08-10T20:00+0000",
+      "id": 26597,
+      "description": "",
+      "location": 26032,
+      "link": "https://r00tz.org/2018-schedule",
+      "speakers": [
+        26588
+      ],
+      "end_date": "2018-08-10T23:00+0000",
+      "conference": "DC26",
+      "event_type": 3,
+      "includes": "",
+      "title": "Hacking the Election",
+      "updated_at": "2018-08-03T14:12+0000"
+    },
+    {
+      "start_date": "2018-08-10T20:00+0000",
+      "id": 26598,
+      "description": "",
+      "location": 26032,
+      "link": "https://r00tz.org/2018-schedule",
+      "speakers": [
+        26602
+      ],
+      "end_date": "2018-08-10T23:00+0000",
+      "conference": "DC26",
+      "event_type": 3,
+      "includes": "",
+      "title": "D. Cypher Ops ",
+      "updated_at": "2018-08-03T14:15+0000"
+    },
+    {
+      "start_date": "2018-08-10T20:00+0000",
+      "id": 26599,
+      "description": "",
+      "location": 26032,
+      "link": "https://r00tz.org/2018-schedule",
+      "speakers": [
+        26608
+      ],
+      "end_date": "2018-08-10T23:00+0000",
+      "conference": "DC26",
+      "event_type": 3,
+      "includes": "",
+      "title": "Hack The Pentagon Cyber Heroes Return by Synack & US Army",
+      "updated_at": "2018-08-03T14:15+0000"
+    },
+    {
+      "start_date": "2018-08-10T20:00+0000",
+      "id": 26600,
+      "description": "",
+      "location": 26032,
+      "link": "https://r00tz.org/2018-schedule",
+      "speakers": [
+        26603,
+        26604
+      ],
+      "end_date": "2018-08-10T23:00+0000",
+      "conference": "DC26",
+      "event_type": 3,
+      "includes": "",
+      "title": "Forensic Contest",
+      "updated_at": "2018-08-03T14:16+0000"
+    },
+    {
+      "start_date": "2018-08-11T17:30+0000",
+      "id": 26601,
+      "description": "Disassemble and explore smartphones, laptops, and other electronic gadgets.",
+      "location": 26032,
+      "link": "https://r00tz.org/2018-schedule",
+      "speakers": [
+        26603,
+        26604
+      ],
+      "end_date": "2018-08-11T23:00+0000",
+      "conference": "DC26",
+      "event_type": 3,
+      "includes": "",
+      "title": "Junkyard by AT&T",
+      "updated_at": "2018-08-03T14:25+0000"
+    },
+    {
+      "start_date": "2018-08-11T17:30+0000",
+      "id": 26602,
+      "description": "",
+      "location": 26032,
+      "link": "https://r00tz.org/2018-schedule",
+      "speakers": [
+        26607
+      ],
+      "end_date": "2018-08-11T23:00+0000",
+      "conference": "DC26",
+      "event_type": 3,
+      "includes": "",
+      "title": "Puzzles & Lock Picking",
+      "updated_at": "2018-08-03T14:25+0000"
+    },
+    {
+      "start_date": "2018-08-11T17:30+0000",
+      "id": 26603,
+      "description": "Learn, create and print any 3-dimensional object you want including wearables.",
+      "location": 26032,
+      "link": "https://r00tz.org/2018-schedule",
+      "speakers": [
+        26592,
+        26595,
+        26596
+      ],
+      "end_date": "2018-08-11T23:00+0000",
+      "conference": "DC26",
+      "event_type": 3,
+      "includes": "",
+      "title": "3D Printing & Wearables",
+      "updated_at": "2018-08-03T14:25+0000"
+    },
+    {
+      "start_date": "2018-08-11T17:30+0000",
+      "id": 26604,
+      "description": "This year all kids will be soldering their own r00tz badge and then coding them.",
+      "location": 26032,
+      "link": "https://r00tz.org/2018-schedule",
+      "speakers": [
+        26599,
+        26600
+      ],
+      "end_date": "2018-08-11T23:00+0000",
+      "conference": "DC26",
+      "event_type": 3,
+      "includes": "",
+      "title": "Soldering /Coding",
+      "updated_at": "2018-08-03T14:26+0000"
+    },
+    {
+      "start_date": "2018-08-11T20:00+0000",
+      "id": 26605,
+      "description": "Compete for awesome prizes and learn new security skills in this computer-based competition. Players will work on teams to earn points and gain control of the game map by completing both defense and offense challenges. ",
+      "location": 26032,
+      "link": "https://r00tz.org/2018-schedule",
+      "speakers": [
+        26599,
+        26600
+      ],
+      "end_date": "2018-08-11T23:00+0000",
+      "conference": "DC26",
+      "event_type": 7,
+      "includes": "",
+      "title": "Capture the Flag by by NeverLAN CTF",
+      "updated_at": "2018-08-03T14:23+0000"
+    },
+    {
+      "start_date": "2018-08-11T20:00+0000",
+      "id": 26606,
+      "description": "",
+      "location": 26032,
+      "link": "https://r00tz.org/2018-schedule",
+      "speakers": [
+        26588
+      ],
+      "end_date": "2018-08-11T23:00+0000",
+      "conference": "DC26",
+      "event_type": 3,
+      "includes": "",
+      "title": "Hacking the Election ",
+      "updated_at": "2018-08-03T14:27+0000"
+    },
+    {
+      "start_date": "2018-08-11T20:00+0000",
+      "id": 26607,
+      "description": "",
+      "location": 26032,
+      "link": "https://r00tz.org/2018-schedule",
+      "speakers": [
+        26606
+      ],
+      "end_date": "2018-08-11T23:00+0000",
+      "conference": "DC26",
+      "event_type": 3,
+      "includes": "",
+      "title": "Attack & Defend ",
+      "updated_at": "2018-08-03T14:27+0000"
+    },
+    {
+      "start_date": "2018-08-11T20:00+0000",
+      "id": 26608,
+      "description": "",
+      "location": 26032,
+      "link": "https://r00tz.org/2018-schedule",
+      "speakers": [
+        26605
+      ],
+      "end_date": "2018-08-11T23:00+0000",
+      "conference": "DC26",
+      "event_type": 3,
+      "includes": "",
+      "title": "AI Village",
+      "updated_at": "2018-08-03T14:27+0000"
+    },
+    {
+      "start_date": "2018-08-11T20:00+0000",
+      "id": 26609,
+      "description": "Drones are exciting for kids and the next generation of pilots will likely work in these fields in greater numbers than traditional pilots. These STEM programs focusing on drones encourage kids to kinetically interact with technology while learning how adaptations can be applied for functional use. Attendees will learn remote camera functions and setups, real flight controllers, simulated flights and drone functions, and fun and exciting adaptations.\r\n\r\nThis workstation will engage kids in:\r\n\r\nReal Drone Gameplay with VR integration and high score award winners.\r\nBuilding kits for small drones available for instructional construction and operation.\r\nusing 3-5 Drone and rf aircraft flight simulator stations and\r\nDemonstrating the new wireless assault drone will be unveiled.",
+      "location": 26032,
+      "link": "https://r00tz.org/2018-schedule",
+      "speakers": [
+        26594
+      ],
+      "end_date": "2018-08-11T23:00+0000",
+      "conference": "DC26",
+      "event_type": 3,
+      "includes": "",
+      "title": "Drone Wars ",
+      "updated_at": "2018-08-03T14:28+0000"
+    },
+    {
+      "start_date": "2018-08-11T17:00+0000",
+      "id": 26610,
+      "description": "",
+      "location": 26032,
+      "link": "https://r00tz.org/2018-schedule",
+      "speakers": [
+        26589
+      ],
+      "end_date": "2018-08-11T17:15+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Former US Cyber Czar",
+      "updated_at": "2018-08-03T14:29+0000"
+    },
+    {
+      "start_date": "2018-08-11T17:15+0000",
+      "id": 26611,
+      "description": "",
+      "location": 26032,
+      "link": "https://r00tz.org/2018-schedule",
+      "speakers": [
+        26590
+      ],
+      "end_date": "2018-08-11T17:30+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "DEFCON Badges",
+      "updated_at": "2018-08-03T14:29+0000"
+    },
+    {
+      "start_date": "2018-08-11T17:30+0000",
+      "id": 26612,
+      "description": "",
+      "location": 26032,
+      "link": "https://r00tz.org/2018-schedule",
+      "speakers": [
+        26591
+      ],
+      "end_date": "2018-08-11T17:45+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Superman, XMEN & You",
+      "updated_at": "2018-08-03T14:29+0000"
+    },
+    {
+      "start_date": "2018-08-11T17:45+0000",
+      "id": 26613,
+      "description": "",
+      "location": 26032,
+      "link": "https://r00tz.org/2018-schedule",
+      "speakers": [
+        26591
+      ],
+      "end_date": "2018-08-11T18:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Gamifying IR",
+      "updated_at": "2018-08-03T14:30+0000"
+    },
+    {
+      "start_date": "2018-08-11T18:00+0000",
+      "id": 26614,
+      "description": "",
+      "location": 26032,
+      "link": "https://r00tz.org/2018-schedule",
+      "speakers": [
+        26592
+      ],
+      "end_date": "2018-08-11T18:15+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Using Ur SK1LLZ",
+      "updated_at": "2018-08-03T14:31+0000"
+    },
+    {
+      "start_date": "2018-08-11T18:30+0000",
+      "id": 26615,
+      "description": "",
+      "location": 26032,
+      "link": "https://r00tz.org/2018-schedule",
+      "speakers": [
+        26593
+      ],
+      "end_date": "2018-08-11T18:45+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Hacking Web Apps",
+      "updated_at": "2018-08-03T14:31+0000"
+    },
+    {
+      "start_date": "2018-08-11T19:00+0000",
+      "id": 26616,
+      "description": "",
+      "location": 26032,
+      "link": "https://r00tz.org/2018-schedule",
+      "speakers": [
+        26594
+      ],
+      "end_date": "2018-08-11T19:15+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "DroneWarz",
+      "updated_at": "2018-08-03T14:32+0000"
+    },
+    {
+      "start_date": "2018-08-12T17:30+0000",
+      "id": 26617,
+      "description": "",
+      "location": 26032,
+      "link": "https://r00tz.org/2018-schedule",
+      "speakers": [
+        26599,
+        26600
+      ],
+      "end_date": "2018-08-12T19:00+0000",
+      "conference": "DC26",
+      "event_type": 3,
+      "includes": "",
+      "title": "Soldering/Coding",
+      "updated_at": "2018-08-03T14:33+0000"
+    },
+    {
+      "start_date": "2018-08-12T17:30+0000",
+      "id": 26618,
+      "description": "",
+      "location": 26032,
+      "link": "https://r00tz.org/2018-schedule",
+      "speakers": [
+        26601
+      ],
+      "end_date": "2018-08-12T19:00+0000",
+      "conference": "DC26",
+      "event_type": 3,
+      "includes": "",
+      "title": "Puzzles & Lockpicking",
+      "updated_at": "2018-08-03T14:33+0000"
+    },
+    {
+      "start_date": "2018-08-12T17:30+0000",
+      "id": 26619,
+      "description": "",
+      "location": 26032,
+      "link": "https://r00tz.org/2018-schedule",
+      "speakers": [
+        26592,
+        26595,
+        26596
+      ],
+      "end_date": "2018-08-12T19:00+0000",
+      "conference": "DC26",
+      "event_type": 3,
+      "includes": "",
+      "title": "3D Printing/Wearables",
+      "updated_at": "2018-08-03T14:33+0000"
+    },
+    {
+      "start_date": "2018-08-12T17:30+0000",
+      "id": 26620,
+      "description": "",
+      "location": 26032,
+      "link": "https://r00tz.org/2018-schedule",
+      "speakers": [
+        26597
+      ],
+      "end_date": "2018-08-12T19:00+0000",
+      "conference": "DC26",
+      "event_type": 3,
+      "includes": "",
+      "title": "Crypto Camp",
+      "updated_at": "2018-08-03T14:33+0000"
+    },
+    {
+      "start_date": "2018-08-12T17:30+0000",
+      "id": 26621,
+      "description": "",
+      "location": 26032,
+      "link": "https://r00tz.org/2018-schedule",
+      "speakers": [
+        26598
+      ],
+      "end_date": "2018-08-12T19:00+0000",
+      "conference": "DC26",
+      "event_type": 3,
+      "includes": "",
+      "title": "DMX Protocol and Addressing",
+      "updated_at": "2018-08-03T14:34+0000"
+    },
+    {
+      "start_date": "2018-08-10T19:00+0000",
+      "id": 26622,
+      "description": "NoStarch Press\r\nBook Signing by Craig Smith, Author of Car Hacker's Handbook.",
+      "location": 26033,
+      "link": "",
+      "speakers": [],
+      "end_date": "2018-08-10T20:00+0000",
+      "conference": "DC26",
+      "event_type": 8,
+      "includes": "",
+      "title": "Book Signing - Craig Smith",
+      "updated_at": "2018-08-03T15:23+0000"
+    },
+    {
+      "start_date": "2018-08-10T20:00+0000",
+      "id": 26623,
+      "description": "NoStarch Press\r\nBook Signing by Travis Goodspeed, author of POC||GTFO",
+      "location": 26033,
+      "link": "https://nostarch.com/defcon",
+      "speakers": [],
+      "end_date": "2018-08-10T21:30+0000",
+      "conference": "DC26",
+      "event_type": 8,
+      "includes": "",
+      "title": "Book Signing - Travis Goodspeed",
+      "updated_at": "2018-08-03T15:24+0000"
+    },
+    {
+      "start_date": "2018-08-10T21:30+0000",
+      "id": 26624,
+      "description": "NoStarch Press\r\nBook Signings by:\r\n- Tarah Wheeler, co-author of Women in Tech\r\n- Keren Elezari, co-author of Women in Tech\r\n- Violet Blue, author of The Smart Girl's Guide to Privacy\r\n- Georgia Weidman, author of Penetration Testing\r\n- Elissa Shevinsky, author of Lean Out",
+      "location": 26033,
+      "link": "https://nostarch.com/defcon",
+      "speakers": [],
+      "end_date": "2018-08-10T23:00+0000",
+      "conference": "DC26",
+      "event_type": 8,
+      "includes": "",
+      "title": "Book Signing - Tarah Wheeler, Keren Elezari, Violet Blue, Georgia Weidman, Elissa Shevinsky",
+      "updated_at": "2018-08-03T15:26+0000"
+    },
+    {
+      "start_date": "2018-08-11T20:00+0000",
+      "id": 26625,
+      "description": "NoStarch Press\r\nBook Signing by Nick Cano, author of Game Hacking",
+      "location": 26033,
+      "link": "https://nostarch.com/defcon",
+      "speakers": [],
+      "end_date": "2018-08-11T21:00+0000",
+      "conference": "DC26",
+      "event_type": 8,
+      "includes": "",
+      "title": "Book Signing - Nick Cano",
+      "updated_at": "2018-08-03T15:27+0000"
+    },
+    {
+      "start_date": "2018-08-10T17:00+0000",
+      "id": 26626,
+      "description": "Mallet is an intercepting proxy for arbitrary protocols. More accurately, it is a framework for building proxies for arbitrary protocols. Mallet provides the basics required of all proxies: A way to receive the data, a way to send the data, and a user interface to intercept and edit the data. It builds on the Netty project, and as such has access to a large, well-tested suite of protocol implementations that can be used to transform a stream of bytes into useful, high-level protocol objects. This workshop will introduce attendees to Mallet, and show how to construct pipelines of arbitrary complexity, to successfully decode and intercept messages in various protocols, as well as automating modifications of the various messages. A basic familiarity with Java will enhance the delegate's understanding of what they are taught, but is not a requirement.",
+      "location": 26034,
+      "link": "https://www.wallofsheep.com/blogs/news/list-of-packet-hacking-village-talks-at-def-con-26-finalized#rdawes",
+      "speakers": [
+        26621
+      ],
+      "end_date": "2018-08-10T18:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Mallet: A Proxy for Arbitrary Traffic",
+      "updated_at": "2018-08-03T15:29+0000"
+    },
+    {
+      "start_date": "2018-08-10T18:00+0000",
+      "id": 26627,
+      "description": "How do we scale a deeper level of security awareness training without sacrificing efficacy? This talk will explore strategies and tactics for developing security education based on employees' roles, access, and attack surface while designing not only for efficiency but also for effectiveness. By prioritizing the highest-risk teams, pooling teams to collaboratively threat-model, and contextualizing universal truths of security hygiene to those threat models, we can deliver training that leverages employees' roles, fosters retention via active participation, and eases the burden on trainers within the security team. Attendees will walk away with a roadmap for building scalable, contextual, and collaborative role-based employee security education within their organizations.",
+      "location": 26034,
+      "link": "https://www.wallofsheep.com/blogs/news/list-of-packet-hacking-village-talks-at-def-con-26-finalized#ksweet",
+      "speakers": [
+        26627
+      ],
+      "end_date": "2018-08-10T19:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Rethinking Role-Based Security Education",
+      "updated_at": "2018-08-03T15:30+0000"
+    },
+    {
+      "start_date": "2018-08-10T19:00+0000",
+      "id": 26628,
+      "description": "Data exfiltration through DNS typically relies on the use of DNS query fields to exfiltrate data via the attacker's DNS server. This approach has several shortcomings. The first is attribution, since attackers end up creating a trail back to their own infrastructure. The second is awareness, as DFIR analysts have made careful study of DNS fields as exfiltration vectors. The third is access, since companies are increasingly using DNS server whitelisting to prevent or alert on outgoing DNS queries to servers controlled by attackers. But what if data could be transferred using the target's own whitelisted DNS servers, without the communicating systems ever directly connecting to each other or a common endpoint? Even if the network boundary employed data whitelisting to block data exfiltration?\r\n\r\nThrough a combination of DNS queries and text-based steganography, we'll cover the methods used to transfer data across a network, hidden in plain sight, without direct connectivity between systems, while employing multiple levels of deception to avoid generating alerts as well as to mislead analysis attempts. The presentation will include a demonstration of PacketWhisper, a new tool written in Python, that automates all of these steps for you. PacketWhisper will be made available on GitHub to coincide with this session (https://github.com/TryCatchHCF).",
+      "location": 26034,
+      "link": "https://www.wallofsheep.com/blogs/news/list-of-packet-hacking-village-talks-at-def-con-26-finalized#trycatch",
+      "speakers": [
+        26625
+      ],
+      "end_date": "2018-08-10T20:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "PacketWhisper: Stealthily Exfiltrating Data and Defeating Attribution Using DNS and Text-Based Steganography",
+      "updated_at": "2018-08-03T15:31+0000"
+    },
+    {
+      "start_date": "2018-08-10T20:00+0000",
+      "id": 26629,
+      "description": "Have you ever been asked 'what is the best way to protect against $ATTACK'? (usually shortly after $ATTACK makes headlines). Have you ever been challenged to provide the reasoning behind your suggestion? If you were in a room full of experts, would your reasoning hold up under scrutiny? When you discuss with your security-savvy peers, you're quickly come to a consensus on the 'best' control (!= device) to protect against $ATTACK. But do you know WHY it's the 'best'? The Target-Based Security Model is essentially a framework that breaks down attacks to their component level. This breakdown makes it easy to see what the 'best' security controls are - as well as alternative security controls that could also be applied. Its not so much something new, as it is a new way for the industry to communicate about security. In much the same way that the OSI model allows for developers to know they are talking about the same thing, a common security model allows security professionsals to communicate in a vendor-agnostic manner. Think of it as a translation tool for vendor-speak. In this talk we'll present the Target-Based Security model and discuss the following: how it came to be, what it is, and how to use it. And of course, we'll talk about how it can be used to make the world a better place - provided we all agree to use it.",
+      "location": 26034,
+      "link": "https://www.wallofsheep.com/blogs/news/list-of-packet-hacking-village-talks-at-def-con-26-finalized#gmontgomery",
+      "speakers": [
+        26630
+      ],
+      "end_date": "2018-08-10T21:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Target-Based Security Model",
+      "updated_at": "2018-08-03T15:34+0000"
+    },
+    {
+      "start_date": "2018-08-10T21:00+0000",
+      "id": 26630,
+      "description": "In the last year or so, we have seen a massive increase in the value of cryptocurrencies and the emergence of hundreds of new coins and ICOs, getting millions of people into an investment frenzy. A lot of them being non-technical regular consumers that rushed to create new accounts in the most popular crypto exchanges like Coinbase or Bitstamp. Crypto exchanges are naturally appealing for attackers and have been targeted since as long as we can remember. However, since last year, they are also being targeted by Man-in-the-Browser (MITB) attacks. Malware families such as Zeus Panda, Ramnit and Trickbot are already aiming at websites such as Coinbase.com or Blockchain.info. In this talk, we will detail how these attacks work, from account takeover to moving out the coins to attacker-controlled wallets. We'll discuss current defenses e.g. multi-factor authentication or strong SSL encryption and why they are failing to mitigate this type of attacks.",
+      "location": 26034,
+      "link": "https://www.wallofsheep.com/blogs/news/list-of-packet-hacking-village-talks-at-def-con-26-finalized#pfortuna",
+      "speakers": [
+        26626
+      ],
+      "end_date": "2018-08-10T22:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Protecting Crypto Exchanges From a New Wave of Man-in-the-Browser Attacks",
+      "updated_at": "2018-08-03T15:35+0000"
+    },
+    {
+      "start_date": "2018-08-10T22:00+0000",
+      "id": 26631,
+      "description": "FOIA (otherwise known as the Freedom of Information Act or FOI/Freedom of Information in Australia) are government-based initiatives to permit the public to request information on various government records. In practice, these acts enable transparency of the operations of government to the masses with relative ease. In reality, submitting FOI requests can be a cumbersome and frustrating process for citizens.\r\n\r\nFor two years now I have been hacking this human black box - finding out what you can/cannot ask for and more importantly how to ask for information and get it! Have you ever asked the government for a log file, Cisco IOS running config or Active Directory group policies? Do you ever wonder if a government employee would provide you with such information if you asked really really nicely? Let's find out together! For the past couple of years I have been performing various technology-focused FOI requests in an attempt to answer one simple argument: Can you utilize freedom of information to enumerate technical information from government agencies? I present my research, findings and results of multiple years of submitting FOIA requests to various USA and Australian government institutions including multiple intelligence agencies. We will discover the fun times and challenges when performing such requests.\r\n\r\nAttendees will gain practical knowledge about: what FOIA is, the caveats of FOIA, how you can utilize FOIA on red team engagements and other open source intelligence gathering activities and finally the results of my research in multiple requests to intelligence agencies.",
+      "location": 26034,
+      "link": "https://www.wallofsheep.com/blogs/news/list-of-packet-hacking-village-talks-at-def-con-26-finalized#ebrink",
+      "speakers": [
+        26617
+      ],
+      "end_date": "2018-08-10T23:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Freedom of Information: Hacking the Human Black Box",
+      "updated_at": "2018-08-03T15:35+0000"
+    },
+    {
+      "start_date": "2018-08-10T23:00+0000",
+      "id": 26632,
+      "description": "The battle for supremacy for the control of the dashboard display or infotainment systems has always been a race. Most of these systems run on Linux, Android, Windows (customized dashboards - perhaps Windows ME or CE) and Blackberry's QNX. In-Vehicle Infotainment (IVI) or In-car entertainment (ICE) Systems are indeed fun consoles where you can play media, movies, or work with your car's navigational system. But somehow it also comes with a risk of being hacked or attacked because they have also been plagued with vulnerabilities. In this talk, join Jay as he presents his own Car Hacker's Methodology in finding security bugs in order to pwn a car's infotainment system without having to do a drive by wire or CANbus hacking tools but will simply point out the common attack surfaces e.g WiFi, Bluetooth, USB Ports, etc. and some scenarios on how to exploit it just like how he popped a shell or issue an arbitrary command in his car which he tweeted in Twitter before.",
+      "location": 26034,
+      "link": "https://www.wallofsheep.com/blogs/news/list-of-packet-hacking-village-talks-at-def-con-26-finalized#jturla",
+      "speakers": [
+        26613
+      ],
+      "end_date": "2018-08-11T00:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Car Infotainment Hacking Methodology and Attack Surface Scenarios",
+      "updated_at": "2018-08-03T15:36+0000"
+    },
+    {
+      "start_date": "2018-08-11T00:00+0000",
+      "id": 26633,
+      "description": "In this talk we briefly introduce common SMTP/TLS implementation weaknesses explain how governments, criminals, and malicious insiders can exploit them to remotely reset account passwords, create/update/delete firewall rules, control windows desktops/laptops, access online backup systems, download full-disk Encryption Keys, watch security cameras, listen to security camera microphones, control social media accounts, and takeover AWS virtual machines.",
+      "location": 26034,
+      "link": "https://www.wallofsheep.com/blogs/news/list-of-packet-hacking-village-talks-at-def-con-26-finalized#chanlon",
+      "speakers": [
+        26629
+      ],
+      "end_date": "2018-08-11T00:30+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Swiss Cheese Holes in the Foundation of Modern Security - CERT VU#919801",
+      "updated_at": "2018-08-03T15:36+0000"
+    },
+    {
+      "start_date": "2018-08-11T01:00+0000",
+      "id": 26634,
+      "description": "Sure, WiFi hacking has been around for a while, and everyone knows about tools like airmon-ng, kismet, et al. But what if you just want to view a list of all networks in your area along with all devices connected to them? Or maybe you want to know who's hogging all the bandwidth? Or, what if you want to know when a certain someone's cell phone is nearby. Or perhaps you'd like to know if your Airbnb host's IP Camera is uploading video to the cloud?\r\n\r\nFor all these use-cases, I've developed a new tool called \"trackerjacker\". In this talk, we'll use this tool to explore some of the surprisingly-informative data floating around in the radio space, and you'll come away with a new skill point or two in your radio hacking skill tree, as well as a new magical weapon... I mean tool.",
+      "location": 26034,
+      "link": "https://www.wallofsheep.com/blogs/news/list-of-packet-hacking-village-talks-at-def-con-26-finalized#cmadrigal",
+      "speakers": [
+        26312
+      ],
+      "end_date": "2018-08-11T01:30+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Mapping Wi-Fi Networks and Triggering on Interesting Traffic Patterns",
+      "updated_at": "2018-08-03T15:37+0000"
+    },
+    {
+      "start_date": "2018-08-11T17:00+0000",
+      "id": 26635,
+      "description": "This talk will cover the basics of protocol analysis using Wireshark and lead into analyzing two custom application protocols used for extending the mouse and keyboard of a remote system. The two applications covered are HippoRemote, and iOS app to use a iPhone as a trackpad and keyboard, and Synergy, an application to allow for control of multiple operating systems with one mouse and keyboard. By performing a MITM attack, an attacker can abuse this protocols to send keystokes to a remote machine to gain remote code execution similar to a USB rubber ducky attack. The talk will also discuss mitigations and open source code will be provided for exploitation. The target audience should have a basic understanding of Wireshark, ARP spoofing, and reverse shells.",
+      "location": 26034,
+      "link": "https://www.wallofsheep.com/blogs/news/list-of-packet-hacking-village-talks-at-def-con-26-finalized#erodriguez",
+      "speakers": [
+        26615
+      ],
+      "end_date": "2018-08-11T17:30+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Ducky-in-the-Middle: Injecting Keystrokes into Plaintext Protocols",
+      "updated_at": "2018-08-03T15:38+0000"
+    },
+    {
+      "start_date": "2018-08-11T17:30+0000",
+      "id": 26636,
+      "description": "Every SOC is deluged by massive amounts of logs, suspect files, alerts and data that make it impossible to respond to everything. It is essential to deploy automation to accelerate response time, consistency, scalability and efficiency. This talk will cover techniques to design a reliable automated tool in security. We will discuss about techniques of tunning the automation to avoid false positives and the many struggles we have had in creating appropriate whitelists. We will walk through steps of creating an automated tool and the essential factors to be considered to avoid any false positive.\r\n\r\n",
+      "location": 26034,
+      "link": "https://www.wallofsheep.com/blogs/news/list-of-packet-hacking-village-talks-at-def-con-26-finalized#gziabari",
+      "speakers": [
+        26619
+      ],
+      "end_date": "2018-08-11T18:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "How to Tune Automation to Avoid False Positives",
+      "updated_at": "2018-08-03T15:39+0000"
+    },
+    {
+      "start_date": "2018-08-11T18:00+0000",
+      "id": 26637,
+      "description": "Started as pet project in 2011, wpa-sec collects WPA handshake captures from all over the world. Contributors use client script to download handshakes and special crafted dictionaries to initiate attack against PSKs. With more than 115 GB captures from 240 000 submissions, collected samples represent invaluable source for wireless security research. This includes:\r\n\r\nMany improvements for emerging wireless security tools like hcxtools suite (https://github.com/ZerBea/hcxtools)\r\nIdentified default PSK key generation algorithms, used by various ISPs. Those, along with fixes for current implementations get in RouterKeygen project (https://github.com/routerkeygen/routerkeygenPC). Many more to come, based on current research activities\r\nPerformance optimizations for WPA crackers\r\nIdentified some linux kernel driver bugs\r\nDuring the talk I will explain how wpa-sec works, provide statistics and a lot internals on optimization and how to use the database as OSINT source during pentests and red team actions.\r\n\r\nwpa-sec is opensource project available at https://github.com/RealEnder/dwpa.\r\n\r\nLive installation at https://wpa-sec.stanev.org.",
+      "location": 26034,
+      "link": "https://www.wallofsheep.com/blogs/news/list-of-packet-hacking-village-talks-at-def-con-26-finalized#astanev",
+      "speakers": [
+        26635
+      ],
+      "end_date": "2018-08-11T18:30+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "wpa-sec: The Largest Online WPA Handshake Database",
+      "updated_at": "2018-08-03T15:39+0000"
+    },
+    {
+      "start_date": "2018-08-11T18:30+0000",
+      "id": 26638,
+      "description": "It's easy for us to take for granted when tools allow us to start capturing network traffic without any real hardships. However, what happens when the data you want isn't so easy to capture. This talk will look at two cases in which environments needed to be bent in order to capture the data needed for analysis.\r\n\r\n",
+      "location": 26034,
+      "link": "https://www.wallofsheep.com/blogs/news/list-of-packet-hacking-village-talks-at-def-con-26-finalized#scutler",
+      "speakers": [
+        26612
+      ],
+      "end_date": "2018-08-11T19:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Capturing in Hard to Reach Places",
+      "updated_at": "2018-08-03T15:40+0000"
+    },
+    {
+      "start_date": "2018-08-11T19:00+0000",
+      "id": 26639,
+      "description": "In the era of third party cloud service providers where enterprise critical data is hosted and shared with various vendors, third party security reviews have become essential part of Information Security. It has become a challenge for security teams to ensure parity is maintained between security controls that are available on premise, to those offered by the cloud provider. Typically, companies send a word document or excel sheet to get answers from cloud providers, however, this process is done only once and the review is point in time. In this talk, the attendees will learn about various methods of identifying security posture of the third-party cloud service using information available on Internet, how to use this information for performing cloud service review and improve their own cloud offerings. This can also supplement the tedious questionnaire process and provide an option to fast track the vendor reviews.",
+      "location": 26034,
+      "link": "https://www.wallofsheep.com/blogs/news/list-of-packet-hacking-village-talks-at-def-con-26-finalized#lpidawekar",
+      "speakers": [
+        26624
+      ],
+      "end_date": "2018-08-11T19:30+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "An OSINT Approach to Third Party Cloud Service Provider Evaluation",
+      "updated_at": "2018-08-03T15:41+0000"
+    },
+    {
+      "start_date": "2018-08-11T19:30+0000",
+      "id": 26640,
+      "description": "The Domain Name System is one of the foundational technologies that allow the internet to function, but unfortunately, DNS is surprisingly brittle to certain issues, such as bitsquatting.\r\n\r\nLookups to names that are a \"bitflip\" away from well-known sites (like 'amczon.com' instead of 'amazon.com' since 'c' and 'a have a single bit difference) can be caused by memory failing due to defect or overheating situations, rogue cosmic rays, or even (allegedly) radiation caused by nuclear reactions.\r\n\r\nI was curious how realistic the last case really was - can we 'detect' active nuclear tests based solely on bitsquatting data? To find out, I revisited bitsquatting. First I'll briefly introduce the key concepts required for understanding bitsquatting (including ASCII, DNS and HTTP, Internet infrastructure, and memory error scenarios). I'll show the tools and techniques used to identify and register over 30 newly identified bitsquat domains, monitor DNS and HTTP requests, and process, enrich, and investigate the data. Finally, I will discuss any observations gathered from the data, with a focus on regional trends, specific devices, and current events - and try and see if I could prove any correlation.\r\n\r\nIn the end, attendees should leave with knowledge of the prevalence of bitsquatting and how it has evolved since the phrase was coined 8 years ago, as well as a few techniques for analyzing bitsquatting data and drawing some interesting conclusions.",
+      "location": 26034,
+      "link": "https://www.wallofsheep.com/blogs/news/list-of-packet-hacking-village-talks-at-def-con-26-finalized#emiles",
+      "speakers": [
+        26609
+      ],
+      "end_date": "2018-08-11T20:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Bitsquatting: Passive DNS Hijacking",
+      "updated_at": "2018-08-03T15:42+0000"
+    },
+    {
+      "start_date": "2018-08-11T20:00+0000",
+      "id": 26641,
+      "description": "Deceptions use attackers' own tactics to force them to reveal themselves. Deception techniques are typically used inside the network once attackers have broken in. Once inside, attackers use credentials to move laterally. But before penetrating their target, attackers often study publicly available data to plan their attack. Can we assume that attackers continue to use public information once they've broken in? Could externally-planted deceptions expand our range of visibility on the adversary's activity? In this session, we will present research we conducted to answer these questions, and introduce a tool you can use to \"try it at home.\" We first took a deeper look at various OSINT resources-social media, paste sites, public code repositories, etc.-to refine our picture of the types of publicly-available data, attackers might use to further an attack. Then we planted various deceptive information. For example, on PasteBin we created a fake \"paste\" page containing a dump of fake credentials. On GitHub we created a fake repository of code containing \"accidental\" commits (git commit -am 'removed password'). Next, we paired these deceptions with relevant data and user objects within a simulated network environment. We then started monitoring and waited for an attacker to bite.",
+      "location": 26034,
+      "link": "https://www.wallofsheep.com/blogs/news/list-of-packet-hacking-village-talks-at-def-con-26-finalized#hyudovich",
+      "speakers": [
+        26631,
+        26632,
+        26633
+      ],
+      "end_date": "2018-08-11T20:30+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Turning Deception Outside-In: Tricking Attackers with OSINT",
+      "updated_at": "2018-08-03T15:42+0000"
+    },
+    {
+      "start_date": "2018-08-11T20:30+0000",
+      "id": 26642,
+      "description": "In this presentation you will learn how Akamai has spent the past 4 years working toward preventing the next TLS heartbleed incident. Nothing hypothetical --only deployed defense-in-depth systems will be discussed. This talk will include how we deployed Intel SGX at scale in our network.",
+      "location": 26034,
+      "link": "https://www.wallofsheep.com/blogs/news/list-of-packet-hacking-village-talks-at-def-con-26-finalized#serb",
+      "speakers": [
+        26614
+      ],
+      "end_date": "2018-08-11T21:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Defense in Depth: The Path to SGX at Akamai",
+      "updated_at": "2018-08-03T15:43+0000"
+    },
+    {
+      "start_date": "2018-08-11T21:00+0000",
+      "id": 26643,
+      "description": "Effective security monitoring is an ongoing process. How do you get everyone participating? How do you on-board junior colleagues to continuous improvement? The purpose of this presentation is to show methods for encouraging participation from all members of the security monitoring team as well as tactics for communicating effective with the organization.",
+      "location": 26034,
+      "link": "https://www.wallofsheep.com/blogs/news/list-of-packet-hacking-village-talks-at-def-con-26-finalized#ajohnson",
+      "speakers": [
+        26611
+      ],
+      "end_date": "2018-08-11T21:30+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Building a Teaching SOC",
+      "updated_at": "2018-08-03T15:44+0000"
+    },
+    {
+      "start_date": "2018-08-11T21:30+0000",
+      "id": 26644,
+      "description": "Perimeter defenses are holding an important role in computer security. However, when we check the method of APT groups, a single spear-phishing usually enough to gain a foothold on the network. Therefore, red teams are mostly focused on \"assume breach\" type of scenarios. In these scenarios, testers need to use a post-exploitation framework. Besides that, testers also need to hide the server-agent communication from NIDS (Network Intrusion Detection Systems). In this session, we will discuss one of the most famous post-exploitation tool, Empire's situation against payload-based anomaly detection systems. We will explain how to normalize Empire's traffic with polymorphic blending attack (PBA) method. We will also cover our tool, \"firstorder\" which is designed to evade anomaly-based detection systems. firstorder tool takes a traffic capture file of the network, tries to identify normal profile and configures Empire's listener in such way.",
+      "location": 26034,
+      "link": "https://www.wallofsheep.com/blogs/news/list-of-packet-hacking-village-talks-at-def-con-26-finalized#sensinturk",
+      "speakers": [
+        26290,
+        26291
+      ],
+      "end_date": "2018-08-11T22:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Normalizing Empire's Traffic to Evade Anomaly-Based IDS",
+      "updated_at": "2018-08-03T15:45+0000"
+    },
+    {
+      "start_date": "2018-08-11T22:00+0000",
+      "id": 26645,
+      "description": "The security of automobiles accesses control system is a topic often discussed. Today's vehicles rely on key-fob control modules, to ensure the vehicle is accessible to authorized users only. While most traditional automobile key-fob systems have been shown to be insecure in the past, here comes a game changer. Instead of the regular key-fob system, some car owners will be able to access their vehicle by having their smartphone authenticates as a digital car key.In this talk, we will reveal the research and attacks for one of digital car keys system in the current market. By investigating how these features work, and how to exploit it through different possibles of attack vectors, we will demonstrate the security limitations of such system. By the end of this talk, the attendees will not only understand how to exploit these systems also which tools can be used to achieve our goals.",
+      "location": 26034,
+      "link": "https://www.wallofsheep.com/blogs/news/list-of-packet-hacking-village-talks-at-def-con-26-finalized#chenyang",
+      "speakers": [
+        26531,
+        26618
+      ],
+      "end_date": "2018-08-11T23:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Grand Theft Auto: Digital Key Hacking",
+      "updated_at": "2018-08-03T15:47+0000"
+    },
+    {
+      "start_date": "2018-08-11T23:00+0000",
+      "id": 26646,
+      "description": "The police body camera market has been growing in popularity over the last few years. A recent (2016) Johns Hopkins University market survey found 60 different models have been produced specifically for law enforcement use. Rapid adoption is fueling this meteoric increase in availability and utilization. Additionally, device manufactures are attempting to package more and more technology into these devices. This has caused a deficiency in local municipalities' skills and budget to accurately assess the attack surface and exposure to the organization. Furthermore, departmental policies and procedures governing the secure deployment of these devices is largely insufficient.\r\n\r\nAt DEF CON, we will be introducing tactics, techniques, and procedures to assess the security of these devices. We will cover attacks against the physical devices, RF components, smartphone app's, and desktop software. The capabilities demonstrated and discussed will encompass publicly and privately available technologies. Additionally, the talk will cover multiple products and vendors, shedding light on industry wide issues and trends. Finally, we will be releasing software to detect and track various devices and tie these issues into real world events.",
+      "location": 26034,
+      "link": "https://www.wallofsheep.com/blogs/news/list-of-packet-hacking-village-talks-at-def-con-26-finalized#jmitchell",
+      "speakers": [
+        26125
+      ],
+      "end_date": "2018-08-12T00:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Ridealong Adventures: Critical Issues with Police Body Cameras",
+      "updated_at": "2018-08-03T15:47+0000"
+    },
+    {
+      "start_date": "2018-08-12T00:00+0000",
+      "id": 26647,
+      "description": "IoT offers new protocols and frequencies over which communication travels. Due to lack of familiarity amongst most enterprises, most organizations are ill-equipped to monitor or detect these mysterious channels. This introduces a plethora of covert channels by which data could be exfiltrated, or malware to be infiltrated into the network. In this session we explore this new frontier by focusing on new methods of IoT protocol exploitation by revealing research conducted over the last 2 years. Detailed examples will be provided, as well as demo of a python tool for exploiting unused portions of protocol fields. From our research, we'll also reveal new methods of detecting aberrant behavior emanating to/from these devices gathered from our lab and real world testing.",
+      "location": 26034,
+      "link": "https://www.wallofsheep.com/blogs/news/list-of-packet-hacking-village-talks-at-def-con-26-finalized#raggohosmer",
+      "speakers": [
+        26344,
+        26345
+      ],
+      "end_date": "2018-08-12T01:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "IoT Data Exfiltration",
+      "updated_at": "2018-08-03T15:48+0000"
+    },
+    {
+      "start_date": "2018-08-12T18:00+0000",
+      "id": 26648,
+      "description": "As security researchers, we are always looking for the next device that will make our jobs easier and our research more effective. In many cases, physical gear can be expensive and limited in capability which can be prohibitive, especially in engagements where dead drops are required. However, with the skyrocketing popularity of microcontrollers and single board computers, that barrier has been reduced significantly and has created a host of new possibilities for everything from dead drops to wired and wireless network intrusion and analysis. gh057 will introduce some of the more popular options in this genre and some live demonstrations of their more fun uses. gh057 will demonstrate three devices he built to solve specific problems and that are based on these platforms: ATtiny85, ESP8266 / ES32, Raspberry Pi Finally, and as a bonus, gh057 will demonstrate a simple technique that uses Applescript and Bash that can be used to create a simple USB trojan and can be useful for end-user training.",
+      "location": 26034,
+      "link": "https://www.wallofsheep.com/blogs/news/list-of-packet-hacking-village-talks-at-def-con-26-finalized#gh057",
+      "speakers": [
+        26620
+      ],
+      "end_date": "2018-08-12T19:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Microcontrollers and Single Board Computers for Hacking, Fun and Profit",
+      "updated_at": "2018-08-03T15:49+0000"
+    },
+    {
+      "start_date": "2018-08-12T19:00+0000",
+      "id": 26649,
+      "description": "Phishing and social engineering has been around since Han Solo has flown the Millennium Flacon. The typically response is deleting the messages and giving the middle finger however, what more could be done to strike back? This talk will cover how to build an artificial environment and develop anti phishing tools used to respond to phishing attempts. Results could include owning the attacker's box \"hypothetically\" since some legal boundaries could be crossed.",
+      "location": 26034,
+      "link": "https://www.wallofsheep.com/blogs/news/list-of-packet-hacking-village-talks-at-def-con-26-finalized#munizlakhani",
+      "speakers": [
+        26606,
+        26616
+      ],
+      "end_date": "2018-08-12T20:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Fishing for Phishers. The Enterprise Strikes Back!",
+      "updated_at": "2018-08-03T15:50+0000"
+    },
+    {
+      "start_date": "2018-08-12T20:00+0000",
+      "id": 26650,
+      "description": "Many industries have well-defined points of entry and well-understood education and training requirements. Information Security is not one of those industries. Successful infosec pros often have wildly diverse backgrounds so it is difficult to know which is the \"correct\" way to enter this field. As our industry has evolved and matured, what do organizations now look for in a candidate? What combination of skills, experience, and education will get you in your \"dream job?\" SPOILER - there are many predictors of success, and organizations have different priorities, so there is no single answer.\r\n\r\nThe speaker will describe his experiences as a 22-year veteran of IT and infosec, both from the perspective of working for internal support teams and as a client-facing consultant. In addition to direct observations, this presentation will include the perspectives of other infosec pros that currently work in various capacities in our industry. The goal is not to answer the question of how to successfully develop one's career, as such, but rather to continue the dialogue of what is important to us as we develop our future experts and leaders.",
+      "location": 26034,
+      "link": "https://www.wallofsheep.com/blogs/news/list-of-packet-hacking-village-talks-at-def-con-26-finalized#dsmall",
+      "speakers": [
+        26634
+      ],
+      "end_date": "2018-08-12T21:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "What Do You Want to be When You Grow Up?",
+      "updated_at": "2018-08-03T15:50+0000"
+    },
+    {
+      "start_date": "2018-08-10T17:00+0000",
+      "id": 26651,
+      "description": "We will be in the Blue Team Village area from 10-7PM, but the challenges will be available remotely throughout the conference! \r\n\r\nOpenSOC is a blue team defense simulation that is as close to \"the real thing\" as it gets. This isn\u2019t just another CTF. We\u2019ve built this platform to train real-world responders to handle real-world situations. Our environment is a highly portable, fully functional replication of an enterprise environment, complete with all the trimmings - Active Directory, Exchange, distributed networks, various sensors, log aggregation, end-user simulation, and more.\r\n\r\nOpenSOC is a challenge meant to teach infosec professionals practical incident response skills in an environment that very closely resembles a real enterprise network. The virtual environment is a scaled down version of almost everything you would find in an enterprise network including workstations, servers, firewalls, email, web browsing, user activity, etc. Simulated users are actually browsing the Internet, downloading files, watching videos, and accessing LAN resources. This creates a high fidelity training environment for unleashing real-world attacks and testing a responder\u2019s ability to filter out the noise and find malicious activity on the network.\r\n\r\nThe Challenge:\r\n\r\n1. Find the hostile activities\r\n2. Identify key components of the threats on the network",
+      "location": 26018,
+      "link": "https://opensoc.io/",
+      "speakers": [
+        26636
+      ],
+      "end_date": "2018-08-11T02:00+0000",
+      "conference": "DC26",
+      "event_type": 7,
+      "includes": "",
+      "title": "OpenSOC.io - Network Defense Simulation ",
+      "updated_at": "2018-08-03T15:58+0000"
+    },
+    {
+      "start_date": "2018-08-11T17:00+0000",
+      "id": 26652,
+      "description": "We will be in the Blue Team Village area from 10-2PM, and will continue 2 rooms over from 2PM-midnight, but the challenges will be available remotely throughout the conference! \r\n\r\nOpenSOC is a blue team defense simulation that is as close to \"the real thing\" as it gets. This isn\u2019t just another CTF. We\u2019ve built this platform to train real-world responders to handle real-world situations. Our environment is a highly portable, fully functional replication of an enterprise environment, complete with all the trimmings - Active Directory, Exchange, distributed networks, various sensors, log aggregation, end-user simulation, and more.\r\n\r\nOpenSOC is a challenge meant to teach infosec professionals practical incident response skills in an environment that very closely resembles a real enterprise network. The virtual environment is a scaled down version of almost everything you would find in an enterprise network including workstations, servers, firewalls, email, web browsing, user activity, etc. Simulated users are actually browsing the Internet, downloading files, watching videos, and accessing LAN resources. This creates a high fidelity training environment for unleashing real-world attacks and testing a responder\u2019s ability to filter out the noise and find malicious activity on the network.\r\n\r\nThe Challenge:\r\n\r\n1. Find the hostile activities\r\n2. Identify key components of the threats on the network",
+      "location": 26018,
+      "link": "https://opensoc.io/",
+      "speakers": [
+        26636
+      ],
+      "end_date": "2018-08-12T06:59+0000",
+      "conference": "DC26",
+      "event_type": 7,
+      "includes": "",
+      "title": "OpenSOC.io - Network Defense Simulation ",
+      "updated_at": "2018-08-03T15:58+0000"
     }
   ],
-  "updated_at": "2018-08-03T01:56+0000"
+  "updated_at": "2018-08-03T15:58+0000"
 }
