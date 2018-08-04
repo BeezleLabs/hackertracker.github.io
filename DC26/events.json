@@ -9108,9 +9108,9 @@
     {
       "start_date": "2018-08-10T17:00+0000",
       "id": 26651,
-      "description": "We will be in the Blue Team Village area from 10-7PM, but the challenges will be available remotely throughout the conference! \r\n\r\nSignups are now OPEN for our defensive CTF, OpenSOC.io as well as our live DEF CON Threat Hunting event! Note, all participants *must* signup in order to gain access to the event network. https://docs.google.com/forms/d/e/1FAIpQLSfmbcEvRghIGmgx0VL0ntUR_8lTj_4_EUxiaaPE3nty3bbUtw/viewform?usp=sf_link\r\n\r\nOpenSOC is a blue team defense simulation that is as close to \"the real thing\" as it gets. This isn\u2019t just another CTF. We\u2019ve built this platform to train real-world responders to handle real-world situations. Our environment is a highly portable, fully functional replication of an enterprise environment, complete with all the trimmings - Active Directory, Exchange, distributed networks, various sensors, log aggregation, end-user simulation, and more.\r\n\r\nOpenSOC is a challenge meant to teach infosec professionals practical incident response skills in an environment that very closely resembles a real enterprise network. The virtual environment is a scaled down version of almost everything you would find in an enterprise network including workstations, servers, firewalls, email, web browsing, user activity, etc. Simulated users are actually browsing the Internet, downloading files, watching videos, and accessing LAN resources. This creates a high fidelity training environment for unleashing real-world attacks and testing a responder\u2019s ability to filter out the noise and find malicious activity on the network.\r\n\r\nThe Challenge:\r\n\r\n1. Find the hostile activities\r\n2. Identify key components of the threats on the network",
+      "description": "We will be in the Blue Team Village area from 10-7PM, but the challenges will be available remotely throughout the conference! \r\n\r\nSignups are now OPEN for our defensive CTF, OpenSOC.io as well as our live DEF CON Threat Hunting event! Note, all participants *must* signup in order to gain access to the event network. https://docs.google.com/forms/d/e/1FAIpQLSfmbcEvRghIGmgx0VL0ntUR_8lTj_4_EUxiaaPE3nty3bbUtw/viewform?usp=sf_link\r\n\r\nOpenSOC is a DFIR challenge meant to teach practical incident response skills in an environment that very closely resembles a real enterprise network. This virtual environment is a scaled down version of what you would find in an enterprise network, including: workstations, servers, firewalls, email, web browsing, user activity, etc. Simulated users are browsing the Internet, downloading files, watching videos, and accessing LAN resources. This creates a high fidelity training environment for unleashing real-world attacks and testing a responder's ability to filter out the noise and find malicious activity on the network.\r\n\r\nThis isn't just another CTF. We've built this platform to train real-world responders to handle real-world situations. \r\n\r\nWhat's even better? 100% of the security tools demonstrated on OpenSOC are FREE and OPEN SOURCE! These projects include Wazuh + OSSEC, Kolide + osquery, Suricata, Snort, Moloch, OPNsense, pfSense and Graylog bringing it all together in an awesome way.\r\n\r\nThe Challenge:\r\n\r\nGiven an initial IOC's (indicator of compromise (or pivot point), identify attacks that are being carried out against and within the enterprise environment.\r\nTrace the attackers throughout the kill chain, submitting key IOCs and observables to the scoreboard as you reveal their tactics.\r\nReverse engineer any artifacts connected to hostile activities.\r\nPerform forensics analysis on PCAPs (Packet Captures), memory images, etc.\r\nWin awesome prizes, learn new skills, and get experience with some of the best OPEN SOURCE tools for SecOps!\r\n\r\nhttps://opensoc.io",
       "location": 26018,
-      "link": "https://opensoc.io/",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSfmbcEvRghIGmgx0VL0ntUR_8lTj_4_EUxiaaPE3nty3bbUtw/viewform?usp=sf_link",
       "speakers": [
         26636
       ],
@@ -9119,14 +9119,14 @@
       "event_type": 7,
       "includes": "",
       "title": "OpenSOC.io - Network Defense Simulation, Defensive CTF",
-      "updated_at": "2018-08-03T16:06+0000"
+      "updated_at": "2018-08-04T00:09+0000"
     },
     {
       "start_date": "2018-08-11T17:00+0000",
       "id": 26652,
-      "description": "We will be in the Blue Team Village area from 10-2PM, and will continue 2 rooms over from 2PM-midnight, but the challenges will be available remotely throughout the conference! \r\n\r\nSignups are now OPEN for our defensive CTF, OpenSOC.io as well as our live DEF CON Threat Hunting event! Note, all participants *must* signup in order to gain access to the event network. https://docs.google.com/forms/d/e/1FAIpQLSfmbcEvRghIGmgx0VL0ntUR_8lTj_4_EUxiaaPE3nty3bbUtw/viewform?usp=sf_link\r\n\r\nOpenSOC is a blue team defense simulation that is as close to \"the real thing\" as it gets. This isn\u2019t just another CTF. We\u2019ve built this platform to train real-world responders to handle real-world situations. Our environment is a highly portable, fully functional replication of an enterprise environment, complete with all the trimmings - Active Directory, Exchange, distributed networks, various sensors, log aggregation, end-user simulation, and more.\r\n\r\nOpenSOC is a challenge meant to teach infosec professionals practical incident response skills in an environment that very closely resembles a real enterprise network. The virtual environment is a scaled down version of almost everything you would find in an enterprise network including workstations, servers, firewalls, email, web browsing, user activity, etc. Simulated users are actually browsing the Internet, downloading files, watching videos, and accessing LAN resources. This creates a high fidelity training environment for unleashing real-world attacks and testing a responder\u2019s ability to filter out the noise and find malicious activity on the network.\r\n\r\nThe Challenge:\r\n\r\n1. Find the hostile activities\r\n2. Identify key components of the threats on the network",
+      "description": "We will be in the Blue Team Village area from 10-2PM, and will continue 2 rooms over from 2PM-midnight, but the challenges will be available remotely throughout the conference! \r\n\r\nSignups are now OPEN for our defensive CTF, OpenSOC.io as well as our live DEF CON Threat Hunting event! Note, all participants *must* signup in order to gain access to the event network. https://docs.google.com/forms/d/e/1FAIpQLSfmbcEvRghIGmgx0VL0ntUR_8lTj_4_EUxiaaPE3nty3bbUtw/viewform?usp=sf_link\r\n\r\nOpenSOC is a DFIR challenge meant to teach practical incident response skills in an environment that very closely resembles a real enterprise network. This virtual environment is a scaled down version of what you would find in an enterprise network, including: workstations, servers, firewalls, email, web browsing, user activity, etc. Simulated users are browsing the Internet, downloading files, watching videos, and accessing LAN resources. This creates a high fidelity training environment for unleashing real-world attacks and testing a responder's ability to filter out the noise and find malicious activity on the network.\r\n\r\nThis isn't just another CTF. We've built this platform to train real-world responders to handle real-world situations. \r\n\r\nWhat's even better? 100% of the security tools demonstrated on OpenSOC are FREE and OPEN SOURCE! These projects include Wazuh + OSSEC, Kolide + osquery, Suricata, Snort, Moloch, OPNsense, pfSense and Graylog bringing it all together in an awesome way.\r\n\r\nThe Challenge:\r\n\r\nGiven an initial IOC's (indicator of compromise (or pivot point), identify attacks that are being carried out against and within the enterprise environment.\r\nTrace the attackers throughout the kill chain, submitting key IOCs and observables to the scoreboard as you reveal their tactics.\r\nReverse engineer any artifacts connected to hostile activities.\r\nPerform forensics analysis on PCAPs (Packet Captures), memory images, etc.\r\nWin awesome prizes, learn new skills, and get experience with some of the best OPEN SOURCE tools for SecOps!\r\n\r\nhttps://opensoc.io",
       "location": 26018,
-      "link": "https://opensoc.io/",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSfmbcEvRghIGmgx0VL0ntUR_8lTj_4_EUxiaaPE3nty3bbUtw/viewform?usp=sf_link",
       "speakers": [
         26636
       ],
@@ -9135,7 +9135,7 @@
       "event_type": 7,
       "includes": "",
       "title": "OpenSOC.io - Network Defense Simulation, Defensive CTF",
-      "updated_at": "2018-08-03T16:06+0000"
+      "updated_at": "2018-08-04T00:09+0000"
     },
     {
       "start_date": "2018-08-10T17:00+0000",
@@ -9166,5 +9166,5 @@
       "updated_at": "2018-08-03T16:09+0000"
     }
   ],
-  "updated_at": "2018-08-03T16:09+0000"
+  "updated_at": "2018-08-04T00:09+0000"
 }
