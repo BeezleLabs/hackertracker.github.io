@@ -704,7 +704,7 @@
     {
       "start_date": "2018-08-10T18:00+0000",
       "id": 26042,
-      "description": "",
+      "description": "The National Security Agency (NSA) has authorities for both foreign intelligence and cyber security.  This unique position gives NSA insights into the ways networks are exploited and the methods that are effective in defending against threats.  Over time, NSA has adapted the focus of its security efforts and continues to evolve with technologies and the adversaries we face.  The talk will look back at some of the inflection points that have influenced NSA and US Government cybersecurity efforts and look at what is necessary to stay safe in the new environment.",
       "location": 26003,
       "link": "",
       "speakers": [
@@ -714,8 +714,8 @@
       "conference": "DC26",
       "event_type": 1,
       "includes": "",
-      "title": "TBA",
-      "updated_at": "2018-07-02T14:10+0000"
+      "title": "NSA Talks Cybersecurity",
+      "updated_at": "2018-08-05T22:52+0000"
     },
     {
       "start_date": "2018-08-10T20:30+0000",
@@ -9166,5 +9166,5 @@
       "updated_at": "2018-08-03T16:09+0000"
     }
   ],
-  "updated_at": "2018-08-05T17:39+0000"
+  "updated_at": "2018-08-05T22:52+0000"
 }
