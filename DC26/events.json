@@ -6331,12 +6331,12 @@
       "location": 26017,
       "link": "http://improvhacker.com/",
       "speakers": [],
-      "end_date": "2018-08-12T06:00+0000",
+      "end_date": "2018-08-11T04:00+0000",
       "conference": "DC26",
       "event_type": 7,
       "includes": "",
       "title": "Whose Slide is it anyway?",
-      "updated_at": "2018-08-03T00:45+0000"
+      "updated_at": "2018-08-05T17:33+0000"
     },
     {
       "start_date": "2018-08-11T17:00+0000",
@@ -9166,5 +9166,5 @@
       "updated_at": "2018-08-03T16:09+0000"
     }
   ],
-  "updated_at": "2018-08-04T00:09+0000"
+  "updated_at": "2018-08-05T17:33+0000"
 }
