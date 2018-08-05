@@ -1,5 +1,5 @@
 {
-  "updated_at": "2018-08-03T15:58+0000",
+  "updated_at": "2018-08-04T23:57+0000",
   "speakers": [
     {
       "name": "0x200b",
@@ -2973,8 +2973,8 @@
     },
     {
       "name": "Chris Porter",
-      "updated_at": "2018-07-30T00:30+0000",
-      "description": "Chris is an Android dev from Canada, where he has worked for various tech start-ups. In his spare time, Chris has developed a few Android apps that have a total combined download count of over 1.5 million with an average rating of 4.6. \r\n\r\nHe first attended DEF CON at DEF CON 24, where he was introduced to Whitney Champion, the creator of the Hacker Tracker app. He then decided to join the Hacker Tracker team, and took over the Android version. He has since rebuilt the app from the ground up to be the best schedule app possible, from the database to the UI/UX, he's done everything.\r\n\r\nCurrently, he is in charge of the Android version of the Hacker Tracker app.",
+      "updated_at": "2018-08-04T23:57+0000",
+      "description": "Chris is an Android dev from Canada, where he has worked for various tech start-ups. In his spare time, Chris has developed a few Android apps that have a total combined download count of over 1.5 million. \r\n\r\nHe first attended DEF CON at DEF CON 24, where he was introduced to Whitney Champion, the creator of the Hacker Tracker app. He then decided to join the Hacker Tracker team, and took over the Android version. He has since rebuilt the app from the ground up to be the best schedule app possible, from the database to the UI/UX, he's done everything.\r\n\r\nCurrently, he is in charge of the Android version of the Hacker Tracker app.",
       "title": "Senior Android Developer",
       "id": 26320,
       "twitter": "@_advice_dog",
