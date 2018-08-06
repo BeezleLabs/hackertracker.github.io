@@ -1,5 +1,5 @@
 {
-  "updated_at": "2018-08-06T06:02+0000",
+  "updated_at": "2018-08-06T15:05+0000",
   "locations": [
     {
       "name": "Track 2 - Caesar's",
@@ -269,6 +269,12 @@
       "name": "Anzio, Caesars",
       "id": 26045,
       "updated_at": "2018-08-06T06:02+0000",
+      "conference": "DC26"
+    },
+    {
+      "name": "Diana Initiative - Forum Tower - Caesar's",
+      "id": 26046,
+      "updated_at": "2018-08-06T15:05+0000",
       "conference": "DC26"
     }
   ]

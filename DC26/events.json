@@ -11157,7 +11157,622 @@
       "includes": "",
       "title": "Illuminati Party",
       "updated_at": "2018-08-06T13:20+0000"
+    },
+    {
+      "start_date": "2018-08-09T16:45+0000",
+      "id": 26793,
+      "description": "",
+      "location": 26046,
+      "link": "https://dianainitiative2018.busyconf.com/schedule",
+      "speakers": [
+        26745
+      ],
+      "end_date": "2018-08-09T17:50+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Keynote: Personal Branding as an Infosec Influencer - Building a Career From Scratch",
+      "updated_at": "2018-08-06T15:06+0000"
+    },
+    {
+      "start_date": "2018-08-09T18:00+0000",
+      "id": 26794,
+      "description": "We've all seen that weird stuff float across the wire. Maybe it's spyware, maybe it's porn, or maybe it's nothing at all. But from time to time, what crosses a sensor might be something more, something more nefarious, something much larger than you ever thought it could be.\r\n\r\nEmily will discuss in detail her hunt methodology and offer insight into how a little effort and a lot of curiosity can result in something both spectacular and a little scary. In this talk, Emily pulls a thread found during a routine investigation and what she finds will surprise even the most seasoned threat hunters.",
+      "location": 26046,
+      "link": "https://dianainitiative2018.busyconf.com/schedule",
+      "speakers": [
+        26746
+      ],
+      "end_date": "2018-08-09T18:50+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Anatomy of a Massive Malware Campaign",
+      "updated_at": "2018-08-06T16:42+0000"
+    },
+    {
+      "start_date": "2018-08-09T19:00+0000",
+      "id": 26795,
+      "description": "Gartner predicts that by 2020 there will be more than 20 billion connected \"things,\" not including smartphones, in the world. That's 20 billion things collecting data, 20 billion potential \"technological witnesses. How does this impact forensics and investigations? How can you create an investigative hierarchy to ensure your time is properly spent investigating these devices, their apps, and the cloud or other areas where IoT might store data? How do you determine what's relevant and help investigators or operational personnel to see where the data fits into the larger context of their efforts?",
+      "location": 26046,
+      "link": "https://dianainitiative2018.busyconf.com/schedule",
+      "speakers": [
+        26747
+      ],
+      "end_date": "2018-08-09T19:50+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "IoT 4n6: The Growing Impact of the Internet of Things on Digital Forensics",
+      "updated_at": "2018-08-06T16:43+0000"
+    },
+    {
+      "start_date": "2018-08-09T20:00+0000",
+      "id": 26796,
+      "description": "It's easy to code your own attacks in Python, even if you have never programmed before. This will up your game beyond only using tools others have written. It only takes a few lines of Python to perform port scans or brute-force attacks, to encrypt and decrypt data, and crack password hashes. For more advanced web attacks, we'll use Chrome Developer Tools and Burp to help build our Python scripts.\r\n\r\nParticipants need to bring a computer with any OS. The workshop is structured in a Capture the Flag format--partipants will solve a series of challenges and earn points on an automated scoreboard.\r\n\r\nThe attacks will be explained and demonstrated, and detailed step-by-step instructions are provided to get you started on each category of attack. Tutors will help participants individually as needed to make sure everyone is making progress. Some challenges are easy enough for complete beginners, and the hard ones will interest experienced security professionals.\r\n\r\nAll the training materials are freely available on the Web to everyone, and will remain available after the conference ends.",
+      "location": 26046,
+      "link": "https://dianainitiative2018.busyconf.com/schedule",
+      "speakers": [
+        26200,
+        26201,
+        26202
+      ],
+      "end_date": "2018-08-09T22:50+0000",
+      "conference": "DC26",
+      "event_type": 3,
+      "includes": "",
+      "title": "Violent Python (Hands-On Workshop)",
+      "updated_at": "2018-08-06T16:44+0000"
+    },
+    {
+      "start_date": "2018-08-09T23:00+0000",
+      "id": 26797,
+      "description": "Threat modeling is about thinking what bad can happen and what can you do about it. It can also find logical flaws and reveal problems in the architecture or software development practices. These vulnerabilites cannot usually be found by technical testing.\r\n\r\nThreat modeling helps you deliver better software, prioritize your preventive security measures, and focus your penetration testing to the most risky parts of the system. The beauty of threat modeling is that you can assess security already in the design phase. In addition, it is something every team member can participate in because it doesn't require any source code, special skills, or tools. Threat modeling is for everyone: developers, testers, product owners, and project managers.\r\n\r\nThe presentation covers various methods, such as the STRIDE model, for finding security and privacy threats. You will also learn to analyze use cases for finding business level threats. The presentation also includes practical tips for arranging threat workshops and representing your results.\r\n\r\nThe session also includes an interactive part where we'll go through a threat modeling case example. Everyone can take part in finding security threats from the system, share their ideas of possible attack scenarios and suggest mitigations.",
+      "location": 26046,
+      "link": "https://dianainitiative2018.busyconf.com/schedule",
+      "speakers": [
+        26751
+      ],
+      "end_date": "2018-08-09T23:50+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Threat Modeling Everything",
+      "updated_at": "2018-08-06T16:44+0000"
+    },
+    {
+      "start_date": "2018-08-10T00:00+0000",
+      "id": 26798,
+      "description": "",
+      "location": 26046,
+      "link": "https://dianainitiative2018.busyconf.com/schedule",
+      "speakers": [
+        26752
+      ],
+      "end_date": "2018-08-10T01:30+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Keynote: The Skirt Shoots, Scores, and Soars",
+      "updated_at": "2018-08-06T16:45+0000"
+    },
+    {
+      "start_date": "2018-08-09T18:00+0000",
+      "id": 26799,
+      "description": "Industrial espionage is the practice of secretly gathering information about competing corporation or business interest, with the objective of placing one\u2019s own organization at a strategic or financial advantage. A common practice to achieve this advantage is to elicit information from unwitting individuals through what today is called social engineering (SE). We all hear the term SE so often that we become desensitized to it, thereby INCREASING the effectiveness of it against ourselves and organizations. Thus, will call it what it is - Human Intelligence, also known as HUMINT.\r\n\r\nPresenting personal experiences as an Army counterintelligence agent with examples of military and industrial espionage, will examine tradecraft employed against individuals every day. We will apply lessons learned from the US military and the intelligence community by using two acronyms taught to Army counterintelligence agents: SAEDA (Subversion and Espionage Directed against the Army) and MICE (Money, Ideology, Coercion, Ego). By presenting different aspects of HUMINT collection efforts will enable individuals to possibly detect, deflect, and protect oneself from such actions.",
+      "location": 26046,
+      "link": "https://dianainitiative2018.busyconf.com/schedule",
+      "speakers": [
+        26366
+      ],
+      "end_date": "2018-08-09T18:50+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "SAEDAY: Subversion and Espionage Directed Against You",
+      "updated_at": "2018-08-06T16:45+0000"
+    },
+    {
+      "start_date": "2018-08-09T19:00+0000",
+      "id": 26800,
+      "description": "Career development is sometimes seen as a progression of education, certification and job moves, or a hodge podge of steps from one position to the next. In order to progress in our careers, we need to build both technical and non-technical skills in different environments to challenge us and give us opportunities to learn. Most of us are actively involved in many facets of the community: volunteering, con management, presenting and competitions for fun, giving back and networking. Community involvement can also be looked at through a lens of career development. Community involvement strengthens not only the overall community but provides opportunities to stretch and learn new skills that support personal and professional growth. This presentation will examine volunteering, event management, competitions and presenting. We will cover how to evaluate community activities and how to present these on your resume, on your social media profiles and how to incorporate these activities into your interviews. We will also look at how to engage your employers, how to get the most out of the experience and how not to burn out.",
+      "location": 26046,
+      "link": "https://dianainitiative2018.busyconf.com/schedule",
+      "speakers": [
+        26753
+      ],
+      "end_date": "2018-08-09T19:50+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "I Got More Than a T-shirt: How to Support Your Career From Community Involvement",
+      "updated_at": "2018-08-06T16:46+0000"
+    },
+    {
+      "start_date": "2018-08-09T20:00+0000",
+      "id": 26801,
+      "description": "\u201cWhere are all the women?\u201d \u201cIt\u2019s a pipeline issue, there are not enough women to hire!\u201d\r\n\r\nThere are more problems than just the pipeline when it comes to increasing the presence of women in the IT field. I will review the various stages, why women are lost, and the collective actions we can take to retain them.\r\n\r\nFrom early childhood through secondary education and first job, I\u2019ll explore what causes women to lose interest in or be pushed out of the field.\r\n\r\nYou may not be able to solve all the problems, but you most likely are involved with and can have impact with at least one.",
+      "location": 26046,
+      "link": "https://dianainitiative2018.busyconf.com/schedule",
+      "speakers": [
+        26754
+      ],
+      "end_date": "2018-08-09T20:25+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Women in Technology - it\u2019s not JUST a pipeline problem",
+      "updated_at": "2018-08-06T16:47+0000"
+    },
+    {
+      "start_date": "2018-08-09T20:30+0000",
+      "id": 26802,
+      "description": "There are (at least) two common and inter-related misperceptions that continue to limit female participation on conference panels and as speakers. First, many conference organizers contend there simply aren\u2019t enough women in the field. Second, many women believe they do not possess the expertise or qualifications to speak at conferences, or even meetups. Neither of these are true, but they reinforce the persistent dearth of technical women speaking at technical conferences. This is especially problematic in security, where we need more visible and prominent women. Moreover, conference participation is a great way to build your brand, grow professionally, and receive useful feedback for a project or research. In this discussion, we\u2019ll share lessons learned and writing tips for pursuing technical speaking opportunities. Participants will leave equipped with the tools and encouragement required to move the needle for greater female speaker representation at security conferences.",
+      "location": 26046,
+      "link": "https://dianainitiative2018.busyconf.com/schedule",
+      "speakers": [
+        26753,
+        26755
+      ],
+      "end_date": "2018-08-09T20:55+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Yes You Can: An interactive discussion on CFP submissions and presenting at cons",
+      "updated_at": "2018-08-06T16:47+0000"
+    },
+    {
+      "start_date": "2018-08-09T21:00+0000",
+      "id": 26803,
+      "description": "Capture the Flag (CTFs) are competitions and puzzles based on real world information security vulnerabilities and challenges that are played online or at security events and conferences. Individuals or teams race against the clock solving complex and fun exercises gathering \u2018flags\u2019 to earn points. It\u2019s an opportunity for existing and new skills to meet and grow in a great environment, but many have no idea where to start or how to get involved. If you want to grab some flags this talk is for you! Come play some common CTF games with me where I\u2019ll answer frequently asked questions on how to play and where to find the resources you\u2019ll need to be successful as you start to learn new skills, make new friends and happily pwn all the things no matter your skill level.",
+      "location": 26046,
+      "link": "https://dianainitiative2018.busyconf.com/schedule",
+      "speakers": [
+        26756
+      ],
+      "end_date": "2018-08-09T21:25+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Catch me if you can: the art of CTF",
+      "updated_at": "2018-08-06T16:48+0000"
+    },
+    {
+      "start_date": "2018-08-09T21:30+0000",
+      "id": 26804,
+      "description": "We are currently in an age in which stereotypes and issues relating to discrimination are being challenged globally. Where young girls are told to follow their dreams and the Hollywood stereotypes of a hacker being male with his hood up in a basement are dismissed. Nevertheless, as Defcon takes place around us there is no doubting that females remain in the minority.\r\n\r\nAs someone who does not fit the norms of a traditional hacker \u2013 I\u2019m female and I can\u2019t code \u2013 I\u2019m here to break those norms and stereotypes a little bit further. To share my story that anything is possible and that diversity, whether through nature or nurture, only seeks to make us stronger. Most significantly, I\u2019m not only interested in discussing the positives but also want to focus on bringing the negatives to the table as well. Too often we are required to smile, accept the situation and just move on, but only by sharing these experiences can we all grow and prevent these from becoming barriers to the next generation. It is time to begin to create a culture and that begins with each of us.",
+      "location": 26046,
+      "link": "https://dianainitiative2018.busyconf.com/schedule",
+      "speakers": [
+        26462
+      ],
+      "end_date": "2018-08-09T21:55+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "The not-so-obvious path to the Hacker Family",
+      "updated_at": "2018-08-06T16:48+0000"
+    },
+    {
+      "start_date": "2018-08-09T22:00+0000",
+      "id": 26805,
+      "description": "Psychologists have conducted numerous studies throughout the years on motivation, yielding evolving models of motivation as a result. While studying the evolution of Motivational theory from Daniel Pink and others, I realized that my very own colleagues, both inside and outside of my organization, were unmotivated, tired and beaten down. So I proposed some questions to my own team: What \u201cIF\u201d you had more time to innovate? What \u201cIF\u201d you had more time to do the things that gave you Autonomy, Mastery, and Purpose? What would you do? What could you achieve? What \u201cIF\u201d turned into an experiment called Innovation Friday for my Application Security organization. Let me take you on a journey of my experiment that lit up the motivational fire for my colleagues. I\u2019ll walk you through what I proposed, the initial feedback, and the results of what happens when you allow time for (and encourage!) Autonomy, Mastery and Purpose. A fresh look at Motivation 3.0, as well as an idea on how to implement it, is what our industry needs to retain happy and motivated employees.",
+      "location": 26046,
+      "link": "https://dianainitiative2018.busyconf.com/schedule",
+      "speakers": [
+        26757
+      ],
+      "end_date": "2018-08-09T22:50+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "What IF? A Little Experiment on Lighting the Motivational Fire for my App Sec Team",
+      "updated_at": "2018-08-06T16:49+0000"
+    },
+    {
+      "start_date": "2018-08-09T23:00+0000",
+      "id": 26806,
+      "description": "When incidents of sexual harassment or sexual assault occur within communities, how can a community respond in ways that support survivors and also hold problematic members accountable? How does a community move forward together stronger after these incidents? How do I support a friend who has been assaulted or harassed? How do I respond when a friend is accused?\r\n\r\n",
+      "location": 26046,
+      "link": "https://dianainitiative2018.busyconf.com/schedule",
+      "speakers": [
+        26758
+      ],
+      "end_date": "2018-08-09T23:50+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "HOW CAN COMMUNITIES MOVE FORWARD AFTER INCIDENTS OF SEXUAL HARASSMENT OR ASSAULT?",
+      "updated_at": "2018-08-06T16:49+0000"
+    },
+    {
+      "start_date": "2018-08-10T16:50+0000",
+      "id": 26807,
+      "description": "Problem: Money, influence, and success have historically been taboo topics for women to discuss. Career planning is also not taught at the collegiate level, so women are graduating with huge gaps in strategic planning knowledge. Change has come.\r\n\r\nSolution: Attendees will learn practical strategies for earning more money, influencing the industry, and defining success on their own terms. The talk will cover research, trends, and solutions from the speaker\u2019s personal experience.",
+      "location": 26046,
+      "link": "https://dianainitiative2018.busyconf.com/schedule",
+      "speakers": [
+        26759
+      ],
+      "end_date": "2018-08-10T17:50+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Keynote: Seconomics: How To Earn More Money & Influence In the Next 5 Years",
+      "updated_at": "2018-08-06T17:03+0000"
+    },
+    {
+      "start_date": "2018-08-10T19:00+0000",
+      "id": 26808,
+      "description": "IoT is in the press almost daily. This talk presents 3 abstracts with live examples of weaponizing, defending and securing IoT devices. Relive my encounters of: \"When Refrigerators Attack\" or \"How I beat back the Deadly Dishwasher\". And of course, the all time favorite, \"Killer Webcams from Outer Space!\"\r\n\r\n",
+      "location": 26046,
+      "link": "https://dianainitiative2018.busyconf.com/schedule",
+      "speakers": [
+        26760
+      ],
+      "end_date": "2018-08-10T19:50+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "When Refrigerators Attack - Defending against IoT",
+      "updated_at": "2018-08-06T17:04+0000"
+    },
+    {
+      "start_date": "2018-08-10T20:00+0000",
+      "id": 26809,
+      "description": "Interested in continuing your Defcon hacker fun in your home communities? Want to open a community hands-on creativity/tinkering/fabrication space but aren't sure where to start? Join us for a conversation about how a couple of intrepid tinkerers, a few wild ideas, some research funds, and a few key champions helped build a community hackerspace that supports research and technology exploration. Kristen will share some lessons learned and will offer ideas about how you might build and sustain your own hackerspaces.\r\n\r\n",
+      "location": 26046,
+      "link": "https://dianainitiative2018.busyconf.com/schedule",
+      "speakers": [
+        26761
+      ],
+      "end_date": "2018-08-10T20:50+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Hackerspace/Makerspace/Fab Labs/Maker Labs: How to build and sustain a hands-on creative community",
+      "updated_at": "2018-08-06T17:05+0000"
+    },
+    {
+      "start_date": "2018-08-10T21:00+0000",
+      "id": 26810,
+      "description": "Ethereum-based smart contracts hold tremendous potential - but only if those contracts can be secured. More than 10% of the 3.7B raised in ICOs has been lost or stolen to hackers. It's easy to take the nihilistic approach, and just say that smart contract hacks are inevitable. But it's straightforward to secure smart contracts, at least against known vulnerabilities. (Straightforward but not fast or easy.) In this talk, we'll learn about the most common and most devastating smart contract vulnerabilities - and how to build secure smart contracts.\r\n\r\n",
+      "location": 26046,
+      "link": "https://dianainitiative2018.busyconf.com/schedule",
+      "speakers": [
+        26762
+      ],
+      "end_date": "2018-08-10T21:50+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Hunting for Smart Contract Bugs",
+      "updated_at": "2018-08-06T17:06+0000"
+    },
+    {
+      "start_date": "2018-08-10T22:00+0000",
+      "id": 26811,
+      "description": "Endpoint protection is a hot market. With many organisations still struggling with basic malware protection, let alone network defense, they are turning to EPP solutions to help them fight the battle. Statistics show daily malware creation can be up to 1 million pieces a day and traditional signature AV products can't keep up.\r\n\r\nWith so many tools on the market, its hard to know where to start and what to look for. This presentation takes you on an EPP testing journey, functional and non-functional testing aspects and where to start. I\u2019ll demonstrate the testing methodology used, what really happened when products were put to the test.\r\n\r\n",
+      "location": 26046,
+      "link": "https://dianainitiative2018.busyconf.com/schedule",
+      "speakers": [
+        26763
+      ],
+      "end_date": "2018-08-10T22:50+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Endpoint Protection: Behind the ML and smoke screens",
+      "updated_at": "2018-08-06T17:06+0000"
+    },
+    {
+      "start_date": "2018-08-10T23:00+0000",
+      "id": 26812,
+      "description": "Using cryptography and distributed ledger blockchain technology it is now possible to secure a zero-sum cryptographic proof of identity, and control who you share your information with. Hyperlegder indy is completely open source and puts people \u2014 not the organizations that traditionally centralize identity \u2014 in charge of decisions about their own privacy and disclosure. This enables all kinds of rich innovation: connection contracts, revocation, novel payment workflows, asset and document management features, creative forms of escrow, curated reputation, integrations with other cool technologies.\r\n\r\nhttps://github.com/hyperledger/indy-sdk/blob/master/doc/getting-started/getting-started.md#what-indy-and-libindy-are-and-why-they-matter",
+      "location": 26046,
+      "link": "https://dianainitiative2018.busyconf.com/schedule",
+      "speakers": [
+        26764
+      ],
+      "end_date": "2018-08-10T23:50+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Secure digital identities for everyone, distributed crypto ledgers and you.",
+      "updated_at": "2018-08-06T17:07+0000"
+    },
+    {
+      "start_date": "2018-08-11T00:00+0000",
+      "id": 26813,
+      "description": "No matter the size of your IT shop, if the first time you think about the security of the software is during a major incident, it\u2019s not going to go well. I will teach developers and security teams to prepare for, manage, and hopefully prevent, application security incidents. Starting with preparation; do you have a proper application inventory? How do you manage your technology stack? Disaster Recover? Backup strategy? Do you have a WAF? Monitoring? Tools that are at the ready when the s* hits the fan? During an incident; who\u2019s managing the incident? Do you know? What is triage? Who does the investigation? Do you have a \u201csafe\u201d place to do potentially destructive testing? This talk outlines an immediate plan for the audience to get started, with a list of open source tools the security team and/or developers will use to ensure that they are ready, for the worst.\r\n\r\n",
+      "location": 26046,
+      "link": "https://dianainitiative2018.busyconf.com/schedule",
+      "speakers": [
+        26765
+      ],
+      "end_date": "2018-08-11T00:50+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Are you ready for the worst? Application Security Incident Response",
+      "updated_at": "2018-08-06T17:07+0000"
+    },
+    {
+      "start_date": "2018-08-11T01:00+0000",
+      "id": 26814,
+      "description": "\r\n",
+      "location": 26046,
+      "link": "https://dianainitiative2018.busyconf.com/schedule",
+      "speakers": [
+        26766
+      ],
+      "end_date": "2018-08-11T02:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Keynote: Hackers, Hugs, & Drugs - Mental Health in Infosec",
+      "updated_at": "2018-08-06T17:08+0000"
+    },
+    {
+      "start_date": "2018-08-10T18:00+0000",
+      "id": 26815,
+      "description": "As women in infosec, we run a higher risk of getting stuck dealing with a sexual harassment or discrimination situation. Often by the time we realize what's happening it's too late or we are too surprised/exhausted/distraught to think clearly to know how to manage the situation properly. Given we can't always count on HR or our manager to support us or put our needs first, we need to know how to advocate for ourselves and what to do before the problem happens. I'm going to talk about what I've learned from my own experiences to help you be better prepared if it happens to you or someone you know.\r\n\r\n",
+      "location": 26046,
+      "link": "https://dianainitiative2018.busyconf.com/schedule",
+      "speakers": [
+        26767
+      ],
+      "end_date": "2018-08-10T18:50+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "CYA Sexual Harassment Training",
+      "updated_at": "2018-08-06T17:09+0000"
+    },
+    {
+      "start_date": "2018-08-10T19:00+0000",
+      "id": 26816,
+      "description": "You think it's tough being a young woman in InfoSec? It sure is, but hang on, it can get worse as women get older. It's easy for unconscious (or ugh, conscious) bias to interfere with how older women are perceived. This talk will cover:\r\n\r\nWhat it's like to be an older woman in InfoSec now\r\nPotential obstacles for older women in InfoSe\r\nBiggest obstacles for older women: research findings from Twitter poll\r\nAdvantages of older women in InfoSec\r\nWhy whining won't work.\r\nWhy I am enjoying menopause so much (really)\r\nThe importance of mentoring\r\nVolunteerism and personal brand,\r\nHow men are important to our success in InfoSec\r\nFun game to demonstrate how we all have unconsious bias",
+      "location": 26046,
+      "link": "https://dianainitiative2018.busyconf.com/schedule",
+      "speakers": [
+        26768
+      ],
+      "end_date": "2018-08-10T19:25+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Age Like a Fine Wine, Not a Fine Whine",
+      "updated_at": "2018-08-06T17:12+0000"
+    },
+    {
+      "start_date": "2018-08-10T19:30+0000",
+      "id": 26817,
+      "description": "Have you ever felt like a fraud in your profession, despite your accomplishments? Success should build confidence, not shake it, but it can be an ongoing struggle for many women and underrepresented minorities in information security. In fact, many of your peers likely experience self-doubt \u2013 feeling like an impostor \u2013 at some point in their careers.\r\n\r\nWhen you receive a fraud alert on your credit report, you take steps to protect yourself. If you ignore it, there are negative consequences. The same is true for the internal fraud alert alarm bells that go off when impostor syndrome rears its ugly head. In this session, I will share actionable strategies for shattering impostor syndrome and breaking your self-imposed glass ceiling, including how self-talk shapes perceptions of worth and why you need a network to help you \u201cfake it till you make it.\u201d",
+      "location": 26046,
+      "link": "https://dianainitiative2018.busyconf.com/schedule",
+      "speakers": [
+        26769
+      ],
+      "end_date": "2018-08-10T19:55+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Fraud Alert: Shatter Impostor Syndrome",
+      "updated_at": "2018-08-06T17:12+0000"
+    },
+    {
+      "start_date": "2018-08-10T20:00+0000",
+      "id": 26818,
+      "description": "Redefining the Hacker to build a larger security community and prepare for a diverse, empowered security workforce.\r\n\r\n",
+      "location": 26046,
+      "link": "https://dianainitiative2018.busyconf.com/schedule",
+      "speakers": [
+        26770
+      ],
+      "end_date": "2018-08-10T20:25+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Redefining the Hacker",
+      "updated_at": "2018-08-06T17:13+0000"
+    },
+    {
+      "start_date": "2018-08-10T20:30+0000",
+      "id": 26819,
+      "description": "Data science is buzz word across all tech fields, but what is it really? How does it fit into infosec? And how can you get started if you\u2019re interested in this field?\r\n\r\nDuring this talk we\u2019ll explore the answers to these questions. Along the way you\u2019ll find out what security data scientists lose sleep over, why Machine Learning is great but not the be all and end all, and how you too can harness the power of data! Whether you want to learn more about data science in security, or are a complete beginner to both fields \u2013 this talk will start you on the way to discovering more.",
+      "location": 26046,
+      "link": "https://dianainitiative2018.busyconf.com/schedule",
+      "speakers": [
+        26771
+      ],
+      "end_date": "2018-08-10T20:55+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Demistifying data science in security",
+      "updated_at": "2018-08-06T17:13+0000"
+    },
+    {
+      "start_date": "2018-08-10T21:00+0000",
+      "id": 26820,
+      "description": "Technical women face many challenges in dressing for their jobs. Some concerns are shared with other professional women, and some are unique to women in technical roles. Do senior business leaders underestimate you if you are dressed casually? Are your technical contributions taken seriously if you dress up? Our panel will draw upon our own unique experiences across different job roles to discuss these common questions. How we dress depends on what we do, who we interact with, and what we are trying to accomplish. We faced different expectations in our work environments and handled the challenges differently, but we all had to balance fashion and professionalism, manage clothing budgets, and make decisions to ensure our clothing didn\u2019t interfere with our jobs. Our panel can discuss how our approaches differed for managers and individual contributors. We hope to share our insights and provide guidance on dressing professionally in the workplace.\r\n\r\n",
+      "location": 26046,
+      "link": "https://dianainitiative2018.busyconf.com/schedule",
+      "speakers": [
+        26404,
+        26772,
+        26773,
+        26774
+      ],
+      "end_date": "2018-08-10T21:50+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Panel - Dress to Hack: Beyond the Hoodie",
+      "updated_at": "2018-08-06T17:14+0000"
+    },
+    {
+      "start_date": "2018-08-10T22:00+0000",
+      "id": 26821,
+      "description": "So, not really 60 seconds, of course, but I did go from getting an associate's degree in cybersecurity to speaking at an international conference in less than two years. I would like to share my journey, and more importantly tips and tricks about rebranding, making a name for yourself, and finding your passion in the cybersecurity industry.\r\n\r\n",
+      "location": 26046,
+      "link": "https://dianainitiative2018.busyconf.com/schedule",
+      "speakers": [
+        26775
+      ],
+      "end_date": "2018-08-10T22:50+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Noob to Cyber in 60 Seconds",
+      "updated_at": "2018-08-06T17:15+0000"
+    },
+    {
+      "start_date": "2018-08-10T23:00+0000",
+      "id": 26822,
+      "description": "Why do we have such a hard time getting engineering teams to care about vulnerabilities? How is it that we are fixing lots of vulnerabilities, yet are still falling ever further behind on the actual risks? These questions both have the same answer, but getting to it requires empathy, trust, courage, and a giant step back from our day-to-day approach to security.\r\n\r\nIn this talk we will share our experiences about creating proactive partnerships with engineering and product teams. From the ways we have seen this fail to recent success stories, we will illustrate specific practices that help developers and security teams focus and align on a shared view of risk, rather than a laundry list of vulnerabilities: the leverage that comes from enabling rather than gating, automating for visibility and action to manage scale, threat modeling across organizations rather than individual applications, and the particulars of how we get big security features onto busy product teams' roadmaps.",
+      "location": 26046,
+      "link": "https://dianainitiative2018.busyconf.com/schedule",
+      "speakers": [
+        26776,
+        26777
+      ],
+      "end_date": "2018-08-10T23:50+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "A pragmatic approach for internal security partnerships",
+      "updated_at": "2018-08-06T17:15+0000"
+    },
+    {
+      "start_date": "2018-08-11T00:00+0000",
+      "id": 26823,
+      "description": "This is a talk about developing a framework for Apprenticeship in your org, using my personal experiences as an SRE 'apprentice' to flesh out the points of the framework I propose. Through some humorous stories and technical advice we'll work out how to create and nurture diverse teams while hiring folks with great potential to join your team and become superheroes. For those who are just getting started, you'll get some perspective into how to be a great apprentice, and what to look for in an org who will develop you.\r\n\r\n",
+      "location": 26046,
+      "link": "https://dianainitiative2018.busyconf.com/schedule",
+      "speakers": [
+        26778
+      ],
+      "end_date": "2018-08-11T00:50+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "The Power of Apprenticeship",
+      "updated_at": "2018-08-06T17:24+0000"
+    },
+    {
+      "start_date": "2018-08-10T03:00+0000",
+      "id": 26824,
+      "description": "Come join us for a night of quiet networking and game play. We will have a variety of board and card games available.\r\n\r\n",
+      "location": 26046,
+      "link": "https://dianainitiative2018.busyconf.com/schedule",
+      "speakers": [],
+      "end_date": "2018-08-10T06:45+0000",
+      "conference": "DC26",
+      "event_type": 5,
+      "includes": "",
+      "title": "Quiet Party",
+      "updated_at": "2018-08-06T17:28+0000"
+    },
+    {
+      "start_date": "2018-08-10T04:00+0000",
+      "id": 26825,
+      "description": "",
+      "location": 26046,
+      "link": "https://dianainitiative2018.busyconf.com/schedule",
+      "speakers": [],
+      "end_date": "2018-08-10T04:30+0000",
+      "conference": "DC26",
+      "event_type": 7,
+      "includes": "",
+      "title": "Hack The Tiara Contest",
+      "updated_at": "2018-08-06T17:28+0000"
+    },
+    {
+      "start_date": "2018-08-09T16:30+0000",
+      "id": 26826,
+      "description": "",
+      "location": 26046,
+      "link": "https://dianainitiative2018.busyconf.com/schedule",
+      "speakers": [],
+      "end_date": "2018-08-10T00:00+0000",
+      "conference": "DC26",
+      "event_type": 8,
+      "includes": "",
+      "title": "Lockpick Village Open",
+      "updated_at": "2018-08-06T17:29+0000"
+    },
+    {
+      "start_date": "2018-08-10T03:00+0000",
+      "id": 26827,
+      "description": "",
+      "location": 26046,
+      "link": "https://dianainitiative2018.busyconf.com/schedule",
+      "speakers": [],
+      "end_date": "2018-08-10T06:45+0000",
+      "conference": "DC26",
+      "event_type": 8,
+      "includes": "",
+      "title": "Lockpick Village Open",
+      "updated_at": "2018-08-06T17:29+0000"
+    },
+    {
+      "start_date": "2018-08-11T03:00+0000",
+      "id": 26828,
+      "description": "",
+      "location": 26046,
+      "link": "https://dianainitiative2018.busyconf.com/schedule",
+      "speakers": [],
+      "end_date": "2018-08-11T06:45+0000",
+      "conference": "DC26",
+      "event_type": 8,
+      "includes": "",
+      "title": "Lockpick Village Open",
+      "updated_at": "2018-08-06T17:30+0000"
+    },
+    {
+      "start_date": "2018-08-10T16:30+0000",
+      "id": 26829,
+      "description": "",
+      "location": 26046,
+      "link": "https://dianainitiative2018.busyconf.com/schedule",
+      "speakers": [],
+      "end_date": "2018-08-11T00:00+0000",
+      "conference": "DC26",
+      "event_type": 8,
+      "includes": "",
+      "title": "Lockpick Village Open",
+      "updated_at": "2018-08-06T17:30+0000"
+    },
+    {
+      "start_date": "2018-08-11T03:30+0000",
+      "id": 26830,
+      "description": "Come dance the night away to some sweet beats dropped by our DJ Tineh Nimjeh\r\n\r\n",
+      "location": 26046,
+      "link": "https://dianainitiative2018.busyconf.com/schedule",
+      "speakers": [],
+      "end_date": "2018-08-11T06:45+0000",
+      "conference": "DC26",
+      "event_type": 5,
+      "includes": "",
+      "title": "Loud Party",
+      "updated_at": "2018-08-06T17:31+0000"
+    },
+    {
+      "start_date": "2018-08-10T21:00+0000",
+      "id": 26831,
+      "description": "",
+      "location": 26046,
+      "link": "https://dianainitiative2018.busyconf.com/schedule",
+      "speakers": [],
+      "end_date": "2018-08-10T23:00+0000",
+      "conference": "DC26",
+      "event_type": 8,
+      "includes": "",
+      "title": "Headshots",
+      "updated_at": "2018-08-06T17:31+0000"
     }
   ],
-  "updated_at": "2018-08-06T13:25+0000"
+  "updated_at": "2018-08-06T17:31+0000"
 }
