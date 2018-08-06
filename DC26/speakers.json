@@ -1,5 +1,5 @@
 {
-  "updated_at": "2018-08-06T05:10+0000",
+  "updated_at": "2018-08-06T05:50+0000",
   "speakers": [
     {
       "name": "0x200b",
@@ -6997,6 +6997,106 @@
       "description": "Matt Maisel is a data scientist passionate about the intersection of machine learning, software engineering, and computer security domains. He\u2019s currently the manager of Security Data Science at Cylance. Matt recently architected a scalable malware analysis and modeling service used to process customer malware detections. He\u2019s worked in several organization within Cylance including research engineering as a software architect and consulting as the technical director of the incident response practice. Matt holds a M.S. in Computer Science with a focus in machine learning and distributed systems from Johns Hopkins University.\r\n\r\n",
       "title": "",
       "id": 26734,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "H0M3L3SS H@CK3R",
+      "updated_at": "2018-08-06T05:47+0000",
+      "description": "",
+      "title": "",
+      "id": 26735,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "CAPTAIN KAVEMAN",
+      "updated_at": "2018-08-06T05:48+0000",
+      "description": "",
+      "title": "",
+      "id": 26736,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "WINN SCHWARTAU",
+      "updated_at": "2018-08-06T05:48+0000",
+      "description": "",
+      "title": "",
+      "id": 26737,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "DARKSKYZ",
+      "updated_at": "2018-08-06T05:48+0000",
+      "description": "",
+      "title": "",
+      "id": 26738,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "LUKE FOX",
+      "updated_at": "2018-08-06T05:48+0000",
+      "description": "",
+      "title": "",
+      "id": 26739,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "WHITEFOX",
+      "updated_at": "2018-08-06T05:49+0000",
+      "description": "",
+      "title": "",
+      "id": 26740,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "IN2PLACES@ONCE",
+      "updated_at": "2018-08-06T05:49+0000",
+      "description": "",
+      "title": "",
+      "id": 26741,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Travis Hartman",
+      "updated_at": "2018-08-06T05:49+0000",
+      "description": "",
+      "title": "",
+      "id": 26742,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Chris Walach",
+      "updated_at": "2018-08-06T05:49+0000",
+      "description": "",
+      "title": "",
+      "id": 26743,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "MC DIVESTICK",
+      "updated_at": "2018-08-06T05:50+0000",
+      "description": "",
+      "title": "",
+      "id": 26744,
       "twitter": "",
       "conference": "DC26",
       "link": ""

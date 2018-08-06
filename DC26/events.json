@@ -10908,7 +10908,186 @@
       "includes": "",
       "title": "It\u2019s a Beautiful Day in the Malware Neighborhood",
       "updated_at": "2018-08-06T04:43+0000"
+    },
+    {
+      "start_date": "2018-08-10T18:00+0000",
+      "id": 26776,
+      "description": "",
+      "location": 26044,
+      "link": "https://dronewarz.org/",
+      "speakers": [
+        26738
+      ],
+      "end_date": "2018-08-10T20:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "PROJECT SKYJACKER: PWN WIRELESS NETWORKS FROM THE SKYZ",
+      "updated_at": "2018-08-06T05:53+0000"
+    },
+    {
+      "start_date": "2018-08-10T20:00+0000",
+      "id": 26777,
+      "description": "",
+      "location": 26044,
+      "link": "https://dronewarz.org/",
+      "speakers": [
+        26737
+      ],
+      "end_date": "2018-08-10T22:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "ANALOGUE SECURITY",
+      "updated_at": "2018-08-06T05:53+0000"
+    },
+    {
+      "start_date": "2018-08-10T22:00+0000",
+      "id": 26778,
+      "description": "",
+      "location": 26044,
+      "link": "https://dronewarz.org/",
+      "speakers": [
+        26021
+      ],
+      "end_date": "2018-08-10T23:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "PROJECT INTERCEPTOR: OWNING ANTI-DRONE SYSTEMS WITH NANODRONES",
+      "updated_at": "2018-08-06T05:54+0000"
+    },
+    {
+      "start_date": "2018-08-10T23:00+0000",
+      "id": 26779,
+      "description": "",
+      "location": 26044,
+      "link": "https://dronewarz.org/",
+      "speakers": [
+        26738
+      ],
+      "end_date": "2018-08-11T00:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "SPLASH THE ZEROZ - OUR OCCUPIED SKYZ",
+      "updated_at": "2018-08-06T05:54+0000"
+    },
+    {
+      "start_date": "2018-08-11T00:00+0000",
+      "id": 26780,
+      "description": "",
+      "location": 26044,
+      "link": "https://dronewarz.org/",
+      "speakers": [
+        26739,
+        26740
+      ],
+      "end_date": "2018-08-11T01:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "COUNTER DRONE THREATS",
+      "updated_at": "2018-08-06T05:54+0000"
+    },
+    {
+      "start_date": "2018-08-11T17:00+0000",
+      "id": 26781,
+      "description": "",
+      "location": 26044,
+      "link": "https://dronewarz.org/",
+      "speakers": [
+        26736
+      ],
+      "end_date": "2018-08-11T18:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "PWN-A-DRN and CONQUER THE CONTROLLER OBJECTIVES",
+      "updated_at": "2018-08-06T05:55+0000"
+    },
+    {
+      "start_date": "2018-08-11T18:00+0000",
+      "id": 26782,
+      "description": "",
+      "location": 26044,
+      "link": "https://dronewarz.org/",
+      "speakers": [
+        26741
+      ],
+      "end_date": "2018-08-11T18:15+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "DRONEWARZ DRONEZONE OBJECTIVES",
+      "updated_at": "2018-08-06T05:55+0000"
+    },
+    {
+      "start_date": "2018-08-11T18:15+0000",
+      "id": 26783,
+      "description": "",
+      "location": 26044,
+      "link": "https://dronewarz.org/",
+      "speakers": [
+        26738
+      ],
+      "end_date": "2018-08-11T20:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "THE R00T OF DRONEWARZ ",
+      "updated_at": "2018-08-06T05:56+0000"
+    },
+    {
+      "start_date": "2018-08-11T20:00+0000",
+      "id": 26784,
+      "description": "",
+      "location": 26044,
+      "link": "https://dronewarz.org/",
+      "speakers": [
+        26737,
+        26738,
+        26739,
+        26742,
+        26743
+      ],
+      "end_date": "2018-08-11T21:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "UAV FUTURISTS AND PHILOSOPHERS ROUNDTABLE",
+      "updated_at": "2018-08-06T05:57+0000"
+    },
+    {
+      "start_date": "2018-08-12T18:00+0000",
+      "id": 26785,
+      "description": "",
+      "location": 26044,
+      "link": "https://dronewarz.org/",
+      "speakers": [
+        26738
+      ],
+      "end_date": "2018-08-12T20:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "FIGHT OR FLIGHT: THE ILLUSION OF CHOICE",
+      "updated_at": "2018-08-06T05:57+0000"
+    },
+    {
+      "start_date": "2018-08-10T17:00+0000",
+      "id": 26786,
+      "description": "Take HAM Radio Exams at DEF CON 26!",
+      "location": 26045,
+      "link": "",
+      "speakers": [],
+      "end_date": "2018-08-10T23:00+0000",
+      "conference": "DC26",
+      "event_type": 8,
+      "includes": "",
+      "title": "HAM Radio Exams",
+      "updated_at": "2018-08-06T06:03+0000"
     }
   ],
-  "updated_at": "2018-08-06T05:01+0000"
+  "updated_at": "2018-08-06T06:03+0000"
 }
