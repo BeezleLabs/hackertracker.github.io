@@ -9983,10 +9983,10 @@
       "speakers": [],
       "end_date": "2018-08-10T23:00+0000",
       "conference": "DC26",
-      "event_type": 8,
+      "event_type": 5,
       "includes": "",
       "title": "Furries and Kinksters Meetup",
-      "updated_at": "2018-08-06T02:58+0000"
+      "updated_at": "2018-08-06T03:51+0000"
     },
     {
       "start_date": "2018-08-11T03:00+0000",
@@ -10145,10 +10145,10 @@
       "speakers": [],
       "end_date": "2018-08-12T21:00+0000",
       "conference": "DC26",
-      "event_type": 5,
+      "event_type": 6,
       "includes": "",
       "title": "Queercon Lightning Talks ",
-      "updated_at": "2018-08-06T03:08+0000"
+      "updated_at": "2018-08-06T03:50+0000"
     },
     {
       "start_date": "2018-08-12T20:00+0000",
@@ -10263,7 +10263,652 @@
       "includes": "",
       "title": "Queercon Mixer ",
       "updated_at": "2018-08-06T03:14+0000"
+    },
+    {
+      "start_date": "2018-08-10T18:00+0000",
+      "id": 26735,
+      "description": "This workshop provides the fundamentals of reversing enginering (RE) WIndows malware using a hands-on experience with RE tools and techniques. Attendees will be introduced to RE terms and processes, followed by basic x86 assembly, and reviewing RE tools and malware techniques. It will conclude by attendees performing a hands-on malware analysis that consists of Triage, Static, and Dynamic analysis.  Prerequisites: Basic understanding of programming C/C++, Python, or Java.\r\n\r\nProvided: A virtual machine and tools will be provided. Features: 5 sections in 1.5 hours:\r\n\r\n~15 min Fundamentals\r\n~15 min Tools/Techniques\r\n~30 min Triage Static Analysis + Lab\r\n~30 min Dynamic Analysis + Lab",
+      "location": 26034,
+      "link": "https://www.wallofsheep.com/blogs/news/packet-hacking-village-workshops-at-def-con-26-finalized#malwareunicorn",
+      "speakers": [
+        26151
+      ],
+      "end_date": "2018-08-10T19:30+0000",
+      "conference": "DC26",
+      "event_type": 3,
+      "includes": "",
+      "title": "Reverse Engineering Malware 101",
+      "updated_at": "2018-08-06T03:41+0000"
+    },
+    {
+      "start_date": "2018-08-10T20:00+0000",
+      "id": 26736,
+      "description": "You wanna learn how to hunt the APTs? This is the workshop for you. Using a real-worldish dataset, this workshop will teach you how to hunt the \"fictional\" APT group Taedonggang. We discuss the Diamond model, hypothesis building, LM Kill Chain, and Mitre Att&ck framework and how these concepts can frame your hunting. Then we look deep in the data using Splunk and OSINT to find the APT activity riddling a small startup's network. We walk you through detecting lateral movement, the P of APT, and even PowerShell Empire. Then at the end, we give you a similar dataset and tools to take home and try newly learned techniques yourself.",
+      "location": 26034,
+      "link": "https://www.wallofsheep.com/blogs/news/packet-hacking-village-workshops-at-def-con-26-finalized#kovarstoner",
+      "speakers": [
+        26701,
+        26702
+      ],
+      "end_date": "2018-08-10T22:00+0000",
+      "conference": "DC26",
+      "event_type": 3,
+      "includes": "",
+      "title": "Advanced APT Hunting with Splunk ",
+      "updated_at": "2018-08-06T03:42+0000"
+    },
+    {
+      "start_date": "2018-08-10T22:00+0000",
+      "id": 26737,
+      "description": "Write Python web bots using Selenium and BrowserMob Proxy to crawl the Internet looking for non-public APIs. We will look at several ways to identify vulnerabilities in discovered APIs as a means for penetration testing and large scale data gathering. Participants should have some Python experience, as well as a familiarity with HTTP requests.",
+      "location": 26034,
+      "link": "https://www.wallofsheep.com/blogs/news/packet-hacking-village-workshops-at-def-con-26-finalized#rmitchell",
+      "speakers": [
+        26703
+      ],
+      "end_date": "2018-08-11T00:00+0000",
+      "conference": "DC26",
+      "event_type": 3,
+      "includes": "",
+      "title": "Finding and Attacking Undocumented APIs with Python ",
+      "updated_at": "2018-08-06T03:42+0000"
+    },
+    {
+      "start_date": "2018-08-11T00:30+0000",
+      "id": 26738,
+      "description": "Intended for an audience of IT managers and admins who are either responsible for systems with deployed Python apps and/or interested in the security implications of developing their own tools/scripts/apps in Python. This will be a hands-on exercise from start to finish designed to leave you with a sense of the mentality of Python and an ability to quickly look up what you need when expanding your knowledge of Python in the future. Prior programming experience not required. However it would be helpful if you've seen lots of Monty Python skits before.\r\n\r\n",
+      "location": 26034,
+      "link": "https://www.wallofsheep.com/blogs/news/packet-hacking-village-workshops-at-def-con-26-finalized#dpotts",
+      "speakers": [
+        26704
+      ],
+      "end_date": "2018-08-11T02:00+0000",
+      "conference": "DC26",
+      "event_type": 3,
+      "includes": "",
+      "title": "Serious Intro to Python for Admins",
+      "updated_at": "2018-08-06T03:43+0000"
+    },
+    {
+      "start_date": "2018-08-11T16:30+0000",
+      "id": 26740,
+      "description": "Kali Linux can be deeply and uniquely customized to specific needs and tasks. In this workshop, we will customize Kali Linux into a very specific offensive tool, and walk you through the process of customization step by step. We will create a custom Kali ISO that will: load very specific toolsets; define a custom desktop environment and wallpaper; leverage customized features and functions; launch custom tools and scripts; install Kali automatically, without user intervention as a custom \"OS backdoor\". This workshop will guide you through all the aspects of Kali customization and give you the skills to create your own highly-customized Kali ISO, like the much feared Kali \"ISO of Doom\".\r\n\r\nKali Live USB With Persistence And LUKS (2.5hrs)\r\n\r\nIn this section we will show you how to deploy your customized Kali ISO to a secure, encrypted, USB device. We will show you how to add standard and encrypted USB persistence so you can save your data and we will walk you through a custom LUKS \"nuke\" deployment that will obliterate your encrypted data when presented with a specific kill phrase. We will also will discuss strategies to help you safely and legally cross international borders with your encrypted data without compromising it. When you complete this course, you will have the skills to create a completely customized, powerful, portable Kali ISO or USB with full encryption, persistence and the peace of mind of LUKS nuke. And, to sweeten the deal, we will provide super-cool custom Kali-branded USB drives.\r\n\r\n",
+      "location": 26034,
+      "link": "https://www.wallofsheep.com/blogs/news/packet-hacking-village-workshops-at-def-con-26-finalized#jlong",
+      "speakers": [
+        26705
+      ],
+      "end_date": "2018-08-11T20:30+0000",
+      "conference": "DC26",
+      "event_type": 3,
+      "includes": "",
+      "title": "Kali Dojo Workshop",
+      "updated_at": "2018-08-06T03:44+0000"
+    },
+    {
+      "start_date": "2018-08-11T21:00+0000",
+      "id": 26741,
+      "description": "This course starts with an introduction to modern web applications and immediately starts diving directly into the mapping and discovery phase of testing. In this course, you will learn new methodologies used and adopted by many penetration testers and ethical hackers. This is a hands-on training where will use various open source tools and learn how to exploit SQL injection, command injection, cross-site scripting (XSS), XML External Entity (XXE), and cross-site request forgery (CSRF). We will wrap up our two hour fast-paced course by unleashing students on a vulnerable web application with their newly found skills.",
+      "location": 26034,
+      "link": "https://www.wallofsheep.com/blogs/news/packet-hacking-village-workshops-at-def-con-26-finalized#santostaylor",
+      "speakers": [
+        26706,
+        26707
+      ],
+      "end_date": "2018-08-11T23:00+0000",
+      "conference": "DC26",
+      "event_type": 3,
+      "includes": "",
+      "title": "Intense Introduction to Modern Web Application Hacking ",
+      "updated_at": "2018-08-06T03:45+0000"
+    },
+    {
+      "start_date": "2018-08-11T23:30+0000",
+      "id": 26742,
+      "description": "Mallet is an intercepting proxy for arbitrary protocols. More accurately, it is a framework for building proxies for arbitrary protocols. Mallet provides the basics required of all proxies: A way to receive the data, a way to send the data, and a user interface to intercept and edit the data. It builds on the Netty project, and as such has access to a large, well-tested suite of protocol implementations that can be used to transform a stream of bytes into useful, high-level protocol objects.\r\n\r\nThis workshop will introduce attendees to Mallet, and show how to construct pipelines of arbitrary complexity, to successfully decode and intercept messages in various protocols, as well as automating modifications of the various messages.\r\n\r\nA basic familiarity with Java will enhance the delegate's understanding of what they are taught, but is not a requirement.",
+      "location": 26034,
+      "link": "https://www.wallofsheep.com/blogs/news/packet-hacking-village-workshops-at-def-con-26-finalized#rdawestraining",
+      "speakers": [
+        26621
+      ],
+      "end_date": "2018-08-12T01:00+0000",
+      "conference": "DC26",
+      "event_type": 3,
+      "includes": "",
+      "title": "Mallet, An Intercepting Proxy for Arbitrary Protocols",
+      "updated_at": "2018-08-06T03:46+0000"
+    },
+    {
+      "start_date": "2018-08-12T18:00+0000",
+      "id": 26743,
+      "description": "You wanna learn how to hunt the APTs? This is the workshop for you. Using a real-worldish dataset, this workshop will teach you how to hunt the \"fictional\" APT group Taedonggang. We discuss the Diamond model, hypothesis building, LM Kill Chain, and Mitre Att&ck framework and how these concepts can frame your hunting. Then we look deep in the data using Splunk and OSINT to find the APT activity riddling a small startup's network. We walk you through detecting lateral movement, the P of APT, and even PowerShell Empire. Then at the end, we give you a similar dataset and tools to take home and try newly learned techniques yourself.",
+      "location": 26034,
+      "link": "https://www.wallofsheep.com/blogs/news/packet-hacking-village-workshops-at-def-con-26-finalized#kovarstoner",
+      "speakers": [
+        26701,
+        26702
+      ],
+      "end_date": "2018-08-12T20:00+0000",
+      "conference": "DC26",
+      "event_type": 3,
+      "includes": "",
+      "title": "Advanced APT Hunting with Splunk",
+      "updated_at": "2018-08-06T03:48+0000"
+    },
+    {
+      "start_date": "2018-08-10T18:00+0000",
+      "id": 26744,
+      "description": "",
+      "location": 26043,
+      "link": "https://defcon.org/images/defcon-26/voting-village-schedule.pdf",
+      "speakers": [
+        26588,
+        26708,
+        26714
+      ],
+      "end_date": "2018-08-10T19:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Lessons Learned: DEFCON Voting Village 2017",
+      "updated_at": "2018-08-06T04:08+0000"
+    },
+    {
+      "start_date": "2018-08-10T19:00+0000",
+      "id": 26745,
+      "description": "",
+      "location": 26043,
+      "link": "https://defcon.org/images/defcon-26/voting-village-schedule.pdf",
+      "speakers": [
+        26588
+      ],
+      "end_date": "2018-08-10T20:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Lunch Keynote: State and Local Perspectives on Election Security",
+      "updated_at": "2018-08-06T04:08+0000"
+    },
+    {
+      "start_date": "2018-08-10T20:00+0000",
+      "id": 26746,
+      "description": "",
+      "location": 26043,
+      "link": "https://defcon.org/images/defcon-26/voting-village-schedule.pdf",
+      "speakers": [
+        26709
+      ],
+      "end_date": "2018-08-10T21:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Defending Election Security: A National Security Priority",
+      "updated_at": "2018-08-06T04:09+0000"
+    },
+    {
+      "start_date": "2018-08-10T21:00+0000",
+      "id": 26747,
+      "description": "",
+      "location": 26043,
+      "link": "https://defcon.org/images/defcon-26/voting-village-schedule.pdf",
+      "speakers": [
+        26710
+      ],
+      "end_date": "2018-08-10T21:30+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Current Policy Responses to Election Security Concerns",
+      "updated_at": "2018-08-06T04:09+0000"
+    },
+    {
+      "start_date": "2018-08-10T21:30+0000",
+      "id": 26748,
+      "description": "",
+      "location": 26043,
+      "link": "https://defcon.org/images/defcon-26/voting-village-schedule.pdf",
+      "speakers": [
+        26711
+      ],
+      "end_date": "2018-08-10T22:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "A Comprehensive Forensic Analysis of WINVote Voting Machines",
+      "updated_at": "2018-08-06T04:10+0000"
+    },
+    {
+      "start_date": "2018-08-10T22:00+0000",
+      "id": 26749,
+      "description": "",
+      "location": 26043,
+      "link": "https://defcon.org/images/defcon-26/voting-village-schedule.pdf",
+      "speakers": [
+        26712
+      ],
+      "end_date": "2018-08-10T23:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Lightning Talks",
+      "updated_at": "2018-08-06T04:10+0000"
+    },
+    {
+      "start_date": "2018-08-10T23:00+0000",
+      "id": 26750,
+      "description": "",
+      "location": 26043,
+      "link": "https://defcon.org/images/defcon-26/voting-village-schedule.pdf",
+      "speakers": [
+        26713
+      ],
+      "end_date": "2018-08-11T00:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Defending Democracy Together: End-to-End Verifiable Voting for All",
+      "updated_at": "2018-08-06T04:11+0000"
+    },
+    {
+      "start_date": "2018-08-10T17:20+0000",
+      "id": 26751,
+      "description": "Adversarial examples fooling machine learning field are a burgeoning field. We propose applications to fool self driving cars or facial recognition systems but most of the techniques are purely academic. They require minute manipulations to the bit values of the pixels entering a system. Adversarial patches are an attack that could actually work. This talk will cover how to make them and further applications\r\n\r\n",
+      "location": 26015,
+      "link": "https://aivillage.org/posts/accepted-talks/",
+      "speakers": [
+        26605
+      ],
+      "end_date": "2018-08-10T17:40+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Adversarial Patches",
+      "updated_at": "2018-08-06T04:58+0000"
+    },
+    {
+      "start_date": "2018-08-10T17:40+0000",
+      "id": 26752,
+      "description": "The proliferation of ransomware has become a widespread problem culminating in numerous incidents that have affected users worldwide. Current ransomware detection approaches are limited in that they either take too long to determine if a process is truly malicious or tend to miss certain processes due to focusing solely on static analysis of executables. To address these shortcomings, we developed a machine learning model to classify forensic artifacts common to ransomware infections: ransom notes. Leveraging this model, we built a ransomware detection capability that is more efficient and effective than the status quo.\r\n\r\nI will highlight the limitations to current ransomware detection technologies and how that instigated our new approach, including our research design, data collection, high value features, and how we performed testing to ensure acceptable detection rates while being resilient to false positives. I will also be conducting a live demonstration with ransomware samples to demonstrate our technology\u2019s effectiveness. Additionally, we will be releasing all related source code and our model to the public, which will enable users to generate and test their own models, as we hope to further push innovative research on effective ransomware detection capabilities.",
+      "location": 26015,
+      "link": "https://aivillage.org/posts/accepted-talks/",
+      "speakers": [
+        26715
+      ],
+      "end_date": "2018-08-10T18:20+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Stop and Step Away from the Data: Rapid Anomaly Detection via Ransom Note File Classification",
+      "updated_at": "2018-08-06T04:55+0000"
+    },
+    {
+      "start_date": "2018-08-10T18:20+0000",
+      "id": 26753,
+      "description": "One of the most exciting potential applications for artificial intelligence and machine learning is cognitive augmentation of humans. At its best, AI allows humans to handle more information, react faster to complex events, and potentially even sense features of the world that we are currently incapable of perceiving. This has many applications in the security field, such as aiding humans in the task of binary reverse engineering. Reverse engineering binary code is one of the most challenging skill sets in the security field to learn. The ability to look at a block of raw machine code and understand what it does, as well as recognize similarities to code previously seen, often requires years spent doing tedious analysis of large amounts of code.\r\nIn this talk I show how we can use machine learning to handle the tedious parts of this process for us. If we show a generative neural network a wide variety of machine code, the network will learn the most relevant features needed to reproduce and describe that code. Once the network is trained, we can show it a new segment of code and capture the state of the neurons at the end of the segment. This neural state is effectively a summary of the entire sequence summarized into a vector.\r\nComparing these vectors allows easy measurement of the similarity of several code sequences by simply measuring the Euclidean distance between them. These vectors can also be used as inputs to other machine learning models that can perform a variety of tasks, such as identifying compiler settings used to generate the code. As part of the presentation, I will also be releasing a tool, the JMPgate framework, which can be used to accomplish tasks like identifying library code within an executable binary.",
+      "location": 26015,
+      "link": "https://aivillage.org/posts/accepted-talks/",
+      "speakers": [
+        26716
+      ],
+      "end_date": "2018-08-10T19:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "JMPgate: Accelerating reverse engineering into hyperspace using AI",
+      "updated_at": "2018-08-06T04:54+0000"
+    },
+    {
+      "start_date": "2018-08-10T20:00+0000",
+      "id": 26754,
+      "description": "The importance of employing machine learning for malware detection has become explicit to the security community. Several anti-malware vendors have claimed and advertised the application of machine learning in their products in which the inference phase is performed on servers and high-performance machines, but the feasibility of such approaches on mobile devices with limited computational resources has not yet been assessed by the research community, vendors still being skeptical. In this presentation, we aim to show the practicality of devising a learning-based anti-malware on Android mobile devices, first. Furthermore, we aim to demonstrate the significance of such a tool to cease new and evasive malware that can not easily be caught by signature-based or offline learning-based security tools. To this end, we first propose the extraction of a set of lightweight yet powerful features from Android applications. Then, we embed these features in a vector space to build an effective as well as efficient model. Hence, the model can perform the inference on the device for detecting potentially harmful applications. We show that without resorting to any signatures and relying only on a training phase involving a reasonable set of samples, the proposed system, named IntelliAV, provides more satisfying performances than the popular major anti-malware products. Moreover, we evaluate the robustness of IntelliAV against common obfuscation techniques where most of the anti-malware solutions get affected.",
+      "location": 26015,
+      "link": "https://aivillage.org/posts/accepted-talks/",
+      "speakers": [
+        26717
+      ],
+      "end_date": "2018-08-10T20:20+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "IntelliAV: Building an Effective On-Device Android Malware Detector",
+      "updated_at": "2018-08-06T04:43+0000"
+    },
+    {
+      "start_date": "2018-08-10T20:20+0000",
+      "id": 26755,
+      "description": "In this presentation, we will discuss using GreyNoise, a geographically and logically distributed system of passive Internet scan traffic collector nodes, to identify statistical anomalies in global opportunistic Internet scan traffic and correlate these anomalies with publicly disclosed vulnerabilities, large-scale DDoS attacks, and other newsworthy events. We will discuss establishing (and identifying any deviations away from) a \u201cstandard\u201d baseline of Internet scan traffic. We will discuss successes and failures of different methods employed over the past six months. We will explore open questions and future work on automated anomaly detection of Internet scan traffic. Finally, we will provide raw data and a challenge as an exercise to the attendees.\r\n\r\n",
+      "location": 26015,
+      "link": "https://aivillage.org/posts/accepted-talks/",
+      "speakers": [
+        26292
+      ],
+      "end_date": "2018-08-10T21:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Identifying and correlating anomalies in Internet-wide scan traffic to newsworthy security events",
+      "updated_at": "2018-08-06T04:55+0000"
+    },
+    {
+      "start_date": "2018-08-10T22:20+0000",
+      "id": 26756,
+      "description": "Classic Web Application Firewalls (WAFs) mostly use rule-based approach for attack detection. This approach is known to have its pros and cons. Despite offering decent protection from automated attacks and predictable detection results rule-based approach has and always will have certain disadvantages. We all know that it\u2019s useless against 0-day attacks or that even the most sophisticated rules are easily evaded by skilled professionals. That is why a more effective approach should involve some kind of heuristics. Let\u2019s give a chance to artificial intelligence to find something non-obvious for human perception in raw data and try to explain its results.\r\n\r\nTo this day AI has been more often used for cat classification rather than for detecting application-level attacks on HTTP applications. Our team decided to test the hypothesis that Deep Learning is able to detect web-based attacks effectively. We started with very simple neural network architectures and tried to use them for classification. After some experiments it became clear that we needed more complex networks so we abandoned our attempts to use classification shifting to anomaly detection. Eventually, we ended up using seq2seq model with attention mechanisms which is able to detect zero-day web attacks with minimal number of false positives.",
+      "location": 26015,
+      "link": "https://aivillage.org/posts/accepted-talks/",
+      "speakers": [
+        26718
+      ],
+      "end_date": "2018-08-10T23:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Detecting Web Attacks with Recurrent Neural Networks",
+      "updated_at": "2018-08-06T04:38+0000"
+    },
+    {
+      "start_date": "2018-08-10T23:00+0000",
+      "id": 26757,
+      "description": "If you struggle with building a machine learning (ML) classifier for the data, this Machine Learning as a Service (MLaaS) is a quick and handy solution for you. Originally designed for security researcher, now this feature packed service was open sourced to public. This service can take time-series data, such as API log etc., to generate ML models with few mouse clicks. The graphic user interface could guide you through the ML pipeline steps, visualize the performance and help to optimize the ML model. The unique feature analysis tool allow to drill down individual samples and to tune the ML model in a security perspective way.",
+      "location": 26015,
+      "link": "https://aivillage.org/posts/accepted-talks/",
+      "speakers": [
+        26719
+      ],
+      "end_date": "2018-08-11T00:00+0000",
+      "conference": "DC26",
+      "event_type": 3,
+      "includes": "",
+      "title": "Machine Learning for Network Security Hands-on Workshop: DIYML",
+      "updated_at": "2018-08-06T05:01+0000"
+    },
+    {
+      "start_date": "2018-08-10T23:00+0000",
+      "id": 26758,
+      "description": "Creativity has traditional been a purely human pursuit. However, with recent developments in computational creativity, it has become apparent that the generation of art can now be accelerated with artificial intelligence. Come prepared to learn about reinforcement learning, deep belief networks, and be entertained by music composed in mere seconds, right in front of your eyes.\r\n\r\n",
+      "location": 26015,
+      "link": "https://aivillage.org/posts/accepted-talks/",
+      "speakers": [
+        26720
+      ],
+      "end_date": "2018-08-11T00:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Using AI to Create Music",
+      "updated_at": "2018-08-06T04:59+0000"
+    },
+    {
+      "start_date": "2018-08-10T23:00+0000",
+      "id": 26759,
+      "description": "",
+      "location": 26015,
+      "link": "https://aivillage.org/posts/accepted-talks/",
+      "speakers": [
+        26721
+      ],
+      "end_date": "2018-08-11T00:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Machine Learning as a Service in Your Pocket",
+      "updated_at": "2018-08-06T04:25+0000"
+    },
+    {
+      "start_date": "2018-08-10T23:00+0000",
+      "id": 26760,
+      "description": "DeepExploit is fully automated penetration tool linked with Metasploit. It identifies the status of all opened ports on the target server and executes the exploit at pinpoint using Machine Learning.\r\n\r\n",
+      "location": 26015,
+      "link": "https://aivillage.org/posts/accepted-talks/",
+      "speakers": [
+        26293
+      ],
+      "end_date": "2018-08-11T00:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Deep Exploit",
+      "updated_at": "2018-08-06T05:00+0000"
+    },
+    {
+      "start_date": "2018-08-11T17:00+0000",
+      "id": 26761,
+      "description": "Machine learning is quickly becoming a ubiquitous technology in the computer security space, but how secure is it exactly? This talk covers the research occurring in adversarial machine learning and includes a discussion of machine learning blind spots, adversarial examples and how they are generated, and current blackbox testing techniques.\r\n\r\n",
+      "location": 26015,
+      "link": "https://aivillage.org/posts/accepted-talks/",
+      "speakers": [
+        26722
+      ],
+      "end_date": "2018-08-11T17:20+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "The current state of adversarial machine learning",
+      "updated_at": "2018-08-06T04:37+0000"
+    },
+    {
+      "start_date": "2018-08-11T17:20+0000",
+      "id": 26762,
+      "description": "During the Cyber Grand Challenge, an automated vulnerability exploitation competition, all the teams used the same approach: use a fuzzer to find bugs, and symbolic execution to generate an exploit for any bugs found. Fuzzers are great at triggering bugs, but their effectiveness is often limited by the quality of the initial testcase corpus that is fed to them. Testcases are easy for humans to create, but hard to generate automatically. Teams used a wide variety of techniques to generate initial seeds: from using very slow symbolic execution techniques to find inputs that triggered execution paths, to just using the word \u201cfuzz\u201d as the seed and hoping for the best. However, many of the programs in the CGC are console programs designed to be used by humans: meaning they give a prompt in English and expect a response. For this research we trained a chatbot Recurrent Neural Network on a set of testcases generated by humans, and ran the RNN against the test set with the goal of finding testcases that had higher code coverage than random guessing and could be used with a fuzzer to find bugs.",
+      "location": 26015,
+      "link": "https://aivillage.org/posts/accepted-talks/",
+      "speakers": [
+        26723
+      ],
+      "end_date": "2018-08-11T17:40+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Chatting with your programs to find vulnerabilities",
+      "updated_at": "2018-08-06T04:44+0000"
+    },
+    {
+      "start_date": "2018-08-11T17:40+0000",
+      "id": 26763,
+      "description": "Following the progress in computing and machine learning algorithms as well as the emergence of big data, artificial intelligence (AI) has become a reality impacting every fabric of our algorithmic society. Despite the explosive growth of machine learning, the common misconception that machines operate on zeros and ones, therefore they should be objective, still holds. But then, why does Google Translate convert these Turkish sentences with gender-neutral pronouns, \"O bir doktor. O bir hemsire\", to these English sentences, \"He is a doctor. She is a nurse\"? As data-driven machine learning brings forth a plethora of challenges, I analyze what could go wrong when algorithms make decisions on behalf of individuals and society if they acquire statistical knowledge of language from historical human data.\r\n\r\nIn this talk, I show how we can repurpose machine learning as a scientific tool to discover facts about artificial and natural intelligence, and assess social constructs. I prove that machines trained on societal linguistic data inevitably inherit the biases of society. To do so, I derive a method that investigates the construct of language models trained on billions of sentences collected from the World Wide Web. I conclude the talk with future directions and open research questions in the field of ethics of machine learning.",
+      "location": 26015,
+      "link": "https://aivillage.org/posts/accepted-talks/",
+      "speakers": [
+        26074
+      ],
+      "end_date": "2018-08-11T18:20+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "The great power of AI: Algorithmic mirrors of society",
+      "updated_at": "2018-08-06T04:57+0000"
+    },
+    {
+      "start_date": "2018-08-11T18:20+0000",
+      "id": 26764,
+      "description": "Machine Learning and Artificial Intelligence have become essential to any effective cyber security and defense strategy against unknown attacks. In the battle against cybercriminals, AI-enhanced detection systems are markedly more accurate than traditional manual classification. Through intelligent algorithms, detection systems have been able to identify patterns and detect phishing URLs with 98.7% accuracy, giving the advantage to defensive teams. However, if AI is being used to prevent attacks, what is stopping cyber criminals from using the same technology to defeat both traditional and AI-based cyber-defense systems? This hypothesis is of urgent importance - there is a startling lack of research on the potential consequences of the weaponization of Machine Learning as a threat actor tool. In this talk, we are going to review how threat actors could exponentially improve their phishing attacks using AI to bypass machine-learning-based phishing detection systems. To test this hypothesis, we designed an experiment in which, by identifying how threat actors deploy their attacks, we took on the role of an attacker in order to test how they may use AI in their own way. In the end, we developed an AI algorithm, called DeepPhish, that learns effective patterns used by threat actors and uses them to generate new, unseen, and effective attacks based on attacker data. Our results show that, by using DeepPhish, two uncovered attackers were able to increase their phishing attacks effectiveness from 0.69% to 20.9%, and 4.91% to 36.28%, respectively.",
+      "location": 26015,
+      "link": "https://aivillage.org/posts/accepted-talks/",
+      "speakers": [
+        26724
+      ],
+      "end_date": "2018-08-11T18:40+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "DeepPhish: Simulating the Malicious Use of AI",
+      "updated_at": "2018-08-06T04:53+0000"
+    },
+    {
+      "start_date": "2018-08-11T20:00+0000",
+      "id": 26765,
+      "description": "Machine learning has been widely and enthusiastically applied to a variety of problems to great success and is increasingly used to develop systems that handle sensitive data - despite having seen that for out-of-the-box applications, determined adversaries can extract the training data set and other sensitive information. Suggested techniques for improving the privacy and security of these systems include differential privacy, homomorphic encryption, and secure multi-party computation. In this talk, we\u2019ll take a look at the modern machine learning pipeline and identify the threat models that are solved using these techniques. We\u2019ll evaluate the possible costs to accuracy and time complexity and present practical application tips for model hardening. I will also present some red team tools I developed to easily check black box machine learning APIs for vulnerabilities to a variety of mathematical exploits.",
+      "location": 26015,
+      "link": "https://aivillage.org/posts/accepted-talks/",
+      "speakers": [
+        26725
+      ],
+      "end_date": "2018-08-11T20:20+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Machine Learning Model Hardening For Fun and Profit",
+      "updated_at": "2018-08-06T04:56+0000"
+    },
+    {
+      "start_date": "2018-08-11T20:20+0000",
+      "id": 26766,
+      "description": "Offensive assessments \u2013 i.e., penetration testing, adversary emulation, red teaming \u2013 have become a key component of maintaining a secure network. Unfortunately, offensive assessments require significant resources, and can vary in quality and structure based on who specifically is conducting the assessment. In the past few years, we\u2019ve seen people try to remedy this problem by creating automated offensive assessment tools, but the capabilities and goals of these tools are highly variable, and many either require personnel to manage them or lack the ability to conduct dynamic or end-to-end tests.\r\n\r\nWe believe that automated offensive assessments can be done better using automated planning. One of the older branches of AI, automated planning seeks to solve problems where an autonomous agent must determine how to compose a sequence of actions together to achieve an objective. Problems in this space can range from constructing offline deterministic plans, to planning under probabilistic conditions, or to planning in scenarios where the world and underlying model are un- or partially-known. Planning techniques have been applied to solve problems in a variety of domains, including controlling unmanned vehicles and designing intelligent agents in computer games.\r\n\r\nIn this talk, we\u2019ll describe how we\u2019ve leveraged concepts from the automated planning community to help us design CALDERA, a free, open source automated adversary emulation system. Using these concepts, CALDERA dynamically strings techniques \u2013 taken from MITRE ATT&CK\u2122 \u2013 together to achieve objectives and conduct end-to-end tests. In addition to describing CALDERA itself, we\u2019ll also discuss more generally some of the challenges and advantages of deploying automated planning to automated offensive assessments, discussing alternate approaches that we as well as others have considered in tackling this problem. Attendees should walk away with both an understanding of how they can use CALDERA as well as how planning can be used for automated offensive assessments.",
+      "location": 26015,
+      "link": "https://aivillage.org/posts/accepted-talks/",
+      "speakers": [
+        26367
+      ],
+      "end_date": "2018-08-11T21:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Automated Planning for the Automated Red Team",
+      "updated_at": "2018-08-06T04:55+0000"
+    },
+    {
+      "start_date": "2018-08-11T21:00+0000",
+      "id": 26767,
+      "description": "A year after we discovered and reported a bunch of CVEs related to deep learning frameworks, many security and AI researchers have started to pay more attention to the software security of AI systems. Unfortunately, many deep learning developers are still unaware of the risks buried in AI software implementations. For example, by inspecting a set of newly developed AI applications, such as image classification and voice recognition, we found that they make strong assumptions about the input format used by training and classifications. Attackers can easily manipulate the classification and recognition without putting any effort in adversarial learning. In fact the potential danger introduced by software bugs and lack of input validation is much more severe than a weakness in a deep learning model. This talks will show threat examples that produce various attack effects from evading classifications, to data leakage, and even to whole system compromises. We hope by demonstrate such threats and risks, we can draw developers\u2019 attention to software implementations and call for community collaborative effort to improve software security of deep learning frameworks and AI applications.",
+      "location": 26015,
+      "link": "https://aivillage.org/posts/accepted-talks/",
+      "speakers": [
+        26726
+      ],
+      "end_date": "2018-08-11T21:30+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Beyond Adversarial Learning -- Security Risks in AI Implementations",
+      "updated_at": "2018-08-06T04:52+0000"
+    },
+    {
+      "start_date": "2018-08-11T22:20+0000",
+      "id": 26768,
+      "description": "While the papers are piling in arxiv on adversarial machine learning, and companies are committed to AI safety, what would a system that assess the safety of ML system look like in practice? Compare a ML system to a bridge under construction. Engineers along with regulatory authorities routinely and comprehensively assess the safety of the structure to attest the bridge\u2019s reliability and ability to function under duress before opening it to the public. Can we as security data scientists provide similar guarantees for ML systems? This talk lays the challenges, open questions in creating a framework to quantitatively assess safety of ML systems. The opportunities, when such a framework is put to effect, are plentiful \u2013 for a start, we can gain trust with the population at large that ML systems aren\u2019t brittle; that they just come in varying, quantifiable degrees of safety.\r\n\r\n",
+      "location": 26015,
+      "link": "https://aivillage.org/posts/accepted-talks/",
+      "speakers": [
+        26727
+      ],
+      "end_date": "2018-08-11T23:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Towards a framework to quantitatively assess AI safety \u2013 challenges, open questions and opportunities.",
+      "updated_at": "2018-08-06T04:57+0000"
+    },
+    {
+      "start_date": "2018-08-11T23:00+0000",
+      "id": 26769,
+      "description": "Like all software systems, the execution of machine learning models is dictated by logic represented as data in memory. Unlike traditional software, machine learning systems\u2019 behavior is defined by the model\u2019s weight and bias parameters, rather than precise machine opcodes. Thus patching network parameters can achieve the same ends as traditional attacks, which have proven brittle and prone to errors. Moreover, this attack provides powerful obfuscation as neural network weights are hard to interpret, making it difficult for security professionals to determine what a malicious patch does. We demonstrate that one can easily compute a trojan patch, which when applied causes a network to behave incorrectly only on inputs with a given trigger. An attacker looking to compromise an ML system can patch these values in live memory with minimal risk of system malfunctions or other detectable side-effects. In this presentation, we demonstrate proof of concept attacks on TensorFlow and a framework we wrote in C++ on both Linux and Windows systems. An attack of this type relies on limiting the amount of network communication to reduce to the likelyhood of detection. Accordingly, we attempt to minimize the size of the patch, in terms of number of changed parameters needed to introduce trojan behavior. On an MNIST handwritten digit classification network and on a malicious PDF detection network, we prove that the desired trojan behavior can be introduced with patches on the order of 1% of the total network size, using roughly 1% of the total training data, proving that the attack is realistic.",
+      "location": 26015,
+      "link": "https://aivillage.org/posts/accepted-talks/",
+      "speakers": [
+        26728
+      ],
+      "end_date": "2018-08-11T23:20+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "StuxNNet: Practical Live Memory Attacks on Machine Learning Systems",
+      "updated_at": "2018-08-06T04:38+0000"
+    },
+    {
+      "start_date": "2018-08-11T23:20+0000",
+      "id": 26770,
+      "description": "Blockchain and Cryptocurrencies are gaining unprecedented popularity and understanding. Meanwhile, Ethereum is gaining a significant popularity in the blockchain community, mainly due to the fact that it is designed in a way that enables developers to write decentralized applications (Dapps) and smart contract. This new paradigm of applications opens the door to many possibilities and opportunities. However, the security of Ethereum smart contracts has not received much attention; several Ethereum smart contracts malfunctioning have recently been reported. Unlike many previous works that have applied static and dynamic analyses to find bugs in smart contracts, we do not attempt to define and extract any features; instead we focus on reducing the expert's labor costs. We first present a new in-depth analysis of potential attacks methodology and then translate the bytecode of solidity into RGB color code. After that, we transform them to a fixed-sized encoded image. Finally, the encoded iage is fed to convolutional neural network (CNN) for automatic feature extraction and learning, detecting security flaw of Ethereum smart contract.",
+      "location": 26015,
+      "link": "https://aivillage.org/posts/accepted-talks/",
+      "speakers": [
+        26729
+      ],
+      "end_date": "2018-08-12T00:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Hunting the Ethereum Smart Contract: Color-inspired Inspection of Potential Attacks",
+      "updated_at": "2018-08-06T04:52+0000"
+    },
+    {
+      "start_date": "2018-08-12T00:00+0000",
+      "id": 26771,
+      "description": "Our \u201cBATSense\u201d security event detection methodology has been running at Michigan State University\u2019s campus for a year and is successfully detecting security anomalies across 300k devices. In this presentation, we will describe the use machine learning, specifically the TBATS forecasting algorithm, to predict future trends for the number of events per second for a variety of device types. The forecasted values are compared against actual observations to alert security personnel of significant deviations. Anomalies are detected based on logs relevant to security events; they may be system modifications, system failures or a football game. Forecasts are never perfect, but when measured over extended use, we have shown that false positives are manageable (1 per week) for true positives of 1 per day. The result a methodology that has been developed and tweaked over time to effectively detect security events, and lessons learned over a year. All arguments presented in this talk will be backed by real world (anonymized) data collected at our university shared with the audience.\r\n\r\n",
+      "location": 26015,
+      "link": "https://aivillage.org/posts/accepted-talks/",
+      "speakers": [
+        26730
+      ],
+      "end_date": "2018-08-12T01:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Holy BATSense! Deploying TBATS Machine Learning Algorithm to Detect Security Events",
+      "updated_at": "2018-08-06T04:38+0000"
+    },
+    {
+      "start_date": "2018-08-12T17:00+0000",
+      "id": 26772,
+      "description": "Attackers have a seemingly endless arsenal of tools and techniques at their disposal, while defenders must continuously strive to improve detection capabilities across the full spectrum of possible vectors. The MITRE ATT&CK Framework provides a useful collection of attacker tactics and techniques that enables a threat-focused approach to detection. \r\n\r\nThis technical talk will highlight key lessons learned from an internal adversary simulation at a Fortune 100 company that evolved into a series of data science experiments designed to improve threat detection.",
+      "location": 26015,
+      "link": "https://aivillage.org/posts/accepted-talks/",
+      "speakers": [
+        26731
+      ],
+      "end_date": "2018-08-12T17:40+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Generating Labeled Data From Adversary Simulations With MITRE ATT&CK",
+      "updated_at": "2018-08-06T04:53+0000"
+    },
+    {
+      "start_date": "2018-08-12T17:40+0000",
+      "id": 26773,
+      "description": "Thus far, the security community has treated machine learning as a research problem. The painful oversight here is in thinking that laboratory results would translate easily to the real world, and as such, not devoting sufficient focus to bridging that gap. Researchers enjoy the luxuries of neat bite-sized datasets to experiment upon, but the harsh reality of millions of potentially malicious files streaming in daily soon hits would-be ML-practitioners in the face like a tsunami-sized splash of ice water. And while in research there\u2019s no such thing as \u201c\u201ctoo much\u201d\u201d data, dataset sizes challenge real-world cyber security professionals with tough questions: \u201c\u201cHow will we store these files efficiently without hampering our ability to use them for day-to-day operations?\u201d\u201d or \u201c\u201cHow do we satisfy competing use-cases such as the need to analyze specific files and the need to run analyses across the entire dataset?\u201d\u201d Or maybe most importantly: \u201c\u201cWill my boss have a heart-attack when he sees my AWS bill?\u201d",
+      "location": 26015,
+      "link": "https://aivillage.org/posts/accepted-talks/",
+      "speakers": [
+        26732
+      ],
+      "end_date": "2018-08-12T18:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "AI DevOps: Behind the Scenes of a Global Anti-Virus Company's Machine Learning Infrastructure",
+      "updated_at": "2018-08-06T04:53+0000"
+    },
+    {
+      "start_date": "2018-08-12T18:00+0000",
+      "id": 26774,
+      "description": "There has been a surge of interest in using machine learning (ML) to automatically detect malware through their dynamic behaviors. These approaches indeed have achieved much higher accurate detection rate and lower false positive rate. ML in threat detection has demonstrated to be a good cop to guard platform security. However should we fully trust ML-powered security? Here, we juxtapose the resiliency and trustworthiness of ML algorithms for security, in the case study of ransomware detection. We propose RD-Fool, an AI-based system to bypass ML-based ransomware detection.\r\n\r\nIn this talk, we examine the perspectives of ML assuming the role of both a good cop and a bad cop. We first train a variety of deep learning and classical machine learning classifiers for ransomware detection using data collected from file I/O and registry events. We show the classifiers can achieve great performance in terms of classification accuracy and false positive rate for ransomware detection. Then we examine the resiliency of these classifiers using our proposed system RD-Fool. RD-Fool uses random forest and generative adversarial networks (GAN) to generate samples which can bypass the ransomware detectors. We demonstrate both exploratory and causative attacks using RD-Fool, where exploratory attack aims at bypassing the ransomware detector during inference phase, and causative attack aims at poisoning the training data to perturb the ML decision boundary.\r\n\r\nThe key advantages of RD-Fool include quick identification of the blind spots of the victim ML model and efficient generation of realistic and evasive samples. We examine the quality of the crafted sample using the perturbation distance and the Silhouette score. Our results and discoveries pose interesting and alarming issues such as how much should we trust or utilize ML for better security. ",
+      "location": 26015,
+      "link": "https://aivillage.org/posts/accepted-talks/",
+      "speakers": [
+        26733
+      ],
+      "end_date": "2018-08-12T18:40+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "GAN to the dark side: A case study of attacking machine-learning systems to empower defenses",
+      "updated_at": "2018-08-06T04:57+0000"
+    },
+    {
+      "start_date": "2018-08-10T21:00+0000",
+      "id": 26775,
+      "description": "Malware similarity analysis compares and identifies samples with shared static or behavioral characteristics. Identification of similar malware samples provides analysts with more context during triage and malware analysis. Most domain approaches to malware similarity have focused on fuzzy hashing, locality sensitivity hashing, and other approximate matching methods that index a malware corpus on structural features and raw bytes. Ssdeep or sdhash are often utilized for similarity comparison despite known weaknesses and limitations. Signatures and IOCs are generated from static and dynamic analysis to capture features and matched against unknown samples. Incident management systems (RTIR, FIR) store contextual features, e.g. environment, device, and user metadata, which are used to catalog specific sample groups observed.\r\n\r\nIn the data mining and machine learning communities, the nearest neighbor search (NN) task takes an input query represented as a feature vector and returns the k nearest neighbors in an index according to some distance metric. Feature engineering is used to extract, represent, and select the most distinguishing features of malware samples as a feature vector. Similarity between samples is defined as the inverse of a distance metric and used to find the neighborhood of a query vector. Historically, tree-based approaches have worked for splitting dense vectors into partitions but are limited to problems with low dimensionality. Locality sensitivity hashing attempts to map similar vectors into the same hash bucket. More recent advances make the use of k-nearest neighbor graphs that iteratively navigate between neighboring vertexes representing the samples.\r\n\r\nThe NN methods reviewed in this talk are evaluated using standard performance metrics and several malware datasets. Optimized ssdeep and selected NN methods are implemented in Rogers, an open source malware similarity tool, that allows analysts to process local samples and run queries for comparison of NN methods. ",
+      "location": 26015,
+      "link": "https://aivillage.org/posts/accepted-talks/",
+      "speakers": [
+        26734
+      ],
+      "end_date": "2018-08-10T21:30+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "It\u2019s a Beautiful Day in the Malware Neighborhood",
+      "updated_at": "2018-08-06T04:43+0000"
     }
   ],
-  "updated_at": "2018-08-06T03:15+0000"
+  "updated_at": "2018-08-06T05:01+0000"
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2018-08-06T03:26+0000",
+  "updated_at": "2018-08-06T05:10+0000",
   "speakers": [
     {
       "name": "0x200b",
@@ -2713,8 +2713,8 @@
     },
     {
       "name": "Isao Takaesu",
-      "updated_at": "2018-07-03T17:46+0000",
-      "description": "We are working in Mitsui Bussan Secure Directions, Inc. as security engineer and researcher. In the past, we found out numerous vulnerabilities in server of client and we proposed countermeasures to client. We think that there's more and want to efficiently find out vulnerabilities. Therefore, we are focusing on artificial intelligence technology and developing fully automated penetration testing tool using machine learning.\n",
+      "updated_at": "2018-08-06T05:09+0000",
+      "description": "Isao Takaesu is CISSP. He is working in Mitsui Bussan Secure Directions, Inc. as security engineer and researcher. He found many vulnerabilities in client\u2019s server and proposed countermeasures to client. He thinks that there\u2019s more and wants to find vulnerabilities. Therefore, he is focused on artificial intelligence technology for cyber security. Now, he is developing the penetration test tool using machine learning.\r\n\r\n",
       "title": "",
       "id": 26293,
       "twitter": "",
@@ -5703,8 +5703,8 @@
     },
     {
       "name": "Sven Cattell",
-      "updated_at": "2018-08-03T13:53+0000",
-      "description": "",
+      "updated_at": "2018-08-06T05:09+0000",
+      "description": "I got my Ph.D. in algebraic topology in 2016 and immediately moved into machine learning to work on something useful to people. I then completed a post-doc in mathematical machine learning where I worked on medical data. I now work at endgame.\r\n\r\n",
       "title": "",
       "id": 26605,
       "twitter": "",
@@ -6717,6 +6717,286 @@
       "description": "",
       "title": "",
       "id": 26706,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Ron Taylor",
+      "updated_at": "2018-08-06T03:45+0000",
+      "description": "",
+      "title": "",
+      "id": 26707,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Harri Hursti",
+      "updated_at": "2018-08-06T04:03+0000",
+      "description": "",
+      "title": "",
+      "id": 26708,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Robert Karas",
+      "updated_at": "2018-08-06T04:04+0000",
+      "description": "Director, NCATS, Office of Cybersecurity and\r\nCommunications, Department of Homeland Security",
+      "title": "",
+      "id": 26709,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "J. Alex Halderman",
+      "updated_at": "2018-08-06T04:05+0000",
+      "description": "Professor of Computer Science &\r\nEngineering, University of Michigan; Director, University of\r\nMichigan Center for Computer Security and Society",
+      "title": "",
+      "id": 26710,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Carsten Schurmann",
+      "updated_at": "2018-08-06T04:05+0000",
+      "description": "Associate Professor, Member of the\r\nProgramming, Logics , and Semantics Group (PLS), IT\r\nUniversity of Copenhagen",
+      "title": "",
+      "id": 26711,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Margaret MacAlpine",
+      "updated_at": "2018-08-06T04:05+0000",
+      "description": "Founding Partner, Nordic Innovation Labs",
+      "title": "",
+      "id": 26712,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Joseph Kiniry",
+      "updated_at": "2018-08-06T04:06+0000",
+      "description": "Joseph Kiniry, Principal Scientist, Galois, Inc.; Principled CEO and Chief Scientist, Free & Fair",
+      "title": "",
+      "id": 26713,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Matt Blaze",
+      "updated_at": "2018-08-06T04:07+0000",
+      "description": "Co-Organizer, DEFCON Voting Village",
+      "title": "",
+      "id": 26714,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Mark Mager",
+      "updated_at": "2018-08-06T05:07+0000",
+      "description": "Throughout his career in software engineering and computer security, Mark has served in prominent technical leadership roles in the research and development of advanced computer network operations tools and has provided malware analysis and reverse engineering subject matter expertise to a diverse range of government and commercial clients in the Washington, D.C. metropolitan area.\r\n\r\n",
+      "title": "",
+      "id": 26715,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Rob Brandon",
+      "updated_at": "2018-08-06T05:06+0000",
+      "description": "Rob is a threat hunter and data scientist with Booz Allen Hamilton\u2019s Dark Labs group. He has over 20 years of experience in the tech industry and holds a PhD in computer science from the University of Maryland, Baltimore County. His hobbies include studying the ways that complex systems fall apart and building machines that do his thinking for him so that he can spend more time brewing beer and playing bass.\r\n\r\n",
+      "title": "",
+      "id": 26716,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Mansour Ahmadi",
+      "updated_at": "2018-08-06T05:03+0000",
+      "description": "I am a postdoctoral Research Associate at the Northeastern University. I achieved my Ph.D. from the University of Cagliari. I am co-author of more than 10 research papers mostly about the application of machine learning for malware classification. Two of my works received awards from Kaspersky, and the Anti-Virus I developed received media coverage.",
+      "title": "",
+      "id": 26717,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Fedor Sakharov",
+      "updated_at": "2018-08-06T05:03+0000",
+      "description": "Fedor is a software developer from Moscow, Russia. He takes interest in various aspects of low-level programming and information security. For some time he has contributed to opensource reverse-engineering framework radare2, his diploma thesis is about transparent application CFG control in runtime and he has a solid experience with Linux kernel programming, drivers as well as kernel subsystems. That\u2019s not all, since recently he leads the security-focused machine learning research at Positive Technologies.\u201d\r\n\r\n",
+      "title": "",
+      "id": 26718,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Sebastian Garcia",
+      "updated_at": "2018-08-06T05:10+0000",
+      "description": "Sebastian is a malware researcher and security teacher that has extensive experience in machine learning applied on network traffic. He created the Stratosphere IPS project, the first machine learning-based, free-software IPS. Its goal its to protect the civil society. As a researcher in the Artificial Intelligence group of the Czech Technical University in Prague, he believes that free software and machine learning tools can help better protect users from the abuse of their digital rights. He has been teaching in several countries and Universities and working on penetration testing for both corporations and governments. He was lucky enough to talk and give workshops in CCC, BSides Budapest, Ekoparty, DeepSec, Hacktivity, Botconf, Hacklu, InBot, SecuritySessions, ECAI, CitizenLab, ArgenCor, Free Software Foundation Europe, VirusBulletin, BSides Vienna, HITB Singapore, CACIC, etc. As a co-founder of the MatesLab hackspace he worked on honeypots, malware detection, distributed scanning (creator of dnmap) keystroke dynamics, Bluetooth analysis, privacy protection, intruder detection, robotics, microphone detection with SDR (Salamandra) and biohacking. He is also a proud co-founder of the Independent Fund for Women in Tech.\r\n\r\n",
+      "title": "",
+      "id": 26719,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "dj beep code",
+      "updated_at": "2018-08-06T05:09+0000",
+      "description": "With a BS in Applied Mathematics, and a MS in computer science, dj launched her career in engineering in working on the Thirty Meter Telescope project. Over the next 12 years, she specialized in remote sensing algorithms, culminating as the principle investigator in an Office of Naval Research contract on the classification of signals. In 2014 she took her breadth of machine learning knowledge in applied research to the IBM Watson group. Within IBM Watson she leads teams that create AI applications for business, and on the side hacks on The Watson Beat code base. She also plays bass guitar in a bad cover band.",
+      "title": "",
+      "id": 26720,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Evan Yang",
+      "updated_at": "2018-08-06T05:10+0000",
+      "description": "Evan Yang is a security researcher in Intel Privacy & Security Lab. He had worked on Windows and Android security related topics for past few years. His latest focus is around the deep learning application on Windows ransomware. He also had been a database architect and software developer to provide solutions and build applications in production.\r\n\r\n",
+      "title": "",
+      "id": 26721,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "infosecanon",
+      "updated_at": "2018-08-06T05:02+0000",
+      "description": "Heather Lawrence is a cyber data scientist working with NARI. She earned her undergraduate and MS degrees in Computer Engineering from the University of Central Florida focusing on computer security. She is pursuing a PhD in Computer Engineering from the University of Nebraska Lincoln. Her previous experience in cyber threat intelligence modeling, darknet marketplace research, IT/OT testbed development, data mining, and machine learning has led to several awards from capture-the-flag competitions including the National Collegiate Cyber Defense Competition, CSI CyberSEED, and SANS Netwars Tournament. Her current research interests focus on the application of machine learning to cybersecurity problem sets.\r\n\r\n",
+      "title": "",
+      "id": 26722,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Chris Gardner",
+      "updated_at": "2018-08-06T05:04+0000",
+      "description": "Chris recently graduated from UMBC, where he found a passion for malware analysis and binary exploitation. In his spare time he plays CTFs and bikes his way around Washington DC.\r\n\r\n",
+      "title": "",
+      "id": 26723,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Ivan Torroledo",
+      "updated_at": "2018-08-06T05:05+0000",
+      "description": "Ivan Torroledo is the lead data scientist in the Cyxtera Research organization. In this role, he develops and implements Machine and Deep Learning algorithms to enhance phishing detection, network security, fraud detection, and malware mitigation. Ivan is also highly interested in research on the application of Machine and Deep Learning in high energy physics and astrophysics. Before joining Cyxtera, he worked at the Central Bank of Colombia, applying high performance computing tools to monetary policy analysis. He is passionate about applying the most advanced scientific knowledge to cyber security industry. Ivan holds degrees in Economics and Physics.\r\n\r\n",
+      "title": "",
+      "id": 26724,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Ariel Herbert-Voss",
+      "updated_at": "2018-08-06T05:07+0000",
+      "description": "Ariel Herbert-Voss is a PhD student at Harvard University, where she specializes in deep learning, cybersecurity, and mathematical optimization. Like many machine learning researchers, she spent plenty of time thinking about deep learning from a computational neuroscience point of view without realizing that skulls make biological neural networks a lot less hackable than artificial ones. Now she thinks about securing deep learning algorithms and offensive applications.\r\n\r\n",
+      "title": "",
+      "id": 26725,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Kang Li",
+      "updated_at": "2018-08-06T05:05+0000",
+      "description": "Kang Li is a professor of computer science and the director of the Institute for Cybersecurity and Privacy at the University of Georgia.  His research results have been published at academic venues, such as IEEE S&P, ACM CCS and NDSS, as well as industrial conferences, such as BlackHat, SyScan, and ShmooCon.  Dr. Kang Li is the founder and mentor of multiple CTF security teams, including SecDawg and Blue-Lotus.  He was also a founder and player of the Team Disekt, a finalist team in the 2016 DARPA Cyber Grand Challenge.",
+      "title": "",
+      "id": 26726,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Ram Shankar Siva Kumar",
+      "updated_at": "2018-08-06T05:08+0000",
+      "description": "Ram Shankar is a Data Cowboy on the Azure Security Data Science team at Microsoft, where his primary focus is modeling massive amounts of security logs to surface malicious activity. His work has appeared in industry conferences like BlueHat, DerbyCon, MIRCon, Strata+Hadoop World Practice of Machine Learning as well as academic conferences like NIPS, IEEE Usenix, ACM - CCS. Ram graduated from Carnegie Mellon University with a Masters in Electrical and Computer Engineering. If you work in the intersection of Machine Learning and Security, he wants to learn about your work!\r\n\r\n",
+      "title": "",
+      "id": 26727,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Raphael Norwitz",
+      "updated_at": "2018-08-06T05:02+0000",
+      "description": "I am a recent graduate from Columbia Univserity with a BA in Computer Science and MS in Machine Learning, and an incoming engineer on the Acropolis Hypervisor team at Nutanix. I have experience with Linux Kernel development, data science and malware analysis. I have interned at Google, Drawbridge and Nimbledroid, and have published research with Columbia\u2019s Wireless and Mobile Networking lab. For fun, I like to be outdoors and train Brazilian Ju-Jitsu.\r\n\r\n",
+      "title": "",
+      "id": 26728,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "TonTon Huang",
+      "updated_at": "2018-08-06T05:04+0000",
+      "description": "Chia-Mu Yu received his Ph.D degree from National Taiwan University in 2012. He is currently an assistant professor at National Chung Hsing University, Taiwan. He was a research assistant in the Institute of Information Science, Academia Sinica. He was a visiting scholar at Harvard University, Imperial College London, Waseda University, and University of Padova. He was a postdoc researcher at IBM Thomas J. Watson Research Center. He serves as an associate editor of IEEE Access and Security and Communication Networks. His research interests include cloud storage security, IoT security, and differential privacy.\r\n\r\n",
+      "title": "",
+      "id": 26729,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Pranshu Bajpai",
+      "updated_at": "2018-08-06T05:02+0000",
+      "description": "Pranshu Bajpai is a security researcher working towards his PhD in Computer Science and Engineering at Michigan State University. His research interests lie in computer and network security, malware analysis, machine learning, privacy, digital forensics, and cyber crimes. In the past, he worked as an independent penetration tester for clients. He has authored several research papers in security magazines and journals and has served as a technical reviewer for books within the security domain. He enjoys working in the security industry and the challenge of testing new technologies for potential weaknesses. In his spare time, he likes solving CTF challenges while listening to classic rock. Connect with him on Twitter: @amirootyet\r\n\r\n",
+      "title": "",
+      "id": 26730,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Brian Genz",
+      "updated_at": "2018-08-06T05:06+0000",
+      "description": "Brian Genz is a Security Engineer focused on threat hunting, security data science, threat intelligence, and security orchestration, automation & response. He brings experience in the defense intelligence, manufacturing, and financial sectors in the areas of incident response, digital forensics, vulnerability management, and security architecture consulting. He has presented at Derby Con, Circle City Con, CypherCon, the ISSA International Conference, ISACA, InfraGard, and other venues. Brian also serves as adjunct faculty in the information security program at Milwaukee Area Technical College.\r\n\r\n",
+      "title": "",
+      "id": 26731,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Alex Long",
+      "updated_at": "2018-08-06T05:06+0000",
+      "description": "Alex Long is currently working as a programmer on the Sophos Datascience Team where he builds tools, scalable backends, and cool visualizations to support the team\u2019s research. His latest work has been on creating an online platform for researchers to publish, evaluate, and distribute their latest AI models, thus streamlining the process of productizing AI breakthroughs.",
+      "title": "",
+      "id": 26732,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Li Chen",
+      "updated_at": "2018-08-06T05:08+0000",
+      "description": "Li Chen is a data scientist and research scientist in the Security and Privacy Lab at Intel Labs, where she focuses on developing state-of-the-art robust machine learning and deep learning algorithms for security analytics including applications in malware detection and image classification in the adversarial setting. She is also the co-primary investigator (PI) and research lead at the Intel Science & Technology Center for Adversary-Resilient Security Analytics. She designs the roadmaps with Intel and Georgia Tech PIs to jointly meet both industrial and academic research objectives. She provides research direction and in-depth technical guidance to advance the ARSA research agenda. Prior to joining Intel Labs, Li was a Data Scientist in Software and Services Group at Intel, where she focused on developing advanced and principled machine learning methods for cloud workload characterization and cloud computing performance. Li Chen received her Ph.D. degree in Applied Mathematics and Statistics from Johns Hopkins University. Her research interests primarily include machine learning, statistical pattern recognition, random graph inference, data mining, and inference for high-dimensional data. Her research has been featured in a number of pioneering scientific and engineering journals and conferences including IEEE Transactions on Pattern Analysis and Machine Intelligence, Annals of Applied Statistics, Parallel Computing, AAAI Conference on Artificial Intelligence and SPIE. She has given more than 30 technical presentations, including at the Joint Statistical Meeting (the largest statistics conference in North America), AAAI conference, International Joint Conference on Artificial Intelligence, and Spring Research Conference on Statistics and Industry Technology.\r\n\r\n",
+      "title": "",
+      "id": 26733,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Matt Maisel",
+      "updated_at": "2018-08-06T05:03+0000",
+      "description": "Matt Maisel is a data scientist passionate about the intersection of machine learning, software engineering, and computer security domains. He\u2019s currently the manager of Security Data Science at Cylance. Matt recently architected a scalable malware analysis and modeling service used to process customer malware detections. He\u2019s worked in several organization within Cylance including research engineering as a software architect and consulting as the technical director of the incident response practice. Matt holds a M.S. in Computer Science with a focus in machine learning and distributed systems from Johns Hopkins University.\r\n\r\n",
+      "title": "",
+      "id": 26734,
       "twitter": "",
       "conference": "DC26",
       "link": ""
