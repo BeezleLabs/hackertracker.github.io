@@ -1,5 +1,5 @@
 {
-  "updated_at": "2018-08-06T02:04+0000",
+  "updated_at": "2018-08-06T03:07+0000",
   "locations": [
     {
       "name": "Track 2 - Caesar's",
@@ -215,6 +215,42 @@
       "name": "BCOS Village - Caesar's",
       "id": 26036,
       "updated_at": "2018-08-06T02:04+0000",
+      "conference": "DC26"
+    },
+    {
+      "name": "Queercon Main - Caesar's",
+      "id": 26037,
+      "updated_at": "2018-08-06T02:55+0000",
+      "conference": "DC26"
+    },
+    {
+      "name": "Queercon Lounge - Caesar's",
+      "id": 26038,
+      "updated_at": "2018-08-06T02:56+0000",
+      "conference": "DC26"
+    },
+    {
+      "name": "Queercon Chill 1 - Caesar's",
+      "id": 26039,
+      "updated_at": "2018-08-06T02:56+0000",
+      "conference": "DC26"
+    },
+    {
+      "name": "Queercon Chill 2 - Caesar's",
+      "id": 26040,
+      "updated_at": "2018-08-06T02:56+0000",
+      "conference": "DC26"
+    },
+    {
+      "name": "Palms Place Pool",
+      "id": 26041,
+      "updated_at": "2018-08-06T02:56+0000",
+      "conference": "DC26"
+    },
+    {
+      "name": "Queercon Equality Room - Caesar's",
+      "id": 26042,
+      "updated_at": "2018-08-06T03:07+0000",
       "conference": "DC26"
     }
   ]

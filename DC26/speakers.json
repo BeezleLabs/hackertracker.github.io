@@ -1,5 +1,5 @@
 {
-  "updated_at": "2018-08-06T02:01+0000",
+  "updated_at": "2018-08-06T03:26+0000",
   "speakers": [
     {
       "name": "0x200b",
@@ -6567,6 +6567,156 @@
       "description": "",
       "title": "",
       "id": 26691,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Jo Langford, M.A.",
+      "updated_at": "2018-08-06T02:47+0000",
+      "description": "Jo Langford, M.A. is a dad, a Master\u2019s-level therapist, and sex educator. He is the author of \u201cThe Pride Guide,\u201d an encompassing guide to sexual and social development, safety, and health for queer youth and their families. Covering all aspects of LGBT adolescence, both online and off, this book is the first puberty book written with queer (and specifically trans) youth in mind.\r\n\r\nJo speaks internationally using information, education, and humor to help people navigate the intersection of sexuality and technology, emphasizing proactive and prosocial behavior whether using a screen or not.\r\n\r\n",
+      "title": "",
+      "id": 26692,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Trever Faden",
+      "updated_at": "2018-08-06T02:47+0000",
+      "description": "Trever Faden is the Founder and CEO of Atlas Lane - an venture-backed Experience-based Housing Startup based in Washington, DC. Trever is a firm believer in rigorously testing the credibility of today\u2019s best practices in pursuit of more societally impactful solutions, across industries. Trever has Founded numerous venture-backed companies, with his prior company, RebelMail, raising over $5 Million in institutional funding and working with clients such as The Home Depot, Ebay, WeWork, and Diane Von Furstenberg. Trever is a software developer by trade, holds a patent for Interactive Email technology, and has had his work featured on NBC News, Forbes, Slate, TechCrunch, New York Post, The Advocate, Out Magazine, and Gizmodo among others.\r\n\r\n",
+      "title": "",
+      "id": 26693,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Jesse Hitch",
+      "updated_at": "2018-08-06T02:47+0000",
+      "description": "Jesse Hitch is a trans and queer DevOps Engineer specialized in full stack development aimed at automation, and IT tooling. He nerds out on the back end of the internet, wearing hats like Linux Admin, InfoSec Analyst, and Software Engineer (specializing in Python). His primary focus has been on optimizing and securing Linux based infrastructure in favor of availability and reliability. In his spare time, he researches security and privacy for the average user, creating and distributing easily digestible materials to keep everyone anonymous and safe from \"bad people\".\r\n\r\n",
+      "title": "",
+      "id": 26694,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Christina Luconi",
+      "updated_at": "2018-08-06T02:48+0000",
+      "description": "Christina Luconi leads Rapid7\u2019s strategic people initiatives as its Chief People Officer. She is responsible for the entire employee lifecycle, with critical focus on recruiting stellar talent, building and inspiring corporate culture, acquisition integration and \u201cscaling with soul.\u201d Prior to joining Rapid7, Christina was the owner of People Innovations, an independent consulting firm focused on the creation of innovative people strategies for start-ups and high growth companies, primarily in the high technology industry. Christina also served as Chief People Officer at @stake, a professional services security firm which she helped build from the launch through its acquisition to Symantec.",
+      "title": "",
+      "id": 26695,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Subterfuge",
+      "updated_at": "2018-08-06T02:48+0000",
+      "description": "Subterfuge enjoys learning the finer details of classic cryptology, and as of late has become a bit of an oenophile. He also occasionally makes noise on drums, as part of a small band of fellow tech folk, that makes no headlines, but enjoys playing various B-rated venues in Seattle.",
+      "title": "",
+      "id": 26696,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Jason Painter ",
+      "updated_at": "2018-08-06T02:48+0000",
+      "description": "Jason Painter Cyber Ninja by day and dedicated volunteer and cat herder by night.  Jason is the current President and head of operations for Queercon.  Jason has been part of Queercon for 10 years now and manages the entire team of volunteers who make Queercon the largest LGBTQ hacker event in the world. \r\n\r\n",
+      "title": "",
+      "id": 26697,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Evan MacKay",
+      "updated_at": "2018-08-06T02:53+0000",
+      "description": "",
+      "title": "",
+      "id": 26698,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "George Louthan",
+      "updated_at": "2018-08-06T02:53+0000",
+      "description": "",
+      "title": "",
+      "id": 26699,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Jonathan Nelson",
+      "updated_at": "2018-08-06T02:53+0000",
+      "description": "",
+      "title": "",
+      "id": 26700,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Ryan Kovar",
+      "updated_at": "2018-08-06T03:26+0000",
+      "description": "",
+      "title": "",
+      "id": 26701,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "John Stoner",
+      "updated_at": "2018-08-06T03:26+0000",
+      "description": "",
+      "title": "",
+      "id": 26702,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Ryan Mitchell",
+      "updated_at": "2018-08-06T03:26+0000",
+      "description": "",
+      "title": "",
+      "id": 26703,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Davin Potts",
+      "updated_at": "2018-08-06T03:26+0000",
+      "description": "",
+      "title": "",
+      "id": 26704,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Johnny Long",
+      "updated_at": "2018-08-06T03:26+0000",
+      "description": "",
+      "title": "",
+      "id": 26705,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Omar Santos ",
+      "updated_at": "2018-08-06T03:26+0000",
+      "description": "",
+      "title": "",
+      "id": 26706,
       "twitter": "",
       "conference": "DC26",
       "link": ""

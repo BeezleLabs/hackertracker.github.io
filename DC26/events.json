@@ -9688,7 +9688,7 @@
     {
       "start_date": "2018-08-11T17:00+0000",
       "id": 26687,
-      "description": "\r\n",
+      "description": "",
       "location": 26036,
       "link": "https://bcosvillage.org/events/index.html",
       "speakers": [
@@ -9696,15 +9696,15 @@
       ],
       "end_date": "2018-08-11T18:00+0000",
       "conference": "DC26",
-      "event_type": 3,
+      "event_type": 6,
       "includes": "",
       "title": "BCOS keynote speech",
-      "updated_at": "2018-08-06T02:09+0000"
+      "updated_at": "2018-08-06T02:38+0000"
     },
     {
       "start_date": "2018-08-11T18:30+0000",
       "id": 26688,
-      "description": "\r\n",
+      "description": "",
       "location": 26036,
       "link": "https://bcosvillage.org/events/index.html",
       "speakers": [
@@ -9712,10 +9712,10 @@
       ],
       "end_date": "2018-08-11T19:00+0000",
       "conference": "DC26",
-      "event_type": 3,
+      "event_type": 6,
       "includes": "",
       "title": "Monero's Emerging Applications",
-      "updated_at": "2018-08-06T02:10+0000"
+      "updated_at": "2018-08-06T02:38+0000"
     },
     {
       "start_date": "2018-08-11T19:00+0000",
@@ -9895,7 +9895,375 @@
       "includes": "",
       "title": "BCOS Village summary",
       "updated_at": "2018-08-06T02:18+0000"
+    },
+    {
+      "start_date": "2018-08-09T22:00+0000",
+      "id": 26700,
+      "description": "Facilitated conversation around consent, boundaries, the roles we assume in flirting, sexual attraction, and courtship, as well as how these play out differently in straight and queer cultures. \r\n\r\nHow do queer and straight social norms and concepts of boundaries, negotiation, and consent differ? How do these present differently online and in-person?\r\nWhat are the queer equivalents of the concepts of rape culture, toxic masculinity and #MeToo? And how do these play out in gay, trans, and cross-culture interactions?\r\nGiven that queer culture gets so many other things \u201cright,\u201d what is queer culture\u2019s responsibility in terms of the bigger picture of creating a culture of responsibility, respect, and consent?\r\n",
+      "location": 26037,
+      "link": "https://www.queercon.org/blog/2018/07/13/queercon-15-schedule/",
+      "speakers": [
+        26692
+      ],
+      "end_date": "2018-08-09T23:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Building a Culture of Consent in LGBT Tech - There\u2019s No App for That",
+      "updated_at": "2018-08-06T02:52+0000"
+    },
+    {
+      "start_date": "2018-08-10T20:30+0000",
+      "id": 26701,
+      "description": "A rare opportunity to peer inside the enigmatic mind of the the QC puzzlemaster. Decipher the mystery by walking through past crypto challenges, learn what\u2019s new for this year, and maybe spot some hints that could help you earn a coveted QC challenge coin!\r\n\r\n",
+      "location": 26037,
+      "link": "https://www.queercon.org/blog/2018/07/13/queercon-15-schedule/",
+      "speakers": [
+        26696
+      ],
+      "end_date": "2018-08-10T21:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "QC Puzzles and Challenges ",
+      "updated_at": "2018-08-06T02:54+0000"
+    },
+    {
+      "start_date": "2018-08-10T21:00+0000",
+      "id": 26702,
+      "description": "There\u2019s a new app that lets you see who blocked you on Grindr. The cost? Your Grindr credentials and control of your account -- including access to those NSFW photos you once sent. In 50k Shades of Gay, Trever explores how his app, C*ckBlocked, grew to national spotlight and gained the trust and credentials of 50,000 Grindr users over a 5 day period. Through reflection on his experiences, Trever identifies key vulnerabilities in today's fast paced news cycles, how bad actors can exploit those weaknesses to gain public trust, and how we, as the good guys, can use technology to protect our community.\r\n\r\n",
+      "location": 26037,
+      "link": "https://www.queercon.org/blog/2018/07/13/queercon-15-schedule/",
+      "speakers": [
+        26693
+      ],
+      "end_date": "2018-08-10T22:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "50k Shades of Gay ",
+      "updated_at": "2018-08-06T02:55+0000"
+    },
+    {
+      "start_date": "2018-08-10T23:00+0000",
+      "id": 26703,
+      "description": "Whether trans, lesbian, bi, queer, or ally, all women are important and welcomed at Queercon.  Join us for the Women of Queercon meetup.\r\n\r\n\r\n",
+      "location": 26037,
+      "link": "https://www.queercon.org/blog/2018/07/13/queercon-15-schedule/",
+      "speakers": [
+        26693
+      ],
+      "end_date": "2018-08-11T01:00+0000",
+      "conference": "DC26",
+      "event_type": 8,
+      "includes": "",
+      "title": "Queercon Mixer ",
+      "updated_at": "2018-08-06T02:57+0000"
+    },
+    {
+      "start_date": "2018-08-10T22:00+0000",
+      "id": 26704,
+      "description": "Whether trans, lesbian, bi, queer, or ally, all women are important and welcomed at Queercon.  Join us for the Women of Queercon meetup.\r\n\r\n",
+      "location": 26039,
+      "link": "https://www.queercon.org/blog/2018/07/13/queercon-15-schedule/",
+      "speakers": [],
+      "end_date": "2018-08-10T23:00+0000",
+      "conference": "DC26",
+      "event_type": 5,
+      "includes": "",
+      "title": "Women of Queercon ",
+      "updated_at": "2018-08-06T03:15+0000"
+    },
+    {
+      "start_date": "2018-08-10T22:00+0000",
+      "id": 26705,
+      "description": "DEFCON Furs is a group of members of the furry fandom and their friends, that organizes events and parties at DEF CON for the infosec community. We are a puppy, kinky, alternative, and queer friendly group that hosts a safe space where the community can meet up and share adult interests. \r\n\r\n",
+      "location": 26040,
+      "link": "https://www.queercon.org/blog/2018/07/13/queercon-15-schedule/",
+      "speakers": [],
+      "end_date": "2018-08-10T23:00+0000",
+      "conference": "DC26",
+      "event_type": 8,
+      "includes": "",
+      "title": "Furries and Kinksters Meetup",
+      "updated_at": "2018-08-06T02:58+0000"
+    },
+    {
+      "start_date": "2018-08-11T03:00+0000",
+      "id": 26706,
+      "description": "Break out your speedo and get your unicorns ready. Come join us for our epic pool party at Palms Place rooftop pool.  Once again the amazing Queercon DJ\u2019s will be keeping us going as we celebrate 15 years of LGBTQ+ Hacking in the way that Queercon knows best - a massive pool party.\r\n\r\nFree Shuttle from the front loading area at Caesaers to Palms Place starting at 7:45PM\r\n\r\nFeaturing: DJ Pumpkin Spice, Skittish & Bus, and Bret Law\r\n\r\nSponsored by Bugcrowd\r\n\r\n",
+      "location": 26041,
+      "link": "https://www.queercon.org/blog/2018/07/13/queercon-15-schedule/",
+      "speakers": [],
+      "end_date": "2018-08-11T10:00+0000",
+      "conference": "DC26",
+      "event_type": 5,
+      "includes": "",
+      "title": "Queercon 15 Pool Party ",
+      "updated_at": "2018-08-06T02:59+0000"
+    },
+    {
+      "start_date": "2018-08-11T19:00+0000",
+      "id": 26707,
+      "description": "Queercon is a large and diverse community, and we embrace you for being you.  Join us for the third annual transgender meetup - a safe and accepting place for a",
+      "location": 26039,
+      "link": "https://www.queercon.org/blog/2018/07/13/queercon-15-schedule/",
+      "speakers": [],
+      "end_date": "2018-08-11T20:00+0000",
+      "conference": "DC26",
+      "event_type": 5,
+      "includes": "",
+      "title": "Transgender Meetup ",
+      "updated_at": "2018-08-06T03:00+0000"
+    },
+    {
+      "start_date": "2018-08-11T20:00+0000",
+      "id": 26708,
+      "description": "Diversity and inclusion are hot topics in today's world, and yet few companies have nailed how to effectively build a truly inclusive workplace.  In this interactive discussion, Luconi will share what Rapid7 is doing to tackle this head on, and share candid insights on the successes, challenges, and learnings she's gained along the way.  She's on a mission to make the workplace an environment where every person feels like they have equal opportunity to thrive and excel, and she's tackling it one candid conversation at a time. ",
+      "location": 26037,
+      "link": "https://www.queercon.org/blog/2018/07/13/queercon-15-schedule/",
+      "speakers": [
+        26695
+      ],
+      "end_date": "2018-08-11T21:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Queercon Keynote: Diversity & Inclusion Strategy ",
+      "updated_at": "2018-08-06T03:01+0000"
+    },
+    {
+      "start_date": "2018-08-11T21:00+0000",
+      "id": 26709,
+      "description": "",
+      "location": 26040,
+      "link": "https://www.queercon.org/blog/2018/07/13/queercon-15-schedule/",
+      "speakers": [
+        26695
+      ],
+      "end_date": "2018-08-11T22:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "LGBTQ Diversity Panel ",
+      "updated_at": "2018-08-06T03:02+0000"
+    },
+    {
+      "start_date": "2018-08-11T21:00+0000",
+      "id": 26710,
+      "description": "",
+      "location": 26039,
+      "link": "https://www.queercon.org/blog/2018/07/13/queercon-15-schedule/",
+      "speakers": [
+        26695
+      ],
+      "end_date": "2018-08-11T22:00+0000",
+      "conference": "DC26",
+      "event_type": 5,
+      "includes": "",
+      "title": "Bears of Queercon Meetup",
+      "updated_at": "2018-08-06T03:15+0000"
+    },
+    {
+      "start_date": "2018-08-11T22:00+0000",
+      "id": 26711,
+      "description": "How did we end up becoming the products offered by the social media companies we use \u201cfor free\u201d on a daily basis?  We will explain the avenues which companies, such as Facebook or Google, use to track and compile analytics about everything we do. We then look at the headlines around the manipulation of our recent U.S. election, involving data brokers like Cambridge Analytica, how companies are gathering the metrics they do, and what you can do to stop it. The goal of this talk is to train the everyday user to be more mindful of privacy, while engaging in communities online.\r\n\r\n",
+      "location": 26037,
+      "link": "https://www.queercon.org/blog/2018/07/13/queercon-15-schedule/",
+      "speakers": [
+        26694
+      ],
+      "end_date": "2018-08-11T23:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Social Media Safety ",
+      "updated_at": "2018-08-06T03:03+0000"
+    },
+    {
+      "start_date": "2018-08-11T22:00+0000",
+      "id": 26712,
+      "description": "Last year Queercon launched our QC Locals groups and since then our Locals have been meeting-up all around the country.  Have you attended a local meetup, yet? Come meet up with all of the other QC Local groups.  Looking to start a QC Local chapter in your area? Come get all the info on how to grow Queercon into your area.\r\n\r\n",
+      "location": 26040,
+      "link": "https://www.queercon.org/blog/2018/07/13/queercon-15-schedule/",
+      "speakers": [],
+      "end_date": "2018-08-11T23:00+0000",
+      "conference": "DC26",
+      "event_type": 5,
+      "includes": "",
+      "title": "QC Local Meetup ",
+      "updated_at": "2018-08-06T03:04+0000"
+    },
+    {
+      "start_date": "2018-08-11T23:00+0000",
+      "id": 26713,
+      "description": "Time to rally at the Queercon Lounge and grab a drink with all your new friends.  Swing by and mingle with everyone, find your dinner date and get ready for the Rainbow Ball!\r\n\r\n",
+      "location": 26037,
+      "link": "https://www.queercon.org/blog/2018/07/13/queercon-15-schedule/",
+      "speakers": [],
+      "end_date": "2018-08-12T01:00+0000",
+      "conference": "DC26",
+      "event_type": 5,
+      "includes": "",
+      "title": "Queercon Mixer ",
+      "updated_at": "2018-08-06T03:04+0000"
+    },
+    {
+      "start_date": "2018-08-12T03:00+0000",
+      "id": 26714,
+      "description": "Who needs a black and white ball when we have a Rainbow Ball?!  The Queercon Lounge turns into the biggest dance party, and keeps going all night long.  \r\n\r\nFeaturing: DJ Andrew Gibbons, Brett Law, and Skittish & Bus!",
+      "location": 26037,
+      "link": "https://www.queercon.org/blog/2018/07/13/queercon-15-schedule/",
+      "speakers": [],
+      "end_date": "2018-08-12T10:00+0000",
+      "conference": "DC26",
+      "event_type": 5,
+      "includes": "",
+      "title": "Queercon Rainbow Ball",
+      "updated_at": "2018-08-06T03:06+0000"
+    },
+    {
+      "start_date": "2018-08-12T03:00+0000",
+      "id": 26715,
+      "description": "Want to take a break from the Rainbow Ball? Stop into the Equality Village, where we have transformed the room into our own Queer-e-oke Party! \r\n\r\n",
+      "location": 26042,
+      "link": "https://www.queercon.org/blog/2018/07/13/queercon-15-schedule/",
+      "speakers": [],
+      "end_date": "2018-08-12T10:00+0000",
+      "conference": "DC26",
+      "event_type": 5,
+      "includes": "",
+      "title": "Queercon Karaoke",
+      "updated_at": "2018-08-06T03:07+0000"
+    },
+    {
+      "start_date": "2018-08-12T19:00+0000",
+      "id": 26716,
+      "description": "Come watch (or give) a lightning talk. Speak on whatever interests you, from LGBT+ to OSCP. Slides are welcome, but not required for this open forum. Talks should be limited to no more than 15 minutes. First time speakers encouraged!\r\n\r\n",
+      "location": 26042,
+      "link": "https://www.queercon.org/blog/2018/07/13/queercon-15-schedule/",
+      "speakers": [],
+      "end_date": "2018-08-12T21:00+0000",
+      "conference": "DC26",
+      "event_type": 5,
+      "includes": "",
+      "title": "Queercon Lightning Talks ",
+      "updated_at": "2018-08-06T03:08+0000"
+    },
+    {
+      "start_date": "2018-08-12T20:00+0000",
+      "id": 26717,
+      "description": "Do you want to get more involved with Queercon?  Have some skills that could help us grow? Stop in and learn how to get involved after the show in Vegas ends.\r\n\r\n",
+      "location": 26040,
+      "link": "https://www.queercon.org/blog/2018/07/13/queercon-15-schedule/",
+      "speakers": [],
+      "end_date": "2018-08-12T21:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Getting involved with Queercon ",
+      "updated_at": "2018-08-06T03:09+0000"
+    },
+    {
+      "start_date": "2018-08-12T22:00+0000",
+      "id": 26718,
+      "description": "Stay after the closing ceremonies and have one last drink with your new friends as we say goodbye to Queercon 15.\r\n\r\nSponsored by Yubico",
+      "location": 26038,
+      "link": "https://www.queercon.org/blog/2018/07/13/queercon-15-schedule/",
+      "speakers": [],
+      "end_date": "2018-08-13T00:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Farewell Queercon Mixer ",
+      "updated_at": "2018-08-06T03:09+0000"
+    },
+    {
+      "start_date": "2018-08-11T19:00+0000",
+      "id": 26719,
+      "description": "Come meet with companies that are looking for great LGBTQ+ talent in our new Queercon Diversity Expo.  These organizations support our community and are awesome in all ways.  Stop in and talk to them! You might just find some hidden QC surprises inside.\r\n\r\n",
+      "location": 26042,
+      "link": "https://www.queercon.org/blog/2018/07/13/queercon-15-schedule/",
+      "speakers": [],
+      "end_date": "2018-08-12T01:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Queercon Diversity & Recruitment Expo ",
+      "updated_at": "2018-08-06T03:10+0000"
+    },
+    {
+      "start_date": "2018-08-10T19:00+0000",
+      "id": 26720,
+      "description": "The Queercon Badge team has done it again.  Come learn all of the secrets and struggles behind the Queercon 15 badge.  You can also learn how to get a Queercon 16 badge and maybe there will be a few of this years around.\r\n\r\n",
+      "location": 26037,
+      "link": "https://www.queercon.org/blog/2018/07/13/queercon-15-schedule/",
+      "speakers": [
+        26698,
+        26699,
+        26700
+      ],
+      "end_date": "2018-08-10T20:30+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "QC 15 Badge Talk  ",
+      "updated_at": "2018-08-06T03:11+0000"
+    },
+    {
+      "start_date": "2018-08-10T19:00+0000",
+      "id": 26721,
+      "description": "We have a number of companies that partner with Queercon to support diversity and equality.  Stop into the new Queercon Equality room and talk to those companies that are making a difference in the community.\r\n\r\n",
+      "location": 26042,
+      "link": "https://www.queercon.org/blog/2018/07/13/queercon-15-schedule/",
+      "speakers": [
+        26698,
+        26699,
+        26700
+      ],
+      "end_date": "2018-08-11T01:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Queercon Diversity & Recruitment Expo ",
+      "updated_at": "2018-08-06T03:12+0000"
+    },
+    {
+      "start_date": "2018-08-10T03:00+0000",
+      "id": 26722,
+      "description": "Let\u2019s get started! Join us in the Queercon Lounge starting for our Kickoff Party. Come mingle with everyone as we celebrate 15 Years of LGBTQ+ Hacking! \r\n\r\n",
+      "location": 26038,
+      "link": "https://www.queercon.org/blog/2018/07/13/queercon-15-schedule/",
+      "speakers": [
+        26698,
+        26699,
+        26700
+      ],
+      "end_date": "2018-08-10T10:00+0000",
+      "conference": "DC26",
+      "event_type": 5,
+      "includes": "",
+      "title": "Queercon Kickoff Party",
+      "updated_at": "2018-08-06T03:13+0000"
+    },
+    {
+      "start_date": "2018-08-09T23:00+0000",
+      "id": 26723,
+      "description": "Join us in the Queercon Lounge for the first Queercon Mixer of DEF CON.  Come find old friends, and make some new ones, in the Queercon Lounge at Caesars.  No DEF CON badge required; Open to all LGBTQ, as well as friends and allies.\r\n\r\n",
+      "location": 26038,
+      "link": "https://www.queercon.org/blog/2018/07/13/queercon-15-schedule/",
+      "speakers": [
+        26698,
+        26699,
+        26700
+      ],
+      "end_date": "2018-08-10T01:00+0000",
+      "conference": "DC26",
+      "event_type": 5,
+      "includes": "",
+      "title": "Queercon Mixer ",
+      "updated_at": "2018-08-06T03:14+0000"
     }
   ],
-  "updated_at": "2018-08-06T02:18+0000"
+  "updated_at": "2018-08-06T03:15+0000"
 }
