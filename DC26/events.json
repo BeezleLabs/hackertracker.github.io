@@ -3084,18 +3084,18 @@
       "updated_at": "2018-08-02T19:05+0000"
     },
     {
-      "start_date": "2018-08-08T19:00+0000",
+      "start_date": "2018-08-11T19:00+0000",
       "id": 26236,
       "description": "Relive once again the experience of the arcade. From classics to a custom built 16 player foosball table! Grimm & Scythe bring back a favorite as you jam out a DJ battle while taking another swipe at that high score on your favorite classic video games. No quarters required!\r\n\r\nDetails TBA",
       "location": 26013,
       "link": "",
       "speakers": [],
-      "end_date": "2018-08-08T20:00+0000",
+      "end_date": "2018-08-11T20:00+0000",
       "conference": "DC26",
       "event_type": 5,
       "includes": "",
       "title": "Arcade Party",
-      "updated_at": "2018-07-21T23:07+0000"
+      "updated_at": "2018-08-06T01:58+0000"
     },
     {
       "start_date": "2018-08-12T03:30+0000",
@@ -9164,7 +9164,738 @@
       "includes": "",
       "title": "DEF CON Live Threat Hunting",
       "updated_at": "2018-08-03T16:09+0000"
+    },
+    {
+      "start_date": "2018-08-10T17:15+0000",
+      "id": 26655,
+      "description": "As medical devices increasingly embrace connected technologies, there's a growing opportunity for malicious actors to interfere with devices for profit or to cause harm. The good news is that many security researchers are working to investigate the security of medical devices. However, for this effort to have a positive impact, researchers and vendors must work together to understand the true risk, address the issues, and educate physicians and patients. In many cases, the risk may be low and should not outweigh the benefits of the device; however, mismanaged disclosures can cause panic and confusion. In other cases, researchers may struggle to engage vendors on the issue and patients may never hear of it, or they do, but no mitigation is offered. With the stakes so much higher in the healthcare arena, it's essential that we learn lessons from medical device disclosures that have gone well, and those that have not. This talk will investigate a number of public disclosures, and provide actionable guidance on how to disclose security concerns for the best possible outcomes.\r\n\r\n",
+      "location": 26035,
+      "link": "http://villageb.io/",
+      "speakers": [
+        26637
+      ],
+      "end_date": "2018-08-10T18:45+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Keynote Presentation: Triaging FTW, Lessons Learned from Medical Device Disclosures",
+      "updated_at": "2018-08-06T01:18+0000"
+    },
+    {
+      "start_date": "2018-08-10T18:45+0000",
+      "id": 26656,
+      "description": "As medical and recreational devices shift from outside to inside the body, challenges arise not only for builders and breakers of these devices, but also for regulators. This panel will introduce the progress of the Internet of Things into the \"Internet of Bodies\" and explain how existing legal and policy frameworks of consumer protection and security fit with this next generation of body-attached and body-embedded devices (and how they don't).\r\n\r\n",
+      "location": 26035,
+      "link": "http://villageb.io/",
+      "speakers": [
+        26638,
+        26639,
+        26640
+      ],
+      "end_date": "2018-08-10T20:30+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Panel Discussion: Healthcare",
+      "updated_at": "2018-08-06T01:20+0000"
+    },
+    {
+      "start_date": "2018-08-10T20:30+0000",
+      "id": 26657,
+      "description": "Editing genes is getting easier as knowledge of various genomes and technology advance. Malicious actors creating novel or custom infectious agents are a growing concern. This presentation explores use of Cyber Kill Chain methodology to detect and disrupt potential bioterrorist activities. Each link in the chain is defined and examined to identify potential attack indicators and countermeasures, discussing notable bottlenecks in each step. The goal is to apply existing information security knowledge and paradigms to counter the would-be bioterrorist. This talk will include brief discussions of current gene editing methods (CRISPR-CAS9, ZINCFINGER) for the lay person. Familiarity with the Cyber Kill Chain would be useful.",
+      "location": 26035,
+      "link": "http://villageb.io/",
+      "speakers": [
+        26641
+      ],
+      "end_date": "2018-08-10T21:15+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Blue Team Bio: Using Kill-Chain Methodology to Stop Bioterrorism",
+      "updated_at": "2018-08-06T01:21+0000"
+    },
+    {
+      "start_date": "2018-08-10T21:15+0000",
+      "id": 26658,
+      "description": "As medical and recreational devices shift from outside to inside the body, challenges arise not only for builders and breakers of these devices, but also for regulators. This panel will introduce the progress of the Internet of Things into the \"Internet of Bodies\" and explain how existing legal and policy frameworks of consumer protection and security fit with this next generation of body-attached and body-embedded devices (and how they don't).",
+      "location": 26035,
+      "link": "http://villageb.io/",
+      "speakers": [
+        26642,
+        26643,
+        26644,
+        26645
+      ],
+      "end_date": "2018-08-10T23:15+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Panel Discussion: The Internet of Bodies",
+      "updated_at": "2018-08-06T01:22+0000"
+    },
+    {
+      "start_date": "2018-08-10T23:15+0000",
+      "id": 26659,
+      "description": "This is a journey into fitness. My fitness and more importantly your fitness. Or rather the information that I've been collecting every day at the gym while getting ready for bikini season. This a look at my journey to become the sexy stud muffin you see before you (google image search \"sexy stud muffin\" for reference) and my quest to do bad things through various means, up to and including compromising cardio equipment, fitness apps, and changing delivery addresses for fitness equipment to my house instead of your gym. No zero days and nothing overly technical provided here, but the intended takeaway is awareness of who is collecting your PHI and from where. Just like on Maury, the results will shock and amaze. Or maybe you'll just get a good laugh at my journey to lose 100 pounds.",
+      "location": 26035,
+      "link": "http://villageb.io/",
+      "speakers": [
+        26646
+      ],
+      "end_date": "2018-08-11T00:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Hey Bro, I Got Your Fitness Right Here (and your PHI).",
+      "updated_at": "2018-08-06T01:22+0000"
+    },
+    {
+      "start_date": "2018-08-11T00:00+0000",
+      "id": 26660,
+      "description": "Natural selection can produce marvelous functional systems, but constraints in the evolutionary process can be exploited. By leveraging humanity\u2019s relative advantage in design foresight, we may be able to create synthetic organisms that can out-compete their natural counterparts. In this talk, I will explore the design limitations of evolved organisms that leave ecosystems permanently vulnerable to attack. In order to protect the natural world and human health, I will advocate we adopt the \u201cbiosecurity mindset\u201d and improve our ecological security posture.",
+      "location": 26035,
+      "link": "http://villageb.io/",
+      "speakers": [
+        26647
+      ],
+      "end_date": "2018-08-11T00:45+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Nature\u2019s source code is vulnerable and cannot be patched",
+      "updated_at": "2018-08-06T01:23+0000"
+    },
+    {
+      "start_date": "2018-08-11T00:45+0000",
+      "id": 26661,
+      "description": "Recent advances in remote sensing, drones, distributed computing, bigdata, and environmental DNA offer an unprecedented opportunity to push epidemiology beyond its traditional, two-dimensional (i.e. map-based) approach and harness the full availability and power of three-dimensional data and novel investigation methods to explore such data. This talk will present an extremely technology-specific vision for achieving this. Examples of the potential usefulness of this approach will be demonstrated with respect to three scenarios: (1) avian flu, (2) asthma, and post-flooding fecal contamination. The current state of the art of the component technologies will be presented as well as the remaining challenges for their seamless integration.",
+      "location": 26035,
+      "link": "http://villageb.io/",
+      "speakers": [
+        26648
+      ],
+      "end_date": "2018-08-11T01:30+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Remote Sensing, Distributed Computing, BigData and 3D Epidemiology: Today\u2019s Public Health Opportunity",
+      "updated_at": "2018-08-06T01:24+0000"
+    },
+    {
+      "start_date": "2018-08-11T01:30+0000",
+      "id": 26662,
+      "description": "Healthcare is enamored with data. We have more data than we know what to do with (e.g., constant flows of data from wearables, new and cheaper ways to sequence genomes, digital phenotypes expressed through social media interactions) and there is a rush to deploy this data in clinical research and care. As we combine this \u201cdata\u201d, we start to build a digital replica of each human. Our healthcare data carries new weight, new responsibilities. The rise in data means that we are gaining a greater body of knowledge as we assemble a digital representation of a person. We are getting closer to full understanding of someone\u2019s biology, brain structure, how and why they think and do what they do. We are entering into a world where precision medicine and \u201cN of 1\u201d studies is (finally) becoming possible. On the flipside, we are also entering into a period of unprecedented monitoring and surveillance. As a society, we have standards for how we handle human blood, tissue and other human specimens. It\u2019s now time for us to talk more about how we are to handle our digital specimens. In the talk, we\u2019ll discuss the proliferation of our biometric and psychographic data, use cases, and the new ethical and custodial responsibilities that arise for individuals, regulators and companies.",
+      "location": 26035,
+      "link": "http://villageb.io/",
+      "speakers": [
+        26649
+      ],
+      "end_date": "2018-08-11T02:15+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Custodial Responsibilities in the Connected Age: Digital Specimens and Social Contracts",
+      "updated_at": "2018-08-06T01:24+0000"
+    },
+    {
+      "start_date": "2018-08-11T02:15+0000",
+      "id": 26663,
+      "description": "To quote Bob Marley \u201cIf you know your history, then you would know where you coming from\u201d. This talk is a retrospective on the last ten years or so of medical device security research, intended to bring hackers interested in this discipline up to speed on what has been accomplished to date, how it was done, why it matters and where we stand today. This talk will timeline all the major events in medical device security research, describing in technical detail what was accomplished and how. This should make evident some of the systemic vulnerability classes present in medical devices and hopefully give the medical device security researchers of tomorrow a good idea of where to start looking. It will also cover some of the basic tools and techniques needed to get started in this discipline, as well as some of the practicalities involved in obtaining devices, firmware and information on various classes of medical devices and how differences in attack surface may influence your choice of devices to target for research.",
+      "location": 26035,
+      "link": "http://villageb.io/",
+      "speakers": [
+        26650
+      ],
+      "end_date": "2018-08-11T03:15+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Take two of these and syscall execve() in the morning: A retrospective and primer on medical device security research",
+      "updated_at": "2018-08-06T01:25+0000"
+    },
+    {
+      "start_date": "2018-08-11T17:00+0000",
+      "id": 26664,
+      "description": "The WaterBot is designed to dispense liquid (water, plant food, MS Media) and report how much and when it was administered. Designed, engineered and programed by 11 yr. old BiaSciLab, the WaterBot is open source and scaleable. Come see how you can hack it to help hack your plants!",
+      "location": 26035,
+      "link": "http://villageb.io/",
+      "speakers": [
+        26651
+      ],
+      "end_date": "2018-08-11T18:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "WaterBot - Hackable Scientific Plant Bot",
+      "updated_at": "2018-08-06T01:26+0000"
+    },
+    {
+      "start_date": "2018-08-11T18:15+0000",
+      "id": 26665,
+      "description": "Even though employers are increasingly recruiting autistic employees, autistic adults have one of the highest unemployment rates in the United States. This paper presents ongoing research by the author: (a) providing a brief overview of current scientific and societal perspectives on autism; (b) describing an on-going qualitative study of autistic autobiographical writings to gain insight into the autistic ex-perience, challenges faced in society, and barriers to employment; and (c) proposing Technology-Enabled Prosthetic Environments (TEPE) as a design concept for the integration of assistive technology for workplace accommodation.",
+      "location": 26035,
+      "link": "http://villageb.io/",
+      "speakers": [
+        26652
+      ],
+      "end_date": "2018-08-11T19:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Technology Enabled Prosthetic Environments",
+      "updated_at": "2018-08-06T01:32+0000"
+    },
+    {
+      "start_date": "2018-08-11T19:00+0000",
+      "id": 26666,
+      "description": "Chris currently works at Lares, prior to that he founded or worked with a number of companies specializing in DarkNet research, intelligence gathering, cryptography, deception technologies, and providers of security services and threat intelligence. Since the late 90\u2019s Chris has been deeply involved with security R&D, consulting, and advisory services in his quest to protect and defend businesses and individuals against cyber attack. Prior to that he jumped out of planes for a living, visiting all sorts of interesting countries and cultures while doing his best to avoid getting shot at too often. Roberts is considered one of the world\u2019s foremost experts on counter threat intelligence and vulnerability research within the Information Security industry.",
+      "location": 26035,
+      "link": "http://villageb.io/",
+      "speakers": [
+        26653
+      ],
+      "end_date": "2018-08-11T19:45+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "No Firewall Can Save You At The Intersection Of Genetics and Privacy",
+      "updated_at": "2018-08-06T01:33+0000"
+    },
+    {
+      "start_date": "2018-08-11T19:45+0000",
+      "id": 26667,
+      "description": "We broke Mother Natures SDLC for humans. We\u2019ve been doing ad-hoc rapid prototyping and flying by the seat of our pants for enough time that we\u2019ve changed the course of evolution. Unless we slow down a little, do the analysis, design and testing, we\u2019re going off the edge of the cliff at full speed.The session is going to give some background on the evolutionary cycles that have happened in the past, and then examine the human SDLC for the last 12,000 years or so\u2026then we\u2019ll draw some comparisons to how we\u2019re approaching the march of technology that we\u2019re seeing today with the idea that we\u2019ll match up what\u2019s happening TO us is also a product of what we\u2019re doing to ourselves etc.\u2026Mother Nature\u2019s not got a habit of rapid prototyping, so why do we do that to ourselves, why are we putting 20+ Billion devices into circulation with problems etc.",
+      "location": 26035,
+      "link": "http://villageb.io/",
+      "speakers": [
+        26342
+      ],
+      "end_date": "2018-08-11T20:30+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Mother Natures Development Lifecycles\u2026 OR Why the T-Rex didn\u2019t get extenders.",
+      "updated_at": "2018-08-06T01:33+0000"
+    },
+    {
+      "start_date": "2018-08-11T20:30+0000",
+      "id": 26668,
+      "description": "Recent advances in genetic sequencing and modification technology have made the goal of storing data in living cells an attainable goal. In this talk John Dunlap will cover the history of attempting to encrypt secrets into living cells, and discuss his own experiments encrypting secrets in living cells with affordable lab equipment. John will discuss lab methods, suitable encryption algorithms, and methods for detecting data tucked away in innocuous model organisms, as well as potential issues with the concept of DNA as data storage. John will also present his own software tool for converting data into a suitable form for storage in Living organisms.",
+      "location": 26035,
+      "link": "http://villageb.io/",
+      "speakers": [
+        26381
+      ],
+      "end_date": "2018-08-11T21:15+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "DNA Encryption: Bioencryption to Store Your Secrets in living organisms",
+      "updated_at": "2018-08-06T01:34+0000"
+    },
+    {
+      "start_date": "2018-08-11T21:15+0000",
+      "id": 26669,
+      "description": "Joel will talk about how the DEF CON Biohacking Village came together in all its wonderful glory\r\n\r\n",
+      "location": 26035,
+      "link": "http://villageb.io/",
+      "speakers": [
+        26656
+      ],
+      "end_date": "2018-08-11T22:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "DEF CON Biohacking Village Badge Talk",
+      "updated_at": "2018-08-06T01:35+0000"
+    },
+    {
+      "start_date": "2018-08-11T22:00+0000",
+      "id": 26670,
+      "description": "Two years ago, the Four Thieves Vinegar Collective became public at HOPE XI after almost a decade of working underground, and debuted the first generation of the Apothecary Microlab, the open-source automated chemical reactor designed to synthesize the active ingredients of pharmaceutical drugs. We synthesized Daraprim onstage, and called Martin Shkreli's cell phone from stage. It was a good time. Since then, the reactor has developed, and we have worked on more complicated syntheses, and hacking medical hardware. Most notably, we released plans for a DIY version of the EpiPen anyone can make for $30US. Come see the new releases we have planned and the new beta unit. Learn how to make medicine from poison, how to use the shrouding of information about medicine to make custom-tailored treatment programs for rare diseases, and how to use public data to find new, more efficient synthesis pathways for drugs. Hack your health. We can torrent medicine. File sharing saves lives.",
+      "location": 26035,
+      "link": "http://villageb.io/",
+      "speakers": [
+        26657
+      ],
+      "end_date": "2018-08-11T23:15+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Torrent More Pharmaceutical Drugs. File Sharing Still Saves Lives.",
+      "updated_at": "2018-08-06T01:36+0000"
+    },
+    {
+      "start_date": "2018-08-11T23:15+0000",
+      "id": 26671,
+      "description": "As prenatal testing and ultrasound technology have greatly improved, so has our ability to diagnose birth defects and genetic diseases earlier and earlier in pregnancy. Until recently, our only available options were to offer pregnancy termination or wait to see if the baby survived long enough to be treated after birth. But what if we had the capability to intervene before those genetic mutations had a chance to cause their harmful effects, sparing parents from the agony of uncertain pregnancy outcomes and saving children from debilitating diseases? In last year\u2019s \u201cDesigner Babies: Hacking Human Embryos\u201d we discussed pre-implantation genetic testing and embryo modification as a means to identify and treat heritable diseases, by correcting harmful gene mutations before a pregnancy even begins. Since then, exciting new research has shown that even after a pregnancy is under way, opportunities still exist for hacking the biological machinery of the fetus to alter its developmental course.This talk will review new and rapidly evolving strategies to treat genetic disease in utero \u2013 while the baby is still in the womb - by hijacking the embryologic mechanisms responsible for fetal growth and development. Examples include:\r\n- injection of a critical protein into the amniotic fluid surrounding babies with X-linked hypohydrotic ectodermal dysplasia, a genetic condition causing a lack of sweat glands and the life-threatening inability to regulate temperature\r\n- transfusion of mesenchymal stem cells into the fetal umbilical cord to treat osteogenesis imperfecta or \u201cbrittle bone disease\u201d\r\n- in utero blood and bone marrow transplant to treat the fatal hemoglobin disorder alpha-thalessemia major\r\n- correcting deformities such as cleft lip and palate by triggering cell signaling pathways \"\"knocked out\"\" by genetic mutation",
+      "location": 26035,
+      "link": "http://villageb.io/",
+      "speakers": [
+        26658
+      ],
+      "end_date": "2018-08-12T00:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Hacking Human Fetuses",
+      "updated_at": "2018-08-06T01:36+0000"
+    },
+    {
+      "start_date": "2018-08-12T00:00+0000",
+      "id": 26672,
+      "description": "The talk is about the project \u201cOver Mind\u201d. That it is a neuro wheelchair control software developed to help people with different physical abilities who have reduced mobility and use wheelchairs, by capturing data provided by neuro sensors or other sources of information, the software converts them into an order of movement to one or several engines, allowing the movement of a wheelchair. \u201cOver Mind\u201d will allow you to control any adapted electric wheelchair. You can also control an exoskeleton or other mechanism that facilitates the mobility of people. We have managed to control a high-tech robot using our Over Mind software and using a sensor provided by Neurosky The Problem: The 1% of the world population cannot move by itself, for various reasons such as Amyotrophic lateral sclerosis (ALS), accidents and others, 50,000,000 people. Over Mind is a a low-cost technology/system developed in Chile, designed to give mobility to 1% of the world population, increasing its available physical capacities allowing people with zero or reduced mobility to MOVE and carry out activities on their own, granting freedom and autonomy. The year 2016 Over Mind participated in the contest \"\"An idea to change history\"\", organized by History Channel together with 5,800 projects and it was the only Chilean project that finished among the four finalists.",
+      "location": 26035,
+      "link": "http://villageb.io/",
+      "speakers": [
+        26659,
+        26660
+      ],
+      "end_date": "2018-08-12T00:45+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Biohacking the Disability",
+      "updated_at": "2018-08-06T01:37+0000"
+    },
+    {
+      "start_date": "2018-08-12T00:45+0000",
+      "id": 26673,
+      "description": "The advancement of technology means more data are being collected from a wider range of sources. Of particular concern is data collected using a Brain Computer Interface (BCI): a device that records neural signals and allows them to control objects external to the body. Applications for this technology range from therapeutic (e.g. controlling a prosthetic arm) to entertainment (e.g. playing a video game). These cases provide malicious entities the ability to intercept, manipulate, or hack neural signals and the devices they control: it is the plot of Batman Forever (1995) come to life. This talk will outline research in the field of neural security and information elicitation, as well as the corresponding ethical and policy implications.\r\n\r\n",
+      "location": 26035,
+      "link": "http://villageb.io/",
+      "speakers": [
+        26661
+      ],
+      "end_date": "2018-08-12T01:30+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Batman, Brain Hacking, and Bank Accounts",
+      "updated_at": "2018-08-06T01:38+0000"
+    },
+    {
+      "start_date": "2018-08-12T01:30+0000",
+      "id": 26674,
+      "description": "While important changes may be afoot in the US regulatory environment for medical devices, which should hopefully allow more people to make informed decisions regarding patient safety, many CISOs, security engineers, and network admins have to live day to day in the world we have, not the world we wish for. There have been multiple presentations in the last few years about the details of medical device security that have rightly put the onus on manufacturers to provide long term fixes. However, we wonder if there are ways to create a more defensible and hardened hospital room until the notoriously slow regulatory process gains traction.We\u2019ve done deep dives into specific medical devices and we\u2019ve done pentests in several hospital systems. In our experience, we have noticed broad classes of common vulnerabilities across bedside equipment that transcend any one device or class of device. Input validation errors, buggy network stacks, and low-bandwidth links can be found in systems that monitor vitals, administer medications, or in components that glue disparate systems together. A long awaited patch may fix one vulnerability only for the hospital to bring in a different device for clinical or financial reasons, and wash-rinse-repeat. It\u2019s not enough for one or two manufacturers to step up the security game if they are feeding data into other unreliable systems, and it will be a while before everyone is at the same level. We are dedicated red teamers, and we may feel the pain of those in the blue team trying to do the right thing, but we don\u2019t know what it\u2019s like to live in your shoes. In this talk, we will explain, in broad terms, vulnerabilities that we have seen and how we recommend remediating them. But we don\u2019t want you to leave this session feeling that we are talking down to the defenders. We want you to have a seat at the table and share how you handle the unknown in your environment.",
+      "location": 26035,
+      "link": "http://villageb.io/",
+      "speakers": [
+        26662
+      ],
+      "end_date": "2018-08-12T02:15+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Building a Better Bedside - The Blue Team Needs a Plan B",
+      "updated_at": "2018-08-06T01:38+0000"
+    },
+    {
+      "start_date": "2018-08-12T17:15+0000",
+      "id": 26675,
+      "description": "Biological viruses have existed and evolved for millions of years, maliciously exploiting host cells for survival. How have they done this, and what can we learn from it? Extremely advanced mechanisms for privilege escalation, persistence, and defence evasion have been used by biological viruses long before malware was first written. This talk will provide an understanding of what mechanisms are used by biological viruses to exploit immune defences, persist, and survive in the arms race with the immune system. Surprising differences between malware and virus actions will be shown, and some mechanisms which are used by viruses, but have not been adopted, or even attempted by malware, will be revealed. No biological background is needed, only an open mind.",
+      "location": 26035,
+      "link": "http://villageb.io/",
+      "speakers": [
+        26663
+      ],
+      "end_date": "2018-08-12T18:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Exploiting immune defences - can malware learn from biological viruses?",
+      "updated_at": "2018-08-06T01:40+0000"
+    },
+    {
+      "start_date": "2018-08-12T18:00+0000",
+      "id": 26676,
+      "description": "This talk will focus on consumer grade glucose monitors - primarily continuous glucose monitors that are implantable or attach to the skin for extended length of time and provide readings via bluetooth low energy or have RF/BLE bridges. Research was focused on security/privacy implications.",
+      "location": 26035,
+      "link": "http://villageb.io/",
+      "speakers": [
+        26664
+      ],
+      "end_date": "2018-08-12T19:15+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Jumping the Epidermal Barrier",
+      "updated_at": "2018-08-06T01:41+0000"
+    },
+    {
+      "start_date": "2018-08-12T19:15+0000",
+      "id": 26677,
+      "description": "Thanks to the use of DNA in criminal investigations, hundreds of innocent people have been exonerated from crimes they did not commit. DNA has also been used to used to arrest suspects in cold cases! In my presentation I will give a primer on the techniques used for DNA profiling and the statistics for false positives. The bulk of my presentation will be looking into the vulnerabilities of current DNA profiling methods and how a malicious actor could actually reconstruct enough genotypic information of any innocent person from just a picture of their face. This is based on recently published Nature Genetics research and extends the methods to suggest that it would only take ~50 million face:genotype samples to have a sufficient genotypic mapping that would allow someone to recreate your 23andMe profile (602,000 SNPs) from a selfie.\r\n\r\n",
+      "location": 26035,
+      "link": "http://villageb.io/",
+      "speakers": [
+        26665
+      ],
+      "end_date": "2018-08-12T20:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Selfie or Mugshot?",
+      "updated_at": "2018-08-06T01:42+0000"
+    },
+    {
+      "start_date": "2018-08-12T20:00+0000",
+      "id": 26678,
+      "description": "Let\u2019s talk biohacking, technology and business. We are a community that is innovating and creating \u2014 mostly in non-profit and academic spaces. As we have grown so have the business opportunities, sometimes in unexpected places. My company, Livestock Labs, is bringing its biometric implant to market \u2014 in cows first. Started by grinders, the company is proving what we all know \u2014 that when we get funding and dedicated time our projects take off. This session tries to shed some light on learning to business as a biohacker and encourages other body augmenters and diyBio folks to take the leap and see what amazing things they can accomplish.\r\n\r\n",
+      "location": 26035,
+      "link": "http://villageb.io/",
+      "speakers": [
+        26666
+      ],
+      "end_date": "2018-08-12T20:45+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Getting Skin in the Game: Biohacking & Business",
+      "updated_at": "2018-08-06T01:42+0000"
+    },
+    {
+      "start_date": "2018-08-12T20:45+0000",
+      "id": 26679,
+      "description": "The increase of pace in the technology field has left the race for manufacturers to increase the security in medical devices. There is the theoretically possibility that your heart can be pwned. Pacemakers have become part of the internet of things. We are putting our hearts on display. This is my journey from regular hacker to gen-one cyborg to pwning my own heart that I can own the vulnerabilities to fix it. We forget that these are devices connected to flesh and blood, a person who depends on this device to have just one more heart beat. This is a journey into the inner sanctum of living with a vulnerable device in a time where technology progression has left behind security. We can no longer have security by obscurity when it comes to devices which cyborg\u2019s like me depend on.We should not be in the business of sacrificing security for convenience or power. As a patient, I would rather sleep knowing my device has been hardened and have the inconvenience of replacing it more regularly than the converse. I feel that we, as the security community, should be addressing and assisting medical manufacturers with the security vulnerabilities in the devices that literally keep people alive. There should be more effort placed on addressing the security vulnerabilities. The simple fact is we are not dealing with just ones and zeroes. This is, for some, a life or death situation.\r\n\r\n",
+      "location": 26035,
+      "link": "http://villageb.io/",
+      "speakers": [
+        26667
+      ],
+      "end_date": "2018-08-12T21:45+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "PWN to OWN my own Heart. Journey into hacking my own pacemake",
+      "updated_at": "2018-08-06T01:43+0000"
+    },
+    {
+      "start_date": "2018-08-10T18:00+0000",
+      "id": 26680,
+      "description": "\r\n",
+      "location": 26036,
+      "link": "https://bcosvillage.org/events/index.html",
+      "speakers": [
+        26668
+      ],
+      "end_date": "2018-08-10T19:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Keynote Speech: Inside Monero",
+      "updated_at": "2018-08-06T02:06+0000"
+    },
+    {
+      "start_date": "2018-08-10T19:30+0000",
+      "id": 26681,
+      "description": "\r\n",
+      "location": 26036,
+      "link": "https://bcosvillage.org/events/index.html",
+      "speakers": [
+        26669
+      ],
+      "end_date": "2018-08-10T20:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Open Source Hardware and the Monero Project",
+      "updated_at": "2018-08-06T02:06+0000"
+    },
+    {
+      "start_date": "2018-08-10T20:00+0000",
+      "id": 26682,
+      "description": "\r\n",
+      "location": 26036,
+      "link": "https://bcosvillage.org/events/index.html",
+      "speakers": [
+        26672
+      ],
+      "end_date": "2018-08-10T20:30+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "A Rundown of Security Issues in Crypto Software Wallets",
+      "updated_at": "2018-08-06T02:06+0000"
+    },
+    {
+      "start_date": "2018-08-10T20:30+0000",
+      "id": 26683,
+      "description": "\r\n",
+      "location": 26036,
+      "link": "https://bcosvillage.org/events/index.html",
+      "speakers": [
+        26673
+      ],
+      "end_date": "2018-08-10T21:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "We Don't Need No Stinkin Badges",
+      "updated_at": "2018-08-06T02:07+0000"
+    },
+    {
+      "start_date": "2018-08-10T21:00+0000",
+      "id": 26684,
+      "description": "\r\n",
+      "location": 26036,
+      "link": "https://bcosvillage.org/events/index.html",
+      "speakers": [
+        26674,
+        26675
+      ],
+      "end_date": "2018-08-10T23:00+0000",
+      "conference": "DC26",
+      "event_type": 3,
+      "includes": "",
+      "title": "Hack On The BitBox Hardware Wallet",
+      "updated_at": "2018-08-06T02:08+0000"
+    },
+    {
+      "start_date": "2018-08-10T23:00+0000",
+      "id": 26685,
+      "description": "\r\n",
+      "location": 26036,
+      "link": "https://bcosvillage.org/events/index.html",
+      "speakers": [
+        26676
+      ],
+      "end_date": "2018-08-11T00:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Scaling and Economic Implications of the Adaptive Blocksize in Monero",
+      "updated_at": "2018-08-06T02:08+0000"
+    },
+    {
+      "start_date": "2018-08-11T00:00+0000",
+      "id": 26686,
+      "description": "\r\n",
+      "location": 26036,
+      "link": "https://bcosvillage.org/events/index.html",
+      "speakers": [
+        26677,
+        26678
+      ],
+      "end_date": "2018-08-11T01:00+0000",
+      "conference": "DC26",
+      "event_type": 3,
+      "includes": "",
+      "title": "Hacking a Crypto Payment Gateway",
+      "updated_at": "2018-08-06T02:09+0000"
+    },
+    {
+      "start_date": "2018-08-11T17:00+0000",
+      "id": 26687,
+      "description": "\r\n",
+      "location": 26036,
+      "link": "https://bcosvillage.org/events/index.html",
+      "speakers": [
+        26679
+      ],
+      "end_date": "2018-08-11T18:00+0000",
+      "conference": "DC26",
+      "event_type": 3,
+      "includes": "",
+      "title": "BCOS keynote speech",
+      "updated_at": "2018-08-06T02:09+0000"
+    },
+    {
+      "start_date": "2018-08-11T18:30+0000",
+      "id": 26688,
+      "description": "\r\n",
+      "location": 26036,
+      "link": "https://bcosvillage.org/events/index.html",
+      "speakers": [
+        26680
+      ],
+      "end_date": "2018-08-11T19:00+0000",
+      "conference": "DC26",
+      "event_type": 3,
+      "includes": "",
+      "title": "Monero's Emerging Applications",
+      "updated_at": "2018-08-06T02:10+0000"
+    },
+    {
+      "start_date": "2018-08-11T19:00+0000",
+      "id": 26689,
+      "description": "\r\n",
+      "location": 26036,
+      "link": "https://bcosvillage.org/events/index.html",
+      "speakers": [
+        26673
+      ],
+      "end_date": "2018-08-11T21:00+0000",
+      "conference": "DC26",
+      "event_type": 3,
+      "includes": "",
+      "title": "We Program Our Stinkin Badges!",
+      "updated_at": "2018-08-06T02:12+0000"
+    },
+    {
+      "start_date": "2018-08-11T21:00+0000",
+      "id": 26690,
+      "description": "\r\n",
+      "location": 26036,
+      "link": "https://bcosvillage.org/events/index.html",
+      "speakers": [
+        26673
+      ],
+      "end_date": "2018-08-11T21:30+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Examining Monero's Ring Signatures",
+      "updated_at": "2018-08-06T02:12+0000"
+    },
+    {
+      "start_date": "2018-08-11T21:30+0000",
+      "id": 26691,
+      "description": "\r\n",
+      "location": 26036,
+      "link": "https://bcosvillage.org/events/index.html",
+      "speakers": [
+        26682
+      ],
+      "end_date": "2018-08-11T22:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Some Mining Related Attacks",
+      "updated_at": "2018-08-06T02:13+0000"
+    },
+    {
+      "start_date": "2018-08-11T22:00+0000",
+      "id": 26692,
+      "description": "\r\n",
+      "location": 26036,
+      "link": "https://bcosvillage.org/events/index.html",
+      "speakers": [
+        26683
+      ],
+      "end_date": "2018-08-12T00:00+0000",
+      "conference": "DC26",
+      "event_type": 3,
+      "includes": "",
+      "title": "An Introduction to Kovri",
+      "updated_at": "2018-08-06T02:14+0000"
+    },
+    {
+      "start_date": "2018-08-12T00:00+0000",
+      "id": 26693,
+      "description": "\r\n",
+      "location": 26036,
+      "link": "https://bcosvillage.org/events/index.html",
+      "speakers": [
+        26680,
+        26684,
+        26685
+      ],
+      "end_date": "2018-08-12T01:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Moderator Justin Ehrenhofer's Greatest Questions",
+      "updated_at": "2018-08-06T02:15+0000"
+    },
+    {
+      "start_date": "2018-08-12T17:00+0000",
+      "id": 26694,
+      "description": "\r\n",
+      "location": 26036,
+      "link": "https://bcosvillage.org/events/index.html",
+      "speakers": [
+        26688
+      ],
+      "end_date": "2018-08-12T17:45+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "The Good, the Bad, and the Private: Building and Breaking Safe Cryptocurrencies",
+      "updated_at": "2018-08-06T02:16+0000"
+    },
+    {
+      "start_date": "2018-08-12T18:00+0000",
+      "id": 26695,
+      "description": "\r\n",
+      "location": 26036,
+      "link": "https://bcosvillage.org/events/index.html",
+      "speakers": [
+        26681
+      ],
+      "end_date": "2018-08-12T18:30+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Monero's Differentiated Community",
+      "updated_at": "2018-08-06T02:16+0000"
+    },
+    {
+      "start_date": "2018-08-12T18:30+0000",
+      "id": 26696,
+      "description": "\r\n",
+      "location": 26036,
+      "link": "https://bcosvillage.org/events/index.html",
+      "speakers": [
+        26671
+      ],
+      "end_date": "2018-08-12T19:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Privacy and Blockchain: A Boundary Object Perspective",
+      "updated_at": "2018-08-06T02:16+0000"
+    },
+    {
+      "start_date": "2018-08-12T19:00+0000",
+      "id": 26697,
+      "description": "\r\n",
+      "location": 26036,
+      "link": "https://bcosvillage.org/events/index.html",
+      "speakers": [
+        26282,
+        26283
+      ],
+      "end_date": "2018-08-12T19:30+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Stealing Crypto 2 Factor Isn't a Factor",
+      "updated_at": "2018-08-06T02:17+0000"
+    },
+    {
+      "start_date": "2018-08-12T19:30+0000",
+      "id": 26698,
+      "description": "\r\n",
+      "location": 26036,
+      "link": "https://bcosvillage.org/events/index.html",
+      "speakers": [
+        26683
+      ],
+      "end_date": "2018-08-12T20:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Monero Project's Vulnerability Response Process",
+      "updated_at": "2018-08-06T02:17+0000"
+    },
+    {
+      "start_date": "2018-08-12T20:00+0000",
+      "id": 26699,
+      "description": "\r\n",
+      "location": 26036,
+      "link": "https://bcosvillage.org/events/index.html",
+      "speakers": [
+        26691
+      ],
+      "end_date": "2018-08-12T21:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "BCOS Village summary",
+      "updated_at": "2018-08-06T02:18+0000"
     }
   ],
-  "updated_at": "2018-08-05T22:52+0000"
+  "updated_at": "2018-08-06T02:18+0000"
 }

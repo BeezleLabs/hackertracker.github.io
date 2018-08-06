@@ -1,5 +1,5 @@
 {
-  "updated_at": "2018-08-05T22:52+0000",
+  "updated_at": "2018-08-06T02:01+0000",
   "speakers": [
     {
       "name": "0x200b",
@@ -6017,6 +6017,556 @@
       "description": "",
       "title": "",
       "id": 26636,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Jen Ellis",
+      "updated_at": "2018-08-06T01:00+0000",
+      "description": "Jen Ellis is the vice president of community and public policy at Rapid7, a leading provider of analytics and automation for security and IT operations. Jen\u2019s primary focus is on building productive collaboration between those in the security community and those operating outside it. She works extensively with security researchers, technology providers and operators, and various government entities to help them understand and address cybersecurity challenges. She believes effective collaboration is our only path forward to reducing cybercrime and protecting consumers and businesses. She has testified before Congress and spoken at a number of security industry events including SXSW, RSA, Derbycon, Shmoocon, SOURCE, UNITED, and various BSides. ",
+      "title": "",
+      "id": 26637,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Christian \"quaddi\" Dameff MD ",
+      "updated_at": "2018-08-06T01:02+0000",
+      "description": "Christian (quaddi) Dameff MD is an emergency medicine doctor, former open capture the flag champion, prior DEF CON speaker, and researcher. Published works include topics such as therapeutic hypothermia after cardiac arrest, novel drug targets for myocardial infarction patients, and other Emergency Medicine related works with an emphasis on CPR optimization. Security research topics including hacking critical healthcare infrastructure, medical devices and the effects of malware on patient care. This is his fourteenth DEF CON. ",
+      "title": "",
+      "id": 26638,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Beau Woods",
+      "updated_at": "2018-08-06T01:02+0000",
+      "description": "Beau Woods is a leader with the I Am The Cavalry grassroots initiative, a Cyber Safety Innovation Fellow with the Atlantic Council, Entrepreneur in Residence at the US Food and Drug Administration, and Founder/CEO of Stratigos Security. Beau has consulted with Global 100 corporations, the White House, members of Congress, foreign governments, and NGOs on some of the most critical cybersecurity issues of our time. Beau's focus is on Internet of Things (IoT) technologies where cybersecurity intersects public safety and human life issues, including healthcare, automotive, energy, oil and gas, aviation, transportation, and other sectors. Beau is a published author, frequent public speaker, often quoted in media, and is often engaged for public or private speaking venues. ",
+      "title": "",
+      "id": 26639,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Dr. Leslie Saxon",
+      "updated_at": "2018-08-06T01:02+0000",
+      "description": "Dr. Leslie Saxon is a Professor of Medicine, Clinical Scholar, at the Keck School of Medicine of USC. Dr. Saxon specializes in the diagnosis and treatment of cardiac arrhythmias and preventing sudden cardiac death. Dr. Saxon received her medical degree from the Ross University School of Medicine. She completed her internship and residency at St. Luke\u2019s Hospital Washington University, and fellowships in cardiology at Rush-Presbyterian-St. Luke\u2019s Medical Center in Chicago and UCLA. Dr. Saxon has completed over 100 publications in various medical journals and is an active member of a multitude of organizations, including the American Heart Association, and the Heart Failure Society of America. She is also a fellow of the American College of Cardiology and the Heart Rhythm Society. ",
+      "title": "",
+      "id": 26640,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Mr. Br!ml3y",
+      "updated_at": "2018-08-06T01:03+0000",
+      "description": "",
+      "title": "",
+      "id": 26641,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Prof Andrea M. Matwyshyn",
+      "updated_at": "2018-08-06T01:03+0000",
+      "description": "Andrea Matwyshyn is an academic and author whose work focuses on technology and innovation policy, particularly information security and consumer privacy. She is a (tenured full) professor of law / professor of computer science (by courtesy) at Northeastern University, where she is the co-director of the Center for Law, Innovation, and Creativity (CLIC). Andrea is also a faculty affiliate of the Center for Internet and Society at Stanford Law School. She is a Senior Fellow of the Cyber Statecraft Initiative at the Atlantic Council's Brent Scowcroft Center on International Security and a US-UK Fulbright Commission Cyber Security Scholar award recipient in 2016-2017. In 2014, she served as the Senior Policy Advisor/ Academic in Residence at the U.S. Federal Trade Commission. Prior to entering academia, she was a corporate attorney in private practice. She is the legal specialty reviewer for the DEFCON CFP board. ",
+      "title": "",
+      "id": 26642,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Prof Stephanie Pell",
+      "updated_at": "2018-08-06T01:03+0000",
+      "description": "Stephanie Pell is an Assistant Professor and Cyber Ethics Fellow at West Point\u2019s Army Cyber Institute (ACI). She writes about privacy, surveillance and security law and policy, and is particularly interested in the tensions inherent in enabling traditional law enforcement efforts and making our communications networks more secure. Prior to joining the ACI faculty, Stephanie served as Counsel to the House Judiciary Committee, where she was lead counsel on Electronic Communications Privacy Act (ECPA) reform and PATRIOT Act reauthorization during the 111th Congress. Stephanie was also a federal prosecutor for over fourteen years, working as a Senior Counsel to the Deputy Attorney General, as a Counsel to the Assistant Attorney General of the National Security Division, and as an Assistant U.S. Attorney in the U.S. Attorney\u2019s Office for the Southern District of Florida. She was a lead prosecutor in U.S. v. Jose Padilla (American Citizen detained as an enemy combatant prior to criminal indictment and trial), for which she received the Attorney General\u2019s Exceptional Service Award, and in U.S. v. Conor Claxton (IRA operatives who purchased weapons in South Florida and smuggled them into Belfast, Northern Ireland during peace process negotiations). Stephanie received her undergraduate, master\u2019s and law degrees from the University of North Carolina at Chapel Hill. ",
+      "title": "",
+      "id": 26643,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Dr. Suzanne Schwartz",
+      "updated_at": "2018-08-06T01:03+0000",
+      "description": "Dr. Suzanne Schwartz is the Associate Director for Science & Strategic Partnerships at FDA\u2019s Center for Devices & Radiological Health (CDRH). In this role, she assists the CDRH Director and Deputy Director for Science in the development, execution and evaluation of the Center\u2019s biomedical science and engineering programs. Suzanne is passionate about cultivating critical dialogue across sectors and across entities towards advancing innovation in the biomedical space and within healthcare, where complex multifaceted problems exist. Suzanne joined FDA in October 2010. Initially recruited as a Commissioner\u2019s Fellow, she became a Medical Officer in the Office of Device Evaluation, transitioning in September 2012 to become the Director of CDRH\u2019s Emergency Preparedness/Operations and Medical Countermeasures (EMCM) Program in the Office of the Center Director for the past 4 years. Among other public health concerns, her portfolio has most notably included medical device cybersecurity, for which she chairs CDRH\u2019s Cybersecurity Working Group. She also co-chairs the Government Coordinating Council for Healthcare & Public Health critical infrastructure sector. Before FDA, Suzanne was a full time surgical faculty member at Weill Cornell Medical College, New York. Suzanne\u2019s career has spanned the private sector as well, having served as Medical Director & Tissue Bank Director of Ortec International, a development stage medical device company focused on tissue engineering therapeutic approaches to burns and chronic wounds. Suzanne earned an MD from Albert Einstein College of Medicine, trained in General Surgery & Burn Trauma at the New York Presbyterian Hospital - Weill Cornell Medical Center; an executive MBA from NYU Stern School of Business, and completed the National Preparedness Leadership Initiative \u2013 Harvard School of Public Health & Kennedy School of Government. ",
+      "title": "",
+      "id": 26644,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Rebecca Slaughter",
+      "updated_at": "2018-08-06T01:06+0000",
+      "description": "Prior to joining the Commission, she served as Chief Counsel to Senator Charles Schumer of New York, the Democratic Leader. A native New Yorker, she advised Leader Schumer on legal, competition, telecom, privacy, consumer protection, and intellectual property matters, among other issues. Prior to joining Senator Schumer's office, Ms. Slaughter was an associate in the D.C. office of Sidley Austin LLP. Ms. Slaughter received her B.A. in Anthropology magna cum laude from Yale University. She received her J.D. from Yale Law School, where she served as an editor on the Yale Law Journal. ",
+      "title": "",
+      "id": 26645,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Nick - GraphX",
+      "updated_at": "2018-08-06T01:06+0000",
+      "description": "",
+      "title": "",
+      "id": 26646,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Jeffrey Ladish",
+      "updated_at": "2018-08-06T01:06+0000",
+      "description": "",
+      "title": "",
+      "id": 26647,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Debra Laefer",
+      "updated_at": "2018-08-06T01:06+0000",
+      "description": "",
+      "title": "",
+      "id": 26648,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Andy Coravos",
+      "updated_at": "2018-08-06T01:06+0000",
+      "description": "",
+      "title": "",
+      "id": 26649,
+      "twitter": "@andreacoravos",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Robert Portvliet",
+      "updated_at": "2018-08-06T01:07+0000",
+      "description": "Robert Portvliet is the Director of Red Team services at Cylance, with a decade of experience in various disciplines of penetration testing. His focus is on embedded systems and wireless penetration testing and reverse engineering. Prior to joining Cylance, he was the network security service line lead for Foundstone and taught the \u2018Ultimate Hacking: Wireless\u2019 class at BlackHat 2011-2013. ",
+      "title": "",
+      "id": 26650,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "BiaSciLab ",
+      "updated_at": "2018-08-06T01:07+0000",
+      "description": "BiaSciLab is an 11 yr old girl who loves hacking, science, technology, and learning. She is constantly inventing new things, researching interesting unexplored topics, teaching kids and adults electronics and programming. She was the youngest speaker ever at H.O.P.E. with her talk \"Inspiring The Next Next Generation Of Hackers\". When she's not working on talks, hacking, or inventing new things, she enjoys fencing, archery, singing and acting. ",
+      "title": "",
+      "id": 26651,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Gerry Scott",
+      "updated_at": "2018-08-06T01:07+0000",
+      "description": "",
+      "title": "",
+      "id": 26652,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "BJ",
+      "updated_at": "2018-08-06T01:08+0000",
+      "description": "Chris currently works at Lares, prior to that he founded or worked with a number of companies specializing in DarkNet research, intelligence gathering, cryptography, deception technologies, and providers of security services and threat intelligence. Since the late 90\u2019s Chris has been deeply involved with security R&D, consulting, and advisory services in his quest to protect and defend businesses and individuals against cyber attack. Prior to that he jumped out of planes for a living, visiting all sorts of interesting countries and cultures while doing his best to avoid getting shot at too often. Roberts is considered one of the world\u2019s foremost experts on counter threat intelligence and vulnerability research within the Information Security industry. ",
+      "title": "",
+      "id": 26653,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "siDragon",
+      "updated_at": "2018-08-06T01:08+0000",
+      "description": "",
+      "title": "",
+      "id": 26654,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "John Dunlap",
+      "updated_at": "2018-08-06T01:08+0000",
+      "description": "",
+      "title": "",
+      "id": 26655,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Joel Murphy",
+      "updated_at": "2018-08-06T01:08+0000",
+      "description": "",
+      "title": "",
+      "id": 26656,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Mix\u00e6l Laufer",
+      "updated_at": "2018-08-06T01:08+0000",
+      "description": "Chief spokesman for the Four Thieves Vinegar Collective, Mix\u00e6l Laufer worked in mathematics and high energy physics until he decided to use his background in science to tackle problems of global health and other social issues. Perpetually disruptive, his most recent project makes it possible for people to manufacture their own medications at home. Open-source, and made from off-the-shelf parts, the Apothecary MicroLab puts many medications within the reach of those who would otherwise not have them. ",
+      "title": "",
+      "id": 26657,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Erin Hefley",
+      "updated_at": "2018-08-06T01:09+0000",
+      "description": "Erin Hefley is a resident physician in her final year of training with the Phoenix Integrated Residency in Obstetrics & Gynecology. She has a background in public health and women's health, and obtained a Master of Public Health degree from the University of Northern Colorado prior to attending medical school at the University of Arizona - Phoenix. This is her 6th Defcon attendance over the past decade, and she is thrilled to have witnessed the development and expansion of the Biohacking Village. Her current interests include reproductive health technology, women's health policy, running, and vampire erotica ",
+      "title": "",
+      "id": 26658,
+      "twitter": "@erintoxicating",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Gabriel Bergel ",
+      "updated_at": "2018-08-06T01:09+0000",
+      "description": "Gabriel Bergel is a System Engineer, Master in Cybersecurity from the IMF Business School and the Camilo Jos\u00e9 Cela University (Spain) and has 15 years of experience in different areas of information security. He regularly speakers in courses, workshops and forums on information security in different institutions, universities and national and international events. Currently he is Chief Executive Officer (CEO) of Vulnscope, Chief Strategy Officer (CSO) of Dreamlab Technologies, and Chief Security Ambassador (CSA) of Eleven Paths, Director of Public Policies in Whilolab and Founder and Organizer of 8.8 Computer Security Conference. ",
+      "title": "",
+      "id": 26659,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Rodrigo Quevedo",
+      "updated_at": "2018-08-06T01:10+0000",
+      "description": "Specialist in technological architecture and management, entrepreneur, teacher, inventor and mentor of scientific talents, with a high social and service vocation, fully dedicated to the development of mechatronics and robotics technology in different fields, for 10 years he has trained more than 3000 young people in Chile, Peru, Bolivia and Colombia, allowing more than 700 young people to travel to the USA to compete in robotic tournaments, forming 34 teams that have competed in national and international tournaments, obtaining various awards in Japan, USA and Chile. Speaker at various universities, colleges, innovation and entrepreneurship events, national and international. Interviewed by different means of print and television, national and international. Guest writer of technological columns in various specialized magazines. Inventor of 14 products, including MIVOS, bidirectional automatic translator of signlanguage for deaf people. ",
+      "title": "",
+      "id": 26660,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Katherine Pratt ",
+      "updated_at": "2018-08-06T01:10+0000",
+      "description": "Katherine Pratt received her B.S. in aerospace engineering from MIT in 2008, where she received the MIT Women\u2019s League Laya Weisner Award for public service to the university, and the MIT Aero/Astro James Means Memorial Award for Space Systems Engineering. She completed several internships with the private space venture Blue Origin, working in systems and propulsion engineering. After graduation, she served four years in the United States Air Force, working primarily as an operational flight test engineer on the F-35 Joint Strike Fighter. She is now a PhD Candidate in the BioRobotics Lab in the Electrical Engineering department of the University of Washington, and currently spending six months in Congress as a Congressional Innovation Scholar. Her work focuses on the privacy, ethics, and policy of neural data. In addition to research, Katherine is passionate about getting younger students, especially girls and minorities, interested in science and technology. She also competes in triathlons as a member of the Husky Triathlon Club and iracelikeagirl teams. ",
+      "title": "",
+      "id": 26661,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Nick Deluski ",
+      "updated_at": "2018-08-06T01:10+0000",
+      "description": "",
+      "title": "",
+      "id": 26662,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Guy Propper ",
+      "updated_at": "2018-08-06T01:10+0000",
+      "description": "",
+      "title": "",
+      "id": 26663,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Vlad Gostomelsky ",
+      "updated_at": "2018-08-06T01:11+0000",
+      "description": "",
+      "title": "",
+      "id": 26664,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Anne Kim ",
+      "updated_at": "2018-08-06T01:11+0000",
+      "description": "Anne Kim is a researcher and graduate student specializing in Computer Science and Molecular Biology at MIT. Professor Alex \"Sandy\" Pentland, head of the Human Dynamics Group at the MIT Media Lab, is the advisor for her thesis focusing on blockchain solutions for clinical trial optimization. Outside of her thesis work, Anne has done a number of different projects in quantum chemistry simulations, genome-wide association studies, natural language processing for electronic health records, and a startup in secure data sharing. Anne sees accessibility to healthcare as a right, and believes that the interface between biology, healthcare policy, and technology is a promising way to achieve that mission ",
+      "title": "",
+      "id": 26665,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Cyberlass",
+      "updated_at": "2018-08-06T01:11+0000",
+      "description": "As an IT professional and biohacker Amanda Plimpton is delighted by the surge of citizen scientists who are driven to investigate, experiment and seek answers. She is interested in how the biohacking/body augmenting community can help its growing pool of talented, passionate individuals contribute to their fields from the commercial, academic or non-profit sectors. As Chief Operating Officer at Livestock Labs she is helping build a company that showcases one way biohackers can enter commercial spaces. Hoping to bring back lessons learned, she wants to keep helping grow a community that supports each other and promotes successes.",
+      "title": "",
+      "id": 26666,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Veronica Schmit",
+      "updated_at": "2018-08-06T01:11+0000",
+      "description": "Veronica or Vee is a Partner at DFIRLABS. She is a forensicator, avid researcher and quite literally the superglue that holds DFIRLABS together. She was previously in charge of the Free State Cyber Forensic Laboratory of the Special Investigating Unit. After deciding that this title on its own wasn\u2019t already too much of a mouthful, she departed the SIU in order to add Malware (Reverse) Engineer, Photographer, Seamstress, Super Mom and Sleep-deprived MSc Chaser to her list. She PWN\u2019s to own her own medical device which aids her broken heart beats, into a different rhythm, sometimes this beat is much like that of drums beating. She is passionate about medical device security and does not believe in security through obscurity. In between attending Metallica concerts and being converted into a cyborg (no really, ask her about her metal bits sometime), she completed a Diploma in Criminal Justice and Forensic Investigation from the University of Johannesburg. Deciding to brave foreign climes and curiosities, she went on to receive training in Europe on digital forensics and cyber crime investigation from the United States Department of Homeland Security. She is an Associate Member of a number of professional bodies, including the Institute of Information Technology of Professionals of South Africa, the Association of Certified Fraud Examiners, and the International Association of Computer Investigative Specialists. Veronica has contributed to several publications, including the ISC2 CCFP : Certified Computer Forensic Practitioner. She is currently juggling a Master\u2019s thesis on ransomware, several digital forensics cases, getting a quality forensics training company off the ground, and reverse engineering ransomware whilst also keeping her two year old from walking into things. You can contact her by lighting up the night sky with the P10z0n_P1x13 beacon mounted on the top of the Twitter police department, or alternatively by email. ",
+      "title": "",
+      "id": 26667,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Howard (hyc) Chu",
+      "updated_at": "2018-08-06T01:56+0000",
+      "description": "",
+      "title": "",
+      "id": 26668,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Parasew",
+      "updated_at": "2018-08-06T01:56+0000",
+      "description": "",
+      "title": "",
+      "id": 26669,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "MSvB",
+      "updated_at": "2018-08-06T01:56+0000",
+      "description": "",
+      "title": "",
+      "id": 26670,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Robin \"midipoet\" Renwick",
+      "updated_at": "2018-08-06T02:01+0000",
+      "description": "",
+      "title": "",
+      "id": 26671,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Marko Bencun",
+      "updated_at": "2018-08-06T01:57+0000",
+      "description": "",
+      "title": "",
+      "id": 26672,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Michael Schloh",
+      "updated_at": "2018-08-06T01:57+0000",
+      "description": "",
+      "title": "",
+      "id": 26673,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Stephanie Stroka ",
+      "updated_at": "2018-08-06T01:57+0000",
+      "description": "",
+      "title": "",
+      "id": 26674,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Marko Bencun",
+      "updated_at": "2018-08-06T01:57+0000",
+      "description": "",
+      "title": "",
+      "id": 26675,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Francisco \"ArticMine\" Caba\u00f1as",
+      "updated_at": "2018-08-06T01:57+0000",
+      "description": "",
+      "title": "",
+      "id": 26676,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Devin \"Bearded Warrior\" Pearson",
+      "updated_at": "2018-08-06T01:57+0000",
+      "description": "",
+      "title": "",
+      "id": 26677,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Felix \"Crypto_Cat\" Honigwachs",
+      "updated_at": "2018-08-06T01:57+0000",
+      "description": "",
+      "title": "",
+      "id": 26678,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Philip Martin",
+      "updated_at": "2018-08-06T01:59+0000",
+      "description": "VP Security, COINBASE",
+      "title": "",
+      "id": 26679,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Fluffy Pony",
+      "updated_at": "2018-08-06T01:59+0000",
+      "description": "",
+      "title": "",
+      "id": 26680,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Justin Ehrenhofer",
+      "updated_at": "2018-08-06T01:59+0000",
+      "description": "",
+      "title": "",
+      "id": 26681,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Zhiniang Peng",
+      "updated_at": "2018-08-06T01:59+0000",
+      "description": "",
+      "title": "",
+      "id": 26682,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Anonimal",
+      "updated_at": "2018-08-06T01:59+0000",
+      "description": "",
+      "title": "",
+      "id": 26683,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Shamiq",
+      "updated_at": "2018-08-06T02:00+0000",
+      "description": "App Sec Manager, COINBASE",
+      "title": "",
+      "id": 26684,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Paul Shapiro",
+      "updated_at": "2018-08-06T02:00+0000",
+      "description": "",
+      "title": "",
+      "id": 26685,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Cinnamonflower",
+      "updated_at": "2018-08-06T02:00+0000",
+      "description": "",
+      "title": "",
+      "id": 26686,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "pwrcycle",
+      "updated_at": "2018-08-06T02:00+0000",
+      "description": "",
+      "title": "",
+      "id": 26687,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Sarang Noether",
+      "updated_at": "2018-08-06T02:00+0000",
+      "description": "",
+      "title": "",
+      "id": 26688,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Rod Soto ",
+      "updated_at": "2018-08-06T02:01+0000",
+      "description": "",
+      "title": "",
+      "id": 26689,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Jason Malley",
+      "updated_at": "2018-08-06T02:01+0000",
+      "description": "",
+      "title": "",
+      "id": 26690,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Diego \"rehrar\" Salazar",
+      "updated_at": "2018-08-06T02:01+0000",
+      "description": "",
+      "title": "",
+      "id": 26691,
       "twitter": "",
       "conference": "DC26",
       "link": ""

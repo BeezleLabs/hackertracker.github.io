@@ -1,5 +1,5 @@
 {
-  "updated_at": "2018-08-05T16:59+0000",
+  "updated_at": "2018-08-06T02:04+0000",
   "locations": [
     {
       "name": "Track 2 - Caesar's",
@@ -203,6 +203,18 @@
       "name": "Packet Hacking Village - Caesar's",
       "id": 26034,
       "updated_at": "2018-08-03T15:28+0000",
+      "conference": "DC26"
+    },
+    {
+      "name": "Bio Hacking Village - Caesar's",
+      "id": 26035,
+      "updated_at": "2018-08-06T01:16+0000",
+      "conference": "DC26"
+    },
+    {
+      "name": "BCOS Village - Caesar's",
+      "id": 26036,
+      "updated_at": "2018-08-06T02:04+0000",
       "conference": "DC26"
     }
   ]
