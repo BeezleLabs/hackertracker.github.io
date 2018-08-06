@@ -10,7 +10,7 @@
       "code": "DC26",
       "events": {
         "link": "https://hackertracker.app/DC26/events.json",
-        "updated_at": "2018-08-06T06:03+0000"
+        "updated_at": "2018-08-06T13:25+0000"
       },
       "description": "DEF CON is one of the oldest continuously running hacker conventions around, and also one of the largest.",
       "articles": {
@@ -41,7 +41,7 @@
       "updated_at": "2018-07-01T19:16+0000",
       "vendors": {
         "link": "https://hackertracker.app/DC26/vendors.json",
-        "updated_at": "2018-08-03T00:03+0000"
+        "updated_at": "2018-08-06T09:22+0000"
       }
     }
   ]

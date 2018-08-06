@@ -3084,18 +3084,18 @@
       "updated_at": "2018-08-02T19:05+0000"
     },
     {
-      "start_date": "2018-08-11T19:00+0000",
+      "start_date": "2018-08-12T03:30+0000",
       "id": 26236,
-      "description": "Relive once again the experience of the arcade. From classics to a custom built 16 player foosball table! Grimm & Scythe bring back a favorite as you jam out a DJ battle while taking another swipe at that high score on your favorite classic video games. No quarters required!\r\n\r\nDetails TBA",
-      "location": 26013,
-      "link": "",
+      "description": "Relive once again the experience of the arcade. From classics to a custom built 16 player foosball table! Grimm & Scythe bring back a favorite as you jam out a DJ battle while taking another swipe at that high score on your favorite classic video games. No quarters required!\r\n\r\nEver had the awesome experience of seeing the renowned @dualcoremusic  or maybe you've heard the mad mixing skills of @KeithMyers - Well imagine BOTH of them, at one party! The EPIC #defcon26 @CarHackVillage and @ICS_Village Party will be Sat Night 10:30-2 \r\n\r\nHope to see you there!",
+      "location": 26028,
+      "link": "https://www.eventbrite.com/e/arcade-party-tickets-48407703745",
       "speakers": [],
-      "end_date": "2018-08-11T20:00+0000",
+      "end_date": "2018-08-12T09:00+0000",
       "conference": "DC26",
       "event_type": 5,
       "includes": "",
       "title": "Arcade Party",
-      "updated_at": "2018-08-06T01:58+0000"
+      "updated_at": "2018-08-06T13:18+0000"
     },
     {
       "start_date": "2018-08-12T03:30+0000",
@@ -3322,18 +3322,18 @@
       "updated_at": "2018-07-22T19:00+0000"
     },
     {
-      "start_date": "2018-08-12T03:30+0000",
+      "start_date": "2018-08-12T03:00+0000",
       "id": 26255,
-      "description": "A Tiki themed gathering of the people who make up seckc.org. Come get a taste of this slice of hacker culture as you Party the night away. The hotel won't let us have Tiki torches so grab some glow-sticks and bamboo and help the theme while live DJs keep your feet moving.\r\n\r\nlocated in Mesquite at Flamingo",
+      "description": "Brought to you by the people at seckc.org, DEFCON proudly presents the feature Midwestern party, SecKC the World. Come join us for an out of this world cosmic tiki event, where the rum is cold and the music is hot. Pair your VIP token with some glowsticks to get the top secret surprise at midnight.\r\n\r\nA Tiki themed gathering of the people who make up seckc.org. Come get a taste of this slice of hacker culture as you Party the night away. The hotel won't let us have Tiki torches so grab some glow-sticks and bamboo and help the theme while live DJs keep your feet moving.\r\n\r\nLocation: Mesquite Room, Flamingo Hotel and Casino ",
       "location": 26013,
-      "link": "",
+      "link": "https://seckc.org/defcon-party/",
       "speakers": [],
-      "end_date": "2018-08-12T07:00+0000",
+      "end_date": "2018-08-12T09:00+0000",
       "conference": "DC26",
       "event_type": 5,
       "includes": "",
-      "title": "SECKC the World",
-      "updated_at": "2018-07-22T19:01+0000"
+      "title": "SecKC the World",
+      "updated_at": "2018-08-06T13:25+0000"
     },
     {
       "start_date": "2018-08-10T19:00+0000",
@@ -11087,7 +11087,77 @@
       "includes": "",
       "title": "HAM Radio Exams",
       "updated_at": "2018-08-06T06:03+0000"
+    },
+    {
+      "start_date": "2018-08-11T19:00+0000",
+      "id": 26787,
+      "description": "Take HAM Radio Exams at DEF CON 26!",
+      "location": 26045,
+      "link": "",
+      "speakers": [],
+      "end_date": "2018-08-12T01:00+0000",
+      "conference": "DC26",
+      "event_type": 8,
+      "includes": "",
+      "title": "HAM Radio Exams",
+      "updated_at": "2018-08-06T06:04+0000"
+    },
+    {
+      "start_date": "2018-08-10T17:00+0000",
+      "id": 26788,
+      "description": "Working for Dark Sight Industries as a Contract Analyst, you have recently been \"\"activated\"\" due to a security incident against a multi-billion dollar Aerospace company. The deliberate destruction of critical infrastructure suggests this may be a Nation State group with advanced offensive capabilities. With support from your \"\"handler\"\", you must trace the source of the attack and determine why these servers in particular were targeted! Your primary objective for this mission is to Identify the Group (Nation State or otherwise) behind the attack! Once identified, you must discover their motivations for the attack!\r\n\r\niCTF Level III will immerse participants into the world of threat intelligence and will feature a unique game-play element rarely seen in traditional CTF events, Humint engagement! Players will be taken through various challenges ranging from network, OSINT, SIGINT, and HUMINT engagement scenarios. As participants progress through the challenge, they will need to piece together the digital clues to learn about the adversary they are tracking! These breadcrumbs may lead players to engage in physical contact with individuals associated with the breach.\r\n\r\nMore Info: https://ictf.io, @_iCTF",
+      "location": 26017,
+      "link": "https://ictf.io",
+      "speakers": [],
+      "end_date": "2018-08-11T03:00+0000",
+      "conference": "DC26",
+      "event_type": 7,
+      "includes": "",
+      "title": "IntelCTF",
+      "updated_at": "2018-08-06T06:05+0000"
+    },
+    {
+      "start_date": "2018-08-11T17:00+0000",
+      "id": 26789,
+      "description": "Working for Dark Sight Industries as a Contract Analyst, you have recently been \"\"activated\"\" due to a security incident against a multi-billion dollar Aerospace company. The deliberate destruction of critical infrastructure suggests this may be a Nation State group with advanced offensive capabilities. With support from your \"\"handler\"\", you must trace the source of the attack and determine why these servers in particular were targeted! Your primary objective for this mission is to Identify the Group (Nation State or otherwise) behind the attack! Once identified, you must discover their motivations for the attack!\r\n\r\niCTF Level III will immerse participants into the world of threat intelligence and will feature a unique game-play element rarely seen in traditional CTF events, Humint engagement! Players will be taken through various challenges ranging from network, OSINT, SIGINT, and HUMINT engagement scenarios. As participants progress through the challenge, they will need to piece together the digital clues to learn about the adversary they are tracking! These breadcrumbs may lead players to engage in physical contact with individuals associated with the breach.\r\n\r\nMore Info: https://ictf.io, @_iCTF",
+      "location": 26017,
+      "link": "https://ictf.io",
+      "speakers": [],
+      "end_date": "2018-08-12T03:00+0000",
+      "conference": "DC26",
+      "event_type": 7,
+      "includes": "",
+      "title": "IntelCTF",
+      "updated_at": "2018-08-06T06:05+0000"
+    },
+    {
+      "start_date": "2018-08-12T17:00+0000",
+      "id": 26790,
+      "description": "Working for Dark Sight Industries as a Contract Analyst, you have recently been \"\"activated\"\" due to a security incident against a multi-billion dollar Aerospace company. The deliberate destruction of critical infrastructure suggests this may be a Nation State group with advanced offensive capabilities. With support from your \"\"handler\"\", you must trace the source of the attack and determine why these servers in particular were targeted! Your primary objective for this mission is to Identify the Group (Nation State or otherwise) behind the attack! Once identified, you must discover their motivations for the attack!\r\n\r\niCTF Level III will immerse participants into the world of threat intelligence and will feature a unique game-play element rarely seen in traditional CTF events, Humint engagement! Players will be taken through various challenges ranging from network, OSINT, SIGINT, and HUMINT engagement scenarios. As participants progress through the challenge, they will need to piece together the digital clues to learn about the adversary they are tracking! These breadcrumbs may lead players to engage in physical contact with individuals associated with the breach.\r\n\r\nMore Info: https://ictf.io, @_iCTF",
+      "location": 26017,
+      "link": "https://ictf.io",
+      "speakers": [],
+      "end_date": "2018-08-12T19:00+0000",
+      "conference": "DC26",
+      "event_type": 7,
+      "includes": "",
+      "title": "IntelCTF",
+      "updated_at": "2018-08-06T06:05+0000"
+    },
+    {
+      "start_date": "2018-08-12T02:00+0000",
+      "id": 26791,
+      "description": "The Illuminati Party Members will once again throw open the doors to their Private Members Only Suite including a line up of DJs, 8 Kegs and a chance to Party Illuminati Style!\r\n\r\nLocation: TBA by Twitter @illuminatiparty around 3:30pm on Saturday (8/11)\r\n\r\nSaturday, August 11 19:00 - Security Shut Down",
+      "location": 26005,
+      "link": "https://mobile.twitter.com/illuminatiparty",
+      "speakers": [],
+      "end_date": "2018-08-12T09:00+0000",
+      "conference": "DC26",
+      "event_type": 5,
+      "includes": "",
+      "title": "Illuminati Party",
+      "updated_at": "2018-08-06T13:20+0000"
     }
   ],
-  "updated_at": "2018-08-06T06:03+0000"
+  "updated_at": "2018-08-06T13:25+0000"
 }
