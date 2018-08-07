@@ -860,18 +860,18 @@
     {
       "start_date": "2018-08-11T19:00+0000",
       "id": 26051,
-      "description": "NSA Playset is back just in time for the 1983 theme of DEF CON 26!  The NSA is the best Big Brother that we could have.  But, if you've always been asking yourself: Where does he get those wonderful toys?  You're in for some good news.  Now you can play along, too. \nWe're building covert listening devices!  Capturing audio of the target has long been an intelligence goldmine and modern developments in signal processing make the loot even more valuable.  While implanted listening devices has a large body of open knowledge, we explore an area with a dearth of public knowledge and years of covert use.  We'll show off several of the approaches we took, including an updated and modernized use of RF retroreflection. \nBest of all, we'll do the neighborly thing and publish the technical details of the things we get working\u2014and the things that don't work\u2014to make it accessible and easy to do it all at home.",
+      "description": "Learn about the elements that go into a computerized light display and how you outfit your own house with dazzling blinking lights set to music.  Components of the show are individually explained and live demonstrations of the technology are on display.  Come get inspired to computerize your own holiday cheer!",
       "location": 26002,
       "link": "",
       "speakers": [
-        26106
+        26589
       ],
       "end_date": "2018-08-11T19:45+0000",
       "conference": "DC26",
       "event_type": 1,
       "includes": "Demo, Tool",
-      "title": "NSAPlayset: Audio",
-      "updated_at": "2018-06-30T18:57+0000"
+      "title": "Building Absurd Christmas Light Shows",
+      "updated_at": "2018-08-07T02:03+0000"
     },
     {
       "start_date": "2018-08-11T00:00+0000",
@@ -989,20 +989,20 @@
       "updated_at": "2018-06-30T18:57+0000"
     },
     {
-      "start_date": "2018-08-11T21:30+0000",
+      "start_date": "2018-08-10T20:00+0000",
       "id": 26059,
-      "description": "With the presense of 2FA/MFA solutions growing, the attack surface for external attackers that have successfully phished/captured/cracked credentials is shrinking. However, many 2FA/MFA solutions leave gaps in their coverage which can allow attackers to leverage those credentials. For example, while OWA may be protected with 2FA, the Exchange Web Services Management API (EWS) offers many of the same features and functionalities without the same protections.\n\n\n\nIn this talk, I will introduce ExchangeRelayX, an NTLM relay tool that provides attackers with access to an interface that resembles a victim's OWA UI and has many of its functionalities - without ever cracking the relayed credentials.\u00a0\u00a0ExchangeRelayX takes advantage of the gap in some 2FA/MFA solutions protecting Exchange, potentially resulting in a single-click phishing scheme enabling an attacker to exfiltrate sensitive data, perform limited active-directory enumeration, and execute further internal phishing attacks.",
+      "description": "With the presense of 2FA/MFA solutions growing, the attack surface for external attackers that have successfully phished/captured/cracked credentials is shrinking. However, many 2FA/MFA solutions leave gaps in their coverage which can allow attackers to leverage those credentials. For example, while OWA may be protected with 2FA, the Exchange Web Services Management API (EWS) offers many of the same features and functionalities without the same protections.\r\n\r\nIn this talk, I will introduce ExchangeRelayX, an NTLM relay tool that provides attackers with access to an interface that resembles a victim's OWA UI and has many of its functionalities - without ever cracking the relayed credentials.\u00a0\u00a0ExchangeRelayX takes advantage of the gap in some 2FA/MFA solutions protecting Exchange, potentially resulting in a single-click phishing scheme enabling an attacker to exfiltrate sensitive data, perform limited active-directory enumeration, and execute further internal phishing attacks.",
       "location": 26004,
       "link": "",
       "speakers": [
         26117
       ],
-      "end_date": "2018-08-11T21:50+0000",
+      "end_date": "2018-08-10T20:20+0000",
       "conference": "DC26",
       "event_type": 1,
       "includes": "Demo, Tool",
       "title": "One-Click to OWA",
-      "updated_at": "2018-06-30T18:57+0000"
+      "updated_at": "2018-08-07T12:43+0000"
     },
     {
       "start_date": "2018-08-11T21:00+0000",
@@ -1013,12 +1013,12 @@
       "speakers": [
         26117
       ],
-      "end_date": "2018-08-11T21:45+0000",
+      "end_date": "2018-08-11T21:50+0000",
       "conference": "DC26",
       "event_type": 1,
       "includes": "Demo, Tool",
       "title": "SMBetray\u2014Backdooring and breaking signatures",
-      "updated_at": "2018-06-30T18:57+0000"
+      "updated_at": "2018-08-07T12:44+0000"
     },
     {
       "start_date": "2018-08-11T17:00+0000",
@@ -5390,18 +5390,18 @@
       "updated_at": "2018-08-02T16:08+0000"
     },
     {
-      "start_date": "2018-08-20T17:00+0000",
+      "start_date": "2018-08-08T17:30+0000",
       "id": 26404,
-      "description": "",
-      "location": 26017,
-      "link": "",
+      "description": "WHAT'S THE STORY?\r\n\r\nThe DEF CON Shoot is a public event that happens just prior to the DEF CON hacker conference in Las Vegas, Nevada. It is an opportunity to see and possibly shoot some of the guns belonging to your friends while taking pride in showing and firing your own steel, as well, in a relaxed and welcoming atmosphere.\r\n\r\nWHERE IT ALL GOES DOWN\r\n\r\nThe 2018 DEF CON Shoot will take place at the Cold Creek shooting spot just outside of Indian Springs, to the northwest of Las Vegas. This is the spot to which we moved in 2017.\r\n\r\nFor specific directions to the shoot site you can drop the following Lat/Long coordinates into a GPS device... 36.553, -115.654\r\n\r\nWHEN IT HAPPENS\r\n\r\nThe DEF CON Shoot takes place prior to the start of DEF CON. In the past, this has meant Thursday, but with the conference having more and more activities on that day, we started running some of the Shoot on Wednesday. This year, there's an increasing trend in that direction...",
+      "location": 26013,
+      "link": "http://deviating.net/firearms/defcon_shoot/",
       "speakers": [],
-      "end_date": "2018-08-21T03:00+0000",
+      "end_date": "2018-08-09T02:00+0000",
       "conference": "DC26",
       "event_type": 8,
       "includes": "",
-      "title": "----",
-      "updated_at": "2018-08-07T00:06+0000"
+      "title": "The Unofficial DEF CON Shoot",
+      "updated_at": "2018-08-07T16:48+0000"
     },
     {
       "start_date": "2018-08-11T17:00+0000",
@@ -8037,9 +8037,9 @@
       "end_date": "2018-08-10T23:00+0000",
       "conference": "DC26",
       "event_type": 7,
-      "includes": "",
+      "includes": "RmxhZ3trbjB3bDNkZzNfISRfcDB3M3J9Cg==",
       "title": "Capture the Flag (CTF) by NeverLAN CTF",
-      "updated_at": "2018-08-03T13:54+0000"
+      "updated_at": "2018-08-07T16:50+0000"
     },
     {
       "start_date": "2018-08-12T20:00+0000",
@@ -8380,9 +8380,9 @@
       "end_date": "2018-08-11T23:00+0000",
       "conference": "DC26",
       "event_type": 7,
-      "includes": "",
-      "title": "Capture the Flag by by NeverLAN CTF",
-      "updated_at": "2018-08-03T14:23+0000"
+      "includes": "RmxhZ3trbjB3bDNkZzNfISRfcDB3M3J9Cg==",
+      "title": "Capture the Flag by NeverLAN CTF",
+      "updated_at": "2018-08-07T16:51+0000"
     },
     {
       "start_date": "2018-08-11T20:00+0000",
@@ -11842,7 +11842,49 @@
       "includes": "",
       "title": "Data Duplication Village",
       "updated_at": "2018-08-06T23:52+0000"
+    },
+    {
+      "start_date": "2018-08-12T07:00+0000",
+      "id": 26837,
+      "description": "Ask the daemon, \"what is the march hare\"  and get some answers!  Agents and Operatives alike have been trying to get to the bottom of this mystery for some time.  Every ten minutes you'll get a chance to answer again.  It's truly a puzzle and a challenge to get through this.  If you unlock the key, who knows what magic will happen.  Just remember that prime numbers whose digits sum to 7 are of particular note, as you might want to get something really random in that size.  I hope you like reading, because AIs that write poems are the next big thing in aburdist circles.  Happy seventh birthday!\r\n",
+      "location": 26013,
+      "link": "http://crucible.dcdark.net/",
+      "speakers": [],
+      "end_date": "2018-08-12T08:00+0000",
+      "conference": "DC26",
+      "event_type": 5,
+      "includes": "",
+      "title": "crucible.dcdark.net Meetup",
+      "updated_at": "2018-08-01T01:09+0000"
+    },
+    {
+      "start_date": "2018-08-09T19:00+0000",
+      "id": 26838,
+      "description": "Join us for drinks at the Promether Party. Promether is a decentralized privacy network that implements all the networking, security, and anonymity code that applications and platforms need to protect their data.  Through an adaptive symbiotic relationship between different layers, Promether makes securing applications easy, while protecting the privacy of its users and rewarding those who contribute to the capacity of the network. Welcome to the end of surveillance and a new era of online privacy.\r\n\r\nSponsored by Promether https://www.promether.com/",
+      "location": 26038,
+      "link": "https://www.queercon.org/blog/2018/07/13/queercon-15-schedule/",
+      "speakers": [],
+      "end_date": "2018-08-09T21:30+0000",
+      "conference": "DC26",
+      "event_type": 5,
+      "includes": "",
+      "title": "Promether Party",
+      "updated_at": "2018-08-07T01:56+0000"
+    },
+    {
+      "start_date": "2018-08-10T00:30+0000",
+      "id": 26839,
+      "description": "Hackers Against Brexit are having an informal meetup at 5:30 on Friday, at the Stage Door Bar (Linq Hotel). Everyone welcome!",
+      "location": 26013,
+      "link": "",
+      "speakers": [],
+      "end_date": "2018-08-10T01:30+0000",
+      "conference": "DC26",
+      "event_type": 5,
+      "includes": "",
+      "title": "Hackers Against Brexit",
+      "updated_at": "2018-08-07T15:09+0000"
     }
   ],
-  "updated_at": "2018-08-07T00:06+0000"
+  "updated_at": "2018-08-07T16:51+0000"
 }
