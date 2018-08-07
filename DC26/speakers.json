@@ -1,5 +1,5 @@
 {
-  "updated_at": "2018-08-06T14:59+0000",
+  "updated_at": "2018-08-07T18:47+0000",
   "speakers": [
     {
       "name": "0x200b",
@@ -7437,6 +7437,36 @@
       "description": "Rowan Cota (Site Reliability Engineer at BuzzFeed)\r\nRowan is a Site Reliability Engineer at BuzzFeed. When she's not provisioning infrastructure, helping service owners, or arguing about dress colors (#TeamBlackAndBlue) she's an award-winning pen and paper roleplaying game designer. While she's currently focused on observability, she's always thinking about how to capture new perspectives and ideas, and how to secure the things she's building.",
       "title": "",
       "id": 26778,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "MaraJade",
+      "updated_at": "2018-08-07T18:46+0000",
+      "description": "",
+      "title": "",
+      "id": 26779,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "B1un7",
+      "updated_at": "2018-08-07T18:46+0000",
+      "description": "",
+      "title": "",
+      "id": 26780,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "TwinkleTwinkle",
+      "updated_at": "2018-08-07T18:47+0000",
+      "description": "",
+      "title": "",
+      "id": 26781,
       "twitter": "",
       "conference": "DC26",
       "link": ""

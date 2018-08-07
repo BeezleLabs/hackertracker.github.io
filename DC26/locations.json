@@ -1,5 +1,5 @@
 {
-  "updated_at": "2018-08-06T15:05+0000",
+  "updated_at": "2018-08-07T18:58+0000",
   "locations": [
     {
       "name": "Track 2 - Caesar's",
@@ -218,27 +218,27 @@
       "conference": "DC26"
     },
     {
-      "name": "Queercon Main - Caesar's",
+      "name": "Queercon Main - Caesar's, Forum Suite 5416",
       "id": 26037,
-      "updated_at": "2018-08-06T02:55+0000",
+      "updated_at": "2018-08-07T18:58+0000",
       "conference": "DC26"
     },
     {
-      "name": "Queercon Lounge - Caesar's",
+      "name": "Queercon Lounge - Caesar's, Forum Suite 5416",
       "id": 26038,
-      "updated_at": "2018-08-06T02:56+0000",
+      "updated_at": "2018-08-07T18:58+0000",
       "conference": "DC26"
     },
     {
-      "name": "Queercon Chill 1 - Caesar's",
+      "name": "Queercon Chill 1 - Caesar's, Forum Suite 5416",
       "id": 26039,
-      "updated_at": "2018-08-06T02:56+0000",
+      "updated_at": "2018-08-07T18:58+0000",
       "conference": "DC26"
     },
     {
-      "name": "Queercon Chill 2 - Caesar's",
+      "name": "Queercon Chill 2 - Caesar's, Forum Suite 5416",
       "id": 26040,
-      "updated_at": "2018-08-06T02:56+0000",
+      "updated_at": "2018-08-07T18:58+0000",
       "conference": "DC26"
     },
     {
@@ -248,9 +248,9 @@
       "conference": "DC26"
     },
     {
-      "name": "Queercon Equality Room - Caesar's",
+      "name": "Queercon Equality Room - Caesar's, Forum Suite 5416",
       "id": 26042,
-      "updated_at": "2018-08-06T03:07+0000",
+      "updated_at": "2018-08-07T18:58+0000",
       "conference": "DC26"
     },
     {
@@ -275,6 +275,12 @@
       "name": "Diana Initiative - Forum Tower - Caesar's",
       "id": 26046,
       "updated_at": "2018-08-06T15:05+0000",
+      "conference": "DC26"
+    },
+    {
+      "name": "Soldering Skills Village - Caesar's",
+      "id": 26047,
+      "updated_at": "2018-08-07T18:34+0000",
       "conference": "DC26"
     }
   ]

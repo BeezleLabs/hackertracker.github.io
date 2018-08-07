@@ -10512,7 +10512,7 @@
     {
       "start_date": "2018-08-10T17:20+0000",
       "id": 26751,
-      "description": "Adversarial examples fooling machine learning field are a burgeoning field. We propose applications to fool self driving cars or facial recognition systems but most of the techniques are purely academic. They require minute manipulations to the bit values of the pixels entering a system. Adversarial patches are an attack that could actually work. This talk will cover how to make them and further applications\r\n\r\n",
+      "description": "Adversarial examples that fool machine learning systems are a burgeoning field. Academics propose applications in fooling self driving cars or facial recognition systems. However, most of the techniques are useless in the real world. They require precise manipulations to the values of the pixels entering a system. Adversarial patches are an attack that could actually work. One can use them as a sticker on objects that one wants to obscure. This talk will cover how to make them and further applications.\r\n\r\n",
       "location": 26015,
       "link": "https://aivillage.org/posts/accepted-talks/",
       "speakers": [
@@ -10523,7 +10523,7 @@
       "event_type": 6,
       "includes": "",
       "title": "Adversarial Patches",
-      "updated_at": "2018-08-06T04:58+0000"
+      "updated_at": "2018-08-07T19:04+0000"
     },
     {
       "start_date": "2018-08-10T17:40+0000",
@@ -11872,19 +11872,313 @@
       "updated_at": "2018-08-07T01:56+0000"
     },
     {
-      "start_date": "2018-08-10T00:30+0000",
+      "start_date": "2018-08-11T00:30+0000",
       "id": 26839,
       "description": "Hackers Against Brexit are having an informal meetup at 5:30 on Friday, at the Stage Door Bar (Linq Hotel). Everyone welcome!",
       "location": 26013,
       "link": "",
       "speakers": [],
-      "end_date": "2018-08-10T01:30+0000",
+      "end_date": "2018-08-11T01:30+0000",
       "conference": "DC26",
       "event_type": 5,
       "includes": "",
       "title": "Hackers Against Brexit",
-      "updated_at": "2018-08-07T15:09+0000"
+      "updated_at": "2018-08-07T23:07+0000"
+    },
+    {
+      "start_date": "2018-08-10T18:00+0000",
+      "id": 26840,
+      "description": "Soldering is a great skill to have. As electronics become smaller and more compact, we hackers have to dive in to the world of microsoldering to get the job finished. If microsoldering sounds like your idea of a good time, have we got the contest for you!\r\n\r\nCome to the SSV for the soldering challenge! We have a number of prizes to give away for those who show off their skills. No need to bring anything, all of the tools you need will be provided. Just show up and inquire about the challenge and we will get you set up.\r\n\r\nThe contest will be run in groups of 6 people. That is, we sit 6 people down at once and everyone starts at the same time. This will happen four times on Friday, and four times on Saturday. When all is said and done, you get to keep the PCB and the bragging rights that come along with it. The contest is using the MakersBox SMD Challenge PCB.\r\n\r\nEntry is on a first-come, first-serve basis. We start each sitting promptly at the times on the schedule, with the inspection period starting shortly after. Don\u2019t be late, come early to get a spot at the table! Sign-ups for each sitting start an hour before the sitting happens.\r\n\r\nParticipants will need to provide a name or handle as well as a method of contact. Name/handle will be used to announce winners (who may remain anonymous if they wish). Contact will be used to inform winners of when, where, and how to pick up their prizes. Contact information will absolutely not be shared with any other parties and will be destroyed after the contest is complete.",
+      "location": 26047,
+      "link": "https://dchhv.org/events/smdsolderchallenge.html",
+      "speakers": [],
+      "end_date": "2018-08-10T19:00+0000",
+      "conference": "DC26",
+      "event_type": 7,
+      "includes": "",
+      "title": "SMD Soldering Challenge",
+      "updated_at": "2018-08-07T18:40+0000"
+    },
+    {
+      "start_date": "2018-08-10T19:00+0000",
+      "id": 26841,
+      "description": "Soldering is a great skill to have. As electronics become smaller and more compact, we hackers have to dive in to the world of microsoldering to get the job finished. If microsoldering sounds like your idea of a good time, have we got the contest for you!\r\n\r\nCome to the SSV for the soldering challenge! We have a number of prizes to give away for those who show off their skills. No need to bring anything, all of the tools you need will be provided. Just show up and inquire about the challenge and we will get you set up.\r\n\r\nThe contest will be run in groups of 6 people. That is, we sit 6 people down at once and everyone starts at the same time. This will happen four times on Friday, and four times on Saturday. When all is said and done, you get to keep the PCB and the bragging rights that come along with it. The contest is using the MakersBox SMD Challenge PCB.\r\n\r\nEntry is on a first-come, first-serve basis. We start each sitting promptly at the times on the schedule, with the inspection period starting shortly after. Don\u2019t be late, come early to get a spot at the table! Sign-ups for each sitting start an hour before the sitting happens.\r\n\r\nParticipants will need to provide a name or handle as well as a method of contact. Name/handle will be used to announce winners (who may remain anonymous if they wish). Contact will be used to inform winners of when, where, and how to pick up their prizes. Contact information will absolutely not be shared with any other parties and will be destroyed after the contest is complete.",
+      "location": 26047,
+      "link": "https://dchhv.org/events/smdsolderchallenge.html",
+      "speakers": [],
+      "end_date": "2018-08-10T20:00+0000",
+      "conference": "DC26",
+      "event_type": 7,
+      "includes": "",
+      "title": "SMD Soldering Challenge",
+      "updated_at": "2018-08-07T18:41+0000"
+    },
+    {
+      "start_date": "2018-08-10T20:00+0000",
+      "id": 26842,
+      "description": "Soldering is a great skill to have. As electronics become smaller and more compact, we hackers have to dive in to the world of microsoldering to get the job finished. If microsoldering sounds like your idea of a good time, have we got the contest for you!\r\n\r\nCome to the SSV for the soldering challenge! We have a number of prizes to give away for those who show off their skills. No need to bring anything, all of the tools you need will be provided. Just show up and inquire about the challenge and we will get you set up.\r\n\r\nThe contest will be run in groups of 6 people. That is, we sit 6 people down at once and everyone starts at the same time. This will happen four times on Friday, and four times on Saturday. When all is said and done, you get to keep the PCB and the bragging rights that come along with it. The contest is using the MakersBox SMD Challenge PCB.\r\n\r\nEntry is on a first-come, first-serve basis. We start each sitting promptly at the times on the schedule, with the inspection period starting shortly after. Don\u2019t be late, come early to get a spot at the table! Sign-ups for each sitting start an hour before the sitting happens.\r\n\r\nParticipants will need to provide a name or handle as well as a method of contact. Name/handle will be used to announce winners (who may remain anonymous if they wish). Contact will be used to inform winners of when, where, and how to pick up their prizes. Contact information will absolutely not be shared with any other parties and will be destroyed after the contest is complete.",
+      "location": 26047,
+      "link": "https://dchhv.org/events/smdsolderchallenge.html",
+      "speakers": [],
+      "end_date": "2018-08-10T21:00+0000",
+      "conference": "DC26",
+      "event_type": 7,
+      "includes": "",
+      "title": "SMD Soldering Challenge",
+      "updated_at": "2018-08-07T18:41+0000"
+    },
+    {
+      "start_date": "2018-08-10T21:00+0000",
+      "id": 26843,
+      "description": "Soldering is a great skill to have. As electronics become smaller and more compact, we hackers have to dive in to the world of microsoldering to get the job finished. If microsoldering sounds like your idea of a good time, have we got the contest for you!\r\n\r\nCome to the SSV for the soldering challenge! We have a number of prizes to give away for those who show off their skills. No need to bring anything, all of the tools you need will be provided. Just show up and inquire about the challenge and we will get you set up.\r\n\r\nThe contest will be run in groups of 6 people. That is, we sit 6 people down at once and everyone starts at the same time. This will happen four times on Friday, and four times on Saturday. When all is said and done, you get to keep the PCB and the bragging rights that come along with it. The contest is using the MakersBox SMD Challenge PCB.\r\n\r\nEntry is on a first-come, first-serve basis. We start each sitting promptly at the times on the schedule, with the inspection period starting shortly after. Don\u2019t be late, come early to get a spot at the table! Sign-ups for each sitting start an hour before the sitting happens.\r\n\r\nParticipants will need to provide a name or handle as well as a method of contact. Name/handle will be used to announce winners (who may remain anonymous if they wish). Contact will be used to inform winners of when, where, and how to pick up their prizes. Contact information will absolutely not be shared with any other parties and will be destroyed after the contest is complete.",
+      "location": 26047,
+      "link": "https://dchhv.org/events/smdsolderchallenge.html",
+      "speakers": [],
+      "end_date": "2018-08-10T22:00+0000",
+      "conference": "DC26",
+      "event_type": 7,
+      "includes": "",
+      "title": "SMD Soldering Challenge",
+      "updated_at": "2018-08-07T18:41+0000"
+    },
+    {
+      "start_date": "2018-08-11T18:00+0000",
+      "id": 26844,
+      "description": "Soldering is a great skill to have. As electronics become smaller and more compact, we hackers have to dive in to the world of microsoldering to get the job finished. If microsoldering sounds like your idea of a good time, have we got the contest for you!\r\n\r\nCome to the SSV for the soldering challenge! We have a number of prizes to give away for those who show off their skills. No need to bring anything, all of the tools you need will be provided. Just show up and inquire about the challenge and we will get you set up.\r\n\r\nThe contest will be run in groups of 6 people. That is, we sit 6 people down at once and everyone starts at the same time. This will happen four times on Friday, and four times on Saturday. When all is said and done, you get to keep the PCB and the bragging rights that come along with it. The contest is using the MakersBox SMD Challenge PCB.\r\n\r\nEntry is on a first-come, first-serve basis. We start each sitting promptly at the times on the schedule, with the inspection period starting shortly after. Don\u2019t be late, come early to get a spot at the table! Sign-ups for each sitting start an hour before the sitting happens.\r\n\r\nParticipants will need to provide a name or handle as well as a method of contact. Name/handle will be used to announce winners (who may remain anonymous if they wish). Contact will be used to inform winners of when, where, and how to pick up their prizes. Contact information will absolutely not be shared with any other parties and will be destroyed after the contest is complete.",
+      "location": 26047,
+      "link": "https://dchhv.org/events/smdsolderchallenge.html",
+      "speakers": [],
+      "end_date": "2018-08-11T19:00+0000",
+      "conference": "DC26",
+      "event_type": 7,
+      "includes": "",
+      "title": "SMD Soldering Challenge",
+      "updated_at": "2018-08-07T18:41+0000"
+    },
+    {
+      "start_date": "2018-08-11T19:00+0000",
+      "id": 26845,
+      "description": "Soldering is a great skill to have. As electronics become smaller and more compact, we hackers have to dive in to the world of microsoldering to get the job finished. If microsoldering sounds like your idea of a good time, have we got the contest for you!\r\n\r\nCome to the SSV for the soldering challenge! We have a number of prizes to give away for those who show off their skills. No need to bring anything, all of the tools you need will be provided. Just show up and inquire about the challenge and we will get you set up.\r\n\r\nThe contest will be run in groups of 6 people. That is, we sit 6 people down at once and everyone starts at the same time. This will happen four times on Friday, and four times on Saturday. When all is said and done, you get to keep the PCB and the bragging rights that come along with it. The contest is using the MakersBox SMD Challenge PCB.\r\n\r\nEntry is on a first-come, first-serve basis. We start each sitting promptly at the times on the schedule, with the inspection period starting shortly after. Don\u2019t be late, come early to get a spot at the table! Sign-ups for each sitting start an hour before the sitting happens.\r\n\r\nParticipants will need to provide a name or handle as well as a method of contact. Name/handle will be used to announce winners (who may remain anonymous if they wish). Contact will be used to inform winners of when, where, and how to pick up their prizes. Contact information will absolutely not be shared with any other parties and will be destroyed after the contest is complete.",
+      "location": 26047,
+      "link": "https://dchhv.org/events/smdsolderchallenge.html",
+      "speakers": [],
+      "end_date": "2018-08-11T20:00+0000",
+      "conference": "DC26",
+      "event_type": 7,
+      "includes": "",
+      "title": "SMD Soldering Challenge",
+      "updated_at": "2018-08-07T18:41+0000"
+    },
+    {
+      "start_date": "2018-08-11T20:00+0000",
+      "id": 26846,
+      "description": "Soldering is a great skill to have. As electronics become smaller and more compact, we hackers have to dive in to the world of microsoldering to get the job finished. If microsoldering sounds like your idea of a good time, have we got the contest for you!\r\n\r\nCome to the SSV for the soldering challenge! We have a number of prizes to give away for those who show off their skills. No need to bring anything, all of the tools you need will be provided. Just show up and inquire about the challenge and we will get you set up.\r\n\r\nThe contest will be run in groups of 6 people. That is, we sit 6 people down at once and everyone starts at the same time. This will happen four times on Friday, and four times on Saturday. When all is said and done, you get to keep the PCB and the bragging rights that come along with it. The contest is using the MakersBox SMD Challenge PCB.\r\n\r\nEntry is on a first-come, first-serve basis. We start each sitting promptly at the times on the schedule, with the inspection period starting shortly after. Don\u2019t be late, come early to get a spot at the table! Sign-ups for each sitting start an hour before the sitting happens.\r\n\r\nParticipants will need to provide a name or handle as well as a method of contact. Name/handle will be used to announce winners (who may remain anonymous if they wish). Contact will be used to inform winners of when, where, and how to pick up their prizes. Contact information will absolutely not be shared with any other parties and will be destroyed after the contest is complete.",
+      "location": 26047,
+      "link": "https://dchhv.org/events/smdsolderchallenge.html",
+      "speakers": [],
+      "end_date": "2018-08-11T21:00+0000",
+      "conference": "DC26",
+      "event_type": 7,
+      "includes": "",
+      "title": "SMD Soldering Challenge",
+      "updated_at": "2018-08-07T18:41+0000"
+    },
+    {
+      "start_date": "2018-08-11T21:00+0000",
+      "id": 26847,
+      "description": "Soldering is a great skill to have. As electronics become smaller and more compact, we hackers have to dive in to the world of microsoldering to get the job finished. If microsoldering sounds like your idea of a good time, have we got the contest for you!\r\n\r\nCome to the SSV for the soldering challenge! We have a number of prizes to give away for those who show off their skills. No need to bring anything, all of the tools you need will be provided. Just show up and inquire about the challenge and we will get you set up.\r\n\r\nThe contest will be run in groups of 6 people. That is, we sit 6 people down at once and everyone starts at the same time. This will happen four times on Friday, and four times on Saturday. When all is said and done, you get to keep the PCB and the bragging rights that come along with it. The contest is using the MakersBox SMD Challenge PCB.\r\n\r\nEntry is on a first-come, first-serve basis. We start each sitting promptly at the times on the schedule, with the inspection period starting shortly after. Don\u2019t be late, come early to get a spot at the table! Sign-ups for each sitting start an hour before the sitting happens.\r\n\r\nParticipants will need to provide a name or handle as well as a method of contact. Name/handle will be used to announce winners (who may remain anonymous if they wish). Contact will be used to inform winners of when, where, and how to pick up their prizes. Contact information will absolutely not be shared with any other parties and will be destroyed after the contest is complete.",
+      "location": 26047,
+      "link": "https://dchhv.org/events/smdsolderchallenge.html",
+      "speakers": [],
+      "end_date": "2018-08-11T22:00+0000",
+      "conference": "DC26",
+      "event_type": 7,
+      "includes": "",
+      "title": "SMD Soldering Challenge",
+      "updated_at": "2018-08-07T18:41+0000"
+    },
+    {
+      "start_date": "2018-08-10T22:00+0000",
+      "id": 26848,
+      "description": "If you have never participated in a Robo Sumo event before, welcome to the crowd! There are a number of resources online on this topic. We are lucky enough to have Pololu as a local resource. Their office is a short distance from the strip. They have have robots and parts to make robots. They can ship to your hotel if desired. Put something together and bring it down to show off and shove other bots around.\r\n\r\nWe will have a couple units available (Pololu Zumo 32U4 Robots - Arduino compatible) to accept your code, so if nothing else bring some advanced AI goodness.\r\n\r\n",
+      "location": 26016,
+      "link": "https://dchhv.org/events/robosumo.html",
+      "speakers": [],
+      "end_date": "2018-08-10T23:00+0000",
+      "conference": "DC26",
+      "event_type": 7,
+      "includes": "",
+      "title": "Robo Sumo",
+      "updated_at": "2018-08-07T18:43+0000"
+    },
+    {
+      "start_date": "2018-08-11T22:00+0000",
+      "id": 26849,
+      "description": "If you have never participated in a Robo Sumo event before, welcome to the crowd! There are a number of resources online on this topic. We are lucky enough to have Pololu as a local resource. Their office is a short distance from the strip. They have have robots and parts to make robots. They can ship to your hotel if desired. Put something together and bring it down to show off and shove other bots around.\r\n\r\nWe will have a couple units available (Pololu Zumo 32U4 Robots - Arduino compatible) to accept your code, so if nothing else bring some advanced AI goodness.\r\n\r\n",
+      "location": 26016,
+      "link": "https://dchhv.org/events/robosumo.html",
+      "speakers": [],
+      "end_date": "2018-08-11T23:00+0000",
+      "conference": "DC26",
+      "event_type": 7,
+      "includes": "",
+      "title": "Robo Sumo: Hebocon Edition ",
+      "updated_at": "2018-08-07T18:44+0000"
+    },
+    {
+      "start_date": "2018-08-10T17:00+0000",
+      "id": 26850,
+      "description": "",
+      "location": 26016,
+      "link": "https://dchhv.org/schedule/",
+      "speakers": [],
+      "end_date": "2018-08-11T02:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "HHV/SSV/BMCA Startup",
+      "updated_at": "2018-08-07T18:45+0000"
+    },
+    {
+      "start_date": "2018-08-11T17:00+0000",
+      "id": 26851,
+      "description": "",
+      "location": 26016,
+      "link": "https://dchhv.org/schedule/",
+      "speakers": [],
+      "end_date": "2018-08-12T02:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "HHV/SSV/BMCA Startup",
+      "updated_at": "2018-08-07T18:45+0000"
+    },
+    {
+      "start_date": "2018-08-12T17:00+0000",
+      "id": 26852,
+      "description": "",
+      "location": 26016,
+      "link": "https://dchhv.org/schedule/",
+      "speakers": [],
+      "end_date": "2018-08-12T20:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "HHV/SSV/BMCA Startup",
+      "updated_at": "2018-08-07T18:45+0000"
+    },
+    {
+      "start_date": "2018-08-10T20:00+0000",
+      "id": 26853,
+      "description": "",
+      "location": 26016,
+      "link": "https://dchhv.org/schedule/",
+      "speakers": [
+        26779
+      ],
+      "end_date": "2018-08-10T21:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Badge interfacing SPI/UART/I2C with MaraJade in the BMCA",
+      "updated_at": "2018-08-07T18:48+0000"
+    },
+    {
+      "start_date": "2018-08-10T21:30+0000",
+      "id": 26854,
+      "description": "",
+      "location": 26016,
+      "link": "https://dchhv.org/schedule/",
+      "speakers": [
+        26780
+      ],
+      "end_date": "2018-08-10T22:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "How to make and order your first PCB! Working with KiCAD and PCB Houses With B1un7 and his Flying Badge in the BMCA",
+      "updated_at": "2018-08-07T18:49+0000"
+    },
+    {
+      "start_date": "2018-08-11T18:00+0000",
+      "id": 26855,
+      "description": "",
+      "location": 26016,
+      "link": "https://dchhv.org/schedule/",
+      "speakers": [
+        26780
+      ],
+      "end_date": "2018-08-11T19:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "How to make and order your first PCB! Working with KiCAD and PCB Houses With B1un7 and his Flying Badge in the BMCA",
+      "updated_at": "2018-08-07T18:49+0000"
+    },
+    {
+      "start_date": "2018-08-11T20:00+0000",
+      "id": 26856,
+      "description": "",
+      "location": 26016,
+      "link": "https://dchhv.org/schedule/",
+      "speakers": [
+        26780
+      ],
+      "end_date": "2018-08-11T21:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Identifying and sourcing electronic components in the BMCA",
+      "updated_at": "2018-08-07T18:49+0000"
+    },
+    {
+      "start_date": "2018-08-11T19:00+0000",
+      "id": 26857,
+      "description": "",
+      "location": 26016,
+      "link": "https://dchhv.org/schedule/",
+      "speakers": [
+        26780
+      ],
+      "end_date": "2018-08-11T20:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "DCG858/619 in the BMCA",
+      "updated_at": "2018-08-07T18:50+0000"
+    },
+    {
+      "start_date": "2018-08-11T21:00+0000",
+      "id": 26858,
+      "description": "",
+      "location": 26016,
+      "link": "https://dchhv.org/schedule/",
+      "speakers": [
+        26781
+      ],
+      "end_date": "2018-08-11T22:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Making PCB Art with TwinkleTwinkie in the BMCA",
+      "updated_at": "2018-08-07T18:50+0000"
+    },
+    {
+      "start_date": "2018-08-12T17:30+0000",
+      "id": 26859,
+      "description": "What better way to nurse your DEF CON hangover that with some strong coffee and pastries with the Hackaday and Tindie Crew? This year, we\u2019re super pleased that Hardware Hacking Village will be hosting us in the \u201cBadge Maker\u2019s Community Area\u201d. Join us on Sunday morning at 10:30 am local time and bring along your hardware to show off!",
+      "location": 26016,
+      "link": "https://dchhv.org/schedule/",
+      "speakers": [
+        26781
+      ],
+      "end_date": "2018-08-12T19:00+0000",
+      "conference": "DC26",
+      "event_type": 5,
+      "includes": "",
+      "title": "Breakfast at DEF CON 26: Tindie x Hackaday Meetup in the BMCA",
+      "updated_at": "2018-08-07T18:51+0000"
     }
   ],
-  "updated_at": "2018-08-07T16:51+0000"
+  "updated_at": "2018-08-07T23:07+0000"
 }
