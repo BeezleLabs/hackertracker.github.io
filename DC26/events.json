@@ -11692,7 +11692,7 @@
     {
       "start_date": "2018-08-09T16:30+0000",
       "id": 26826,
-      "description": "",
+      "description": "Come up and chill with us, pick some locks, escape handcuffs, open a safe, slip a deadlatch and repin a lock. We would be happy to meet you and show you how @DianaInitiative Thursday and Friday.",
       "location": 26046,
       "link": "https://dianainitiative2018.busyconf.com/schedule",
       "speakers": [],
@@ -11700,8 +11700,8 @@
       "conference": "DC26",
       "event_type": 8,
       "includes": "",
-      "title": "Lockpick Village Open",
-      "updated_at": "2018-08-06T17:29+0000"
+      "title": "Diana Initiative - Lockpick Village Open",
+      "updated_at": "2018-08-09T16:21+0000"
     },
     {
       "start_date": "2018-08-10T03:00+0000",
@@ -11714,13 +11714,13 @@
       "conference": "DC26",
       "event_type": 8,
       "includes": "",
-      "title": "Lockpick Village Open",
-      "updated_at": "2018-08-06T17:29+0000"
+      "title": "Diana Initiative - Lockpick Village Open",
+      "updated_at": "2018-08-09T16:19+0000"
     },
     {
       "start_date": "2018-08-11T03:00+0000",
       "id": 26828,
-      "description": "",
+      "description": "Come up and chill with us, pick some locks, escape handcuffs, open a safe, slip a deadlatch and repin a lock. We would be happy to meet you and show you how @DianaInitiative Thursday and Friday.",
       "location": 26046,
       "link": "https://dianainitiative2018.busyconf.com/schedule",
       "speakers": [],
@@ -11728,13 +11728,13 @@
       "conference": "DC26",
       "event_type": 8,
       "includes": "",
-      "title": "Lockpick Village Open",
-      "updated_at": "2018-08-06T17:30+0000"
+      "title": "Diana Initiative - Lockpick Village Open",
+      "updated_at": "2018-08-09T16:20+0000"
     },
     {
       "start_date": "2018-08-10T16:30+0000",
       "id": 26829,
-      "description": "",
+      "description": "Come up and chill with us, pick some locks, escape handcuffs, open a safe, slip a deadlatch and repin a lock. We would be happy to meet you and show you how @DianaInitiative Thursday and Friday.",
       "location": 26046,
       "link": "https://dianainitiative2018.busyconf.com/schedule",
       "speakers": [],
@@ -11742,8 +11742,8 @@
       "conference": "DC26",
       "event_type": 8,
       "includes": "",
-      "title": "Lockpick Village Open",
-      "updated_at": "2018-08-06T17:30+0000"
+      "title": "Diana Initiative - Lockpick Village Open",
+      "updated_at": "2018-08-09T16:21+0000"
     },
     {
       "start_date": "2018-08-11T03:30+0000",
@@ -12326,5 +12326,5 @@
       "updated_at": "2018-08-08T19:06+0000"
     }
   ],
-  "updated_at": "2018-08-09T14:44+0000"
+  "updated_at": "2018-08-09T16:21+0000"
 }
