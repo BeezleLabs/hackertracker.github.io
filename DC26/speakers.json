@@ -1,5 +1,5 @@
 {
-  "updated_at": "2018-08-07T18:47+0000",
+  "updated_at": "2018-08-08T18:59+0000",
   "speakers": [
     {
       "name": "0x200b",
@@ -2503,8 +2503,8 @@
     },
     {
       "name": "David Pearson",
-      "updated_at": "2018-07-03T17:46+0000",
-      "description": "Having used Wireshark ever since it was Ethereal, David has been analyzing network traffic for well over a decade. He has spent the majority of his professional career understanding how networks and applications work, currently as Principal Threat Researcher for Awake Security. David holds computer security degrees from the Rochester Institute of Technology (BS) and Carnegie Mellon University (MS).\n \n \n",
+      "updated_at": "2018-08-07T23:43+0000",
+      "description": "Having used Wireshark ever since it was Ethereal, David has been analyzing network traffic for well over a decade. He has spent the majority of his professional career understanding how networks and applications work, currently as Principal Threat Researcher for Awake Security. David holds computer security degrees from the Rochester Institute of Technology (BS) and Carnegie Mellon University (MS).",
       "title": "Principal Threat Researcher, Awake Security",
       "id": 26255,
       "twitter": "",
@@ -7467,6 +7467,66 @@
       "description": "",
       "title": "",
       "id": 26781,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Keith Howell",
+      "updated_at": "2018-08-08T18:58+0000",
+      "description": "",
+      "title": "",
+      "id": 26782,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Preston Thomas",
+      "updated_at": "2018-08-08T18:58+0000",
+      "description": "",
+      "title": "",
+      "id": 26783,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Michael Rich",
+      "updated_at": "2018-08-08T18:58+0000",
+      "description": "",
+      "title": "",
+      "id": 26784,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Max Power",
+      "updated_at": "2018-08-08T18:59+0000",
+      "description": "",
+      "title": "",
+      "id": 26785,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Deviant Ollam",
+      "updated_at": "2018-08-08T18:59+0000",
+      "description": "",
+      "title": "",
+      "id": 26786,
+      "twitter": "",
+      "conference": "DC26",
+      "link": ""
+    },
+    {
+      "name": "Matt Ploessel",
+      "updated_at": "2018-08-08T18:59+0000",
+      "description": "",
+      "title": "",
+      "id": 26787,
       "twitter": "",
       "conference": "DC26",
       "link": ""

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2018-08-07T18:58+0000",
+  "updated_at": "2018-08-08T19:01+0000",
   "locations": [
     {
       "name": "Track 2 - Caesar's",
@@ -281,6 +281,12 @@
       "name": "Soldering Skills Village - Caesar's",
       "id": 26047,
       "updated_at": "2018-08-07T18:34+0000",
+      "conference": "DC26"
+    },
+    {
+      "name": "Lockpicking Village - Caesar's",
+      "id": 26048,
+      "updated_at": "2018-08-08T19:01+0000",
       "conference": "DC26"
     }
   ]

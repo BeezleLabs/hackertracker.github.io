@@ -12178,7 +12178,153 @@
       "includes": "",
       "title": "Breakfast at DEF CON 26: Tindie x Hackaday Meetup in the BMCA",
       "updated_at": "2018-08-07T18:51+0000"
+    },
+    {
+      "start_date": "2018-08-10T19:00+0000",
+      "id": 26860,
+      "description": "",
+      "location": 26048,
+      "link": "https://drive.google.com/file/d/14L9AHamxjn4roRKUZAh6cK_LiiInWSlI/view",
+      "speakers": [
+        26782,
+        26783
+      ],
+      "end_date": "2018-08-10T20:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Handcuffs and Such",
+      "updated_at": "2018-08-08T19:02+0000"
+    },
+    {
+      "start_date": "2018-08-10T21:00+0000",
+      "id": 26861,
+      "description": "",
+      "location": 26048,
+      "link": "https://drive.google.com/file/d/14L9AHamxjn4roRKUZAh6cK_LiiInWSlI/view",
+      "speakers": [
+        26784
+      ],
+      "end_date": "2018-08-10T22:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Exploiting the Human PRNG",
+      "updated_at": "2018-08-08T19:02+0000"
+    },
+    {
+      "start_date": "2018-08-10T23:00+0000",
+      "id": 26862,
+      "description": "",
+      "location": 26048,
+      "link": "https://drive.google.com/file/d/14L9AHamxjn4roRKUZAh6cK_LiiInWSlI/view",
+      "speakers": [
+        26783
+      ],
+      "end_date": "2018-08-11T00:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Laws of Lock Picking",
+      "updated_at": "2018-08-08T19:03+0000"
+    },
+    {
+      "start_date": "2018-08-11T19:00+0000",
+      "id": 26863,
+      "description": "",
+      "location": 26048,
+      "link": "https://drive.google.com/file/d/14L9AHamxjn4roRKUZAh6cK_LiiInWSlI/view",
+      "speakers": [
+        26785
+      ],
+      "end_date": "2018-08-11T20:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "The Sesame Lock",
+      "updated_at": "2018-08-08T19:03+0000"
+    },
+    {
+      "start_date": "2018-08-11T20:00+0000",
+      "id": 26864,
+      "description": "",
+      "location": 26048,
+      "link": "https://drive.google.com/file/d/14L9AHamxjn4roRKUZAh6cK_LiiInWSlI/view",
+      "speakers": [
+        26786
+      ],
+      "end_date": "2018-08-11T21:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "How To Cut A Key",
+      "updated_at": "2018-08-08T19:04+0000"
+    },
+    {
+      "start_date": "2018-08-11T22:00+0000",
+      "id": 26865,
+      "description": "",
+      "location": 26048,
+      "link": "https://drive.google.com/file/d/14L9AHamxjn4roRKUZAh6cK_LiiInWSlI/view",
+      "speakers": [
+        26782
+      ],
+      "end_date": "2018-08-11T23:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Abusing Master Key for Privilege Escalation",
+      "updated_at": "2018-08-08T19:04+0000"
+    },
+    {
+      "start_date": "2018-08-11T23:00+0000",
+      "id": 26866,
+      "description": "",
+      "location": 26048,
+      "link": "https://drive.google.com/file/d/14L9AHamxjn4roRKUZAh6cK_LiiInWSlI/view",
+      "speakers": [
+        26787
+      ],
+      "end_date": "2018-08-12T00:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "The History of Lockpicking",
+      "updated_at": "2018-08-08T19:05+0000"
+    },
+    {
+      "start_date": "2018-08-12T18:00+0000",
+      "id": 26867,
+      "description": "",
+      "location": 26048,
+      "link": "https://drive.google.com/file/d/14L9AHamxjn4roRKUZAh6cK_LiiInWSlI/view",
+      "speakers": [
+        26782,
+        26783
+      ],
+      "end_date": "2018-08-12T19:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Handcuffs and Such",
+      "updated_at": "2018-08-08T19:05+0000"
+    },
+    {
+      "start_date": "2018-08-12T19:00+0000",
+      "id": 26868,
+      "description": "",
+      "location": 26048,
+      "link": "https://drive.google.com/file/d/14L9AHamxjn4roRKUZAh6cK_LiiInWSlI/view",
+      "speakers": [
+        26783
+      ],
+      "end_date": "2018-08-12T20:00+0000",
+      "conference": "DC26",
+      "event_type": 6,
+      "includes": "",
+      "title": "Laws of Lockpicking",
+      "updated_at": "2018-08-08T19:06+0000"
     }
   ],
-  "updated_at": "2018-08-07T23:07+0000"
+  "updated_at": "2018-08-08T19:06+0000"
 }
