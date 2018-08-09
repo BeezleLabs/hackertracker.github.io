@@ -3244,12 +3244,12 @@
       "location": 26013,
       "link": "https://hackerkaraoke.org/",
       "speakers": [],
-      "end_date": "2018-08-12T07:00+0000",
+      "end_date": "2018-08-12T10:00+0000",
       "conference": "DC26",
       "event_type": 5,
       "includes": "Singing, Music",
       "title": "Hacker Karaoke",
-      "updated_at": "2018-08-02T17:53+0000"
+      "updated_at": "2018-08-09T23:31+0000"
     },
     {
       "start_date": "2018-08-10T00:00+0000",
@@ -3354,14 +3354,14 @@
       "id": 26257,
       "description": "Join the folks from the wireless village in an informal Party atmosphere and celebrate all the works that they do to make DEF CON awesome. This is your moment to make new friends, reunite with old ones, and celebrate the wireless lifestyle. Live music and social interaction await you, along with some of the thought leaders and presenters in the realm of wireless communications.\r\n\r\nlocated in Wireless Village",
       "location": 26013,
-      "link": "",
+      "link": "https://www.meetup.com/Cyberspectrum/events/253258931/",
       "speakers": [],
       "end_date": "2018-08-10T04:30+0000",
       "conference": "DC26",
       "event_type": 5,
       "includes": "",
       "title": "Wireless Village Party",
-      "updated_at": "2018-08-09T20:30+0000"
+      "updated_at": "2018-08-09T22:37+0000"
     },
     {
       "start_date": "2018-08-09T23:00+0000",
@@ -12368,5 +12368,5 @@
       "updated_at": "2018-08-09T20:49+0000"
     }
   ],
-  "updated_at": "2018-08-09T20:49+0000"
+  "updated_at": "2018-08-09T23:31+0000"
 }
