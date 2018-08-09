@@ -3048,12 +3048,12 @@
       "location": 26013,
       "link": "",
       "speakers": [],
-      "end_date": "2018-08-11T09:00+0000",
+      "end_date": "2018-08-11T10:00+0000",
       "conference": "DC26",
       "event_type": 5,
       "includes": "",
-      "title": "303",
-      "updated_at": "2018-08-02T19:04+0000"
+      "title": "303 Party",
+      "updated_at": "2018-08-09T20:34+0000"
     },
     {
       "start_date": "2018-08-12T03:30+0000",
@@ -3062,40 +3062,40 @@
       "location": 26013,
       "link": "",
       "speakers": [],
-      "end_date": "2018-08-12T09:00+0000",
+      "end_date": "2018-08-12T10:00+0000",
       "conference": "DC26",
       "event_type": 5,
       "includes": "",
-      "title": "303",
-      "updated_at": "2018-08-02T19:04+0000"
+      "title": "303 Pool Party",
+      "updated_at": "2018-08-09T20:43+0000"
     },
     {
-      "start_date": "2018-08-11T03:30+0000",
+      "start_date": "2018-08-10T03:30+0000",
       "id": 26235,
       "description": "Do you participate in the DEF CON subreddit? This Meetup is for you! A gathering of the denizens of /r/DEF CON while at DEF CON to mingle and meet face to face. Newcomers and veterans alike are welcome to meet and greet while sharing the DEF CON experience.\r\n\r\nlocated in Laughlin at Flamingo",
       "location": 26013,
-      "link": "",
+      "link": "https://reddit.com/r/defcon",
       "speakers": [],
-      "end_date": "2018-08-11T09:00+0000",
+      "end_date": "2018-08-10T05:30+0000",
       "conference": "DC26",
       "event_type": 5,
       "includes": "",
       "title": "/r/DEFCON",
-      "updated_at": "2018-08-02T19:05+0000"
+      "updated_at": "2018-08-09T20:31+0000"
     },
     {
-      "start_date": "2018-08-12T03:30+0000",
+      "start_date": "2018-08-12T05:30+0000",
       "id": 26236,
       "description": "Relive once again the experience of the arcade. From classics to a custom built 16 player foosball table! Grimm & Scythe bring back a favorite as you jam out a DJ battle while taking another swipe at that high score on your favorite classic video games. No quarters required!\r\n\r\nEver had the awesome experience of seeing the renowned @dualcoremusic  or maybe you've heard the mad mixing skills of @KeithMyers - Well imagine BOTH of them, at one party! The EPIC #defcon26 @CarHackVillage and @ICS_Village Party will be Sat Night 10:30-2 \r\n\r\nHope to see you there!",
       "location": 26028,
       "link": "https://www.eventbrite.com/e/arcade-party-tickets-48407703745",
       "speakers": [],
-      "end_date": "2018-08-12T09:00+0000",
+      "end_date": "2018-08-12T10:00+0000",
       "conference": "DC26",
       "event_type": 5,
       "includes": "",
       "title": "Arcade Party",
-      "updated_at": "2018-08-06T13:18+0000"
+      "updated_at": "2018-08-09T20:44+0000"
     },
     {
       "start_date": "2018-08-12T03:30+0000",
@@ -3193,7 +3193,7 @@
       "event_type": 5,
       "includes": "",
       "title": "GEEKPWN",
-      "updated_at": "2018-07-21T23:29+0000"
+      "updated_at": "2018-08-09T20:35+0000"
     },
     {
       "start_date": "2018-08-10T19:00+0000",
@@ -3216,12 +3216,12 @@
       "location": 26013,
       "link": "",
       "speakers": [],
-      "end_date": "2018-08-12T07:00+0000",
+      "end_date": "2018-08-10T05:30+0000",
       "conference": "DC26",
       "event_type": 5,
       "includes": "",
       "title": "Hacker Flairgrounds",
-      "updated_at": "2018-07-21T23:37+0000"
+      "updated_at": "2018-08-09T20:40+0000"
     },
     {
       "start_date": "2018-08-11T03:00+0000",
@@ -3230,12 +3230,12 @@
       "location": 26013,
       "link": "https://hackerkaraoke.org/",
       "speakers": [],
-      "end_date": "2018-08-11T07:00+0000",
+      "end_date": "2018-08-11T10:00+0000",
       "conference": "DC26",
       "event_type": 5,
       "includes": "Singing (Bad), Music",
       "title": "Hacker Karaoke",
-      "updated_at": "2018-08-02T17:53+0000"
+      "updated_at": "2018-08-09T20:36+0000"
     },
     {
       "start_date": "2018-08-12T03:00+0000",
@@ -3266,18 +3266,18 @@
       "updated_at": "2018-07-21T23:51+0000"
     },
     {
-      "start_date": "2018-08-11T03:30+0000",
+      "start_date": "2018-08-11T03:00+0000",
       "id": 26251,
       "description": "Come celebrate teh culture of DIY or die! The future has not been written yet so come and mingle with the authors of the time to come and celebrate creating a culture of global communication and culture. Live music and open minds will meet your ideas and help you trailblazer the next century.\r\n\r\nlocated in Twilight at Flamingo",
       "location": 26013,
       "link": "",
       "speakers": [],
-      "end_date": "2018-08-11T07:00+0000",
+      "end_date": "2018-08-11T10:00+0000",
       "conference": "DC26",
       "event_type": 5,
       "includes": "",
       "title": "House of Kenzo",
-      "updated_at": "2018-07-22T18:57+0000"
+      "updated_at": "2018-08-09T20:36+0000"
     },
     {
       "start_date": "2018-08-11T02:00+0000",
@@ -3291,7 +3291,7 @@
       "event_type": 5,
       "includes": "",
       "title": "Lawyer Meet",
-      "updated_at": "2018-07-22T18:58+0000"
+      "updated_at": "2018-08-09T20:32+0000"
     },
     {
       "start_date": "2018-08-11T04:00+0000",
@@ -3300,12 +3300,12 @@
       "location": 26013,
       "link": "",
       "speakers": [],
-      "end_date": "2018-08-11T07:00+0000",
+      "end_date": "2018-08-11T10:00+0000",
       "conference": "DC26",
       "event_type": 5,
       "includes": "",
       "title": "Live Band Karaoke",
-      "updated_at": "2018-07-22T18:59+0000"
+      "updated_at": "2018-08-09T20:37+0000"
     },
     {
       "start_date": "2018-08-12T03:30+0000",
@@ -3314,12 +3314,12 @@
       "location": 26013,
       "link": "",
       "speakers": [],
-      "end_date": "2018-08-12T07:00+0000",
+      "end_date": "2018-08-12T10:00+0000",
       "conference": "DC26",
       "event_type": 5,
       "includes": "",
       "title": "Lonely Hackers Club",
-      "updated_at": "2018-07-22T19:00+0000"
+      "updated_at": "2018-08-09T20:47+0000"
     },
     {
       "start_date": "2018-08-12T03:00+0000",
@@ -3336,32 +3336,32 @@
       "updated_at": "2018-08-06T13:25+0000"
     },
     {
-      "start_date": "2018-08-10T19:00+0000",
+      "start_date": "2018-08-11T03:00+0000",
       "id": 26256,
       "description": "A Party thrown by Veterans for everyone! Come join in as veterans from all branches come together to celebrate and take on challenges that you only hear about in movies. Space force recruiting? Airmen in a chair race? Military drill displays? All this and more. It's time to raise hell the way our people in uniform are famous for.",
       "location": 26005,
       "link": "",
       "speakers": [],
-      "end_date": "2018-08-10T19:00+0000",
+      "end_date": "2018-08-11T05:00+0000",
       "conference": "DC26",
       "event_type": 5,
       "includes": "",
       "title": "VET CON",
-      "updated_at": "2018-07-22T19:02+0000"
+      "updated_at": "2018-08-09T20:33+0000"
     },
     {
-      "start_date": "2018-08-10T19:00+0000",
+      "start_date": "2018-08-10T01:30+0000",
       "id": 26257,
       "description": "Join the folks from the wireless village in an informal Party atmosphere and celebrate all the works that they do to make DEF CON awesome. This is your moment to make new friends, reunite with old ones, and celebrate the wireless lifestyle. Live music and social interaction await you, along with some of the thought leaders and presenters in the realm of wireless communications.\r\n\r\nlocated in Wireless Village",
       "location": 26013,
       "link": "",
       "speakers": [],
-      "end_date": "2018-08-10T19:00+0000",
+      "end_date": "2018-08-10T04:30+0000",
       "conference": "DC26",
       "event_type": 5,
       "includes": "",
       "title": "Wireless Village Party",
-      "updated_at": "2018-07-22T19:04+0000"
+      "updated_at": "2018-08-09T20:30+0000"
     },
     {
       "start_date": "2018-08-09T23:00+0000",
@@ -5418,18 +5418,18 @@
       "updated_at": "2018-08-09T14:44+0000"
     },
     {
-      "start_date": "2018-08-22T19:00+0000",
+      "start_date": "2018-08-11T01:30+0000",
       "id": 26406,
-      "description": "",
-      "location": 26017,
+      "description": "Join the folks from the wireless village in an informal Party atmosphere and celebrate all the works that they do to make DEF CON awesome. This is your moment to make new friends, reunite with old ones, and celebrate the wireless lifestyle. Live music and social interaction await you, along with some of the thought leaders and presenters in the realm of wireless communications.\r\n\r\nlocated in Wireless Village",
+      "location": 26013,
       "link": "",
       "speakers": [],
-      "end_date": "2018-08-22T21:00+0000",
+      "end_date": "2018-08-11T10:00+0000",
       "conference": "DC26",
-      "event_type": 8,
+      "event_type": 5,
       "includes": "",
-      "title": "----",
-      "updated_at": "2018-08-07T00:05+0000"
+      "title": "Wireless Village Party",
+      "updated_at": "2018-08-09T20:39+0000"
     },
     {
       "start_date": "2018-08-10T17:00+0000",
@@ -11690,18 +11690,18 @@
       "updated_at": "2018-08-06T17:28+0000"
     },
     {
-      "start_date": "2018-08-21T16:30+0000",
+      "start_date": "2018-08-12T05:30+0000",
       "id": 26826,
       "description": "",
-      "location": 26005,
+      "location": 26028,
       "link": "",
       "speakers": [],
-      "end_date": "2018-08-21T00:00+0000",
+      "end_date": "2018-08-12T10:00+0000",
       "conference": "DC26",
-      "event_type": 8,
+      "event_type": 5,
       "includes": "",
-      "title": "---",
-      "updated_at": "2018-08-09T18:46+0000"
+      "title": "Car Hacking Village Party",
+      "updated_at": "2018-08-09T20:46+0000"
     },
     {
       "start_date": "2018-08-10T03:00+0000",
@@ -12324,7 +12324,49 @@
       "includes": "",
       "title": "Laws of Lockpicking",
       "updated_at": "2018-08-08T19:06+0000"
+    },
+    {
+      "start_date": "2018-08-12T05:00+0000",
+      "id": 26869,
+      "description": "",
+      "location": 26005,
+      "link": "",
+      "speakers": [],
+      "end_date": "2018-08-12T07:00+0000",
+      "conference": "DC26",
+      "event_type": 5,
+      "includes": "",
+      "title": "DC404",
+      "updated_at": "2018-08-09T20:42+0000"
+    },
+    {
+      "start_date": "2018-08-12T03:30+0000",
+      "id": 26870,
+      "description": "",
+      "location": 26019,
+      "link": "",
+      "speakers": [],
+      "end_date": "2018-08-12T10:00+0000",
+      "conference": "DC26",
+      "event_type": 5,
+      "includes": "",
+      "title": "Wireless Village Party",
+      "updated_at": "2018-08-09T20:48+0000"
+    },
+    {
+      "start_date": "2018-08-12T02:00+0000",
+      "id": 26871,
+      "description": "",
+      "location": 26015,
+      "link": "",
+      "speakers": [],
+      "end_date": "2018-08-12T10:00+0000",
+      "conference": "DC26",
+      "event_type": 5,
+      "includes": "",
+      "title": "AI Village Party",
+      "updated_at": "2018-08-09T20:49+0000"
     }
   ],
-  "updated_at": "2018-08-09T18:46+0000"
+  "updated_at": "2018-08-09T20:49+0000"
 }
