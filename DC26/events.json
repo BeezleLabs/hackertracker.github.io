@@ -12366,7 +12366,35 @@
       "includes": "",
       "title": "AI Village Party",
       "updated_at": "2018-08-09T20:49+0000"
+    },
+    {
+      "start_date": "2018-08-11T03:00+0000",
+      "id": 26872,
+      "description": "Hacker Jeopardy is back for its 24th unbelievable year! Three teams of three battle each round to face last year's champion in the final. 100 points for every beer consumed makes the answers, well, less predictable as the game goes on. Antics, swag, and audience participation -- how can you go wrong? WARNING: 18+ only due to adult language and innuendo. We're offended if you're not offended.\r\n\r\nMore Info: http://www.hackerjeopardy.org",
+      "location": 26004,
+      "link": "http://www.hackerjeopardy.org",
+      "speakers": [],
+      "end_date": "2018-08-11T05:00+0000",
+      "conference": "DC26",
+      "event_type": 7,
+      "includes": "",
+      "title": "Hacker Jeopardy",
+      "updated_at": "2018-08-10T18:55+0000"
+    },
+    {
+      "start_date": "2018-08-12T03:00+0000",
+      "id": 26873,
+      "description": "Hacker Jeopardy is back for its 24th unbelievable year! Three teams of three battle each round to face last year's champion in the final. 100 points for every beer consumed makes the answers, well, less predictable as the game goes on. Antics, swag, and audience participation -- how can you go wrong? WARNING: 18+ only due to adult language and innuendo. We're offended if you're not offended.\r\n\r\nMore Info: http://www.hackerjeopardy.org",
+      "location": 26004,
+      "link": "http://www.hackerjeopardy.org",
+      "speakers": [],
+      "end_date": "2018-08-12T05:00+0000",
+      "conference": "DC26",
+      "event_type": 7,
+      "includes": "",
+      "title": "Hacker Jeopardy",
+      "updated_at": "2018-08-10T18:55+0000"
     }
   ],
-  "updated_at": "2018-08-10T18:39+0000"
+  "updated_at": "2018-08-10T18:55+0000"
 }
