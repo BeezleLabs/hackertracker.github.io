@@ -8030,16 +8030,16 @@
     {
       "start_date": "2018-08-10T20:00+0000",
       "id": 26584,
-      "description": "Compete for awesome prizes and learn new security skills in this computer-based competition. Players will work on teams to earn points and gain control of the game map by completing both defense and offense challenges. ",
+      "description": "Compete for awesome prizes and learn new security skills in this computer-based competition. Players will work on teams to earn points and gain control of the game map by completing both defense and offense challenges. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nIncludes:\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nRmxhZ3trbjB3bDNkZzNfISRfcDB3M3J9Cg==",
       "location": 26032,
       "link": "https://r00tz.org/2018-schedule",
       "speakers": [],
       "end_date": "2018-08-10T23:00+0000",
       "conference": "DC26",
       "event_type": 7,
-      "includes": "RmxhZ3trbjB3bDNkZzNfISRfcDB3M3J9Cg==",
+      "includes": "",
       "title": "Capture the Flag (CTF) by NeverLAN CTF",
-      "updated_at": "2018-08-07T16:50+0000"
+      "updated_at": "2018-08-10T21:22+0000"
     },
     {
       "start_date": "2018-08-12T20:00+0000",
@@ -8370,7 +8370,7 @@
     {
       "start_date": "2018-08-11T20:00+0000",
       "id": 26605,
-      "description": "Compete for awesome prizes and learn new security skills in this computer-based competition. Players will work on teams to earn points and gain control of the game map by completing both defense and offense challenges. ",
+      "description": "Compete for awesome prizes and learn new security skills in this computer-based competition. Players will work on teams to earn points and gain control of the game map by completing both defense and offense challenges. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nIncludes:\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nRmxhZ3trbjB3bDNkZzNfISRfcDB3M3J9Cg==",
       "location": 26032,
       "link": "https://r00tz.org/2018-schedule",
       "speakers": [
@@ -8380,9 +8380,9 @@
       "end_date": "2018-08-11T23:00+0000",
       "conference": "DC26",
       "event_type": 7,
-      "includes": "RmxhZ3trbjB3bDNkZzNfISRfcDB3M3J9Cg==",
+      "includes": "",
       "title": "Capture the Flag by NeverLAN CTF",
-      "updated_at": "2018-08-07T16:51+0000"
+      "updated_at": "2018-08-10T21:23+0000"
     },
     {
       "start_date": "2018-08-11T20:00+0000",
@@ -12396,5 +12396,5 @@
       "updated_at": "2018-08-10T18:55+0000"
     }
   ],
-  "updated_at": "2018-08-10T20:40+0000"
+  "updated_at": "2018-08-10T21:23+0000"
 }
