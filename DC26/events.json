@@ -4226,7 +4226,7 @@
       "updated_at": "2018-08-02T03:36+0000"
     },
     {
-      "start_date": "2018-08-11T18:50+0000",
+      "start_date": "2018-08-10T18:50+0000",
       "id": 26328,
       "description": "Logs, right? Do you run an expensive SIEM? If not, this talk is for you. An effective process for managing logs and security events with built-in and open-source tools will be detailed. I'll share reports and tickets from our organization and describe how we analyze them to improve IT operations, situational awareness, security posture, and pass audits.\r\n\r\n",
       "location": 26018,
@@ -4234,15 +4234,15 @@
       "speakers": [
         26361
       ],
-      "end_date": "2018-08-11T19:10+0000",
+      "end_date": "2018-08-10T19:10+0000",
       "conference": "DC26",
       "event_type": 6,
       "includes": "",
       "title": "Effective Log & Events Management",
-      "updated_at": "2018-08-02T03:37+0000"
+      "updated_at": "2018-08-10T18:34+0000"
     },
     {
-      "start_date": "2018-08-11T19:30+0000",
+      "start_date": "2018-08-10T19:30+0000",
       "id": 26329,
       "description": "The security operations aspect of your Information Security risk management program is where the \u201crubber meets the road\u201d \u2014 the tools and people you have to implement the process and procedures you put together to find the badness and put out the fires. How has the concept of security operations evolved, and where are we headed? There is plenty of buzzword bingo: UBA, UEBA, machine learning and artificial intelligence, network abnormality detection, the marketing conversations of evolving to that SOC of 2020 \u2014 what do all these really mean to you and your operations and which can be useful in your efforts to find the badness?\r\n\r\n",
       "location": 26018,
@@ -4250,15 +4250,15 @@
       "speakers": [
         26362
       ],
-      "end_date": "2018-08-11T20:20+0000",
+      "end_date": "2018-08-10T20:20+0000",
       "conference": "DC26",
       "event_type": 6,
       "includes": "",
       "title": "Evolving security operations to the year 2020",
-      "updated_at": "2018-08-02T03:38+0000"
+      "updated_at": "2018-08-10T18:34+0000"
     },
     {
-      "start_date": "2018-08-11T20:40+0000",
+      "start_date": "2018-08-10T20:40+0000",
       "id": 26330,
       "description": "Have you wondered whether developers can play any significant role in the security world? Come hear from a diehard programmer and hacker who loves to break and loves to build, and learn how a regular programmer can make major contributions to security from the trenches. This presentation will dive into the intersection between development and security. You will learn about the SDL -- Secure Development Lifecycle, and why in the world a hacker would care about processes and procedures. You will learn how \"processes\" and \"lifecycles\" can be useful -- and how they can be a complete waste of time. Included are real world success stories of organizational hacking -- getting other engineers to change their practices -- and real world fail stories. Attendees will come away with knowledge of how development and security intersect, and how they can use their programming day job to save the world. If you are a developer who cares deeply about security, enjoys exploits, and wants to make the world a better place, this is for you.\r\n\r\n",
       "location": 26018,
@@ -4266,15 +4266,15 @@
       "speakers": [
         26363
       ],
-      "end_date": "2018-08-11T21:30+0000",
+      "end_date": "2018-08-10T21:30+0000",
       "conference": "DC26",
       "event_type": 6,
       "includes": "",
       "title": "Hacking Your Dev Job to Save the World - Where Programming and Hacking Meet",
-      "updated_at": "2018-08-02T03:38+0000"
+      "updated_at": "2018-08-10T18:35+0000"
     },
     {
-      "start_date": "2018-08-11T21:50+0000",
+      "start_date": "2018-08-10T21:50+0000",
       "id": 26331,
       "description": "In the current cyber landscape several vulnerabilities are discovered every day. The volume of information and multiple sources to consume this information create interesting challenges for any security team. In the recent months several organizations have been prey of bad actors, exposing private data of millions of users, many times from month old vulnerabilities.\r\n\r\nVulnerability management is often disregarded, improperly staffed and rarely discuss in the infosec community, yet is one of the single point of failures allowing for breaches to take place. Under this circumstance, are you prepared to deal with vulnerabilities accordingly?\r\n\r\nIn this talk, we\u2019ll share our experiences dealing vulnerabilities at scale. What works, what does not and why. More importantly, what actions you should consider improving or build your Vulnerability program. In the process, we\u2019ll introduce some of the custom tools created internally to automate and enhance the program.\r\n\r\nUnlike most Vulnerability Management talks, this talk is about the hands-on portion and day-to- day activities that must take place. Whether you are a seasoned infosec professional or new to the field, there is something for you to take away, especially at scale.\r\n\r\n",
       "location": 26018,
@@ -4283,15 +4283,15 @@
         26364,
         26365
       ],
-      "end_date": "2018-08-11T22:40+0000",
+      "end_date": "2018-08-10T22:40+0000",
       "conference": "DC26",
       "event_type": 6,
       "includes": "",
       "title": "How not to suck at Vulnerability Management [at Scale]",
-      "updated_at": "2018-08-02T03:39+0000"
+      "updated_at": "2018-08-10T18:34+0000"
     },
     {
-      "start_date": "2018-08-11T23:00+0000",
+      "start_date": "2018-08-10T23:00+0000",
       "id": 26332,
       "description": "Industrial espionage is the practice of secretly gathering information about competing corporation or business interest, with the objective of placing one\u2019s own organization at a strategic or financial advantage. A common practice to achieve this advantage is to elicit information from unwitting individuals through what today is called social engineering (SE). We all hear the term SE so often that we become desensitized to it, thereby INCREASING the effectiveness of it against ourselves and organizations. Thus, will call it what it is - Human Intelligence, also known as HUMINT.\r\n\r\nPresenting personal experiences as an Army counterintelligence agent with examples of military and industrial espionage, will examine tradecraft employed against individuals every day. We will apply lessons learned from the US military and the intelligence community by using two acronyms taught to Army counterintelligence agents: SAEDA (Subversion and Espionage Directed against the Army) and MICE (Money, Ideology, Coercion, Ego). By presenting different aspects of HUMINT collection efforts will enable individuals to possibly detect, deflect, and protect oneself from such actions.\r\n\r\n",
       "location": 26018,
@@ -4299,15 +4299,15 @@
       "speakers": [
         26366
       ],
-      "end_date": "2018-08-11T23:40+0000",
+      "end_date": "2018-08-10T23:40+0000",
       "conference": "DC26",
       "event_type": 6,
       "includes": "",
       "title": "SAEDAY: Subversion and Espionage Directed Against You",
-      "updated_at": "2018-08-02T03:39+0000"
+      "updated_at": "2018-08-10T18:35+0000"
     },
     {
-      "start_date": "2018-08-11T00:10+0000",
+      "start_date": "2018-08-10T00:10+0000",
       "id": 26333,
       "description": "Traditionally SOCs look outward from their network perimeters, missing the adversaries already operating in their networks. As SOCs improve their capabilities by turning inwards, where should they start? What techniques should they be worried about? What tools will help them? Without knowing what your adversaries can do and what your current capabilities are, it\u2019s hard to make improvements.\r\n\r\nThis talk will describe how to use the MITRE ATT&CK framework as a \u201cscorecard\u201d within the SOC to understand and tune defensive capabilities, making it easier to answer these hard questions. We\u2019ll describe key use cases for how SOCs can use ATT&CK, covering hunting, threat intelligence, red teaming, and security engineering. To enable these use cases, we\u2019ll present a non-invasive technique to construct a detective coverage map that highlights the SOC\u2019s strengths and weaknesses, focusing on minimizing resource requirements while still providing usable results. To accompany this, we describe a process to create a remediation plan that provides the highest return on investment by orienting on the most relevant threats and prioritizing defensive improvements based on current coverage. Throughout the talk, we will provide real examples, making it easy for those in attendance to understand and replicate at home.\r\n\r\n",
       "location": 26018,
@@ -4315,15 +4315,15 @@
       "speakers": [
         26367
       ],
-      "end_date": "2018-08-11T01:00+0000",
+      "end_date": "2018-08-10T01:00+0000",
       "conference": "DC26",
       "event_type": 6,
       "includes": "",
       "title": "Stop, Drop, and Assess your SOC",
-      "updated_at": "2018-08-02T03:40+0000"
+      "updated_at": "2018-08-10T18:35+0000"
     },
     {
-      "start_date": "2018-08-11T01:20+0000",
+      "start_date": "2018-08-10T01:20+0000",
       "id": 26334,
       "description": "There is a rising trend within Threat actors to find newer, more effective and stealthy ways to attack and gain persistence in a network. One way to achieve this is by abusing legitimate software such as Windows Management Instrumentation and PowerShell. This is the case for Living Off the Land and Fileless threats. By using these techniques, attackers can distribute their malicious code bypassing software whitelisting and avoid antivirus detection. A method to detect these threats is by monitoring endpoints activity. However, this option comes with many challenges that range from getting enough system\u2019s activity information to handle hundreds of events per second.\r\n\r\nIn our research, we analyze this monitoring method and the design challenges involved in it. Furthermore, we propose a solution that aims to detect and alert when advance threats are identified in a system. In order to provide an endpoint monitoring system free of any vendor lock-in, this solution combines the capabilities of different open source projects as well as free tools. These include, Sysmon for monitoring system activity, Elastic Stack (ELK) to store and search the collected data, ElastAlert to trigger alarms and the Sigma Project to define the rules for the alarms. This highly customizable solution would enable organizations to hunt for threats inside their network or create rules that would automatically detect specific threats upfront.\r\n\r\n",
       "location": 26018,
@@ -4332,12 +4332,12 @@
         26368,
         26369
       ],
-      "end_date": "2018-08-11T02:00+0000",
+      "end_date": "2018-08-10T02:00+0000",
       "conference": "DC26",
       "event_type": 6,
       "includes": "",
       "title": "Open Source Endpoint Monitoring",
-      "updated_at": "2018-08-02T03:40+0000"
+      "updated_at": "2018-08-10T18:36+0000"
     },
     {
       "start_date": "2018-08-11T17:00+0000",
@@ -5730,7 +5730,7 @@
       "updated_at": "2018-08-02T17:00+0000"
     },
     {
-      "start_date": "2018-08-10T20:00+0000",
+      "start_date": "2018-08-11T00:00+0000",
       "id": 26429,
       "description": "Case studies of breaches in Cannabis Software. Recently a major Cannabis POS provider found itself on the business end of a sophisticated digital attack not once, not twice, but thrice. Or maybe four times; Poor disclosure policy and a lack of transparency made it hard to tell. A large portion of all dispensaries in the country were forced to enter sales by paper, spreadsheet, or to close their doors temporarily when this software was crashed by attackers. Government contracts were lost. All eyes are on the industry right now and, given its precarious federal legal status, the next moves made will be crucial. What mightve actually happened? How far beyond the carefully prepared press releases can we see by using OSINT, Social Engineering, source code analysis,and some good ol fashioned scripting & hacking? What makes the Cannabis industry a hotbed for this kind of behavior? Lets umm....answer those questions!",
       "location": 26023,
@@ -5738,12 +5738,12 @@
       "speakers": [
         26427
       ],
-      "end_date": "2018-08-10T20:45+0000",
+      "end_date": "2018-08-11T00:45+0000",
       "conference": "DC26",
       "event_type": 6,
       "includes": "",
       "title": "Cruising the Cannabis Highway: Major Breaches in Cannabis Software",
-      "updated_at": "2018-08-03T00:13+0000"
+      "updated_at": "2018-08-10T18:35+0000"
     },
     {
       "start_date": "2018-08-12T17:00+0000",
@@ -5894,7 +5894,7 @@
       "updated_at": "2018-08-10T17:55+0000"
     },
     {
-      "start_date": "2018-08-11T00:30+0000",
+      "start_date": "2018-08-11T21:00+0000",
       "id": 26440,
       "description": "Through Alex and Adrian\u2019s experience in the National Science Foundation I-CORPS Program they had the opportunity to visit several different types of cannabis farms. In this demonstration they will discuss the varied types of hydroponics systems that the farms are using and what their advantages and disadvantages are. The lecture will delve into the basics of different hydroponics systems for those that are just getting their hands wet. It will also provide some insights for those who want to understand the business decision behind what type of growing process to use and what technology can be used to optimally manage that system.",
       "location": 26023,
@@ -5903,12 +5903,12 @@
         26432,
         26522
       ],
-      "end_date": "2018-08-11T01:15+0000",
+      "end_date": "2018-08-11T21:45+0000",
       "conference": "DC26",
       "event_type": 6,
       "includes": "",
       "title": "An Overview of Hydroponic Grow Techniques\t",
-      "updated_at": "2018-08-03T00:19+0000"
+      "updated_at": "2018-08-10T18:37+0000"
     },
     {
       "start_date": "2018-08-10T16:15+0000",
@@ -5983,8 +5983,8 @@
       "conference": "DC26",
       "event_type": 6,
       "includes": "",
-      "title": "Compliance & Infosec within the Cannabis Industry",
-      "updated_at": "2018-08-03T00:27+0000"
+      "title": "How Compliance Affects the Surface Area of Cannabis POS",
+      "updated_at": "2018-08-10T18:38+0000"
     },
     {
       "start_date": "2018-08-10T17:00+0000",
@@ -6084,12 +6084,12 @@
       "speakers": [
         26439
       ],
-      "end_date": "2018-08-12T00:00+0000",
+      "end_date": "2018-08-12T23:30+0000",
       "conference": "DC26",
       "event_type": 6,
       "includes": "",
       "title": "legal suit against Jeff Sessions to legalize Cannabis\t",
-      "updated_at": "2018-08-03T00:17+0000"
+      "updated_at": "2018-08-10T18:39+0000"
     },
     {
       "start_date": "2018-08-12T00:00+0000",
@@ -12368,5 +12368,5 @@
       "updated_at": "2018-08-09T20:49+0000"
     }
   ],
-  "updated_at": "2018-08-10T17:59+0000"
+  "updated_at": "2018-08-10T18:39+0000"
 }
