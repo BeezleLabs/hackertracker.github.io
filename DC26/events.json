@@ -12394,7 +12394,35 @@
       "includes": "",
       "title": "Hacker Jeopardy",
       "updated_at": "2018-08-10T18:55+0000"
+    },
+    {
+      "start_date": "2018-08-11T03:00+0000",
+      "id": 26875,
+      "description": "12 Monkeys\r\nCGC Documentary\r\nAlphaville",
+      "location": 26001,
+      "link": "",
+      "speakers": [],
+      "end_date": "2018-08-11T09:00+0000",
+      "conference": "DC26",
+      "event_type": 8,
+      "includes": "",
+      "title": "Movie Night - Friday",
+      "updated_at": "2018-08-10T23:50+0000"
+    },
+    {
+      "start_date": "2018-08-12T03:00+0000",
+      "id": 26876,
+      "description": "1984\r\nAdvantageous\r\nChildren of Men",
+      "location": 26001,
+      "link": "",
+      "speakers": [],
+      "end_date": "2018-08-12T09:00+0000",
+      "conference": "DC26",
+      "event_type": 8,
+      "includes": "",
+      "title": "Movie Night - Saturday",
+      "updated_at": "2018-08-10T23:51+0000"
     }
   ],
-  "updated_at": "2018-08-10T21:23+0000"
+  "updated_at": "2018-08-10T23:51+0000"
 }
