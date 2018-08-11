@@ -3044,7 +3044,7 @@
     {
       "start_date": "2018-08-11T03:30+0000",
       "id": 26233,
-      "description": "What can one say but \"303 Party\" to let you know where the mayhem will be? Join the members of the 303 organization as they redefine pool Party with their own music, entertainment, and mile high shenanigans! A repeat favorite of DEF CON attendees, with DJ's from across the community as well as creative works and technical expertise. What can we say, it's 303!",
+      "description": "What can one say but \"303 Party\" to let you know where the mayhem will be? Join the members of the 303 organization as they redefine pool Party with their own music, entertainment, and mile high shenanigans! A repeat favorite of DEF CON attendees, with DJ's from across the community as well as creative works and technical expertise. What can we say, it's 303!\r\n\r\nVirginia City, Flamingo",
       "location": 26013,
       "link": "",
       "speakers": [],
@@ -3053,12 +3053,12 @@
       "event_type": 5,
       "includes": "",
       "title": "303 Party",
-      "updated_at": "2018-08-09T20:34+0000"
+      "updated_at": "2018-08-11T03:04+0000"
     },
     {
       "start_date": "2018-08-12T03:30+0000",
       "id": 26234,
-      "description": "What can one say but \"303 Party\" to let you know where the mayhem will be? Join the members of the 303 organization as they redefine pool Party with their own music, entertainment, and mile high shenanigans! A repeat favorite of DEF CON attendees, with DJ's from across the community as well as creative works and technical expertise. What can we say, it's 303!",
+      "description": "What can one say but \"303 Party\" to let you know where the mayhem will be? Join the members of the 303 organization as they redefine pool Party with their own music, entertainment, and mile high shenanigans! A repeat favorite of DEF CON attendees, with DJ's from across the community as well as creative works and technical expertise. What can we say, it's 303!\r\n\r\nLocation: Pool, Flamingo",
       "location": 26013,
       "link": "",
       "speakers": [],
@@ -3067,7 +3067,7 @@
       "event_type": 5,
       "includes": "",
       "title": "303 Pool Party",
-      "updated_at": "2018-08-09T20:43+0000"
+      "updated_at": "2018-08-11T03:05+0000"
     },
     {
       "start_date": "2018-08-10T03:30+0000",
@@ -12424,5 +12424,5 @@
       "updated_at": "2018-08-10T23:51+0000"
     }
   ],
-  "updated_at": "2018-08-10T23:51+0000"
+  "updated_at": "2018-08-11T03:05+0000"
 }
