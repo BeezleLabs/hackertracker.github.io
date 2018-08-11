@@ -3196,18 +3196,18 @@
       "updated_at": "2018-08-09T20:35+0000"
     },
     {
-      "start_date": "2018-08-10T19:00+0000",
+      "start_date": "2018-08-12T05:30+0000",
       "id": 26246,
-      "description": "We want a flashmob to get all the goths in one spot. To make friends! To get dressed up! Find out more info via @clevrcat and follow #DCgothcon",
+      "description": "#DCgothcon is tonight (sat)! Woo! Meet at the bar to the right of Caesar\u2019s hotel check in desk at 10:30p. We\u2019ll end at Juno Reactor. (Gothcon is just a hangout/ flashmob. Come hang with us and grab a pin.)",
       "location": 26013,
       "link": "",
       "speakers": [],
-      "end_date": "2018-08-10T19:00+0000",
+      "end_date": "2018-08-12T07:00+0000",
       "conference": "DC26",
       "event_type": 5,
       "includes": "",
       "title": "GOTHCON",
-      "updated_at": "2018-07-21T23:36+0000"
+      "updated_at": "2018-08-11T21:19+0000"
     },
     {
       "start_date": "2018-08-12T03:30+0000",
@@ -12424,5 +12424,5 @@
       "updated_at": "2018-08-10T23:51+0000"
     }
   ],
-  "updated_at": "2018-08-11T16:46+0000"
+  "updated_at": "2018-08-11T21:19+0000"
 }
