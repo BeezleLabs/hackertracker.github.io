@@ -2501,7 +2501,7 @@
       "updated_at": "2018-07-02T15:05+0000"
     },
     {
-      "start_date": "2018-08-11T17:00+0000",
+      "start_date": "2018-08-12T19:00+0000",
       "id": 26190,
       "description": "The newly upgraded #WiFiCactus for DEF CON 26 is a passive wireless monitoring backpack that listens to 60 channels of 2.4 and 5 gHz WiFi at the same time. New this year is the ability to capture 802.11AC traffic and upgrades to remove bandwidth bottlenecks. This tool uses Kismet to capture the data from the each radio and aggregates them into a single searchable web interface. This tool is also capable of identifying wireless threats, troubleshooting complex wireless environments and helping with correlation analysis between Bluetooth and WiFi.",
       "location": 26012,
@@ -2509,12 +2509,12 @@
       "speakers": [
         26275
       ],
-      "end_date": "2018-08-11T18:50+0000",
+      "end_date": "2018-08-12T20:50+0000",
       "conference": "DC26",
       "event_type": 4,
       "includes": "",
       "title": "#WiFiCactus",
-      "updated_at": "2018-07-02T23:54+0000"
+      "updated_at": "2018-08-12T17:59+0000"
     },
     {
       "start_date": "2018-08-11T19:00+0000",
@@ -2549,7 +2549,7 @@
       "updated_at": "2018-07-02T23:54+0000"
     },
     {
-      "start_date": "2018-08-11T17:00+0000",
+      "start_date": "2018-08-12T19:00+0000",
       "id": 26193,
       "description": "Archery is an opensource vulnerability assessment and management tool which helps developers and pentesters to perform scans and manage vulnerabilities. Archery uses popular opensource tools to perform comprehensive scanning for web application and network. It also performs web application dynamic authenticated scanning and covers the whole applications by using selenium. The developers can also utilize the tool for implementation of their DevOps CI/CD environment.",
       "location": 26012,
@@ -2557,12 +2557,12 @@
       "speakers": [
         26278
       ],
-      "end_date": "2018-08-11T18:50+0000",
+      "end_date": "2018-08-12T20:50+0000",
       "conference": "DC26",
       "event_type": 4,
       "includes": "",
       "title": "Archery - Open Source Vulnerability Assessment and Management",
-      "updated_at": "2018-07-02T23:54+0000"
+      "updated_at": "2018-08-12T18:00+0000"
     },
     {
       "start_date": "2018-08-11T19:00+0000",
@@ -12438,5 +12438,5 @@
       "updated_at": "2018-08-11T22:20+0000"
     }
   ],
-  "updated_at": "2018-08-11T22:20+0000"
+  "updated_at": "2018-08-12T18:00+0000"
 }
