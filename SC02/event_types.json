@@ -1,0 +1,33 @@
+{
+  "updated_at": "2018-09-19T03:49+0000",
+  "event_types": [
+    {
+      "id": 29901,
+      "updated_at": "2018-09-19T03:49+0000",
+      "name": "Talk",
+      "color": "#5c74ff",
+      "conference": "SC02"
+    },
+    {
+      "id": 29902,
+      "updated_at": "2018-09-19T03:49+0000",
+      "name": "Workshop",
+      "color": "#5c74ff",
+      "conference": "SC02"
+    },
+    {
+      "id": 29903,
+      "updated_at": "2018-09-19T03:49+0000",
+      "name": "Training",
+      "color": "#5c74ff",
+      "conference": "SC02"
+    },
+    {
+      "id": 29904,
+      "updated_at": "2018-09-19T03:49+0000",
+      "name": "Other",
+      "color": "#5c74ff",
+      "conference": "SC02"
+    }
+  ]
+}

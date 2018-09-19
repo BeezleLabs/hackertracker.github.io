@@ -1,5 +1,5 @@
 {
-  "updated_at": "2018-08-31T16:47+0000",
+  "updated_at": "2018-09-19T13:48+0000",
   "conferences": [
     {
       "name": "DEFCON 26",
@@ -48,7 +48,7 @@
       "name": "DerbyCon 8.0",
       "end_date": "2018-10-07",
       "speakers": {
-        "updated_at": "2018-08-31T19:01+0000",
+        "updated_at": "2018-09-09T01:01+0000",
         "link": "https://hackertracker.app/DC80/speakers.json"
       },
       "notifications": {
@@ -101,17 +101,17 @@
       "updated_at": "2018-08-31T16:47+0000",
       "code": "TC20",
       "locations": {
-        "updated_at": "2018-08-31T18:18+0000",
+        "updated_at": "2018-09-09T01:05+0000",
         "link": "https://hackertracker.app/TC20/locations.json"
       },
       "id": 3,
       "start_date": "2018-09-10",
       "event_types": {
-        "updated_at": "2018-09-02T21:56+0000",
+        "updated_at": "2018-09-09T01:04+0000",
         "link": "https://hackertracker.app/TC20/event_types.json"
       },
       "events": {
-        "updated_at": "2018-08-31T18:18+0000",
+        "updated_at": "2018-09-09T00:59+0000",
         "link": "https://hackertracker.app/TC20/events.json"
       },
       "articles": {
@@ -129,6 +129,49 @@
       },
       "timezone": "America/Los_Angeles",
       "link": "https://sandiego.toorcon.net"
+    },
+    {
+      "name": "ShellCon",
+      "end_date": "2018-09-22",
+      "speakers": {
+        "updated_at": "2018-09-19T03:49+0000",
+        "link": "https://hackertracker.app/SC02/speakers.json"
+      },
+      "notifications": {
+        "updated_at": "2018-01-01T01:00+0000",
+        "link": "https://hackertracker.app/SC02/notifications.json"
+      },
+      "updated_at": "2018-09-19T13:48+0000",
+      "code": "SC02",
+      "locations": {
+        "updated_at": "2018-09-19T03:49+0000",
+        "link": "https://hackertracker.app/SC02/locations.json"
+      },
+      "id": 4,
+      "start_date": "2018-09-21",
+      "event_types": {
+        "updated_at": "2018-09-19T03:49+0000",
+        "link": "https://hackertracker.app/SC02/event_types.json"
+      },
+      "events": {
+        "updated_at": "2018-09-19T03:49+0000",
+        "link": "https://hackertracker.app/SC02/events.json"
+      },
+      "articles": {
+        "updated_at": "2018-09-19T13:50+0000",
+        "link": "https://hackertracker.app/SC02/articles.json"
+      },
+      "vendors": {
+        "updated_at": "2018-01-01T01:00+0000",
+        "link": "https://hackertracker.app/SC02/vendors.json"
+      },
+      "description": "ShellCon is an information security conference that is held annually in the beautiful beach cities of Los Angeles. Our yearly conference is a growing event that is focused on creating an atmosphere of open communication, collaboration, and connection. We value community, technical knowledge, and getting your hands dirty. We want you to walk away from ShellCon with an itch to try what you just learned and the knowledge to do so. Presentations and events at the con will have a focus on practicality and real world use.",
+      "faqs": {
+        "updated_at": "2018-01-01T01:00+0000",
+        "link": "https://hackertracker.app/SC02/faqs.json"
+      },
+      "timezone": "America/Los_Angeles",
+      "link": "https://shellcon.io"
     }
   ]
 }
