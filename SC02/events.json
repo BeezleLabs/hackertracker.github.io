@@ -1,5 +1,5 @@
 {
-  "updated_at": "2018-09-19T03:49+0000",
+  "updated_at": "2018-09-21T15:12+0000",
   "schedule": [
     {
       "includes": "",
@@ -429,12 +429,12 @@
       "speakers": [
         29039
       ],
-      "start_date": "2018-09-21T16:00+0000",
-      "updated_at": "2018-09-19T03:49+0000",
+      "start_date": "2018-09-22T16:00+0000",
+      "updated_at": "2018-09-21T15:12+0000",
       "id": 29205,
       "location": 29915,
       "title": "Salute! Keynote in Brief",
-      "end_date": "2018-09-21T17:00+0000",
+      "end_date": "2018-09-22T17:00+0000",
       "event_type": 29901,
       "description": "Keynote in Brief for the Salute! session by our conference chairman, on his transition to a civilian career in information security.",
       "link": "https://shellcon.io/raiseme/talks/#salute-keynote-in-brief",
