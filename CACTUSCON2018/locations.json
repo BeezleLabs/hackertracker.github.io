@@ -1,0 +1,47 @@
+{
+  "locations": [
+    {
+      "updated_at": "2018-09-26T01:18+0000",
+      "conference": "CACTUSCON2018",
+      "id": 30201,
+      "name": "Track 1"
+    },
+    {
+      "updated_at": "2018-09-26T01:18+0000",
+      "conference": "CACTUSCON2018",
+      "id": 30202,
+      "name": "Track 2"
+    },
+    {
+      "updated_at": "2018-09-26T01:18+0000",
+      "conference": "CACTUSCON2018",
+      "id": 30203,
+      "name": "Theater"
+    },
+    {
+      "updated_at": "2018-09-26T01:18+0000",
+      "conference": "CACTUSCON2018",
+      "id": 30204,
+      "name": "Apache"
+    },
+    {
+      "updated_at": "2018-09-25T08:05+0000",
+      "conference": "CACTUSCON2018",
+      "id": 30205,
+      "name": "Palo Verde 1-2"
+    },
+    {
+      "updated_at": "2018-09-25T08:05+0000",
+      "conference": "CACTUSCON2018",
+      "id": 30206,
+      "name": "Palo Verde 3"
+    },
+    {
+      "updated_at": "2018-09-25T08:05+0000",
+      "conference": "CACTUSCON2018",
+      "id": 30207,
+      "name": "Superstition Ballroom"
+    }
+  ],
+  "updated_at": "2018-09-26T01:18+0000"
+}

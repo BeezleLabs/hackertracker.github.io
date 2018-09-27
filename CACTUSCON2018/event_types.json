@@ -1,0 +1,47 @@
+{
+  "event_types": [
+    {
+      "updated_at": "2018-09-26T04:53+0000",
+      "conference": "CACTUSCON2018",
+      "color": "#fc853f",
+      "id": 30201,
+      "name": "Talk"
+    },
+    {
+      "updated_at": "2018-09-26T01:18+0000",
+      "conference": "CACTUSCON2018",
+      "color": "#5c74ff",
+      "id": 30202,
+      "name": "Workshop"
+    },
+    {
+      "updated_at": "2018-09-26T04:56+0000",
+      "conference": "CACTUSCON2018",
+      "color": "#AD1457",
+      "id": 30203,
+      "name": "Other"
+    },
+    {
+      "updated_at": "2018-09-25T07:59+0000",
+      "conference": "CACTUSCON2018",
+      "color": "#42d2bc",
+      "id": 30204,
+      "name": "Contest"
+    },
+    {
+      "updated_at": "2018-09-25T08:04+0000",
+      "conference": "CACTUSCON2018",
+      "color": "#653fff",
+      "id": 30205,
+      "name": "Village"
+    },
+    {
+      "updated_at": "2018-09-25T08:04+0000",
+      "conference": "CACTUSCON2018",
+      "color": "#9a3290",
+      "id": 30206,
+      "name": "DC480 Snowtalks"
+    }
+  ],
+  "updated_at": "2018-09-26T04:56+0000"
+}
