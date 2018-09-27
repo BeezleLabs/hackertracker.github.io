@@ -261,7 +261,7 @@
     {
       "includes": "",
       "id": 30217,
-      "updated_at": "2018-09-29T01:18+0000",
+      "updated_at": "2018-09-27T03:32+0000",
       "speakers": [
         30213
       ],
@@ -269,9 +269,9 @@
       "description": "Windows Management Instrumentation (WMI) is loved by the Red Team, Pentesters, and the criminals.  There are a few exploitation tools available such as WMImplant, WMILM, and Metasploit.  Utilizing WMI in attacks is popular since it does not log much, is very good for remote attacks, and includes a database to hide persistence and payloads.  The use of WMI has also been used in what is referred to as fileless malware, and can even include PowerShell.\r\n\r\nWMI attacks CAN be detected, and everyone should understand how to search for, detect, and all the Fu that goes along with WMI attacks.  The reason? By default, Windows does log much to detect WMI exploitation, so there is some work to do you need to know about.\r\n\r\nThis talk will show a few examples of WMI exploitation, what and why it can be detected, what you need to configure to catch attacks, what additional things you will need to hunt for WMI pwnage across your environment.  Also discussed will be some examples of log management queries, tools you might use to capture malicious WMI activity.",
       "conference": "CACTUSCON2018",
       "link": "",
-      "end_date": "2018-09-16T07:50+0000",
+      "end_date": "2018-09-28T18:50+0000",
       "title": "Detecting WMI Exploitation",
-      "start_date": "2018-09-28T07:00+0000",
+      "start_date": "2018-09-28T18:00+0000",
       "location": 30201
     },
     {
