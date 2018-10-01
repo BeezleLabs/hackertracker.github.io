@@ -1,21 +1,1470 @@
 {
-  "updated_at": "2018-08-31T19:07+0000",
   "schedule": [
     {
+      "location": 30208,
+      "description": "",
+      "event_type": 10,
+      "title": "How to influence security technology in kiwi underpants",
+      "start_date": "2018-10-05T13:00+0000",
+      "id": 30245,
+      "link": "",
+      "end_date": "2018-10-05T13:50+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T18:15+0000",
       "includes": "",
       "speakers": [
-        26788
-      ],
-      "start_date": "2018-10-04T15:30+0000",
-      "updated_at": "2018-08-31T19:07+0000",
-      "id": 26878,
-      "location": 26049,
-      "title": "Opening Ceremonies",
-      "end_date": "2018-10-04T15:55+0000",
+        30239
+      ]
+    },
+    {
+      "location": 30208,
+      "description": "Welcome to DerbyCon 8.0! This year we have panelists from a number of different areas around INFOSEC. We will be sharing our experiences, where we think INFOSEC is heading, as well as looking at the current state. We are super excited at our panelists for this keynote and look forward to engaging questions from the audience as well as the moderator. Our panelists will be sharing war stories, how they got started, where the industry is heading, and questions from the audience. This will be a free form panelist discussion and audience participation is expected!",
       "event_type": 10,
-      "description": "",
+      "title": "Panel Discussion - At a Glance: Information Security",
+      "start_date": "2018-10-05T14:00+0000",
+      "id": 30246,
       "link": "",
-      "conference": "DC80"
+      "end_date": "2018-10-05T14:50+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T18:15+0000",
+      "includes": "",
+      "speakers": [
+        30240,
+        30241,
+        30242
+      ]
+    },
+    {
+      "location": 26053,
+      "description": "Red Teaming is currently the closest most companies get to adversary emulation. While Red Teaming can do a good job pointing out security gaps, blind spots, and human weaknesses within an organization, there are also limitations. Engagement SOW\u2019s, timelines, and laws impose limitations which can unwittingly push a Red Team engagement far from adversary emulation. Some thoughts on the current status quo, and ways to mix it up.",
+      "event_type": 10,
+      "title": "Red Teaming gaps and musings",
+      "start_date": "2018-10-05T16:00+0000",
+      "id": 30247,
+      "link": "",
+      "end_date": "2018-10-05T16:25+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T18:16+0000",
+      "includes": "",
+      "speakers": [
+        30243
+      ]
+    },
+    {
+      "location": 26053,
+      "description": "Does your organization want to start Threat Hunting, but you\u2019re not sure how to begin? Most people start with collecting ALL THE DATA, but data means nothing if you\u2019re not able to analyze it properly. This talk begins with the often overlooked first step of hunt hypothesis generation which can help guide targeted collection and analysis of forensic artifacts. We will demonstrate how to use the MITRE ATTACK Framework and our five-phase Hypothesis Generation Process to develop actionable hunt processes, narrowing the scope of your Hunt operation and avoiding \u201canalysis paralysis.\u201d We will then walk through a detailed case study of detecting access token impersonation/manipulation from concept to technical execution by way of the Hypothesis Generation Process.",
+      "event_type": 10,
+      "title": "A Process is No One: Hunting for Token Manipulation",
+      "start_date": "2018-10-05T16:30+0000",
+      "id": 30248,
+      "link": "",
+      "end_date": "2018-10-05T16:55+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T18:16+0000",
+      "includes": "",
+      "speakers": [
+        30244,
+        30245
+      ]
+    },
+    {
+      "location": 26053,
+      "description": "In this upcoming IoT world, more wireless transmission technique are used for IoT devices, such as WiFi, Bluetooth, ZigBee, Z-Wave, and cellular network (2G/3G/4G). We can fuzz the wireless transmission technique as well, but there are rare fuzzing tools, especially for cellular network. The most difficult part of fuzzing cellular network is building the cellular network environment, not make the corresponding fuzzer. In our representation, we will introduce how to build the 4G LTE environment yourself with limited budget. Afterward, we rewrited the 4G LTE base station and send the malformed LTE message to fuzz your smartphone. After our fuzz testing, we found the vulnerability which could cause your smartphone cannot work as normal and this vulnerability will affect the smartphone which use the specific Qualcomm CPU.",
+      "event_type": 10,
+      "title": "Fuzz your smartphone from 4G base station side",
+      "start_date": "2018-10-05T17:00+0000",
+      "id": 30249,
+      "link": "",
+      "end_date": "2018-10-05T17:25+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T18:17+0000",
+      "includes": "",
+      "speakers": [
+        30246
+      ]
+    },
+    {
+      "location": 26053,
+      "description": "The dark web\u2019s inherent hostility to observation makes it the perfect place for whistleblowers, freethinkers\u2026 and criminals. This design, build with anonymity and fully private operations in mind, also makes it almost impossible to use. Is there a future where the dark web is both easy to use and still maintains the core functionality necessary to protect its users? Does making the dark web easier to use inherently open it up to unchecked monitoring by private companies and law enforcement? Will legal users of the dark web be swept up in efforts to crack down on illegal activity on the dark web? And if we do see a growth in  ease of use tools, is someone finally going to make a Clippy for the dark web? This session will cover the underlying structure of the dark web and the of \u201cease of use\u201d tools developed for dark web users over time, specifically the tools that facilitate ecommerce for buyers in a diversified criminal market. This talk will also address the inherent tension between the dark web as a bastion of privacy and anti-authoritarian sentiment and the dark web as a usable, functional repository of institutional knowledge. If you\u2019ve heard of the dark web before but your first thought is \u201cI think I remember Silk Road was a thing,\u201d this talk may be for you.",
+      "event_type": 10,
+      "title": "Clippy for the Dark Web: Looks Like You\u2019re Trying to Buy Some Dank Kush, Can I Help You With That?",
+      "start_date": "2018-10-05T17:30+0000",
+      "id": 30250,
+      "link": "",
+      "end_date": "2018-10-05T17:55+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T18:17+0000",
+      "includes": "",
+      "speakers": [
+        30247
+      ]
+    },
+    {
+      "location": 26053,
+      "description": "Fuzzers have played an important role in the discovery of reliability and security flaws in software for decades. They have allowed for test case generation at a rate impossible by hand and the creation of test cases humans may never conceive of. While there are many excellent fuzzers available most are designed for mutating source files or input in random ways and attempting to discover edge cases in the handling of them. Some others are designed with structured input in mind and use grammars to more strategically generate and mutate possible inputs that adhere to the format defined. These specifically are the ones we care about for the goals of identifying differences between multiple implementations of a single language, finding bugs in parse tree generation/handling of tokens, and handling of the data at runtime once it has been successfully lexically and syntactically analyzed. We\u2019ll look at some of the shortcomings of existing fuzzers and discuss the implementation for a new platform designed to make fuzzer creation easier with the goal of being able utilize grammars from the implementations of the languages themselves.",
+      "event_type": 10,
+      "title": "Synfuzz: Building a Grammar Based Re-targetable Test Generation Framework",
+      "start_date": "2018-10-05T18:00+0000",
+      "id": 30251,
+      "link": "",
+      "end_date": "2018-10-05T18:25+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T18:17+0000",
+      "includes": "",
+      "speakers": [
+        26153
+      ]
+    },
+    {
+      "location": 26053,
+      "description": "Ever wonder how to get past the 70% password cracking barrier, EvilMog will talk about the Infinite Monkey Theory of Password Cracking, unique attack methods such as Raking, Purple Rain, Prinception and other high entropy attack techniques including live demos.",
+      "event_type": 10,
+      "title": "Escoteric Hashcat Attacks",
+      "start_date": "2018-10-05T18:30+0000",
+      "id": 30252,
+      "link": "",
+      "end_date": "2018-10-05T18:55+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T18:18+0000",
+      "includes": "",
+      "speakers": [
+        30249
+      ]
+    },
+    {
+      "location": 26053,
+      "description": "OSINT is more than making a fake Facebook account and looking up your EX. We will cover the basic level skills and places to get a Noob on the correct path in 30 minutes or less. Social Media, Government Sites, Paid Sites and free Training sites will be demonstrated.",
+      "event_type": 10,
+      "title": "NOOb OSINT in 30 Minutes or less!",
+      "start_date": "2018-10-05T19:00+0000",
+      "id": 30253,
+      "link": "",
+      "end_date": "2018-10-05T19:25+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T18:19+0000",
+      "includes": "",
+      "speakers": [
+        30250
+      ]
+    },
+    {
+      "location": 26053,
+      "description": "IATA and Airlines have been testing RFID equipped luggage tags since the early 2000's. Their RFID standard includes multiple PII fields and security information, but, how are these tags actually used? With over a year of luggage tags donated by traveling hackers, I have compiled a survey of these tags as implemented by US carriers. ",
+      "event_type": 10,
+      "title": "RFID Luggage Tags, IATA vs Real Life",
+      "start_date": "2018-10-05T19:30+0000",
+      "id": 30254,
+      "link": "",
+      "end_date": "2018-10-05T19:55+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T18:20+0000",
+      "includes": "",
+      "speakers": [
+        30251
+      ]
+    },
+    {
+      "location": 26053,
+      "description": "Uber Did It To Taxis, AirBnB Did It To Hotels, Could External Cloud DMZ Models do it to IT and InfoSec?  The perimeter is open, Swiss cheese firewalls, compromised endpoints, vulnerable URLs, malware and ransomware... Things that make pentesting reasonably easy.... What if this all goes away in a new design model that truly limits movement based on simple principals; requiring two factor authentication from everyone, only white listed application connections, and the enabling of Drop all other \"All Inbound and Outbound Traffic\" Firewall Rules. Sound like a Pentester's nightmare, Welcome to your future.",
+      "event_type": 10,
+      "title": "#LOL They Placed Their DMZ in the Cloud: Easy Pwnage or Disruptive Protection",
+      "start_date": "2018-10-05T20:00+0000",
+      "id": 30255,
+      "link": "",
+      "end_date": "2018-10-05T20:25+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T18:20+0000",
+      "includes": "",
+      "speakers": [
+        30252
+      ]
+    },
+    {
+      "location": 26053,
+      "description": "How a modern pentesting or red team can remain stealthy during post exploitation activities. Will go in depth on various code execution and lateral movement techniques and indicate ways to improve upon these methods.",
+      "event_type": 10,
+      "title": "Maintaining post-exploitation opsec in a world with EDR",
+      "start_date": "2018-10-05T20:30+0000",
+      "id": 30256,
+      "link": "",
+      "end_date": "2018-10-05T20:55+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T18:21+0000",
+      "includes": "",
+      "speakers": [
+        30253,
+        30254
+      ]
+    },
+    {
+      "location": 26053,
+      "description": "You found a vulnerability in a product and decide to responsibly disclose the issue. Thank you! This should be an easy task to do - right, but what are the steps? This talk will cover what to consider in submitting a vulnerability report and how to submit a good vulnerability report. We will discuss why you should submit a report and will cover the pros and cons of supplying a disclosure date and what Coordinated Vulnerability Disclosure really means. You will also get a behind the scenes insight into what really goes on after the issue was disclosed. We will also touch on scenarios such as what if the issue affects more than one company, and who can help if you don\u2019t feel like reporting the issue directly to a company. The talk will also cover some tips and choices you have for after the issue is disclosed/addressed.  The ups and downs of your end goal \u2013 are you there to help protect yourself and other consumers, protect the company, or go for fame \u2013 or can you do it all?",
+      "event_type": 10,
+      "title": "Hey!  I found a vulnerability \u2013 now what?",
+      "start_date": "2018-10-05T21:00+0000",
+      "id": 30257,
+      "link": "",
+      "end_date": "2018-10-05T21:25+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T18:21+0000",
+      "includes": "",
+      "speakers": [
+        30255,
+        30256
+      ]
+    },
+    {
+      "location": 26053,
+      "description": "Execution of an offensive payload may begin with a safe delivery of the payload to the endpoint itself. When secure connections in the enterprise are inspected, reliance only on transmission level security may not be enough to accomplish that goal. Foxtrot C2 serves one goal: safe last mile delivery of payloads and commands between the external network and the internal point of presence, traversing intercepting proxies, with the end-to-end application level encryption. While the idea of end-to-end application encryption is certainly not new, the exact mechanism of Foxtrot's delivery implementation has advantages to Red Teams as it relies on a well known third party site, enjoying elevated ranking and above average domain fronting features. Payload delivery involves several OpSec defenses: sensible protection from direct attribution, active link expiration to evade consistent interception, inspection, tracking and replay activities by the defenders. Asymmetric communication channels will also be used. And if your standalone Foxtrot agent is caught, the delivery mechanism may live on, you could still manually bring the agent back into the environment via the browser. A concept tool built on these ideas will be presented and released. It will be used as basis for our discussion.",
+      "event_type": 10,
+      "title": "Foxtrot C2: A Journey of Payload Delivery",
+      "start_date": "2018-10-05T21:30+0000",
+      "id": 30258,
+      "link": "",
+      "end_date": "2018-10-05T21:55+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T18:22+0000",
+      "includes": "",
+      "speakers": [
+        30257
+      ]
+    },
+    {
+      "location": 26049,
+      "description": "Vishing is quickly becoming one of the most dangerous vectors in the world of social engineering. With 1000's of hours of vishing recorded, dozens of pretext's used and thousands of compromises under our belt, Chris will analyze some giant data sets to examine what these threats look like, and how to prepare for the future of vishing. He will delve deep into what we can learn from one of the largest recorded data sets of vishing calls in the world and what that means for the future of social engineering.",
+      "event_type": 10,
+      "title": "IRS, HR, Microsoft and your Grandma: What they all have in common",
+      "start_date": "2018-10-05T16:00+0000",
+      "id": 30259,
+      "link": "",
+      "end_date": "2018-10-05T16:50+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T18:37+0000",
+      "includes": "",
+      "speakers": [
+        30258,
+        30259
+      ]
+    },
+    {
+      "location": 26050,
+      "description": "Cryptographic verification of executables is a core security feature that many third-party developers and security personnel have learned to trust. During this talk, the speaker will cover the most recent Apple code signing bug that was found to affect everyone that uses Apple\u2019s documented APIs for conducting code signing checks of signed applications. This will include the methodology for finding the issue, the reporting process, working with vendors, and a path forward for organizations that use Apple code signing as a measure of trust.",
+      "event_type": 10,
+      "title": "I Can Be Apple, and So Can You",
+      "start_date": "2018-10-05T16:00+0000",
+      "id": 30260,
+      "link": "",
+      "end_date": "2018-10-05T16:50+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T18:38+0000",
+      "includes": "",
+      "speakers": [
+        30260
+      ]
+    },
+    {
+      "location": 26051,
+      "description": "Empire & BloodHound are two great Post-Exploitation Tools. Since I am a PowerShell fanboy, I decided to glue them together, just to see what could happen... and so I created 3 modules: EmpireStrike - to control Empire Server(s). CypherDog    - to interact with the BloodHound Database. EmpireDog    - to automate CypherDog/EmpireStrike interactions. In this presentation I will demonstrate how to add the Empire infrastructure to the BloodHound Graph and control both BloodHound & multiple Empire servers from a single PowerShell prompt, with changes to Empire automatically reflected in the BloodHound Database and Graph.",
+      "event_type": 10,
+      "title": "Invoke-EmpireHound - Merging BloodHound & Empire for Enhanced Red Team Workflow",
+      "start_date": "2018-10-05T16:00+0000",
+      "id": 30261,
+      "link": "",
+      "end_date": "2018-10-05T16:50+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T18:38+0000",
+      "includes": "",
+      "speakers": [
+        30261
+      ]
+    },
+    {
+      "location": 26052,
+      "description": "When I think about what cybersecurity education in the future should look like it almost immediately falls into place like a game of Asteroids: and another triad was born. I believe in threes. For all the reasons. The premise is that cybersecurity is often laser focused on an insanely complex specific subset of a set of threats and/or vulnerabilities; perhaps an IoT MQTT-SN protocol weakness. Where, though, do we teach in greater overarching strategic generalities? The following notional triad for the future of cybersecurity education is, I believe, synergistic \u2013 self-reinforcing, and would complement more traditional approaches, yet arrive at different, more efficacious results. They all tie together. Engineering. History. Humans\u2026.It\u2019s a triad. ",
+      "event_type": 10,
+      "title": "The History of the Future of Cyber-Education",
+      "start_date": "2018-10-05T16:00+0000",
+      "id": 30262,
+      "link": "",
+      "end_date": "2018-10-05T16:50+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T18:39+0000",
+      "includes": "",
+      "speakers": [
+        30262
+      ]
+    },
+    {
+      "location": 26049,
+      "description": "You have probably heard the term LOLBin, LOLScript or LOLLib by now. Want to get more insights on that? Then this is the talk you want to attend.This talk will cover the Living Off The Land Binaries and Scripts (LOLBAS) project, what the project is, how it became and how you can help this evolve into the future. The talk will also go over some of my favorite LOLBins that has came to light due to this project (at least that's what I like to think) and show you some cool stuff! I mean, everybody loves to see binaries misbehave.",
+      "event_type": 10,
+      "title": "#LOLBins - Nothing to LOL about!",
+      "start_date": "2018-10-05T17:00+0000",
+      "id": 30263,
+      "link": "",
+      "end_date": "2018-10-05T17:50+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T18:39+0000",
+      "includes": "",
+      "speakers": [
+        30263
+      ]
+    },
+    {
+      "location": 26050,
+      "description": "Organizations have been forced to adapt to the new reality: Anyone can be targeted and many can be compromised.This has been the catalyst for many to tighten up operations and revamp ancient security practices. They bought boxes that blink and software that floods the SOC with alerts. Is it enough? The overwhelming answer is: No. The security controls that matter most are the ones that best protect those with the keys to the enterprise, the Active Directory administrators. With this access, an attacker can do anything they want in the environment: access all sensitive data, change access controls and security settings, embed to persist (for years), and often fully manage and control routers, switches, the virtualization platform (VMWare or Microsoft Hyper-V), and increasingly, the cloud platform. Administrators are being dragged into a new paradigm where they have to more securely administer the environment. This involves protecting privileged credentials and limiting access Again the question is: Are the new ways to securely administer Active Directory enough to protect against attackers? Join me in this session to find out. Some of the areas explored in this talk: * Explore how common methods of administration fail. * Demonstrating how attackers can exploit flaws in typical Active Directory administration. * Highlight common mistakes organizations make when administering Active Directory. * Discuss what's required to protect admins from modern attacks. * Provide the best methods to ensure secure administration and how to get executive, operations, and security team acceptance.",
+      "event_type": 10,
+      "title": "From Workstation to Domain Admin: Why Secure Administration Isn't Secure and How to Fix It",
+      "start_date": "2018-10-05T17:00+0000",
+      "id": 30264,
+      "link": "",
+      "end_date": "2018-10-05T17:50+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T18:41+0000",
+      "includes": "",
+      "speakers": [
+        30264
+      ]
+    },
+    {
+      "location": 26051,
+      "description": "Macs are becoming commonplace in corporate environments as a alternative to Windows systems. Developers, security teams, and executives alike favor the ease of use and full administrative control Macs provide. However, their systems are often joined to an active directory domain and ripe for attackers to leverage for initial access and lateral movement. Mac malware is evolving as Mac computers continue to grow in popularity. As a result, there is a need for proactive detection of attacks targeting MacOS systems in a enterprise environment. Despite advancements in MacOS security tooling for a single user/endpoint, little is known and discussed regarding detection at a enterprise level. This talk will discuss common tactics, techniques and procedures used by attackers on MacOS systems, as well as methods to detect adversary activity. We will take a look at known malware, mapping the techniques utilized to the MITRE ATT&CK framework. Attendees will leave equipped to begin hunting for evil lurking within their MacOS fleet.",
+      "event_type": 10,
+      "title": "When Macs Come Under ATT&CK",
+      "start_date": "2018-10-05T17:00+0000",
+      "id": 30265,
+      "link": "",
+      "end_date": "2018-10-05T17:50+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T18:41+0000",
+      "includes": "",
+      "speakers": [
+        30265
+      ]
+    },
+    {
+      "location": 26052,
+      "description": "Win32k.sys is infamous for being the prime target used by hackers for modern exploitation and browser/sandbox escapes on Windows: the driver managing the user and graphics subsystems. With its legacy spanning as far back as NT 4 (released in 1996), there are significant challenges with its security attestation. This talk while touching a bit of Win32k history covering its various design shifts at the expense of security, but will mostly focus on how long standing insecure design were revisited and remediate. In hindsight the talk will give a deeper analysis on various mitigations added in latest Windows release (RS4), resulting in exploits getting more expensive, unreliable and in some cases impossible.",
+      "event_type": 10,
+      "title": "State of Win32k Security: Revisiting Insecure design",
+      "start_date": "2018-10-05T17:00+0000",
+      "id": 30266,
+      "link": "",
+      "end_date": "2018-10-05T17:50+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T18:42+0000",
+      "includes": "",
+      "speakers": [
+        30266
+      ]
+    },
+    {
+      "location": 26049,
+      "description": "Come along on a fantastic voyage and learn Hip Hip and how it relates to information security! When I was growing up there were two things that intrigued me, computers and rap music. Using examples from my favorite genre or music, we\u2019ll explore some interesting facets of rap music, and discuss the lessons and parallels to security today. There will be no half steppin\u2019. It will be dope as it allows us to dig into topics such as: Is security a fad? How do we differentiate a fad from something here to stay? Encouraging youth to become security engineers, a call-to-action for the community. Deviating from established norms and setting trends, few truly change the industry, and who will change the security industry in the near future? Remembering those who have passed on and learning from their work. How true experts practice their craft (and how to best utilize their skills and share the knowledge) Few things are truly original (and it\u2019s okay, in most cases) Not all legends reach the same pinnacle of success. What separates the best from the rest? How experts make career pivots, and actually pull it off New isn\u2019t always better. We all have beefs (and better ways to resolve them. And no, we\u2019re not going to dig into social media beefs) You can expect to learn a little about rap music, and the history of the rap genre, in this talk. We\u2019ll focus on the security side by exploring industry trends and fads, tips on how to manage your career, and how to continue positive trends in the security community. Don\u2019t be whack, attend this talk! This is a sequel to \u201cEverything I Learned About Security I Learned From Kung Fu Movies\u201d, and expectations should be set as such. I will share my favorite lists of rap artists, albums and tracks, and even a few Spotify playlists.",
+      "event_type": 10,
+      "title": "Everything Else I Learned About Security I Learned From Hip-Hop",
+      "start_date": "2018-10-05T18:00+0000",
+      "id": 30267,
+      "link": "",
+      "end_date": "2018-10-05T18:50+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T18:42+0000",
+      "includes": "",
+      "speakers": [
+        30267
+      ]
+    },
+    {
+      "location": 26050,
+      "description": "MS17-010 is the most important patch in operating systems history. The ultimate high profile and damaging attacks, such as WannaCry, NotPetya, and Olympic Destroyer, have taken advantage of the vulnerabilities patched in MS17-010. Created by Equation Group, and leaked by Shadow Brokers, the ETERNAL family of exploits provide the most reliable and creative ways for remote code execution on Windows ever performed. Unnoticed for over 20+ years, the mechanisms behind these exploits has only been scratched at the surface by researchers, and remains an enigma for most. Take years of research into Windows internals and the SMB protocol and cram it into 45 minutes. You simply can't. But this talk will try.  Descriptions of full reverse engineering of internal structures and all historical background info needed to understand how the exploit chains for ETERNALBLUE, ETERNALCHAMPION, ETERNALROMANCE, and ETERNALSYNERGY work will be provided. Get detailed information about the historical and technical context for these vulnerabilities that will haunt us still for years to come.",
+      "event_type": 10,
+      "title": "MS17-010?",
+      "start_date": "2018-10-05T18:00+0000",
+      "id": 30268,
+      "link": "",
+      "end_date": "2018-10-05T18:50+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T18:43+0000",
+      "includes": "",
+      "speakers": [
+        26191
+      ]
+    },
+    {
+      "location": 26051,
+      "description": "This talk discusses the risks of connected healthcare devices. It looks at the benefits of adopting IoT for medical devices, current exposure, common communication channels in use as well as interconnectivity approaches used with other critical components. Based off output from security assessments performed against medical devices widely deployed at various hospitals and medical institutions, we will present an in-depth analysis of the target medical device and elaborate on how we were able to compromise them to gain access to plethora of medical records from all the medical institutions they were deployed at and not just the one where our target devices were hosted.We will introduce the threat surface exposed by various medical devices and present some of the real-world attacks against some popular devices & their impact on humans as well as the overall ecosystem they are connected to. Some devices rely on proprietary hardware on licensed bands, which reduces the risk of interference from consumer connected devices, but doesn\u2019t provide security as implied in marketing materials. Others rely on standard WiFi security measures for confidentiality and are prone to MitM attacks. Healthcare devices that implement IrDA could yield interesting results when interfaced with cheap $10 hardware.There are many consumer items that fall under the umbrella of IoT and while it may be hard to understand the impact of hacking a toaster, we can all agree that manipulation of a medical device could lead to rather serious consequences. Apart from putting a patient's life at risk, an attacker could compromise a healthcare device to steal patient data. This presentation will primarily focus on the latter with real-world examples and a case study. We will demonstrate the compromise of a healthcare device to steal medical records, which typically include PII, health insurance data, medical history, SSNs, prescriptions etc.",
+      "event_type": 10,
+      "title": "Abusing IoT Medical Devices For Your Precious Health Records",
+      "start_date": "2018-10-05T18:00+0000",
+      "id": 30269,
+      "link": "",
+      "end_date": "2018-10-05T18:50+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T18:43+0000",
+      "includes": "",
+      "speakers": [
+        30269,
+        30270
+      ]
+    },
+    {
+      "location": 26052,
+      "description": "For the past few years, malware authors have abused the extension development functionality of Chrome and Firefox. More often than not, these extensions are abused for standard crimeware activities, such as ad click fraud, cryptocurrency mining, or stealing banking credentials. But this is only scratching the surface of what is possible if the appropriate browser APIs are abused. Extensions can act as a foothold into a target's internal network, provided a single user can be convinced to click two buttons. As a post-exploitation mechanism, extensions can be side-loaded with the ability to read and write files to disk. These actions will all be performed from the browser process(es) and likely go undetected by conventional endpoint protection solutions. This talk will discuss the creation, deployment, and usage of malicious browser extensions so that other red teamers can add this attack vector to their toolkit.",
+      "event_type": 10,
+      "title": "Offensive Browser Extension Development",
+      "start_date": "2018-10-05T18:00+0000",
+      "id": 30270,
+      "link": "",
+      "end_date": "2018-10-05T18:50+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T18:44+0000",
+      "includes": "",
+      "speakers": [
+        30271
+      ]
+    },
+    {
+      "location": 26049,
+      "description": "The information security community is difficult to compare to any other. We are composed of intelligent, driven, passionate, opinionated individuals. When you combine the pressure and stress we put on ourselves in the form of research, learning, teaching, and creating it starts to build up. Not only do we put pressure on ourselves, but we also take it on from our bosses, co-workers, and family in many different forms. The majority of roles we fill cater to our drive and willingness to be behind a keyboard for hours on end. The end result is that many of us are broken. Broken in different ways, at different times, and for different reasons. We need to bring to light a topic that shouldn't be as faux pas as it is. I'll share my personal struggles, stories of friends and family, and hopefully help us come closer together as a community to help you or people around you.",
+      "event_type": 10,
+      "title": "Hackers, Hugs, & Drugs: Mental Health in Infosec",
+      "start_date": "2018-10-05T19:00+0000",
+      "id": 30271,
+      "link": "",
+      "end_date": "2018-10-05T19:50+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T18:45+0000",
+      "includes": "",
+      "speakers": [
+        30272
+      ]
+    },
+    {
+      "location": 26050,
+      "description": "Your crown jewels are locked in a database, the system is patched, utilizes modern endpoint security software, and permissions are carefully controlled and locked down. Once this system is joined to Active Directory, however, does that static trust model remain the same? Or has the number of attack paths to your data increased by an order of magnitude? We\u2019ve spent the last year exploring the access control model of Active Directory and recently broadened our focus to include security descriptor misconfigurations/backdoor opportunities at the host level. We soon realized that the post-exploitation \u201cattack surface\u201d of Windows hosts spans well beyond what we originally realized, and that host misconfigurations can sometimes have a profound effect on the security of every other host in the forest. This talk will explore a number of lesser-known Active Directory and host-based permission settings that can be abused in concert for remote access, privilege escalation, or persistence. We will show how targeted host modifications (or existing misconfigurations) can facilitate complex Active Directory attack chains with far-reaching effects on other systems and services in the forest, and can allow new AD attack paths to be built without modifying Active Directory itself.",
+      "event_type": 10,
+      "title": "The Unintended Risks of Trusting Active Directory ",
+      "start_date": "2018-10-05T19:00+0000",
+      "id": 30272,
+      "link": "",
+      "end_date": "2018-10-05T19:50+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T18:46+0000",
+      "includes": "",
+      "speakers": [
+        30273,
+        30274,
+        30275
+      ]
+    },
+    {
+      "location": 26051,
+      "description": "Windows Management Instrumentation (WMI) is loved by the Red Team, Pentesters, and the criminals.  There are a few exploitation tools available such as WMImplant, WMILM, and Metasploit.  Utilizing WMI in attacks is popular since it does not log much, is very good for remote attacks, and includes a database to hide persistence and payloads.  The use of WMI has also been used in what is referred to as fileless malware, and can even include PowerShell. WMI attacks CAN be detected, and everyone should understand how to search for, detect, and all the Fu that goes along with WMI attacks.  The reason? By default, Windows does log much to detect WMI exploitation, so there is some work to do you need to know about. This talk will show a few examples of WMI exploitation, what and why it can be detected, what you need to configure to catch attacks, what additional things you will need to hunt for WMI pwnage across your environment.  Also discussed will be some examples of log management queries, tools you might use to capture malicious WMI activity.",
+      "event_type": 10,
+      "title": "Detecting WMI exploitation",
+      "start_date": "2018-10-05T19:00+0000",
+      "id": 30273,
+      "link": "",
+      "end_date": "2018-10-05T19:50+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T18:46+0000",
+      "includes": "",
+      "speakers": [
+        30276
+      ]
+    },
+    {
+      "location": 26052,
+      "description": "Our payloads are at risk! Incident responders, threat hunters, and automated software solutions are eager to pick apart your new custom dropper and send you back to square one. One answer to this problem is encrypting your payload with key derivation functions (\"keying\") which leverages a variety of local and remote resources to build the decryption key. Throughout this talk I will present modern keying techniques and demo some tools to help along the way. I will start with showing how easy it is to discover attacker infrastructure or techniques in the payloads we commonly use every day. I will then quickly review how keying helps and the considerations when generating keyed payloads. Throughout the presentation many practical examples of keying techniques will be provided which can be used for typical pentests or full red team operations. Finally I will introduce KeyServer, a new piece to add to your red team infrastructure which handles advanced HTTP and DNS keying. Using unprotected payloads during ops should be a thing of the past. Let\u2019s regain control of our malicious code and make it harder on defenders! This talk is based on the original research of environmental keying by Josh Pitts and Travis Morrow.",
+      "event_type": 10,
+      "title": "Protect Your Payloads: Modern Keying Techniques",
+      "start_date": "2018-10-05T19:00+0000",
+      "id": 30274,
+      "link": "",
+      "end_date": "2018-10-05T19:50+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T18:47+0000",
+      "includes": "",
+      "speakers": [
+        30277
+      ]
+    },
+    {
+      "location": 26049,
+      "description": "Join us for a fun journey through  the steps  we use as penetration testers to find vulnerabilities in Android applications.  The talk will introduce the audience to testing environment creation, and demonstrate how to shorten the learning curve to in order to obtain meaningful results when performing mobile application security assessments.  As part of the talk, we will provide a free mobile application that will contain vulnerabilities from the OWASP Mobile Top 10 that can be used to practice vulnerability discovery.",
+      "event_type": 10,
+      "title": "Android App Penetration Testing 101",
+      "start_date": "2018-10-05T20:00+0000",
+      "id": 30275,
+      "link": "",
+      "end_date": "2018-10-05T20:50+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T18:47+0000",
+      "includes": "",
+      "speakers": [
+        30278,
+        30279
+      ]
+    },
+    {
+      "location": 26050,
+      "description": "Managing security for the WordPress project is a challenge to say the least. The sheer volume of reports, the resulting noise, securing an aging codebase, handling disclosure \u2013 all difficult to handle, but just the tip of the iceberg. How do you motivate and organize a volunteer team? How do you keep sites and users secure with so much third-party code? How do you educate users? When is it okay to break things to fix security issues and how do you manage reputation when you do? Should you backport? How far? They may not have it all figured out, but over the years they\u2019ve learned a lot \u2013 often the hard way. Aaron has led the WordPress Security Team since the end of 2016 and been a part of it for over five years. He\u2019ll share what he\u2019s learned along the way, how things have improved, what changes didn\u2019t help (even when they were sure they would), and what things they still struggle with. He\u2019ll also share an overview of the tools they use and processes they follow, in hopes that no one else has to learn the hard way.",
+      "event_type": 10,
+      "title": "Lessons Learned by the WordPress Security Team",
+      "start_date": "2018-10-05T20:00+0000",
+      "id": 30276,
+      "link": "",
+      "end_date": "2018-10-05T20:50+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T18:47+0000",
+      "includes": "",
+      "speakers": [
+        30280
+      ]
+    },
+    {
+      "location": 26051,
+      "description": "Network defenses are evolving at an unprecedented rate. Our open source toolkit has become ever more difficult to use while pentesting or red teaming on the top tier of networks. Moving into the next generation of offensive operations, we will need to begin testing with tools that closely mirror legitimate application and network behavior. Gryffindor is a pure JavaScript post-exploitation agent that splits the standard model for command and control. It weaponizes the target's web browser to perform all network communication and leverages the Windows Scripting Host (WSH) for the purposes of system execution. In this talk we will walk through the model for idealized remote access including the use social media sites as a platform for covert communication. By leveraging inherent JavaScript capabilities, security professionals can acquire interactive sessions within a browser, harvest sensitive information against arbitrary origins, and pivot into internal networks. Between the browser and the host, there is ripe potential for catastrophic damage.",
+      "event_type": 10,
+      "title": "Gryffindor | Pure JavaScript, Covert Exploitation",
+      "start_date": "2018-10-05T20:00+0000",
+      "id": 30277,
+      "link": "",
+      "end_date": "2018-10-05T20:50+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T18:48+0000",
+      "includes": "",
+      "speakers": [
+        30281
+      ]
+    },
+    {
+      "location": 26052,
+      "description": "In this talk, husband and wife team Phoenix and Nancy Snoke introduce the Damn Vulnerable Habit Helper (DVHH) IOT device. DVHH contains a hardware device, mobile application, web application and associated api calls / network communication. DVHH was built to make getting started in IOT hacking more accessible to everyone. This talk will introduce the DVHH. We discuss why we created DVHH, how it is architected, and how to get started using it. As hardware hacking seems to be the sticking point for many on hacking IOT, this talk will include Phoenix talking an audience member through a live hardware hacking demonstration on the DVHH device (chosen at random). A parts lists and instructions / schematic will be given for the hardware inclined who wish to build their own device. All necessary parts can be bought for under 30 dollars. Several prebuilt hardware devices will be available for demo purposes.",
+      "event_type": 10,
+      "title": "Jump Into IOT Hacking with the Damn Vulnerable Habit Helper Device",
+      "start_date": "2018-10-05T20:00+0000",
+      "id": 30278,
+      "link": "",
+      "end_date": "2018-10-05T20:50+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T18:48+0000",
+      "includes": "",
+      "speakers": [
+        30282,
+        30283
+      ]
+    },
+    {
+      "location": 26052,
+      "description": "InfoSec has never been more needed, or more in demand.  Against a geopolitical backdrop of escalating tensions and drama, there are new attack methods and IoT nightmares as we drown in data. How do we, as a community, evolve to find the people we need to grow into the future? This talk explores our extraordinary strengths as a community, and how InfoSec needs to grow forward to address the challenges ahead. We'll explore some existing mindsets and open the door to unconventional backgrounds. Where does our communal knowledge benefit by drawing from more sources to enhance our big picture? What can we gain from where we aren\u2019t we looking? We'll look at how we see ourselves within this community. Imposter syndrome and elitism are two sides of the same coin. What are the definitive benefits we derive as members of this collective? How do we find out who is part of our community? While our ability to close ranks against intruders is a strength, is it holding us back by holding us in? Infosec is more than a career. It\u2019s a community we call home, an extraordinary incubator of skill and talent that needs our help to keep growing. But to bring in the people we need, we have to think outside the box and draw a bigger circle.",
+      "event_type": 10,
+      "title": "Draw a Bigger Circle: InfoSec Evolves",
+      "start_date": "2018-10-05T21:00+0000",
+      "id": 30279,
+      "link": "",
+      "end_date": "2018-10-05T21:50+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T18:48+0000",
+      "includes": "",
+      "speakers": [
+        30284
+      ]
+    },
+    {
+      "location": 26049,
+      "description": "InfoSec has never been more needed, or more in demand.  Against a geopolitical backdrop of escalating tensions and drama, there are new attack methods and IoT nightmares as we drown in data. How do we, as a community, evolve to find the people we need to grow into the future? This talk explores our extraordinary strengths as a community, and how InfoSec needs to grow forward to address the challenges ahead. We'll explore some existing mindsets and open the door to unconventional backgrounds. Where does our communal knowledge benefit by drawing from more sources to enhance our big picture? What can we gain from where we aren\u2019t we looking? We'll look at how we see ourselves within this community. Imposter syndrome and elitism are two sides of the same coin. What are the definitive benefits we derive as members of this collective? How do we find out who is part of our community? While our ability to close ranks against intruders is a strength, is it holding us back by holding us in? Infosec is more than a career. It\u2019s a community we call home, an extraordinary incubator of skill and talent that needs our help to keep growing. But to bring in the people we need, we have to think outside the box and draw a bigger circle.",
+      "event_type": 10,
+      "title": "Draw a Bigger Circle: InfoSec Evolves",
+      "start_date": "2018-10-05T21:00+0000",
+      "id": 30280,
+      "link": "",
+      "end_date": "2018-10-05T21:50+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T18:52+0000",
+      "includes": "",
+      "speakers": [
+        30284
+      ]
+    },
+    {
+      "location": 26050,
+      "description": "Over the course of the last few years, PowerShell has been the number one way of conducting essentially any type of offensive operation on Active Directory networks and Windows endpoints. It allows offensive personnel to execute implants completely in memory, stealthily conduct situational awareness, and dynamically leverage the underlying power of .NET. Due to recent protections put in place by Microsoft, PowerShell is becoming increasingly less viable to use offensively. These protections are \"baked in\" to the latest versions of the Windows operating systems and allow AV/EDR/Logging solutions to gain an overwhelming amount of insight into PowerShell execution, and even, in some cases, completely shut down any type of malicious PowerShell tooling/tradecraft. It\u2019s been a good run, and PowerShell has served us well. However, the future is upon us, and it's our job to adapt; we have to go deeper! With that in mind, what if I told you that everything PowerShell does can also be done with Python--without dropping anything to disk and bypassing every protection that Microsoft has put in place for PowerShell? Welcome to the wonderful world of IronPython, where rainbows and unicorns *still* gallivant as if it were 2009!  In this talk, we will be looking at my approach to solving the tradecraft problem of gaining complete, unrestricted, and dynamic access to the .NET runtime without going through PowerShell in any way. I'm going to be walking through the entire process of how I discovered this possibility existed, starting from \"not knowing what I'm doing\" and going to a \"somewhat understanding of what I'm doing\". The talk will cover the progression from creating an initial weaponization PoC all the way up to building an Implant/C2 framework around it and all the success/failures/roadblocks I encountered along the way. Finally, at the end of the talk, I will be releasing the implant/C2 framework which I named SILENTTRINITY to the infosec community.",
+      "event_type": 10,
+      "title": "IronPython... omfg",
+      "start_date": "2018-10-05T21:00+0000",
+      "id": 30281,
+      "link": "",
+      "end_date": "2018-10-05T21:50+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T18:52+0000",
+      "includes": "",
+      "speakers": [
+        30285
+      ]
+    },
+    {
+      "location": 26051,
+      "description": "This talk will leverage some of the latest PowerShell research that Mick and Josh have been doing. They will be releasing three different scripts to make your network hostile to the attackers and significantly easier to manage. Additionally, they'll leverage the earlier research from Mick's Derbycon talk last year to pause attackers in their tracks.",
+      "event_type": 10,
+      "title": "Instant Response: Making IR faster than you thought possible!",
+      "start_date": "2018-10-05T21:00+0000",
+      "id": 30282,
+      "link": "",
+      "end_date": "2018-10-05T21:50+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T18:53+0000",
+      "includes": "",
+      "speakers": [
+        30286,
+        30287
+      ]
+    },
+    {
+      "location": 26052,
+      "description": "Maintaining persistence on a network is important.  With the wider adoption of endpoint via EDR, the approach of persisting via on-disk artifacts is under increasing pressure. This talk outlines how in-memory persistence can be achieved cheaply and effectively, and how using automated & coordinated lateral movement can be combined with in-memory persistence to maintain a network toehold without disk artifacts.",
+      "event_type": 10,
+      "title": "In-Memory Persistence: Terminate & Stay Resident Redux",
+      "start_date": "2018-10-05T21:00+0000",
+      "id": 30283,
+      "link": "",
+      "end_date": "2018-10-05T21:50+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T18:53+0000",
+      "includes": "",
+      "speakers": [
+        30288
+      ]
+    },
+    {
+      "location": 26053,
+      "description": "Every month, Google releases the Android Security Bulletin, the latest collection of public vulnerabilities found in Android, along with their patches that must be accepted if a device can be considered up-to-date. Join us for this fast-paced, light-hearted retrospective of some of the most subtle, complicated, or interesting bugs from the last year of the Bulletin. Many of these bugs were submitted through the Android Vulnerability Rewards Program, with cash rewards going to the researchers that discovered them.",
+      "event_type": 10,
+      "title": "Tales From the Bug Mine - Highlights from the Android VRP",
+      "start_date": "2018-10-06T13:00+0000",
+      "id": 30284,
+      "link": "",
+      "end_date": "2018-10-06T13:25+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T18:56+0000",
+      "includes": "",
+      "speakers": [
+        30289
+      ]
+    },
+    {
+      "location": 26053,
+      "description": "In the modern age, all organizations face threats from various types of cyber attacks.  Although great strides have been made to consider human factors in cybersecurity and to become more proactive in threat analysis, security is still generally a reactive, technical field.  This research seeks to develop a framework which adapts existing methods such as the cyber kill chain to look at attacks in a less linear, more human-centered framework that focuses on the capabilities and decisions of the threat actor.  In addition, the framework approaches threat analysis from a binary assessment of success vs. failure in order to see the entire attack and consider the potential for a number of methods and attempts made in a single attack.  A detailed methodology and sample charts are included for a reference and a starting point in developing one\u2019s own personalized charts, and recommendations are made for ways to integrate this methodology into the risk management process.",
+      "event_type": 10,
+      "title": "Decision Analysis Applications in Threat Analysis Frameworks",
+      "start_date": "2018-10-06T13:30+0000",
+      "id": 30285,
+      "link": "",
+      "end_date": "2018-10-06T13:55+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T18:57+0000",
+      "includes": "",
+      "speakers": [
+        30290
+      ]
+    },
+    {
+      "location": 26053,
+      "description": "How does PSYOP really work? Did the Russians actually influence anyone? Could they do it again? This talk will use NATO counter propaganda methodologies to answer the burning questions about online propaganda, given by the former Chief Counter Propagandist for United States Forces - Iraq.",
+      "event_type": 10,
+      "title": "How Russian Cyber Propaganda Really Works",
+      "start_date": "2018-10-06T14:00+0000",
+      "id": 30286,
+      "link": "",
+      "end_date": "2018-10-06T14:25+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T18:57+0000",
+      "includes": "",
+      "speakers": [
+        30291
+      ]
+    },
+    {
+      "location": 26053,
+      "description": "Ever wondered what it would be like to have a personal shopper on the black market? This is your chance. This talk outlines everything you need to know about the goods and services available on the dark web - from human skulls and Sephora points to identity data and payment cards. This talk will provide attendees with a comprehensive overview of the the variety of physical and digital goods available on the dark web, along with a framework to evaluate the the structure and size of dark web marketplaces. Attendees will come away with an understanding of the dark web supply chain, the role the dark web plays in demand for physical and digital goods, and the social structure of dark web marketplaces. This session will also cover the day-to-day realities of transacting on the dark web: sourcing, pricing, scamming, and the lengths buyers will go to shop safely - and anonymously - on these underground marketplaces. This talk is ideal for professionals interested in the trade of data and goods on the dark web, cyber-enabled fraud, or emerging trends in the trade of exploits and vulnerabilities amongst cyber criminals.",
+      "event_type": 10,
+      "title": "Make Me Your Dark Web Personal Shopper!",
+      "start_date": "2018-10-06T14:30+0000",
+      "id": 30287,
+      "link": "",
+      "end_date": "2018-10-06T14:55+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T18:57+0000",
+      "includes": "",
+      "speakers": [
+        30247
+      ]
+    },
+    {
+      "location": 26053,
+      "description": "Social anxiety can be a common problem and one that can be detrimental in a field where it may be necessary to interact with people as part of our jobs.This talk looks at how I managed to help deal with my personal anxiety issues by being a ride-sharing driver for nearly a year. Why I feel like this method of social interaction and pseudo-therapy help me, and what lessons I learned if I were to repeat the process in the future. ",
+      "event_type": 10,
+      "title": "Driving Away Social Anxiety",
+      "start_date": "2018-10-06T16:00+0000",
+      "id": 30288,
+      "link": "",
+      "end_date": "2018-10-06T16:25+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T19:00+0000",
+      "includes": "",
+      "speakers": [
+        30292
+      ]
+    },
+    {
+      "location": 26053,
+      "description": "You want ways to stay connected even when not being on the grid. Join me in a rundown of what should be in your bug out bag for emergency communications and off grid power. We will cover ham radio as well as other methods of communications. In addition we will discuss how you can make your own off grid power solution easily acquired scrap.",
+      "event_type": 10,
+      "title": "Off-grid coms and power",
+      "start_date": "2018-10-06T16:30+0000",
+      "id": 30289,
+      "link": "",
+      "end_date": "2018-10-06T16:55+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T19:00+0000",
+      "includes": "",
+      "speakers": [
+        30293
+      ]
+    },
+    {
+      "location": 26053,
+      "description": "CTFs are fun and informative enough as they are, but if you approach them from a deliberate angle, you can use them to level up your career. This talk aims to break down the pedagogy behind competitive learning and how acquired knowledge can be applied in real life to chase an offensive security job.",
+      "event_type": 10,
+      "title": "CTFs: Leveling Up Through Competition",
+      "start_date": "2018-10-06T17:00+0000",
+      "id": 30290,
+      "link": "",
+      "end_date": "2018-10-06T17:25+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T18:59+0000",
+      "includes": "",
+      "speakers": [
+        30294
+      ]
+    },
+    {
+      "location": 26053,
+      "description": "Sure, WiFi hacking has been around for a while, and everyone knows about tools like airmon-ng, kismet, et al. But what if you just want to view a list of all networks in your area AND see all devices connected to each network? Or maybe you want to know who's hogging all the bandwidth (and maybe deauth them if they use too much)? Or, what if you want to know when a certain someone's cell phone is nearby. Or perhaps you'd like to know if your Airbnb host's IP Camera is uploading video to the cloud? For all these use-cases, I've developed a new tool called \"trackerjacker\". In this talk, we'll use this tool to explore some of the surprisingly-informative data floating around in the radio space, and you'll come away with a new skill point or two in your radio hacking skill tree, as well as a new magical weapon... I mean tool.",
+      "event_type": 10,
+      "title": "Mapping wifi networks and triggering on interesting traffic patterns",
+      "start_date": "2018-10-06T17:30+0000",
+      "id": 30291,
+      "link": "",
+      "end_date": "2018-10-06T17:55+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T19:01+0000",
+      "includes": "",
+      "speakers": [
+        30295
+      ]
+    },
+    {
+      "location": 26053,
+      "description": "How do you test for Struts vulnerabilities in clients' web apps?  Have you tried writing a Burp plug-in to help?  Extending Burp is easier than you might think.  We'll cover Burp Extension programming in Python, the power of Burp's Collaborator, and adapting Struts and XXE exploits to find vulnerabilities automatically.  This will culminate in the discovery of a web app zero day.",
+      "event_type": 10,
+      "title": "Extending Burp to Find Struts and XXE Vulnerabilities",
+      "start_date": "2018-10-06T18:00+0000",
+      "id": 30292,
+      "link": "",
+      "end_date": "2018-10-06T18:25+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T19:01+0000",
+      "includes": "",
+      "speakers": [
+        30296
+      ]
+    },
+    {
+      "location": 26053,
+      "description": "Windows, Linux, and Mac all run x86 assembly. From your favorite software application down to their system kernels. Ever wondered what happens under the hood when programs execute? What does printf(\"Hello World!\"); actually do? Whether your focused on improving the efficiency of your applications, securing your applications against known exploitation techniques, reverse engineering software or going on the offensive with exploitation development a firm grasp on assembly is essential. Come get an introduction to the world of x86 Assembly, learn how to write, build, debug, and tear apart your first x86 assembly application.",
+      "event_type": 10,
+      "title": "Introduction to x86 Assembly",
+      "start_date": "2018-10-06T18:25+0000",
+      "id": 30293,
+      "link": "",
+      "end_date": "2018-10-06T18:55+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T19:02+0000",
+      "includes": "",
+      "speakers": [
+        30297
+      ]
+    },
+    {
+      "location": 26053,
+      "description": "Cloud infrastructure security and configuration has been shown to be a difficult task to master. Sysadmins and developers with years of traditional IT experience are now being pushed to the cloud, where there is a whole new set of rules. This is what makes AWS environments particularly exciting to attack as a penetration tester. Best practices are often overlooked or ignored, which can leave gaps throughout an AWS environment that are ripe for exploitation. With an increasing number of breaches leaking AWS secret keys, companies are working to be proactive and are looking for red-team-like post exploitation penetration tests, so that they can be sure that their client data is as safe as possible post-breach.Due to this need and the lack of AWS specific attack tools, I wrote Pacu, an open source Amazon Web Services post exploitation attack tool created and used for Rhino Security Labs pentests.In this talk I will cover how red teamers can use Pacu to simulate real-world attack scenarios against AWS environments, starting from IAM enumeration and scanning through exploitation, privilege escalation, data exfiltration and even providing reporting documentation.",
+      "event_type": 10,
+      "title": "Pacu: Attack and Post-Exploitation in AWS",
+      "start_date": "2018-10-06T19:00+0000",
+      "id": 30294,
+      "link": "",
+      "end_date": "2018-10-06T19:25+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T19:04+0000",
+      "includes": "",
+      "speakers": [
+        30398
+      ]
+    },
+    {
+      "location": 26053,
+      "description": "The WannaCry cyber-attack all over the world in May, 2017 is still fresh in our minds. The malware encrypted and rendered useless hundreds of thousands of computers in over 150 countries. As a measure against ransomware, Microsoft introduced the function \"Ransomware protection\" in \"Windows 10 Fall Creators Update\". How does this function work? Is it really effective? In this talk, I will explain the operation principles of \"Controlled folder access\" of \"Ransomware protection\" through demonstration video. Then I show the requirements to avoid this function, and describe that this function can be avoided very easily. And I will ask you that we may have to reconsider the definition of vulnerability.",
+      "event_type": 10,
+      "title": "An Inconvenient Truth: Evading the Ransomware Protection in Windows 10",
+      "start_date": "2018-10-06T19:25+0000",
+      "id": 30295,
+      "link": "",
+      "end_date": "2018-10-06T19:55+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T19:04+0000",
+      "includes": "",
+      "speakers": [
+        30299
+      ]
+    },
+    {
+      "location": 26053,
+      "description": "Blogging in InfoSec is a great way to improve your visibility in the community and build personal brand. It's easy to do, but hard to do exceptionally well. I've been editor of a corporate blog for over 4 years and been blogging in InfoSec for 6 years, and I'd like to share what I've learned. Talk will focus on how to search engine optimize (SEO) your blog, how to select topics, using graphics, how to socialize and how to measure the impact of your blogs. I\u2019ll cover the essence of an excellent job and show some examples of great blogs versus good blogs. Basically, don\u2019t be tentative in your blogging. Have deliberate intention (what you want to accomplish) deliver with findings, research and helpful info. Don\u2019t do clickbait! Make it so those humorless Google spiders can find your content.",
+      "event_type": 10,
+      "title": "Brutal Blogging - Go for the Jugular",
+      "start_date": "2018-10-06T20:00+0000",
+      "id": 30296,
+      "link": "",
+      "end_date": "2018-10-06T20:25+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T19:04+0000",
+      "includes": "",
+      "speakers": [
+        30298
+      ]
+    },
+    {
+      "location": 26053,
+      "description": "The art of persistence is (and will be...) a matter of concern when successfully exploitation is achieved. Sometimes it is pretty tricky to maintain access on certain environments, especially when it is not possible to execute common vectors like creating or adding users to privileged groups, dumping credentials or hashes, deploying a persistent shell, or anything that could trigger an alert on the victim. This statement ratifies why it's necessary to use discrete and stealthy techniques to keep an open door right after obtaining a high privilege access on the target. What could be more convenient that only use OS resources in order to persist an access? This presentation will provide a new post-exploitation hook applicable to all Windows versions called RID Hijacking, which allows setting desired privileges to an existent account in a stealthy manner by modifying some security attributes. To show its effectiveness, the attack will be demonstrated by using a module which was recently added by Rapid7 to their Metasploit Framework, and developed by the security researcher Sebasti\u00e1n Castro.",
+      "event_type": 10,
+      "title": "RID Hijacking: Maintaining Access on Windows Machines",
+      "start_date": "2018-10-06T20:25+0000",
+      "id": 30297,
+      "link": "",
+      "end_date": "2018-10-06T20:55+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T19:05+0000",
+      "includes": "",
+      "speakers": [
+        30300
+      ]
+    },
+    {
+      "location": 26053,
+      "description": "Everyone is using Big Data and Machine Learning these days. Not sure how to solve a problem? Train a classifier! But beware the old axiom: Garbage In, Garbage Out. This talk will present three key findings from original research on the effects of training data recency in Twitter classifiers so that your next Twitter bot classifier can start off on the right footing.",
+      "event_type": 10,
+      "title": "Your Training Data is Bad and You Should Feel Bad",
+      "start_date": "2018-10-06T21:00+0000",
+      "id": 30298,
+      "link": "",
+      "end_date": "2018-10-06T21:25+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T19:05+0000",
+      "includes": "",
+      "speakers": [
+        30301
+      ]
+    },
+    {
+      "location": 26053,
+      "description": "Arduinos are cool, but making LEDs blink and monitoring the water in your houseplants can quickly get boring. Have no fear! In this talk we will show you a bunch of penetration testing tools you can build from an inexpensive Arduino Leonardo, Arduino Pro Micro or similar Arduino clone.",
+      "event_type": 10,
+      "title": "So many pentesting tools from a $4 Arduino",
+      "start_date": "2018-10-06T21:25+0000",
+      "id": 30299,
+      "link": "",
+      "end_date": "2018-10-06T21:55+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T19:06+0000",
+      "includes": "",
+      "speakers": [
+        30302,
+        30303
+      ]
+    },
+    {
+      "location": 26049,
+      "description": "This talk discusses porting Python payloads to Windows using a little known, former Microsoft project.  It explores offensive uses of .Net and how to reduce attack surface on .Net payloads.",
+      "event_type": 10,
+      "title": "Building an Empire with (Iron)Python",
+      "start_date": "2018-10-06T13:00+0000",
+      "id": 30300,
+      "link": "",
+      "end_date": "2018-10-06T13:50+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T19:11+0000",
+      "includes": "",
+      "speakers": [
+        30304
+      ]
+    },
+    {
+      "location": 26050,
+      "description": "This presentation I will be focusing on what is typically referred to as destructive methods for data acquisition from embedded devices. Focusing on the process of removing embedded Multimedia Media Controller (eMMC) devices from circuit boards to gain access to their contents. But we will take it a step further by covering how to restore the device back to operation including methods and technics on altering the devices firmware prior to rebuilding, to allow for full root level access to functional system after recovery. Topics covered will include, Device removal, eMMC firmware extraction and modification methods. Hot air and infrared reflow methods, BGA re-balling manually and with re-ball kit.",
+      "event_type": 10,
+      "title": "Hardware Slashing, Smashing, and Reconstructing for Root access",
+      "start_date": "2018-10-06T13:00+0000",
+      "id": 30301,
+      "link": "",
+      "end_date": "2018-10-06T13:50+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T19:11+0000",
+      "includes": "",
+      "speakers": [
+        30305
+      ]
+    },
+    {
+      "location": 26051,
+      "description": "There are powerful malicious document generation techniques that are effective at bypassing anti-virus detection. A technique which we refer to as VBA stomping refers to destroying the VBA source code in a Microsoft Office document, leaving only a compiled version of the macro code known as p-code in the document file. Maldoc detection based only on the VBA source code fails in this scenario. Reverse engineering these documents presents significant challenges as well. In this talk we will demonstrate detailed examples of VBA stomping as well as introduce some additional techniques. Reverse engineering and defense tips will also be provided. ",
+      "event_type": 10,
+      "title": "VBA Stomping - Advanced Malware Techniques",
+      "start_date": "2018-10-06T13:00+0000",
+      "id": 30302,
+      "link": "",
+      "end_date": "2018-10-06T13:50+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T19:12+0000",
+      "includes": "",
+      "speakers": [
+        30306,
+        30307,
+        30308
+      ]
+    },
+    {
+      "location": 26052,
+      "description": "Go back in time to September 21, 2017 after Hurricane Maria passed over Puerto Rico and two guys flew from Louisville Kentucky back to a disaster stricken home island. No communications, No Power, almost no technologies worked.  What can a Hacker do?  First, call on the community or as it happened, the community responded without calling. Derbycon, various B Sides, Hackers for Charity and many individuals gave money and time to help out. But, once on ground zero you are basically on your own and you have to hack your way back to civility and survive.",
+      "event_type": 10,
+      "title": "Disaster Strikes: A Hacker's Cook book",
+      "start_date": "2018-10-06T13:00+0000",
+      "id": 30303,
+      "link": "",
+      "end_date": "2018-10-06T13:50+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T19:22+0000",
+      "includes": "",
+      "speakers": [
+        30400,
+        30401
+      ]
+    },
+    {
+      "location": 26049,
+      "description": "Industrial espionage is the practice of secretly gathering information about competing corporation or business interest, with the objective of placing one\u2019s own organization at a strategic or financial advantage. A common practice to achieve this advantage is to elicit information from unwitting individuals through what today is called social engineering (SE). We all hear the term SE so often that we become desensitized to it, thereby INCREASING the effectiveness of it against ourselves and organizations. Thus, will call it what it is - Human Intelligence, also known as HUMINT.Presenting personal experiences as an Army counterintelligence agent with examples of military and industrial espionage, will examine tradecraft employed against individuals every day. We will apply lessons learned from the US military and the intelligence community by using two acronyms taught to Army counterintelligence agents: SAEDA (Subversion and Espionage Directed Against the Army) and MICE (Money, Ideology, Coercion, Ego). By presenting different aspects of HUMINT collection efforts will enable individuals to possibly detect, deflect, and protect oneself from such actions.",
+      "event_type": 10,
+      "title": "SAEDY: Subversion and Espionage Directed Against You",
+      "start_date": "2018-10-06T14:00+0000",
+      "id": 30304,
+      "link": "",
+      "end_date": "2018-10-06T14:50+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T19:22+0000",
+      "includes": "",
+      "speakers": [
+        26366
+      ]
+    },
+    {
+      "location": 26050,
+      "description": "Want to get a good overview of AppLocker and the different AppLocker bypasses and at the same time learn how defenders can harden their environments to prevent them?  Then this is a talk you don't want to miss. This talk will cover a vast amount of bypass techniques and how to harden AppLocker to make it even harder to bypass. Giving you help to either start or avoid an App-o-Lockalypse.",
+      "event_type": 10,
+      "title": "App-o-Lockalypse now!",
+      "start_date": "2018-10-06T14:00+0000",
+      "id": 30305,
+      "link": "",
+      "end_date": "2018-10-06T14:50+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T19:23+0000",
+      "includes": "",
+      "speakers": [
+        30263
+      ]
+    },
+    {
+      "location": 26051,
+      "description": "Infosec researchers, experts, and hackers in general have a\u2026fraught relationship with media, ranging from exploitive to adversarial. Recent episodes, including the doxxing of Marcus Hutchins by UK media and sensational coverage of his arrest, don't help, nor do broadcast media reports that are often factually incorrect or even damaging to the security of those who take the reports as gospel. And researchers looking to get out word to the general public are often (based on anecdotal data) confused or intimidated by the media machine. This presentation seeks to demystify how news media work,  the strengths and weaknesses of each channel of communications, and how to effectively interact with journalists in a way that is constructive and productive.  We are infosec journalists\u2014ask us anything.",
+      "event_type": 10,
+      "title": "Media hacks: an Infosec guide to dealing with journalists",
+      "start_date": "2018-10-06T14:00+0000",
+      "id": 30306,
+      "link": "",
+      "end_date": "2018-10-06T14:50+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T19:26+0000",
+      "includes": "",
+      "speakers": [
+        30403,
+        30404,
+        30405
+      ]
+    },
+    {
+      "location": 26052,
+      "description": "There is a vast amount of information that exist in the modern world.  More so than has ever existed in any society at any time in the history of mankind.  Companies, individual, organizations, and nations keep adding to this massive sea of data.  Wouldn\u2019t you like to get your hands on some of it?  This presentation will show you how to do just that very thing with no tools. Simply using the right browser, search commands and Boolean logic.  You will learn how to navigate and surf this ocean of information and find repositories that others a have placed online. Repositories a.k.a. loot which they believe to be safe from others but, in fact they are not.  You will learn a few simple techniques that allow you to find their loot and take it for yourself or others.  The techniques to accomplish this are not new, in fact they are very old by Information Technology time.  However they are as relevant today as they were more than thirteen years ago when people first started to compile them.  The techniques will enable you to sift through the haystack of information that you normally get when web searching to find the specific needles that you seek.  These techniques will optimize your search time and provide a greater focus of the desired target than you have ever had before.  All accomplished from a \"search engine\" you use every day.  ",
+      "event_type": 10,
+      "title": "Ninja Looting Like a Pirate",
+      "start_date": "2018-10-06T14:00+0000",
+      "id": 30307,
+      "link": "",
+      "end_date": "2018-10-06T14:50+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T19:27+0000",
+      "includes": "",
+      "speakers": [
+        30406
+      ]
+    },
+    {
+      "location": 26049,
+      "description": "Back in 2016 I discovered a new OSX strain of the Pirrit adware/malware which up until then only targeted windows machines. I completely reverse engineered the malware, which runs with root privileges, hijacks all the HTTP traffic on the infected machine, and employs several other nefarious tricks. Due to some stunning opsec mistakes (which I will cover) I found the malware\u2019s authors downright to their full names and the company that they work for. Fast forward almost\u00a0two years later, OSX/Pirrit was back with a vengeance, employing new techniques and learning their lessons from everything I wrote about in my previous reports. Nevertheless, after lots of binary reverse engineering, going through thousands of lines of JavaScript, bash, and AppleScript code - I managed to reveal just how sinister the new version of OSX/pirrit is which is virtually impossible to remove without deep OSX knowledge. Due to more opsec mistakes by the authors I managed to tie this new wave of infections back to On top of that, TargetingEdge, the company who makes this adware/malware, bombarded us with cease and desist letters, threatening my employer and myself personally - trying to keep us from publishing our report.\u00a0In my talk I will highlight all of the methods that were used by the authors of the malware to abuse systems, I will guide the attendees through the process of reverse engineering such malware and share with everyone the amazing and hilarious story behind this whole incident.\u00a0There will be IDA screenshots, there will be stunning opsec mistakes by the authors and there will lolz galore.Join me for a session about reverse engineering, browser hooking tricks on OSX and interesting tales about my time with our corporate attorney battling these legal threats.\u00a0This talk is meant for beginners and experienced audiences alike as I intend to walk through all the phases of my research. Attendees will walk out this talk knowing a lot about the security and the process of malware analysis on macs along with how to handle situations where the malware authors are sending their attorneys on you.",
+      "event_type": 10,
+      "title": "OSX/Pirrit - Reverse engineering mac OSX malware and the legal department of the company who makes it",
+      "start_date": "2018-10-06T16:00+0000",
+      "id": 30308,
+      "link": "",
+      "end_date": "2018-10-06T16:50+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T19:27+0000",
+      "includes": "",
+      "speakers": [
+        30407,
+        30408,
+        30409
+      ]
+    },
+    {
+      "location": 26050,
+      "description": "Getting started with web apps can be a daunting task.  \"Ooh, shiny!\" rabbit holes are just around the corner with every click.  Without a good plan and a road map, it can be very easy to get lost in these holes and run out of time before reaching your goal.  This talk covers how to identify the goal and set up a plan that will help you avoid the rabbit holes, identify the points you should focus on, and ultimately help you become an effective application tester.",
+      "event_type": 10,
+      "title": "Web App 101: Getting the lay of the land",
+      "start_date": "2018-10-06T16:00+0000",
+      "id": 30309,
+      "link": "",
+      "end_date": "2018-10-06T16:50+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T19:28+0000",
+      "includes": "",
+      "speakers": [
+        30310
+      ]
+    },
+    {
+      "location": 26051,
+      "description": "\"Assume the network is compromised\" has been a popular mantra in information security for years now. So how do defenders operate in such an environment? Honeypots and honeytokens that are well-planned and strategically-placed can enhance any organization's threat detection capability. This talk will demonstrate a few of the various free, open-source solutions available as well as a strategic plan for deploying them.",
+      "event_type": 10,
+      "title": "Deploying Deceptive Systems: Luring Attackers from the Shadows",
+      "start_date": "2018-10-06T16:00+0000",
+      "id": 30310,
+      "link": "",
+      "end_date": "2018-10-06T16:50+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T19:28+0000",
+      "includes": "",
+      "speakers": [
+        30309
+      ]
+    },
+    {
+      "location": 26052,
+      "description": "Scientists have estimated by the year 2033 the entire solar system will be made up of mobile apps. Be prepared by mastering Frida, the mobile instrumentation (cough hacking) toolkit. Testing beyond traffic analysis can be extremely useful for any form of mobile pentest or bug bounty. In this talk we are going to cover getting up and running with Frida for hacking mobile applications. We will look at several of the built-in Frida tools, as well as some very helpful projects that utilize Frida. This will include being able to examine the live, running functionality of both iOS and Android apps to learn how they work, and hopefully how to alter they way they work. You will walk away with a new methodology for attacking mobile apps, and a lifelong friendship.",
+      "event_type": 10,
+      "title": "Hacking Mobile Applications with Frida",
+      "start_date": "2018-10-06T16:00+0000",
+      "id": 30311,
+      "link": "",
+      "end_date": "2018-10-06T16:50+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T19:29+0000",
+      "includes": "",
+      "speakers": [
+        30311
+      ]
+    },
+    {
+      "location": 26049,
+      "description": "Network Investigative Techniques are used to investigate cyber criminal activities. These techniques have been used to unmask users of TOR whom are downloading illegal content from the Tor network. This talk will discuss such techniques, discuss ethical and legal issues and describe a methodology to test and verify such techniques.",
+      "event_type": 10,
+      "title": "How to test Network Investigative Techniques(NITs) used by the FBI",
+      "start_date": "2018-10-06T17:00+0000",
+      "id": 30312,
+      "link": "",
+      "end_date": "2018-10-06T17:50+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T19:29+0000",
+      "includes": "",
+      "speakers": [
+        30312
+      ]
+    },
+    {
+      "location": 26050,
+      "description": "Skilled attackers continually seek out new attack vectors and effective ways of obfuscating old techniques to evade detection. Active defenders can attest to attackers\u2019 prolific obfuscation of JavaScript, VBScript and PowerShell payloads given the ample availability of obfuscation frameworks and their effectiveness at evading many of today\u2019s defenses. However, advanced defenders are increasingly detecting this obfuscation with help from the data science community. This approach paired with deeper visibility into memory-resident payloads via interfaces like Microsoft\u2019s Antimalware Scan Interface (AMSI) is causing some Red Teamers to shift tradecraft to languages that offer defenders less visibility. But what are attackers using in the wild? In the past year numerous APT and FIN (Financial) threat actors have increasingly introduced obfuscation techniques into their usage of native Windows binaries like wscript.exe, regsvr32.exe and cmd.exe. Some simple approaches entail randomly adding cmd.exe\u2019s caret (^) escape character to command arguments. More interesting techniques like those employed by APT32, FIN7 and FIN8 involve quotes, parentheses and standard input.The most interesting obfuscation technique observed in the wild was FIN7\u2019s use of cmd.exe\u2019s string replacement functionality identified in June 2017. This discovery single-handedly initiated my research into cmd.exe\u2019s surprisingly effective but vastly unexplored obfuscation capabilities. In this presentation I will dive deep into cmd.exe\u2019s multi-faceted obfuscation opportunities beginning with carets, quotes and stdin argument hiding. Next I will extrapolate more complex techniques including FIN7\u2019s string removal/replacement concept and two never-before-seen obfuscation and full encoding techniques \u2013 all performed entirely in memory by cmd.exe. Finally, I will outline three approaches for obfuscating binary names from static and dynamic analysis while highlighting lesser-known cmd.exe replacement binaries. I will conclude this talk by giving a live demo of my cmd.exe obfuscation framework called Invoke-DOSfuscation that obfuscates payloads using these multi-layered techniques. I will also share detection implications and approaches for this genre of obfuscation.",
+      "event_type": 10,
+      "title": "Invoke-DOSfuscation: Techniques FOR %F IN (-style) DO (S-level CMD Obfuscation)",
+      "start_date": "2018-10-06T17:00+0000",
+      "id": 30313,
+      "link": "",
+      "end_date": "2018-10-06T17:50+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T19:30+0000",
+      "includes": "",
+      "speakers": [
+        30313
+      ]
+    },
+    {
+      "location": 26051,
+      "description": "After 15 years of building security products, I decided to join the front lines of the fight by taking a real-world job running product management & engineering, for a team that was building a new cash/debit[credit-rails] payments platform. My first day on the job we discovered we were being attacked by an organized crime ring. For roughly every $150k stolen - it meant we had to lay someone off - further reducing our ability to be effective. Tense moments. We also had no Infosec/Cybersecurity staff, nor any type of Infosec or Anti-Fraud software/systems.  We only had a Windows-based \u201cCompliance System\u201d that looked like it was written in the late 90s. In spite of that we managed to cut our losses to zero dollars for almost six months! The next 13 months were a bloody battle that ended with me losing my job. If you like real world cybersecurity; want to learn how we built an anti-fraud system from scratch; or simply like schadenfreude - join me for a laugh and a few super-obvious lessons in statistics. :)",
+      "event_type": 10,
+      "title": "The Money-Laundering Cannon: Real cash; Real Criminals; and Real Layoffs",
+      "start_date": "2018-10-06T17:00+0000",
+      "id": 30314,
+      "link": "",
+      "end_date": "2018-10-06T17:50+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T19:30+0000",
+      "includes": "",
+      "speakers": [
+        30314
+      ]
+    },
+    {
+      "location": 26052,
+      "description": "Is your internal red team withholding their TTPs from the defense? Defenders, are you constantly trying to \u201cwin\u201d your pentests by fixing vulns on the fly? Have you been on engagements where the blue team starts blocking your ips and targeting you just to prove that they are better, or had pentesters that mock your environment on twitter like you are the butt of an InfoSec joke. These approaches are not working, not only from a personal level but from an industry level. How we choose to work with each other needs to grow if our goal is to protect those around us rather than make a name for ourselves. Come hear stories of offensive engagements done right (and really really wrong), and learn from a seasoned defender and attacker how partnerships should be forged to be most impactful. Victims complain, Victors adapt. Which are you?",
+      "event_type": 10,
+      "title": "Victor or Victim? Strategies for Avoiding an InfoSec Cold War",
+      "start_date": "2018-10-06T17:00+0000",
+      "id": 30315,
+      "link": "",
+      "end_date": "2018-10-06T17:50+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T19:30+0000",
+      "includes": "",
+      "speakers": [
+        30315,
+        30316
+      ]
+    },
+    {
+      "location": 26049,
+      "description": "You don't have to hate your motherboard, or want a magic wand to solve all your computering problems because everyone is medicating with the cloud these days, but not every cloud platform is created equal. Much like security conference attendees each cloud has its own special sauce, and \u201cidiosyncrasies\u201d. Azure has a shadow twin no one likes to discuss, GCP hands out public IPs like it\u2019s 1983 again, and AWS is praised as the golden child because they did their homework. While ranting about these quirks Cara and Andy plan on presenting some of the solutions that they have written to deal with a few of the more annoying issues that can rear their ugly heads when deploying in the cloud.",
+      "event_type": 10,
+      "title": "Cloud Computing Therapy Session",
+      "start_date": "2018-10-06T18:00+0000",
+      "id": 30316,
+      "link": "",
+      "end_date": "2018-10-06T18:50+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T19:31+0000",
+      "includes": "",
+      "speakers": [
+        30317,
+        30318
+      ]
+    },
+    {
+      "location": 26050,
+      "description": "In this presentation we will show how effective a team of individuals can be in using open source intelligence gathering techniques in gathering leaked data on the electrical grid. By using Google dorking alone, the team has been able to not only gather insider information on grid technologies but also their deployment in the US including and up to passwords to systems and blueprints and runbooks. Using such information an attacker could not only attempt to gain access to power company and grid networks but also easily be able to connect the dots and perform hybrid (physical and electronic) attacks on the US power grid systems.",
+      "event_type": 10,
+      "title": "WE ARE THE ARTILLERY: Using Google Fu To Take Down The Grids",
+      "start_date": "2018-10-06T18:00+0000",
+      "id": 30317,
+      "link": "",
+      "end_date": "2018-10-06T18:50+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T19:33+0000",
+      "includes": "",
+      "speakers": [
+        30319,
+        30320,
+        30411
+      ]
+    },
+    {
+      "location": 26051,
+      "description": "Containers don't always contain. For attackers, Kubernetes contains a number of interesting attack surfaces and opportunities for exploitation. For defenders and operators, it's complicated to set up and the defaults often aren't enough. This can create a perfect storm. This talk will walk you through attacking Kubernetes clusters, and give defenders tools and techniques to protect themselves from shipwrecks.",
+      "event_type": 10,
+      "title": "Perfect Storm: Taking the Helm of Kubernetes",
+      "start_date": "2018-10-06T18:00+0000",
+      "id": 30318,
+      "link": "",
+      "end_date": "2018-10-06T18:50+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T19:33+0000",
+      "includes": "",
+      "speakers": [
+        30321
+      ]
+    },
+    {
+      "location": 26052,
+      "description": "Ubiquiti network gear has become a favorite among tech enthusiasts. Unfortunately, various Ubiquiti products have had some serious vulnerabilities in recent history, and like most products, there are deployment decisions that can dramatically reduce the security of the network. There are even features that can provide shell access to the network from the internet. Listen in as we discuss how to go from zero access from the Internet to a root shell via Ubiquiti gear.  We'll also explore methods to weaponize the Unifi APs and Unifi Cloud Key devices to for use as attack platforms.",
+      "event_type": 10,
+      "title": "Ubiquitous Shells",
+      "start_date": "2018-10-06T18:00+0000",
+      "id": 30319,
+      "link": "",
+      "end_date": "2018-10-06T18:50+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T19:34+0000",
+      "includes": "",
+      "speakers": [
+        30322
+      ]
+    },
+    {
+      "location": 26049,
+      "description": "Social Engineering and Open Source Intelligence (OSINT) are silent modes of compromising businesses. This presentation takes experience from the field and from a simulated compromise of a Fortune 500 from a Social Engineering Capture the Flag and applies it to help organizations better understand the threat landscape and arms them with actionable advice to employ internally to minimize the impact of such attacks. We also identify places to find data, which provides insight for more valuable data sources. This includes a demo of OSINT techniques, phishing, and a pretexting discussion. This aims to help penetration testers, social engineers, and other interested (and authorized) parties find ways to gain information about an organization and its people to be able to overcome the technical limitations of the perimeter and gain access to allow further exploitation.",
+      "event_type": 10,
+      "title": "Silent Compromise: Social Engineering Fortune 500 Businesses",
+      "start_date": "2018-10-06T19:00+0000",
+      "id": 30320,
+      "link": "",
+      "end_date": "2018-10-06T19:50+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T19:34+0000",
+      "includes": "",
+      "speakers": [
+        30323
+      ]
+    },
+    {
+      "location": 26050,
+      "description": "Everyone loves the \u2018shiny blinky security hardware\u2019. However, they don\u2019t work as well if a user or your physical security is compromised. In this talk, I will be discussing three (3) different Security Awareness/Social Engineering scenarios: a pretexting exercise, a phishing exercise, and a physical security assessment. I will go over what they are, what they look like, some tips and tricks that I have found for all three (3) that have worked great (at least for me), as well as what failed miserably. There will be some amusing stories from the field, some tips for new folks getting started with social engineering, as well as defense tips for the sys admins and blue teamers out there. ",
+      "event_type": 10,
+      "title": "Just Let Yourself In",
+      "start_date": "2018-10-06T19:00+0000",
+      "id": 30321,
+      "link": "",
+      "end_date": "2018-10-06T19:50+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T19:34+0000",
+      "includes": "",
+      "speakers": [
+        30324
+      ]
+    },
+    {
+      "location": 26051,
+      "description": "Planning and running an InfoSec conference can be the most fun and rewarding time that you can have herding cats. The 304 Geeks have been mostly successfully running Hack3rcon for the last 9 years.  In this talk we will share our perspective on how to build your organization and get started running your very own conference.",
+      "event_type": 10,
+      "title": "How to put on a Con for Fun and (Non) Profit",
+      "start_date": "2018-10-06T19:00+0000",
+      "id": 30322,
+      "link": "",
+      "end_date": "2018-10-06T19:50+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T19:35+0000",
+      "includes": "",
+      "speakers": [
+        30325,
+        30326,
+        30327,
+        30328,
+        30329,
+        30330,
+        30331,
+        30332
+      ]
+    },
+    {
+      "location": 26052,
+      "description": "From the venerable bind shell, to the reverse shell, the IRC bot channel, the icmp/dns/custom UDP tunnel, and the asynchronous HTTP C&C server, remote access has taken many forms since we first began remotely exploiting software. Even today, many traditional methods will still frequently bypass firewalls and detection, and additional methods continue to be devised. But as an attacker, what do I do when my favorite method is blocked? What are my options other than reusing a stale python script from github or creating my own ad-hoc, informally-specified, bug-ridden, slow implementation of a high-level messaging protocol? And as a defender, how can I measure my ability to detect the diverse C&C traffic that may be seen today, and also prepare for new and unexpected channels? In this talk, we will discuss the evolution of command and control methods, their strengths and weaknesses from an attacker's perspective, and the capabilities of a defender to detect and respond to them. We will identify what aspects a forward-thinking C&C framework might require, and then demonstrate a proof-of-concept with 99(ish) different interchangeable methods for communication. Finally, we will discuss some of the shortcomings of egress filtering in enterprise environments that should be addressed in order to mature our detection and response in kind.",
+      "event_type": 10,
+      "title": "99 Reasons Your Perimeter Is Leaking - Evolution of C&C",
+      "start_date": "2018-10-06T19:00+0000",
+      "id": 30323,
+      "link": "",
+      "end_date": "2018-10-06T19:50+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T19:35+0000",
+      "includes": "",
+      "speakers": [
+        30333
+      ]
+    },
+    {
+      "location": 26049,
+      "description": "Sometimes you want to be able to pull forensic images off your production hosts but you want to make sure you set that up correctly because if you don\u2019t people might steal customer financial data or cryptocurrency private keys for hot wallets or something and that would be a very bad day for you and for the cryptocurrency community.  This talk introduces Dexter, a forensics tool for high security environments.  Dexter makes sure that no single person can do scary forensics things, and that the scary results of the scary forensics things can only be read by people who aren\u2019t scary.  I\u2019ll give an overview of the Coinbase production environment, data pipeline, and detection tooling to set the stage for when we might use Dexter.  Then we\u2019ll walk through how Dexter works and do a demo that will totally work and not have any technical issues whatsoever.",
+      "event_type": 10,
+      "title": "Dexter: the friendly forensics expert on the Coinbase security team",
+      "start_date": "2018-10-06T20:00+0000",
+      "id": 30324,
+      "link": "",
+      "end_date": "2018-10-06T20:50+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T19:36+0000",
+      "includes": "",
+      "speakers": [
+        30334
+      ]
+    },
+    {
+      "location": 26050,
+      "description": "Buffer overflows, a condition where attacker-controlled input overwrites program data, are consistently being used in large-scale attacks, including Stuxnet in 2011 and WannaCry in 2017.  In this interactive presentation we will demonstrate how to test for and craft buffer overflows, even without an application's source code.  Then we will alternately introduce more exploit mitigations, including ASLR, NX, and Stack Canaries, and demonstrate how to bypass each one of them -- all with live demos!  Materials at github.com/parkergarrison/overflow",
+      "event_type": 10,
+      "title": "A \u201cCrash\u201d Course in Exploiting Buffer Overflows (Live Demos!)",
+      "start_date": "2018-10-06T20:00+0000",
+      "id": 30325,
+      "link": "",
+      "end_date": "2018-10-06T20:50+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T19:36+0000",
+      "includes": "",
+      "speakers": [
+        30335
+      ]
+    },
+    {
+      "location": 26051,
+      "description": "Web based applications and services are the key technologies behind modern service delivery. And their security, or lack thereof, can make or break a company. We developed an approach to follow including tools to help with the assessment throughout each step of the process, leveraging free and commercial products that can assist the assessment process. There are more engagements than there are resources, so we set out on a mission to train new web application testers on a portable platform to teach them an approach to not only test application security but also leverage tools that simplify the process, in effect cheating to win. To conduct that training, we had to develop a classroom-in-a-box, which included the network, the targets and tools for the students. Over the last year, we have leveraged Raspberry Pi Zeros, Thumb Drives with Kali Linux, Chromebooks and Intel NUC servers. We will discuss the pros and cons, showing what works and what to avoid, as well as what can be leveraged to build a home lab, or your own classroom in a box. The user will leave with information they can take back to their home organization to serve as a foundation for either an ad-hoc or ongoing capability.",
+      "event_type": 10,
+      "title": "Web app testing classroom in a box - the good, the bad and the ugly",
+      "start_date": "2018-10-06T20:00+0000",
+      "id": 30326,
+      "link": "",
+      "end_date": "2018-10-06T20:50+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T19:36+0000",
+      "includes": "",
+      "speakers": [
+        30336,
+        30337,
+        30338
+      ]
+    },
+    {
+      "location": 26052,
+      "description": "In 1995,  when the fictitious Dade Murphy and his friends stopped oil tankers from being capsized by a virus in the movie \u201cHackers\u201d, \u201cdigital piracy\u201d was just a euphemism for copyright infringement and sharing music.  Today digital piracy is anything but a euphemism or fiction.  From breaches by pirates seeking cargo information, to denial of service (DOS) attacks on offshore oil platforms, there are very real threats to the maritime sector.  This talk will provide an introduction to understanding ships as Industrial Control Systems (ICS) and lessons learned from vulnerability research on marine diesel engine controllers.  We also hope to challenge our peers in the infosec community to apply their skills, red and blue, to protect our maritime critical infrastructure.  A talk for anyone who likes computers and pirates.  Arrgh!",
+      "event_type": 10,
+      "title": "Ship Hacking: a Primer for Today\u2019s Pirate",
+      "start_date": "2018-10-06T20:00+0000",
+      "id": 30327,
+      "link": "",
+      "end_date": "2018-10-06T20:50+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T19:37+0000",
+      "includes": "",
+      "speakers": [
+        30339,
+        30340
+      ]
+    },
+    {
+      "location": 26049,
+      "description": "If you see a label or receipt there is a good chance it was printed by a Zebra printer. Everyone has come in contact with a Zebra printer if you have ever returned a rental car.  Every price label you see in your local grocery or department store is printed by a Zebra printer.  Warehouses, distribution centers, and even hospitals rely on the ability to print bar-coded labels for tracking purposes. These embedded devices pack a powerful real-time operating system offering an array of services that facilitate communication with the corporate environment.  By default these services offer an attack surface into the corporate environment that is alarming.  Take a trip on a safari as we go hunting Zebra printers in the wild.",
+      "event_type": 10,
+      "title": "Going on a Printer Safari \u2013 Hunting Zebra Printers",
+      "start_date": "2018-10-06T21:00+0000",
+      "id": 30328,
+      "link": "",
+      "end_date": "2018-10-06T21:50+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T19:37+0000",
+      "includes": "",
+      "speakers": [
+        30341
+      ]
+    },
+    {
+      "location": 26050,
+      "description": "Linux container technologies offer the ability to run software in isolation with a significantly reduced attack surface. By reducing the capabilities and resources a container can utilize, we make it increasingly difficult to elevate privileges, gain persistence or move laterally within a cluster of containerized services. While Docker is the container technology most people are familiar with, there are other container types to think about too, each with their own opinionated take on security. It\u2019s getting increasingly common to adopt other runtimes through the Open Container Initiative (OCI) specification using interfaces and shims provided by container orchestration platforms. Containers that use Linux namespaces and control groups for isolation typically provide weaker protections against escaping than hypervisor-based containers, further detaching security reality from your hopes and dreams. This presentation will focus on the security and kernel protections available in several popular Linux container technologies including Docker, Rkt, LXC, Kata and gVisor. We will explore how the default runtime security controls stack up under attack and how they attempt to isolate resources at security boundaries. We will explore the container hardening process through AppArmor, SELinux, Seccomp and Capabilities. At the end of this presentation, you\u2019ll be motivated to run minimally privileged containers that are isolated from doing any real damage. You\u2019ll have plenty of time for security when your code is living in a container down by the river.",
+      "event_type": 10,
+      "title": "Living in a Secure Container, Down by the River",
+      "start_date": "2018-10-06T21:00+0000",
+      "id": 30329,
+      "link": "",
+      "end_date": "2018-10-06T21:50+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T19:38+0000",
+      "includes": "",
+      "speakers": [
+        30342
+      ]
+    },
+    {
+      "location": 26051,
+      "description": "In our fourth Metasploit Town Hall, join us for a look at the hotness that landed in Metasploit 5 this past year\u2014including Python-based modules, new exploits, and fresh EternalBlue additions. We\u2019ll demo some of the latest and greatest work coming out of our team and our top-notch contributor base, and then we\u2019ll offer ourselves up to the crowd for questions and conversation about what you\u2019d like to see Metasploit take on next.",
+      "event_type": 10,
+      "title": "Metasploit Town Hall 0x4",
+      "start_date": "2018-10-06T21:00+0000",
+      "id": 30330,
+      "link": "",
+      "end_date": "2018-10-06T21:50+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T19:38+0000",
+      "includes": "",
+      "speakers": [
+        30343,
+        30344,
+        30345,
+        30346
+      ]
+    },
+    {
+      "location": 26052,
+      "description": "There are several languages and methods used to execute code on a computer system, such as C#, Powershell, Python, VBA, and many more. The defense is getting better, which has caused the offense to adapt and look for innovative ways to \u201clive off the land\u201d. One area that has not been explored deeply is utilizing tools that the Java Development Kit (JDK) provides. According to a statement by Oracle, Java runs on 3 billion devices. Enterprises depend on Java running on their user endpoints and servers in order to keep their businesses running. This makes using tools installed with the JDK very enticing to attackers. This talk will explore using JDK command-line scripting tools and the Nashorn Javascript Engine to perform several actions, such as downloading files, executing scripts locally and remotely, and gaining a remote interactive shell to a computer system. Detective and preventive controls will also be discussed for the usage of these JDK scripting tools.",
+      "event_type": 10,
+      "title": "Code Execution with JDK Scripting Tools & Nashorn Javascript Engine",
+      "start_date": "2018-10-06T21:00+0000",
+      "id": 30331,
+      "link": "",
+      "end_date": "2018-10-06T21:50+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T19:38+0000",
+      "includes": "",
+      "speakers": [
+        30347
+      ]
+    },
+    {
+      "location": 26051,
+      "description": "Career development is typically seen as a progression of education, certification and job moves. However, to progress in our careers it is helpful to build both technical and non-technical skills in different environments to challenge us and give us the opportunity to learn. Community involvement strengthens not only the overall community but provides opportunities to stretch and learn new skills that support personal growth. We will review presenting, con management and competitions as ways to strengthen your career. We will hear from a recruiter involved in the community how they evaluate these experiences and recommendations on presenting this information in your job search. Finally, we will address burnout, exhaustion and how not to burn bridges.",
+      "event_type": 10,
+      "title": "Community Based Career Development or How to Get More than a T-Shirt When Participating as part of the Community ",
+      "start_date": "2018-10-06T22:00+0000",
+      "id": 30332,
+      "link": "",
+      "end_date": "2018-10-06T22:50+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T19:39+0000",
+      "includes": "",
+      "speakers": [
+        30348,
+        30349,
+        30350,
+        30351,
+        30352
+      ]
+    },
+    {
+      "location": 26052,
+      "description": "By now we all know that mobile advertisements aren't secure. How would an attacker take advantage of that, though, and spy on people without their consent, knowledge or interaction, and how do we defend against it? Let's take a journey through the demand-side of advertising as we put ourselves in the role of an attacker, build an ad-based surveillance system, and unleash it on the masses. I'll demonstrate how, using the built-in features of advertising Demand Side Platforms (DSPs), it's easy to build a surveillance system that can track unsuspecting people. I'll demonstrate that some platforms make it much easier than it needs to be, and I'll show that there's more than just geo-locations at risk here. Finally I will discuss some ways that everyone can help mitigate this, from the users, all the way up to the ad networks and software developers. Like every good spy story, this one includes Russian ad networks, hastily written code, and GPS coordinates - lots of GPS coordinates. By now if you're still clinging desperately to the hope that your location is safe then this talk is for you!",
+      "event_type": 10,
+      "title": "PHONOPTICON - leveraging low-rent mobile ad services to achieve state-actor level mass surveillance on a shoestring budget",
+      "start_date": "2018-10-06T22:00+0000",
+      "id": 30333,
+      "link": "",
+      "end_date": "2018-10-06T22:50+0000",
+      "conference": "DC80",
+      "updated_at": "2018-10-01T19:39+0000",
+      "includes": "",
+      "speakers": [
+        30353
+      ]
     }
-  ]
+  ],
+  "updated_at": "2018-10-01T19:39+0000"
 }
