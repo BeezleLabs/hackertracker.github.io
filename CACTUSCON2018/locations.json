@@ -1,47 +1,47 @@
 {
-  "updated_at": "2018-09-26T01:18+0000",
   "locations": [
     {
-      "name": "Track 1",
-      "conference": "CACTUSCON2018",
+      "id": 30201,
       "updated_at": "2018-09-26T01:18+0000",
-      "id": 30201
+      "conference": "CACTUSCON2018",
+      "name": "Track 1"
     },
     {
-      "name": "Track 2",
-      "conference": "CACTUSCON2018",
+      "id": 30202,
       "updated_at": "2018-09-26T01:18+0000",
-      "id": 30202
+      "conference": "CACTUSCON2018",
+      "name": "Track 2"
     },
     {
-      "name": "Theater",
-      "conference": "CACTUSCON2018",
+      "id": 30203,
       "updated_at": "2018-09-26T01:18+0000",
-      "id": 30203
+      "conference": "CACTUSCON2018",
+      "name": "Theater"
     },
     {
-      "name": "Apache",
-      "conference": "CACTUSCON2018",
+      "id": 30204,
       "updated_at": "2018-09-26T01:18+0000",
-      "id": 30204
+      "conference": "CACTUSCON2018",
+      "name": "Apache"
     },
     {
-      "name": "Palo Verde 1-2",
-      "conference": "CACTUSCON2018",
+      "id": 30205,
       "updated_at": "2018-09-25T08:05+0000",
-      "id": 30205
+      "conference": "CACTUSCON2018",
+      "name": "Palo Verde 1-2"
     },
     {
-      "name": "Palo Verde 3",
-      "conference": "CACTUSCON2018",
+      "id": 30206,
       "updated_at": "2018-09-25T08:05+0000",
-      "id": 30206
+      "conference": "CACTUSCON2018",
+      "name": "Palo Verde 3"
     },
     {
-      "name": "Superstition Ballroom",
-      "conference": "CACTUSCON2018",
+      "id": 30207,
       "updated_at": "2018-09-25T08:05+0000",
-      "id": 30207
+      "conference": "CACTUSCON2018",
+      "name": "Superstition Ballroom"
     }
-  ]
+  ],
+  "updated_at": "2018-09-26T01:18+0000"
 }
