@@ -1,20 +1,6 @@
 {
-  "updated_at": "2018-10-04T15:18+0000",
+  "updated_at": "2018-10-02T18:15+0000",
   "schedule": [
-    {
-      "speakers": [],
-      "event_type": 10,
-      "link": "",
-      "conference": "DC80",
-      "location": 26049,
-      "title": "Opening Ceremonies",
-      "id": 26049,
-      "includes": "",
-      "start_date": "2018-09-26T21:00+0000",
-      "description": "",
-      "end_date": "2018-09-26T21:10+0000",
-      "updated_at": "2018-10-04T15:18+0000"
-    },
     {
       "speakers": [
         30239
