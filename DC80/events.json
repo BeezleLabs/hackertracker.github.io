@@ -1,19 +1,19 @@
 {
-  "updated_at": "2018-10-04T16:28+0000",
+  "updated_at": "2018-10-04T16:52+0000",
   "schedule": [
     {
       "speakers": [],
-      "event_type": 10,
+      "event_type": 30209,
       "link": "",
-      "conference": "DC80-null",
-      "location": 26049,
-      "title": "Opening Ceremonies",
+      "conference": "DC80",
+      "location": 30209,
+      "title": "Capture the Flag 8.0 ",
       "id": 26878,
       "includes": "",
-      "start_date": "2017-09-26T21:00+0000",
-      "description": "",
-      "end_date": "2017-09-26T21:10+0000",
-      "updated_at": "2018-10-04T16:28+0000"
+      "start_date": "2018-10-07T14:00+0000",
+      "description": "Contest runs from Friday 12pm to Sunday 12pm\r\n\r\nFriday: 12pm to 9pm, Saturday: 9am to 9pm\r\n\r\nSunday: 10am to 12pm\r\n\r\nCome and test your skillz! Come and compete against other\r\n\r\npeople in the industry!\r\n\r\nThe capture the flag event is an open event and there are no qualifiers. Anyone can participate via self-registration. There will be posters around the venue with information on how to connect and play as well as information regularly distributed through the official DerbyCon CTF Twitter account @DerbyConCTF.\r\n\r\nThe wireless network information is:\r\n\r\nWireless SSID: DerbyCon-CTF\r\n\r\nPassword: DerbyCon-CTF\r\n\r\nAfter connecting to CTF network, registration and rules located at https://scoreboard.ctf.derbycon.com\r\n\r\nPRIZES:\r\n\r\nBlack Badge\r\n\r\n2019 Conference Ticket   \u2013   $500 cash   \u2013   $350 cash\r\n\r\n$200 cash   \u2013   $100 cash   \u2013   $100 Visa gift card   \u2013   $100 Visa gift card\r\n\r\n$50 Amazon gift card   \u2013   $50 Amazon gift card\r\nWinners announced @ closing ceremony\r\n\r\nBYOEPC \u2013 Bring your own ethernet patch cord\r\n\r\nSponsored By: Synack",
+      "end_date": "2018-10-07T16:00+0000",
+      "updated_at": "2018-10-04T16:52+0000"
     },
     {
       "speakers": [
