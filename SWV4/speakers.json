@@ -1,305 +1,335 @@
 {
-  "updated_at": "2018-10-17T22:42+0000",
+  "updated_at": "2018-11-26T16:49+0000",
   "speakers": [
     {
+      "link": "",
       "id": 30412,
-      "description": "",
+      "updated_at": "2018-10-17T22:42+0000",
+      "conference": "SWV4",
       "twitter": "@kungfujo",
+      "description": "",
       "title": "",
-      "updated_at": "2018-10-17T22:42+0000",
-      "name": "Benny Karnes",
-      "link": "",
-      "conference": "SWV4"
+      "name": "Benny Karnes"
     },
     {
+      "link": "",
       "id": 30413,
-      "description": "",
-      "twitter": "",
-      "title": "",
       "updated_at": "2018-10-17T22:42+0000",
-      "name": "datagram",
-      "link": "",
-      "conference": "SWV4"
+      "conference": "SWV4",
+      "twitter": "",
+      "description": "",
+      "title": "",
+      "name": "datagram"
     },
     {
+      "link": "",
       "id": 30414,
+      "updated_at": "2018-10-17T22:42+0000",
+      "conference": "SWV4",
+      "twitter": "",
       "description": "Aaron Riley is an Intelligence Analyst with the Cofense Intelligence team. His responsibilities within this team include incident and malware research which require extensive analytical and technical skills. Aaron is an avid proponent of cyber security. He has degrees in networking and programming, as well as being certified in digital forensics. Aaron shows great insight within all domains of the cyber security realm and presents regularly on multiple security topics. He is a member of many local and national cyber security groups, and enjoys connecting with other peers in the industry.",
-      "twitter": "",
       "title": "",
-      "updated_at": "2018-10-17T22:42+0000",
-      "name": "Aaron Riley",
-      "link": "",
-      "conference": "SWV4"
+      "name": "Aaron Riley"
     },
     {
+      "link": "",
       "id": 30415,
+      "updated_at": "2018-10-17T22:42+0000",
+      "conference": "SWV4",
+      "twitter": "",
       "description": "Data Analyst by day, Security Enthusiast by night. I have a Computer Engineering degree from WVU Tech, where I discovered my curiosity for cryptography. My personal motto is \"Automate Everything.\"",
-      "twitter": "",
       "title": "",
-      "updated_at": "2018-10-17T22:42+0000",
-      "name": "Adam Vincent",
-      "link": "",
-      "conference": "SWV4"
+      "name": "Adam Vincent"
     },
     {
+      "link": "",
       "id": 30416,
+      "updated_at": "2018-10-17T22:42+0000",
+      "conference": "SWV4",
+      "twitter": "",
       "description": "Allan Liska is an intelligence analyst at Recorded Future. Allan has more than 15 years\u2019 experience in information security and has worked as both a blue teamer and a red teamer for the intelligence community and the private sector. Allan has helped countless organizations improve their security posture using more effective and integrated intelligence. Allan is also one of the organizers of BSides Bordeaux and has presented at security conferences around the world on a variety of topics. He is the author of The Practice of Network Security, Building an Intelligence-Led Security Program, Securing NTP: A Quickstart Guide, and co-authored DNS Security: Defending the Domain Name System, and Ransomware: Defending Against Digital Extortion",
-      "twitter": "",
       "title": "",
-      "updated_at": "2018-10-17T22:42+0000",
-      "name": "Allan Liska",
-      "link": "",
-      "conference": "SWV4"
+      "name": "Allan Liska"
     },
     {
+      "link": "",
       "id": 30417,
+      "updated_at": "2018-10-17T22:42+0000",
+      "conference": "SWV4",
+      "twitter": "",
       "description": "Amanda Berlin is an Information Security Architect for an Ohio based professional services company. She has spent over a decade in different areas of technology and sectors providing infrastructure support, triage, and design. While working the the healthcare sector Amanda has been involved in creating a secure method of Payment Card Industries (PCI) and Health Insurance Portability and Accountability Act (HIPAA) compliance and building a comprehensive phishing and awards based user education program.\n\nAmanda is an avid volunteer and has also presented at a large number of conventions, meetings and industry events. Some examples of these are: DerbyCon, CircleCityCon, GrrCon, and DEFCON. She is currently working on co-authoring a Blue Team best practices book as well working as part of a team on an open sourced phishing and user education software package. While she doesn't have the credentials or notoriety that others might have, she hopes to make up for it with her wit, sense of humor, and knack for catching on quick to new technologies.",
-      "twitter": "",
       "title": "",
-      "updated_at": "2018-10-17T22:42+0000",
-      "name": "Amanda Berlin",
-      "link": "",
-      "conference": "SWV4"
+      "name": "Amanda Berlin"
     },
     {
+      "link": "",
       "id": 30418,
+      "updated_at": "2018-10-17T22:42+0000",
+      "conference": "SWV4",
+      "twitter": "",
       "description": "Branden Miller retired from the US Navy in 2011 after 20 years of service. He has held many positions such as system administrator, network engineer, digital network exploitation analyst, and finally, adjunct faculty for the National Cryptologic School. In his spare time, he starts many projects he never finishes and assists his extended family with prepping.",
-      "twitter": "",
       "title": "",
-      "updated_at": "2018-10-17T22:42+0000",
-      "name": "Branden Miller",
-      "link": "",
-      "conference": "SWV4"
+      "name": "Branden Miller"
     },
     {
+      "link": "",
       "id": 30419,
+      "updated_at": "2018-10-17T22:42+0000",
+      "conference": "SWV4",
+      "twitter": "",
       "description": "Brian Martin, BS, CISSP, HCISSP, CHFI, CHS3, A+ is an entrepreneur and owner of Liticode in Allentown, PA. He is a computer security expert and electronic evidence specialist with 30+ years of business and technology experience. Liticode assists clients and legal agencies with electronic evidence, digital forensics, and security consulting.",
-      "twitter": "",
       "title": "",
-      "updated_at": "2018-10-17T22:42+0000",
-      "name": "Brian Martin",
-      "link": "",
-      "conference": "SWV4"
+      "name": "Brian Martin"
     },
     {
+      "link": "",
       "id": 30420,
+      "updated_at": "2018-10-17T22:42+0000",
+      "conference": "SWV4",
+      "twitter": "",
       "description": "After graduating from Marshall University, Collin took on the role of a Software Engineer at Dell SecureWorks. There, Collin learned the ins and outs of the industry with some of the brightest pentesters, hunters, and white hats. In 2016, Collin transitioned to GroupSense, a Virginia-based cyber security reconnaissance startup that alerts clients to attacks, fraud, and breaches from across the surface, deep and dark web in real-time ,as VP of Engineering. Collin developed the core product and service offering, Tracelight, and helped pave the way for the product roadmap and Engineering landscape within the company.\n\nNow, Collin holds the position of VP of Engineering and Technology at Terbium Labs, a different sort of information security company that provides proactive solutions beginning with the assumption that your critical data is always at risk. This is why, at Terbium Labs, we focus on data intelligence, building systems to find your sensitive information wherever it may appear on the internet. Collin manages the Engineering and Technical teams to drive innovation around Matchlight - an unparalleled dark web monitoring technology that can automatically detect leaks of sensitive information, and alert immediately when data has been exposed.",
-      "twitter": "",
       "title": "",
-      "updated_at": "2018-10-17T22:42+0000",
-      "name": "Collin Meadows",
-      "link": "",
-      "conference": "SWV4"
+      "name": "Collin Meadows"
     },
     {
+      "link": "",
       "id": 30421,
+      "updated_at": "2018-10-17T22:42+0000",
+      "conference": "SWV4",
+      "twitter": "",
       "description": "Fairmont State grad, was a developer, built infosec hobby into a career.  Penetration Tester at Black Hills Information Security.",
-      "twitter": "",
       "title": "",
-      "updated_at": "2018-10-17T22:42+0000",
-      "name": "Craig Vincent",
-      "link": "",
-      "conference": "SWV4"
+      "name": "Craig Vincent"
     },
     {
+      "link": "",
       "id": 30422,
+      "updated_at": "2018-10-17T22:42+0000",
+      "conference": "SWV4",
+      "twitter": "",
       "description": "Blue team and badass SOC guy turned pentester.  Penetration Tester at Black Hills Information Security.",
-      "twitter": "",
       "title": "",
-      "updated_at": "2018-10-17T22:42+0000",
-      "name": "Derek Banks",
-      "link": "",
-      "conference": "SWV4"
+      "name": "Derek Banks"
     },
     {
+      "link": "",
       "id": 30423,
+      "updated_at": "2018-10-17T22:42+0000",
+      "conference": "SWV4",
+      "twitter": "",
       "description": "David Krovich is a Research Associate Faculty in the Lane Department of Computer Science at West Virginia University. David has earned his a BS in Computer Science and MS in Software Engineering from West Virginia University. His current research areas are cybersecurity and open source software.",
-      "twitter": "",
       "title": "",
-      "updated_at": "2018-10-17T22:42+0000",
-      "name": "David Krovich",
-      "link": "",
-      "conference": "SWV4"
+      "name": "David Krovich"
     },
     {
+      "link": "",
       "id": 30424,
+      "updated_at": "2018-10-17T22:42+0000",
+      "conference": "SWV4",
+      "twitter": "",
       "description": "Eric Waters has been an Information Technology professional for over 20 years. He has a Bachelor's degree in Information Security, GPEN, and is a member of the GIAC advisory board. He worked his way up through the ranks from helpdesk to systems engineer and then spent almost 10 years in technology management before deciding to concentrate on Information Security full time. Eric has worked on a wide breadth of projects which range from internal penetration tests to SIEM tuning and vulnerability management. He enjoys reading, writing code, running, and spending time with his family.",
-      "twitter": "",
       "title": "",
-      "updated_at": "2018-10-17T22:42+0000",
-      "name": "Eric Waters",
-      "link": "",
-      "conference": "SWV4"
+      "name": "Eric Waters"
     },
     {
+      "link": "",
       "id": 30425,
+      "updated_at": "2018-10-17T22:42+0000",
+      "conference": "SWV4",
+      "twitter": "",
       "description": "S",
-      "twitter": "",
       "title": "",
-      "updated_at": "2018-10-17T22:42+0000",
-      "name": "Evan Kime",
-      "link": "",
-      "conference": "SWV4"
+      "name": "Evan Kime"
     },
     {
+      "link": "",
       "id": 30426,
+      "updated_at": "2018-10-17T22:42+0000",
+      "conference": "SWV4",
+      "twitter": "",
       "description": "Holden is a site reliability engineer that spends most of my time maintaining Linux based infrastructure both on-premises and in the cloud. I have a relatively large home lab that I spend an unreasonable amount of time tinkering in.",
-      "twitter": "",
       "title": "",
-      "updated_at": "2018-10-17T22:42+0000",
-      "name": "Holden Fenner",
-      "link": "",
-      "conference": "SWV4"
+      "name": "Holden Fenner"
     },
     {
+      "link": "",
       "id": 30427,
-      "description": "",
-      "twitter": "",
-      "title": "",
       "updated_at": "2018-10-17T22:42+0000",
-      "name": "Jason Means",
-      "link": "",
-      "conference": "SWV4"
+      "conference": "SWV4",
+      "twitter": "",
+      "description": "",
+      "title": "",
+      "name": "Jason Means"
     },
     {
+      "link": "",
       "id": 30428,
-      "description": "",
-      "twitter": "",
-      "title": "",
       "updated_at": "2018-10-17T22:42+0000",
-      "name": "Aaron West",
-      "link": "",
-      "conference": "SWV4"
+      "conference": "SWV4",
+      "twitter": "",
+      "description": "",
+      "title": "",
+      "name": "Aaron West"
     },
     {
+      "link": "",
       "id": 30429,
-      "description": "",
-      "twitter": "",
-      "title": "",
       "updated_at": "2018-10-17T22:42+0000",
-      "name": "Rob West",
-      "link": "",
-      "conference": "SWV4"
+      "conference": "SWV4",
+      "twitter": "",
+      "description": "",
+      "title": "",
+      "name": "Rob West"
     },
     {
+      "link": "",
       "id": 30430,
+      "updated_at": "2018-10-17T22:42+0000",
+      "conference": "SWV4",
+      "twitter": "",
       "description": "Jeremy works at a local government facilities as the Information Security Officer directing the Security and Research Department and is co-founder of CodeRed LLC that focuses on Cyber Security, Application Development, and Leadership. He has been on the Northeast Ohio InfraGard executive board and currently IT Sector Chief. He also serves as Co-Chair for workgroups within the Center of Internet Security and works on threat data projects for various entities. He previously worked in Risk Management and Security in Fortune 500 companies.\n\nHe has presented and involved at various conferences and organizations such as the CCDC, NEOISF, ClevSec, Bsides, FBICAAA, Stop.Think.Connect, CSOXchange, Ohio Cyber Day, DerbyCon, SecureWV, EngeryTech, and the Ohio Information Security Summit.\n\nIn his spare time, he enjoys conducting research on the evolution of security convergence, drones, weapon systems, and scuba diving.",
-      "twitter": "",
       "title": "",
-      "updated_at": "2018-10-17T22:42+0000",
-      "name": "Jeremy Mio",
-      "link": "",
-      "conference": "SWV4"
+      "name": "Jeremy Mio"
     },
     {
+      "link": "",
       "id": 30431,
+      "updated_at": "2018-10-17T22:42+0000",
+      "conference": "SWV4",
+      "twitter": "",
       "description": "One does not simply write a biography about l0stkn0wledge. He is a life-long hacker and twelve year information security professional who has his own way of viewing the world. He is particularly fond of trying to offer education to those who seek it out and is always willing to share his supposed wisdom wherever he can.",
-      "twitter": "",
       "title": "",
-      "updated_at": "2018-10-17T22:42+0000",
-      "name": "Joey Maresca",
-      "link": "",
-      "conference": "SWV4"
+      "name": "Joey Maresca"
     },
     {
+      "link": "",
       "id": 30432,
+      "updated_at": "2018-10-17T22:42+0000",
+      "conference": "SWV4",
+      "twitter": "",
       "description": "Joseph is a professional hacker who has served as a senior cybersecurity consultant to BP, American Express, Home Depot, and Palantir. Joe speaks at a variety of cybersecurity events and leads the Incident Response and technical investigations team at Bluestone Analytics.",
-      "twitter": "",
       "title": "",
-      "updated_at": "2018-10-17T22:42+0000",
-      "name": "Joseph DePlato",
-      "link": "",
-      "conference": "SWV4"
+      "name": "Joseph DePlato"
     },
     {
+      "link": "",
       "id": 30433,
+      "updated_at": "2018-10-17T22:42+0000",
+      "conference": "SWV4",
+      "twitter": "",
       "description": "Joshua Crumbaugh is an engaging and internationally respected cybersecurity subject matter expert, author, keynote and public speaker. During Joshua's ethical hacking career he has never encountered a single network that could keep him or his teams out. He has also accomplished a number of impressive social engineering feats, such as: talking his way into bank vaults, fortune 500 data centers, corporate offices, restricted areas of casinos and more. His experience in all things security led him to realize something had to change. This was the catalyst that led him to found PeopleSec where he is the CEO and Chief Hacker. Joshua is internationally recognized as one of the world's most accomplished social engineers and the world's leading expert on cybersecurity awareness.",
-      "twitter": "",
       "title": "",
-      "updated_at": "2018-10-17T22:42+0000",
-      "name": "Joshua Crumbaugh",
-      "link": "",
-      "conference": "SWV4"
+      "name": "Joshua Crumbaugh"
     },
     {
+      "link": "",
       "id": 30434,
-      "description": "Justin Rogosky is a Gemini and likes holding hand on long walks on nude beaches (Hey that is not my hand).  In his spare time, he enjoys the fast paced hobby of Chupacabra Hunting in the magestic hills of West Virginia.",
+      "updated_at": "2018-10-17T22:42+0000",
+      "conference": "SWV4",
       "twitter": "@CptSexy",
+      "description": "Justin Rogosky is a Gemini and likes holding hand on long walks on nude beaches (Hey that is not my hand).  In his spare time, he enjoys the fast paced hobby of Chupacabra Hunting in the magestic hills of West Virginia.",
       "title": "",
-      "updated_at": "2018-10-17T22:42+0000",
-      "name": "Justin Rogosky",
-      "link": "",
-      "conference": "SWV4"
+      "name": "Justin Rogosky"
     },
     {
+      "link": "",
       "id": 30435,
-      "description": "",
-      "twitter": "",
-      "title": "",
       "updated_at": "2018-10-17T22:42+0000",
-      "name": "Special Agent Michelle Pirtle",
-      "link": "",
-      "conference": "SWV4"
+      "conference": "SWV4",
+      "twitter": "",
+      "description": "",
+      "title": "",
+      "name": "Special Agent Michelle Pirtle"
     },
     {
+      "link": "",
       "id": 30436,
+      "updated_at": "2018-10-17T22:42+0000",
+      "conference": "SWV4",
+      "twitter": "",
       "description": "Dr. Phil Polstra is currently a Professor of Digital Forensics at Bloomsburg University of Pennsylvania (an NSA CAE in Digital Forensics). He is the author of four books on penetration testing and forensics (some of which have been translated into other languages). He has spoken and given training at numerous conferences around the world including repeat performances at DEFCON, BlackHat, 44CON, GrrCON, B-sides, and BloomCON, to name a few. When not teaching he has been known to hack electronics and engage in many forms of aviation.",
-      "twitter": "",
       "title": "",
-      "updated_at": "2018-10-17T22:42+0000",
-      "name": "Dr. Philip Polstra",
-      "link": "",
-      "conference": "SWV4"
+      "name": "Dr. Philip Polstra"
     },
     {
+      "link": "",
       "id": 30437,
+      "updated_at": "2018-10-17T22:42+0000",
+      "conference": "SWV4",
+      "twitter": "",
       "description": "This is a place holder for the Red Hat Security Team person speaking.",
-      "twitter": "",
       "title": "",
-      "updated_at": "2018-10-17T22:42+0000",
-      "name": "Red Hat Security Team",
-      "link": "",
-      "conference": "SWV4"
+      "name": "Red Hat Security Team"
     },
     {
+      "link": "",
       "id": 30438,
+      "updated_at": "2018-10-17T22:42+0000",
+      "conference": "SWV4",
+      "twitter": "",
       "description": "Roy Williams is a Senior Consultant and Red Hat Certified Professional that has been with Red Hat since March of 2016.  His main focus on client engagements has been around our Platform technologies, such as Satellite and Red Hat Enterprise Linux (RHEL).  Roy is also known for his knowledge of, and passion for RHEL Identity Management (IdM).  Additionally, Roy is a contributor to the Red Hat Services Speak blog.  Outside of Red Hat, Roy is a Husband, a Father, an open source contributor (chopskxw), a Firefighter/EMT, a Fire Service Instructor, and an amateur radio operator (KD8VYO).",
-      "twitter": "",
       "title": "",
-      "updated_at": "2018-10-17T22:42+0000",
-      "name": "Roy Williams",
-      "link": "",
-      "conference": "SWV4"
+      "name": "Roy Williams"
     },
     {
+      "link": "",
       "id": 30439,
+      "updated_at": "2018-10-17T22:42+0000",
+      "conference": "SWV4",
+      "twitter": "",
       "description": "",
-      "twitter": "",
       "title": "",
-      "updated_at": "2018-10-17T22:42+0000",
-      "name": "Steven Truax",
-      "link": "",
-      "conference": "SWV4"
+      "name": "Steven Truax"
     },
     {
+      "link": "",
       "id": 30440,
-      "description": "Ted Corbeill is the Senior Manager, Sales Enablement Programs at Verodin.  He is a retired Marine Corps Intelligence Officer who is adapting military best practices to improve cybersecurity effectiveness.  Additionally, he is leveraging his military experience to build and lead innovative sales enablement programs to drive revenue growth through data-driven insights, business innovation, and collaboration. Prior to joining Verodin, Ted built sales enablement programs for DXC Technology and Hewlett Packard Enterprise.",
-      "twitter": "",
-      "title": "",
       "updated_at": "2018-10-17T22:42+0000",
-      "name": "Ted Corbeill",
-      "link": "",
-      "conference": "SWV4"
+      "conference": "SWV4",
+      "twitter": "",
+      "description": "Ted Corbeill is the Senior Manager, Sales Enablement Programs at Verodin.  He is a retired Marine Corps Intelligence Officer who is adapting military best practices to improve cybersecurity effectiveness.  Additionally, he is leveraging his military experience to build and lead innovative sales enablement programs to drive revenue growth through data-driven insights, business innovation, and collaboration. Prior to joining Verodin, Ted built sales enablement programs for DXC Technology and Hewlett Packard Enterprise.",
+      "title": "",
+      "name": "Ted Corbeill"
     },
     {
-      "id": 30441,
-      "description": "Zach is currently the Assistant Webmaster for Ohio University's Libraries. I like to dabble in security and concentrated on InfoSec while I was still in college. Most of my jobs outside of college have been in the realm of Web Development, and I worked shortly as a Database Specialist at Marshall University. I have an addiction to automate things so that's sort of what I was doing in writing this program.",
-      "twitter": "",
-      "title": "",
-      "updated_at": "2018-10-17T22:42+0000",
-      "name": "Zach Tackett",
       "link": "",
-      "conference": "SWV4"
+      "id": 30441,
+      "updated_at": "2018-10-17T22:42+0000",
+      "conference": "SWV4",
+      "twitter": "",
+      "description": "Zach is currently the Assistant Webmaster for Ohio University's Libraries. I like to dabble in security and concentrated on InfoSec while I was still in college. Most of my jobs outside of college have been in the realm of Web Development, and I worked shortly as a Database Specialist at Marshall University. I have an addiction to automate things so that's sort of what I was doing in writing this program.",
+      "title": "",
+      "name": "Zach Tackett"
+    },
+    {
+      "link": "",
+      "id": 30442,
+      "updated_at": "2018-11-26T15:52+0000",
+      "conference": "SWV4",
+      "twitter": "",
+      "description": "Detective Thompson has seventeen years of law enforcement experience having started his career with the Boone County Sheriff\u2019s Department and is currently employed by the South Charleston Police Department, where he is assigned to the Detective Bureau. Detective Thompson is a task force officer with the United States Secret Service Financial and Electronic Crimes Task Force, Pittsburgh Field office. Detective Thompson has attended the National Computer Forensics Institute for training in computer evidence recovery, mobile device examiner, and network intrusion. Detective Thompson obtained the Cellebrite Certified Logical Operator certification while attending NCFI.",
+      "title": "",
+      "name": "Detective Jeremy M. Thompson"
+    },
+    {
+      "link": "",
+      "id": 30443,
+      "updated_at": "2018-11-26T15:53+0000",
+      "conference": "SWV4",
+      "twitter": "",
+      "description": "Lucy Kerner is currently the Security Global Technical Evangelist and Strategist at Red Hat and helps drive security thought leadership and the global go-to-market strategy for security across the entire Red Hat portfolio. Lucy creates and delivers security related technical content to the field, customers, and partners and has spoken at numerous internal and external events and is a 2018, 2017, and 2016 Red Hat Summit Top Presenter. Prior to her current role, she was a Senior Cloud Solutions Architect for the North America Public Sector team at Red Hat. Lucy has over 15 years of professional experience as both a software and hardware development engineer and a pre-sales solutions architect. Prior to joining Red Hat, she worked at IBM as both a Mainframe microprocessor design engineer and a pre-sales solutions architect for IBM x86 servers. She has also interned at Apple, Cadence, Lockheed Martin, and MITRE, where she worked on both software and hardware development. Lucy graduated from Carnegie Mellon University with an M.S. and B.S. in Electrical and Computer Engineering and a minor in Spanish.",
+      "title": "",
+      "name": "Lucy Kerner"
+    },
+    {
+      "link": "",
+      "id": 30444,
+      "updated_at": "2018-11-26T16:49+0000",
+      "conference": "SWV4",
+      "twitter": "",
+      "description": "CART stands for Charleston Area Robotics Team. The schools involved are Charleston Catholic High School, and South Charleston High School. CART is a competitive robotics team in For Inspiration and Recognition of Science and Technology (FIRST) and competes in the First Tech Challenge (FTC)\\n\\nBasically the program is to show students of every age that science, technology, and problem-solving are not only fun and rewarding, but are proven paths to successful careers and a bright future.\\n\\nTeams, including coaches, mentors and volunteers, are required to develop strategy and build robots based on sound engineering principles.",
+      "title": "",
+      "name": "Charleston Area Robotics Team (CART)"
     }
   ]
 }
