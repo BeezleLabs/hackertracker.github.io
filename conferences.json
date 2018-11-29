@@ -1,306 +1,306 @@
 {
+  "updated_at": "2018-11-24T16:25+0000",
   "conferences": [
     {
       "link": "https://defcon.org/html/defcon-26/dc-26-index.html",
       "id": 1,
-      "end_date": "2018-08-12",
+      "code": "DC26",
       "locations": {
         "link": "https://hackertracker.app/DC26/locations.json",
         "updated_at": "2018-08-09T20:52+0000"
       },
-      "speakers": {
-        "link": "https://hackertracker.app/DC26/speakers.json",
-        "updated_at": "2018-08-08T18:59+0000"
+      "start_date": "2018-08-09",
+      "event_types": {
+        "link": "https://hackertracker.app/DC26/event_types.json",
+        "updated_at": "2018-08-02T06:28+0000"
       },
+      "end_date": "2018-08-12",
       "vendors": {
         "link": "https://hackertracker.app/DC26/vendors.json",
         "updated_at": "2018-08-06T09:22+0000"
       },
       "timezone": "America/Los_Angeles",
-      "event_types": {
-        "link": "https://hackertracker.app/DC26/event_types.json",
-        "updated_at": "2018-08-02T06:28+0000"
-      },
-      "description": "DEF CON is one of the oldest continuously running hacker conventions around, and also one of the largest.",
-      "code": "DC26",
-      "articles": {
-        "link": "https://hackertracker.app/DC26/articles.json",
-        "updated_at": "2018-08-11T16:52+0000"
-      },
-      "start_date": "2018-08-09",
-      "notifications": {
-        "link": "https://hackertracker.app/DC26/notifications.json",
-        "updated_at": "2018-01-01T01:00+0000"
-      },
-      "updated_at": "2018-07-01T19:16+0000",
       "faqs": {
         "link": "https://hackertracker.app/DC26/faqs.json",
         "updated_at": "2018-07-03T05:52+0000"
       },
+      "name": "DEFCON 26",
+      "notifications": {
+        "link": "https://hackertracker.app/DC26/notifications.json",
+        "updated_at": "2018-01-01T01:00+0000"
+      },
+      "description": "DEF CON is one of the oldest continuously running hacker conventions around, and also one of the largest.",
+      "updated_at": "2018-07-01T19:16+0000",
       "events": {
         "link": "https://hackertracker.app/DC26/events.json",
         "updated_at": "2018-08-12T18:00+0000"
       },
-      "name": "DEFCON 26"
+      "articles": {
+        "link": "https://hackertracker.app/DC26/articles.json",
+        "updated_at": "2018-08-11T16:52+0000"
+      },
+      "speakers": {
+        "link": "https://hackertracker.app/DC26/speakers.json",
+        "updated_at": "2018-08-08T18:59+0000"
+      }
     },
     {
       "link": "https://www.derbycon.com",
       "id": 2,
-      "end_date": "2018-10-07",
+      "code": "DC80",
       "locations": {
         "link": "https://hackertracker.app/DC80/locations.json",
         "updated_at": "2018-10-02T05:44+0000"
       },
-      "speakers": {
-        "link": "https://hackertracker.app/DC80/speakers.json",
-        "updated_at": "2018-10-01T19:32+0000"
+      "start_date": "2018-10-03",
+      "event_types": {
+        "link": "https://hackertracker.app/DC80/event_types.json",
+        "updated_at": "2018-10-02T05:19+0000"
       },
+      "end_date": "2018-10-07",
       "vendors": {
         "link": "https://hackertracker.app/DC80/vendors.json",
         "updated_at": "2018-10-02T15:06+0000"
       },
       "timezone": "America/New_York",
-      "event_types": {
-        "link": "https://hackertracker.app/DC80/event_types.json",
-        "updated_at": "2018-10-02T05:19+0000"
-      },
-      "description": "DerbyCon 8.0\u2019s theme this year is \u201cEvolution\u201d. We picked evolution this year partially because of DerbyCon evolving (changing) and moving to a new venue but also (and primarily) because of the evolution of the information security industry and how it is always changing and our desire to try to make it better. Evolution to us, is simply and exactly how it is defined: the gradual development of something, especially from a simple to a more complex form. The information security space started from something simple, and is becoming more and more complex each and everyday. How we handle the complexities and tackle situations is all apart of how we grow as an industry, and DerbyCon is a place where anyone who is remotely interested or someone who is well established in information security can experience it.\r\n\r\nThe idea of DerbyCon started in a pizza shop in Louisville after a few of us thought how awesome it would be to create a conference in Louisville Kentucky. The 4th street live area was awesome and we had been to so many conferences that we felt we could make one where everyone was welcome. DerbyCon has and continues to be a conference put together and run by awesome people in the security industry and by its attendees. We believe that DerbyCon is a central location for everyone to come share their research \u2013 hang with friends \u2013 and meet new ones. We hope to see you this year",
-      "code": "DC80",
-      "articles": {
-        "link": "https://hackertracker.app/DC80/articles.json",
-        "updated_at": "2018-10-01T19:52+0000"
-      },
-      "start_date": "2018-10-03",
-      "notifications": {
-        "link": "https://hackertracker.app/DC80/notifications.json",
-        "updated_at": "2018-01-01T01:00+0000"
-      },
-      "updated_at": "2018-08-21T19:09+0000",
       "faqs": {
         "link": "https://hackertracker.app/DC80/faqs.json",
         "updated_at": "2018-10-02T15:50+0000"
       },
+      "name": "DerbyCon 8.0",
+      "notifications": {
+        "link": "https://hackertracker.app/DC80/notifications.json",
+        "updated_at": "2018-01-01T01:00+0000"
+      },
+      "description": "DerbyCon 8.0\u2019s theme this year is \u201cEvolution\u201d. We picked evolution this year partially because of DerbyCon evolving (changing) and moving to a new venue but also (and primarily) because of the evolution of the information security industry and how it is always changing and our desire to try to make it better. Evolution to us, is simply and exactly how it is defined: the gradual development of something, especially from a simple to a more complex form. The information security space started from something simple, and is becoming more and more complex each and everyday. How we handle the complexities and tackle situations is all apart of how we grow as an industry, and DerbyCon is a place where anyone who is remotely interested or someone who is well established in information security can experience it.\r\n\r\nThe idea of DerbyCon started in a pizza shop in Louisville after a few of us thought how awesome it would be to create a conference in Louisville Kentucky. The 4th street live area was awesome and we had been to so many conferences that we felt we could make one where everyone was welcome. DerbyCon has and continues to be a conference put together and run by awesome people in the security industry and by its attendees. We believe that DerbyCon is a central location for everyone to come share their research \u2013 hang with friends \u2013 and meet new ones. We hope to see you this year",
+      "updated_at": "2018-08-21T19:09+0000",
       "events": {
         "link": "https://hackertracker.app/DC80/events.json",
         "updated_at": "2018-10-05T23:03+0000"
       },
-      "name": "DerbyCon 8.0"
+      "articles": {
+        "link": "https://hackertracker.app/DC80/articles.json",
+        "updated_at": "2018-10-01T19:52+0000"
+      },
+      "speakers": {
+        "link": "https://hackertracker.app/DC80/speakers.json",
+        "updated_at": "2018-10-01T19:32+0000"
+      }
     },
     {
       "link": "https://sandiego.toorcon.net",
       "id": 3,
-      "end_date": "2018-09-16",
+      "code": "TC20",
       "locations": {
         "link": "https://hackertracker.app/TC20/locations.json",
         "updated_at": "2018-09-09T01:05+0000"
       },
-      "speakers": {
-        "link": "https://hackertracker.app/TC20/speakers.json",
-        "updated_at": "2018-08-31T18:18+0000"
+      "start_date": "2018-09-10",
+      "event_types": {
+        "link": "https://hackertracker.app/TC20/event_types.json",
+        "updated_at": "2018-09-09T01:04+0000"
       },
+      "end_date": "2018-09-16",
       "vendors": {
         "link": "https://hackertracker.app/TC20/vendors.json",
         "updated_at": "2018-01-01T01:00+0000"
       },
       "timezone": "America/Los_Angeles",
-      "event_types": {
-        "link": "https://hackertracker.app/TC20/event_types.json",
-        "updated_at": "2018-09-09T01:04+0000"
-      },
-      "description": "",
-      "code": "TC20",
-      "articles": {
-        "link": "https://hackertracker.app/TC20/articles.json",
-        "updated_at": "2018-09-02T22:00+0000"
-      },
-      "start_date": "2018-09-10",
-      "notifications": {
-        "link": "https://hackertracker.app/TC20/notifications.json",
-        "updated_at": "2018-01-01T01:00+0000"
-      },
-      "updated_at": "2018-08-31T16:47+0000",
       "faqs": {
         "link": "https://hackertracker.app/TC20/faqs.json",
         "updated_at": "2018-01-01T01:00+0000"
       },
+      "name": "ToorCon 20",
+      "notifications": {
+        "link": "https://hackertracker.app/TC20/notifications.json",
+        "updated_at": "2018-01-01T01:00+0000"
+      },
+      "description": "",
+      "updated_at": "2018-08-31T16:47+0000",
       "events": {
         "link": "https://hackertracker.app/TC20/events.json",
         "updated_at": "2018-09-09T00:59+0000"
       },
-      "name": "ToorCon 20"
+      "articles": {
+        "link": "https://hackertracker.app/TC20/articles.json",
+        "updated_at": "2018-09-02T22:00+0000"
+      },
+      "speakers": {
+        "link": "https://hackertracker.app/TC20/speakers.json",
+        "updated_at": "2018-08-31T18:18+0000"
+      }
     },
     {
       "link": "https://shellcon.io",
       "id": 4,
-      "end_date": "2018-09-22",
+      "code": "SC02",
       "locations": {
         "link": "https://hackertracker.app/SC02/locations.json",
         "updated_at": "2018-09-19T03:49+0000"
       },
-      "speakers": {
-        "link": "https://hackertracker.app/SC02/speakers.json",
-        "updated_at": "2018-09-19T03:49+0000"
+      "start_date": "2018-09-21",
+      "event_types": {
+        "link": "https://hackertracker.app/SC02/event_types.json",
+        "updated_at": "2018-09-19T14:42+0000"
       },
+      "end_date": "2018-09-22",
       "vendors": {
         "link": "https://hackertracker.app/SC02/vendors.json",
         "updated_at": "2018-01-01T01:00+0000"
       },
       "timezone": "America/Los_Angeles",
-      "event_types": {
-        "link": "https://hackertracker.app/SC02/event_types.json",
-        "updated_at": "2018-09-19T14:42+0000"
-      },
-      "description": "ShellCon is an information security conference that is held annually in the beautiful beach cities of Los Angeles. Our yearly conference is a growing event that is focused on creating an atmosphere of open communication, collaboration, and connection. We value community, technical knowledge, and getting your hands dirty. We want you to walk away from ShellCon with an itch to try what you just learned and the knowledge to do so. Presentations and events at the con will have a focus on practicality and real world use.",
-      "code": "SC02",
-      "articles": {
-        "link": "https://hackertracker.app/SC02/articles.json",
-        "updated_at": "2018-09-19T13:50+0000"
-      },
-      "start_date": "2018-09-21",
-      "notifications": {
-        "link": "https://hackertracker.app/SC02/notifications.json",
-        "updated_at": "2018-01-01T01:00+0000"
-      },
-      "updated_at": "2018-09-19T13:48+0000",
       "faqs": {
         "link": "https://hackertracker.app/SC02/faqs.json",
         "updated_at": "2018-01-01T01:00+0000"
       },
+      "name": "ShellCon",
+      "notifications": {
+        "link": "https://hackertracker.app/SC02/notifications.json",
+        "updated_at": "2018-01-01T01:00+0000"
+      },
+      "description": "ShellCon is an information security conference that is held annually in the beautiful beach cities of Los Angeles. Our yearly conference is a growing event that is focused on creating an atmosphere of open communication, collaboration, and connection. We value community, technical knowledge, and getting your hands dirty. We want you to walk away from ShellCon with an itch to try what you just learned and the knowledge to do so. Presentations and events at the con will have a focus on practicality and real world use.",
+      "updated_at": "2018-09-19T13:48+0000",
       "events": {
         "link": "https://hackertracker.app/SC02/events.json",
         "updated_at": "2018-09-21T15:12+0000"
       },
-      "name": "ShellCon"
+      "articles": {
+        "link": "https://hackertracker.app/SC02/articles.json",
+        "updated_at": "2018-09-19T13:50+0000"
+      },
+      "speakers": {
+        "link": "https://hackertracker.app/SC02/speakers.json",
+        "updated_at": "2018-09-19T03:49+0000"
+      }
     },
     {
       "link": "https://saintcon.org",
       "id": 5,
-      "end_date": "2018-09-28",
+      "code": "SAINTCON2018",
       "locations": {
         "link": "https://hackertracker.app/SAINTCON2018/locations.json",
         "updated_at": "2018-09-26T19:00+0000"
       },
-      "speakers": {
-        "link": "https://hackertracker.app/SAINTCON2018/speakers.json",
+      "start_date": "2018-09-25",
+      "event_types": {
+        "link": "https://hackertracker.app/SAINTCON2018/event_types.json",
         "updated_at": "2018-09-26T19:00+0000"
       },
+      "end_date": "2018-09-28",
       "vendors": {
         "link": "https://hackertracker.app/SAINTCON2018/vendors.json",
         "updated_at": "2018-01-01T01:00+0000"
       },
       "timezone": "America/Denver",
-      "event_types": {
-        "link": "https://hackertracker.app/SAINTCON2018/event_types.json",
-        "updated_at": "2018-09-26T19:00+0000"
-      },
-      "description": "SAINTCON: Utah's Premiere Cybersecurity Conference",
-      "code": "SAINTCON2018",
-      "articles": {
-        "link": "https://hackertracker.app/SAINTCON2018/articles.json",
-        "updated_at": "2018-09-26T14:47+0000"
-      },
-      "start_date": "2018-09-25",
-      "notifications": {
-        "link": "https://hackertracker.app/SAINTCON2018/notifications.json",
-        "updated_at": "2018-01-01T01:00+0000"
-      },
-      "updated_at": "2018-09-26T13:59+0000",
       "faqs": {
         "link": "https://hackertracker.app/SAINTCON2018/faqs.json",
         "updated_at": "2018-01-01T01:00+0000"
       },
+      "name": "SaintCon 2018",
+      "notifications": {
+        "link": "https://hackertracker.app/SAINTCON2018/notifications.json",
+        "updated_at": "2018-01-01T01:00+0000"
+      },
+      "description": "SAINTCON: Utah's Premiere Cybersecurity Conference",
+      "updated_at": "2018-09-26T13:59+0000",
       "events": {
         "link": "https://hackertracker.app/SAINTCON2018/events.json",
         "updated_at": "2018-09-26T19:00+0000"
       },
-      "name": "SaintCon 2018"
+      "articles": {
+        "link": "https://hackertracker.app/SAINTCON2018/articles.json",
+        "updated_at": "2018-09-26T14:47+0000"
+      },
+      "speakers": {
+        "link": "https://hackertracker.app/SAINTCON2018/speakers.json",
+        "updated_at": "2018-09-26T19:00+0000"
+      }
     },
     {
       "link": "https://www.cactuscon.com",
       "id": 6,
-      "end_date": "2018-09-29",
+      "code": "CACTUSCON2018",
       "locations": {
         "link": "https://hackertracker.app/CACTUSCON2018/locations.json",
         "updated_at": "2018-09-26T01:18+0000"
       },
-      "speakers": {
-        "link": "https://hackertracker.app/CACTUSCON2018/speakers.json",
-        "updated_at": "2018-09-26T01:18+0000"
+      "start_date": "2018-09-28",
+      "event_types": {
+        "link": "https://hackertracker.app/CACTUSCON2018/event_types.json",
+        "updated_at": "2018-09-26T04:56+0000"
       },
+      "end_date": "2018-09-29",
       "vendors": {
         "link": "https://hackertracker.app/CACTUSCON2018/vendors.json",
         "updated_at": "2018-01-01T01:00+0000"
       },
       "timezone": "America/Los_Angeles",
-      "event_types": {
-        "link": "https://hackertracker.app/CACTUSCON2018/event_types.json",
-        "updated_at": "2018-09-26T04:56+0000"
-      },
-      "description": "CactusCon is the premier hacker conference in Arizona.\r\n\r\nCactusCon is the largest annual hacker and security conference in Arizona and this year is expected to attract 1,000 attendees from throughout the entire country. In just five years, it has established a solid reputation as a top-tier security conference and has quickly become a must-attend learning and networking event.\r\n\r\nCactusCon is constantly evolving to meet the changing needs and expectations of the InfoSec community. It attracts sought-after industry leaders, offers cutting-edge workshops, and provides ample opportunities for mingling and networking with people who share a passion for information security.",
-      "code": "CACTUSCON2018",
-      "articles": {
-        "link": "https://hackertracker.app/CACTUSCON2018/articles.json",
-        "updated_at": "2018-09-27T02:36+0000"
-      },
-      "start_date": "2018-09-28",
-      "notifications": {
-        "link": "https://hackertracker.app/CACTUSCON2018/notifications.json",
-        "updated_at": "2018-01-01T01:00+0000"
-      },
-      "updated_at": "2018-09-27T02:30+0000",
       "faqs": {
         "link": "https://hackertracker.app/CACTUSCON2018/faqs.json",
         "updated_at": "2018-01-01T01:00+0000"
       },
+      "name": "CactusCon 2018",
+      "notifications": {
+        "link": "https://hackertracker.app/CACTUSCON2018/notifications.json",
+        "updated_at": "2018-01-01T01:00+0000"
+      },
+      "description": "CactusCon is the premier hacker conference in Arizona.\r\n\r\nCactusCon is the largest annual hacker and security conference in Arizona and this year is expected to attract 1,000 attendees from throughout the entire country. In just five years, it has established a solid reputation as a top-tier security conference and has quickly become a must-attend learning and networking event.\r\n\r\nCactusCon is constantly evolving to meet the changing needs and expectations of the InfoSec community. It attracts sought-after industry leaders, offers cutting-edge workshops, and provides ample opportunities for mingling and networking with people who share a passion for information security.",
+      "updated_at": "2018-09-27T02:30+0000",
       "events": {
         "link": "https://hackertracker.app/CACTUSCON2018/events.json",
         "updated_at": "2018-09-29T01:18+0000"
       },
-      "name": "CactusCon 2018"
+      "articles": {
+        "link": "https://hackertracker.app/CACTUSCON2018/articles.json",
+        "updated_at": "2018-09-27T02:36+0000"
+      },
+      "speakers": {
+        "link": "https://hackertracker.app/CACTUSCON2018/speakers.json",
+        "updated_at": "2018-09-26T01:18+0000"
+      }
     },
     {
       "link": "https://securewv.org",
       "id": 7,
-      "end_date": "2018-12-02",
+      "code": "SWV4",
       "locations": {
         "link": "https://hackertracker.app/SWV4/locations.json",
         "updated_at": "2018-10-17T22:42+0000"
       },
-      "speakers": {
-        "link": "https://hackertracker.app/SWV4/speakers.json",
-        "updated_at": "2018-11-26T16:49+0000"
+      "start_date": "2018-11-30",
+      "event_types": {
+        "link": "https://hackertracker.app/SWV4/event_types.json",
+        "updated_at": "2018-10-17T22:42+0000"
       },
+      "end_date": "2018-12-02",
       "vendors": {
         "link": "https://hackertracker.app/SWV4/vendors.json",
         "updated_at": "2018-11-24T02:06+0000"
       },
       "timezone": "America/New_York",
-      "event_types": {
-        "link": "https://hackertracker.app/SWV4/event_types.json",
-        "updated_at": "2018-10-17T22:42+0000"
-      },
-      "description": "SecureWV 2018 / Hack3rCon 9",
-      "code": "SWV4",
-      "articles": {
-        "link": "https://hackertracker.app/SWV4/articles.json",
-        "updated_at": "2018-11-24T02:01+0000"
-      },
-      "start_date": "2018-11-30",
-      "notifications": {
-        "link": "https://hackertracker.app/SWV4/notifications.json",
-        "updated_at": "2018-01-01T01:00+0000"
-      },
-      "updated_at": "2018-11-24T16:25+0000",
       "faqs": {
         "link": "https://hackertracker.app/SWV4/faqs.json",
         "updated_at": "2018-11-24T02:01+0000"
       },
+      "name": "Hack3rCon 9",
+      "notifications": {
+        "link": "https://hackertracker.app/SWV4/notifications.json",
+        "updated_at": "2018-01-01T01:00+0000"
+      },
+      "description": "SecureWV 2018 / Hack3rCon 9",
+      "updated_at": "2018-11-24T16:25+0000",
       "events": {
         "link": "https://hackertracker.app/SWV4/events.json",
-        "updated_at": "2018-11-26T17:04+0000"
+        "updated_at": "2018-11-29T17:16+0000"
       },
-      "name": "Hack3rCon 9"
+      "articles": {
+        "link": "https://hackertracker.app/SWV4/articles.json",
+        "updated_at": "2018-11-24T02:01+0000"
+      },
+      "speakers": {
+        "link": "https://hackertracker.app/SWV4/speakers.json",
+        "updated_at": "2018-11-29T17:15+0000"
+      }
     }
-  ],
-  "updated_at": "2018-11-24T16:25+0000"
+  ]
 }

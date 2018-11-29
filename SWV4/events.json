@@ -1,595 +1,595 @@
 {
   "schedule": [
     {
-      "event_type": 30211,
       "link": "",
+      "title": "Welcome to SecureWV / Hack3rCon",
       "id": 30400,
-      "end_date": "2018-11-30T14:50+0000",
+      "event_type": 30211,
+      "includes": "",
+      "location": 30220,
+      "conference": "SWV4",
+      "start_date": "2018-11-30T14:00+0000",
+      "end_date": "2018-11-30T14:30+0000",
+      "updated_at": "2018-11-29T17:12+0000",
+      "description": "Welcome to Hack3rCon 9!",
       "speakers": [
         30412
-      ],
-      "conference": "SWV4",
-      "description": "Welcome to Hack3rCon 9!",
-      "location": 30220,
-      "start_date": "2018-11-30T14:00+0000",
-      "includes": "",
-      "updated_at": "2018-10-18T03:42+0000",
-      "title": "Welcome to SecureWV / Hack3rCon"
+      ]
     },
     {
-      "event_type": 30211,
       "link": "",
+      "title": "Keynote",
       "id": 30401,
-      "end_date": "2018-11-30T15:50+0000",
+      "event_type": 30211,
+      "includes": "",
+      "location": 30220,
+      "conference": "SWV4",
+      "start_date": "2018-11-30T14:30+0000",
+      "end_date": "2018-11-30T15:30+0000",
+      "updated_at": "2018-11-29T17:13+0000",
+      "description": "TBD",
       "speakers": [
         30417
-      ],
-      "conference": "SWV4",
-      "description": "TBD",
-      "location": 30220,
-      "start_date": "2018-11-30T15:00+0000",
-      "includes": "",
-      "updated_at": "2018-10-18T03:42+0000",
-      "title": "Keynote"
+      ]
     },
     {
-      "event_type": 30211,
       "link": "",
+      "title": "Why The Legal System Needs Your Help",
       "id": 30402,
+      "event_type": 30211,
+      "includes": "",
+      "location": 30220,
+      "conference": "SWV4",
+      "start_date": "2018-11-30T16:00+0000",
       "end_date": "2018-11-30T16:25+0000",
+      "updated_at": "2018-10-18T03:42+0000",
+      "description": "The legal system in the US is in dire need of expert assistance to help legal teams and courts understand the technology issues confronting them. While some aspects of technology are fairly well understood and accepted in court, there are many flaws in the approaches to date, and worse, there is much that goes completely unaddressed in courts throughout the country. A review of the process flow with legal actions in civil matters, evidence components, strategies and tactics, and an overview of how expert consulting and advising works is provided in the hopes that more courts can be made aware of the concerns and personnel will provide their expertise to improve legal outcomes and improve fairness and equality in legal proceedings. Listeners will come away with a better understanding of how civil court evidence works (from Liticode's perspective) and potentially be able to capitalize on the knowledge to obtain paid consulting work nationwide.",
       "speakers": [
         30419
-      ],
-      "conference": "SWV4",
-      "description": "The legal system in the US is in dire need of expert assistance to help legal teams and courts understand the technology issues confronting them. While some aspects of technology are fairly well understood and accepted in court, there are many flaws in the approaches to date, and worse, there is much that goes completely unaddressed in courts throughout the country. A review of the process flow with legal actions in civil matters, evidence components, strategies and tactics, and an overview of how expert consulting and advising works is provided in the hopes that more courts can be made aware of the concerns and personnel will provide their expertise to improve legal outcomes and improve fairness and equality in legal proceedings. Listeners will come away with a better understanding of how civil court evidence works (from Liticode's perspective) and potentially be able to capitalize on the knowledge to obtain paid consulting work nationwide.",
-      "location": 30220,
-      "start_date": "2018-11-30T16:00+0000",
-      "includes": "",
-      "updated_at": "2018-10-18T03:42+0000",
-      "title": "Why The Legal System Needs Your Help"
+      ]
     },
     {
-      "event_type": 30211,
       "link": "",
+      "title": "Mobile Devices and you.",
       "id": 30403,
+      "event_type": 30211,
+      "includes": "",
+      "location": 30220,
+      "conference": "SWV4",
+      "start_date": "2018-11-30T18:00+0000",
       "end_date": "2018-11-30T18:50+0000",
+      "updated_at": "2018-11-29T17:13+0000",
+      "description": "Mobile devices are always with you like the old saying from American Express \"don\u2019t leave home without it\", because no one does anymore. Usually anywhere you go your phone or another device whether it be a tablet or iPad are always with you. We will discuss the tools that we use to obtain data from mobile devices and how we use that data to solve crimes.",
       "speakers": [
         30442
-      ],
-      "conference": "SWV4",
-      "description": "Mobile devices are always with you like the old saying from American Express \"don\u2019t leave home without it\", because no one does anymore. Usually anywhere you go your phone or another device whether it be a tablet or iPad are always with you. We will discuss the tools that we use to obtain data from mobile devices and how we use that data to solve crimes.",
-      "location": 30220,
-      "start_date": "2018-11-30T18:00+0000",
-      "includes": "",
-      "updated_at": "2018-11-26T16:31+0000",
-      "title": "Mobile Devices and you."
+      ]
     },
     {
-      "event_type": 30211,
       "link": "",
+      "title": "The New Age of Ransomware: Cybercriminals Adopt Nation State Techniques",
       "id": 30404,
+      "event_type": 30211,
+      "includes": "",
+      "location": 30220,
+      "conference": "SWV4",
+      "start_date": "2018-11-30T19:00+0000",
       "end_date": "2018-11-30T19:50+0000",
+      "updated_at": "2018-10-18T03:42+0000",
+      "description": "When the last generation of Ransomware took organizations by surprise the malware was generally unsophisticated but effective. Designed for \u2019smash-and-grab\u2019 type of attacks. The security community quickly adjusted to these attacks, so the attackers had to adapt.\r\n\nThe new generation of Ransomware campaigns have been much more effective. The attackers have adopted nation state techniques that allow the attackers to effectively cripple large organizations in order to extract their ransom.\r\n\nThis talk will review the tactics that the teams behind SamSam and BitPaymer have adopted and how organizations can protect themselves against these threats.",
       "speakers": [
         30416
-      ],
-      "conference": "SWV4",
-      "description": "When the last generation of Ransomware took organizations by surprise the malware was generally unsophisticated but effective. Designed for \u2019smash-and-grab\u2019 type of attacks. The security community quickly adjusted to these attacks, so the attackers had to adapt.\r\n\nThe new generation of Ransomware campaigns have been much more effective. The attackers have adopted nation state techniques that allow the attackers to effectively cripple large organizations in order to extract their ransom.\r\n\nThis talk will review the tactics that the teams behind SamSam and BitPaymer have adopted and how organizations can protect themselves against these threats.",
-      "location": 30220,
-      "start_date": "2018-11-30T19:00+0000",
-      "includes": "",
-      "updated_at": "2018-10-18T03:42+0000",
-      "title": "The New Age of Ransomware: Cybercriminals Adopt Nation State Techniques"
+      ]
     },
     {
-      "event_type": 30211,
       "link": "",
+      "title": "TBD",
       "id": 30405,
+      "event_type": 30211,
+      "includes": "",
+      "location": 30220,
+      "conference": "SWV4",
+      "start_date": "2018-11-30T20:00+0000",
       "end_date": "2018-11-30T20:50+0000",
+      "updated_at": "2018-10-18T03:42+0000",
+      "description": "",
       "speakers": [
         30435
-      ],
-      "conference": "SWV4",
-      "description": "",
-      "location": 30220,
-      "start_date": "2018-11-30T20:00+0000",
-      "includes": "",
-      "updated_at": "2018-10-18T03:42+0000",
-      "title": "TBD"
+      ]
     },
     {
-      "event_type": 30211,
       "link": "",
+      "title": "Outside the Box:  How the Internet of Things Poses New Cybersecurity Risks and Challenges the Law",
       "id": 30406,
+      "event_type": 30211,
+      "includes": "",
+      "location": 30220,
+      "conference": "SWV4",
+      "start_date": "2018-11-30T21:00+0000",
       "end_date": "2018-11-30T21:50+0000",
+      "updated_at": "2018-10-18T03:42+0000",
+      "description": "This presentation will focus on the cyber risks and legal ramifications of the \u201cInternet of Things.\u201d  The talk will provide attendees with useful and interesting information about how the increasingly common connection between the internet and everyday items such as TVs, refrigerators, home security systems, and numerous other \u201cthings,\u201d gives rise to dangerous new cybersecurity risks, and how the law is struggling to adapt to those risks.  Evan Kime will briefly familiarize the attendees with the Internet of Things, its attendant risks, and what businesses and individuals can do to minimize their exposure.  Mr. Kime will then discuss how the IoT is disrupting the law, and what the technology industry, courts, and state and federal agencies are doing to adapt.",
       "speakers": [
         30425
-      ],
-      "conference": "SWV4",
-      "description": "This presentation will focus on the cyber risks and legal ramifications of the \u201cInternet of Things.\u201d  The talk will provide attendees with useful and interesting information about how the increasingly common connection between the internet and everyday items such as TVs, refrigerators, home security systems, and numerous other \u201cthings,\u201d gives rise to dangerous new cybersecurity risks, and how the law is struggling to adapt to those risks.  Evan Kime will briefly familiarize the attendees with the Internet of Things, its attendant risks, and what businesses and individuals can do to minimize their exposure.  Mr. Kime will then discuss how the IoT is disrupting the law, and what the technology industry, courts, and state and federal agencies are doing to adapt.",
-      "location": 30220,
-      "start_date": "2018-11-30T21:00+0000",
-      "includes": "",
-      "updated_at": "2018-10-18T03:42+0000",
-      "title": "Outside the Box:  How the Internet of Things Poses New Cybersecurity Risks and Challenges the Law"
+      ]
     },
     {
-      "event_type": 30211,
       "link": "",
+      "title": "Applying the principles of Dodgeball: A True Underdog Story to CTFs",
       "id": 30407,
+      "event_type": 30211,
+      "includes": "",
+      "location": 30220,
+      "conference": "SWV4",
+      "start_date": "2018-11-30T22:30+0000",
       "end_date": "2018-11-30T23:00+0000",
+      "updated_at": "2018-10-18T03:42+0000",
+      "description": "",
       "speakers": [
         30418
-      ],
-      "conference": "SWV4",
-      "description": "",
-      "location": 30220,
-      "start_date": "2018-11-30T22:30+0000",
-      "includes": "",
-      "updated_at": "2018-10-18T03:42+0000",
-      "title": "Applying the principles of Dodgeball: A True Underdog Story to CTFs"
+      ]
     },
     {
-      "event_type": 30215,
       "link": "",
+      "title": "BASH Scripting",
       "id": 30408,
-      "end_date": "2018-11-30T18:50+0000",
-      "speakers": [
-        30434
-      ],
-      "conference": "SWV4",
-      "description": "Learn BASH Scripting with the one, the only Justin!",
+      "event_type": 30215,
+      "includes": "",
       "location": 30221,
+      "conference": "SWV4",
       "start_date": "2018-11-30T16:00+0000",
-      "includes": "",
+      "end_date": "2018-11-30T18:50+0000",
       "updated_at": "2018-10-18T03:42+0000",
-      "title": "BASH Scripting"
-    },
-    {
-      "event_type": 30215,
-      "link": "",
-      "id": 30409,
-      "end_date": "2018-11-30T22:50+0000",
+      "description": "Learn BASH Scripting with the one, the only Justin!",
       "speakers": [
         30434
-      ],
-      "conference": "SWV4",
-      "description": "Hot off his BASH Scripting World Tour, Justin will show you some of his unrivial collection of Python scripting tools.",
-      "location": 30221,
-      "start_date": "2018-11-30T19:00+0000",
-      "includes": "",
-      "updated_at": "2018-10-18T03:42+0000",
-      "title": "Python Scripting"
+      ]
     },
     {
-      "event_type": 30215,
       "link": "",
+      "title": "Python Scripting",
+      "id": 30409,
+      "event_type": 30215,
+      "includes": "",
+      "location": 30221,
+      "conference": "SWV4",
+      "start_date": "2018-11-30T19:00+0000",
+      "end_date": "2018-11-30T22:50+0000",
+      "updated_at": "2018-10-18T03:42+0000",
+      "description": "Hot off his BASH Scripting World Tour, Justin will show you some of his unrivial collection of Python scripting tools.",
+      "speakers": [
+        30434
+      ]
+    },
+    {
+      "link": "",
+      "title": "Red Hat Enterprise Linux Security Technologies Lab",
       "id": 30410,
+      "event_type": 30215,
+      "includes": "",
+      "location": 30222,
+      "conference": "SWV4",
+      "start_date": "2018-11-30T16:00+0000",
       "end_date": "2018-11-30T18:50+0000",
+      "updated_at": "2018-11-26T15:55+0000",
+      "description": "In this lab, you will learn about the built-in security technologies in Red Hat Enterprise Linux.  Specifically, you will use OpenSCAP to scan and remediate against vulnerabilities and configuration security baselines. You will then block possible attacks from vulnerabilities using Security Enhanced Linux (SELinux) and use Network Bound Disk Encryption to securely decrypt your encrypted boot volumes unattended. You will also use USBGuard to implement basic whitelisting and blacklisting to define which USB devices are and are not authorized and how a USB device may interact with your system. You will also learn how to deploy opportunistic IPsec to encrypt all host to host communication within an enterprise network.\r\n\r\nThroughout your investigation of the security issues in your systems, you will utilize the improved audit logs and learn how to use the Audit Intrusion Detection Environment (AIDE). You will also learn how to create a single sign-on environment for all your linux servers using Red Hat Identity Management and learn about GNU Privacy Guard (GPG) which can be used to identify yourself and encrypt your communications. You will also have a chance to learn how to use firewalld to dynamically manage firewall rules. Finally, you will make multiple configuration changes to your systems across different versions of Red Hat Enterprise Linux running in your environment, in an automated fashion using Red Hat Ansible Automation, using the Systems Roles feature.\r\n\r\nIf you want to participate in the hands on lab, please be sure to bring a laptop to the event with a SSH client and web browser (Firefox with plugins disabled recommended).",
       "speakers": [
         30438,
         30443
-      ],
-      "conference": "SWV4",
-      "description": "In this lab, you will learn about the built-in security technologies in Red Hat Enterprise Linux.  Specifically, you will use OpenSCAP to scan and remediate against vulnerabilities and configuration security baselines. You will then block possible attacks from vulnerabilities using Security Enhanced Linux (SELinux) and use Network Bound Disk Encryption to securely decrypt your encrypted boot volumes unattended. You will also use USBGuard to implement basic whitelisting and blacklisting to define which USB devices are and are not authorized and how a USB device may interact with your system. You will also learn how to deploy opportunistic IPsec to encrypt all host to host communication within an enterprise network.\r\n\r\nThroughout your investigation of the security issues in your systems, you will utilize the improved audit logs and learn how to use the Audit Intrusion Detection Environment (AIDE). You will also learn how to create a single sign-on environment for all your linux servers using Red Hat Identity Management and learn about GNU Privacy Guard (GPG) which can be used to identify yourself and encrypt your communications. You will also have a chance to learn how to use firewalld to dynamically manage firewall rules. Finally, you will make multiple configuration changes to your systems across different versions of Red Hat Enterprise Linux running in your environment, in an automated fashion using Red Hat Ansible Automation, using the Systems Roles feature.\r\n\r\nIf you want to participate in the hands on lab, please be sure to bring a laptop to the event with a SSH client and web browser (Firefox with plugins disabled recommended).",
-      "location": 30222,
-      "start_date": "2018-11-30T16:00+0000",
-      "includes": "",
-      "updated_at": "2018-11-26T15:55+0000",
-      "title": "Red Hat Enterprise Linux Security Technologies Lab"
+      ]
     },
     {
-      "event_type": 30215,
       "link": "",
+      "title": "Automating Security Operations - on a budget",
       "id": 30411,
+      "event_type": 30215,
+      "includes": "",
+      "location": 30222,
+      "conference": "SWV4",
+      "start_date": "2018-11-30T19:00+0000",
       "end_date": "2018-11-30T22:50+0000",
+      "updated_at": "2018-10-18T03:42+0000",
+      "description": "Participants will learn how to use Graylog with The Hive project to automate a Security Operations Center on a budget.",
       "speakers": [
         30430
-      ],
-      "conference": "SWV4",
-      "description": "Participants will learn how to use Graylog with The Hive project to automate a Security Operations Center on a budget.",
-      "location": 30222,
-      "start_date": "2018-11-30T19:00+0000",
-      "includes": "",
-      "updated_at": "2018-10-18T03:42+0000",
-      "title": "Automating Security Operations - on a budget"
+      ]
     },
     {
-      "event_type": 30213,
       "link": "",
+      "title": "Hack3r Hangout",
       "id": 30412,
-      "end_date": "2018-12-01T04:50+0000",
-      "speakers": [],
-      "conference": "SWV4",
-      "description": "Attendees can hang out and discuss the day's events as well as get together and compare notes.",
-      "location": 30224,
-      "start_date": "2018-12-01T00:00+0000",
+      "event_type": 30213,
       "includes": "",
+      "location": 30224,
+      "conference": "SWV4",
+      "start_date": "2018-12-01T00:00+0000",
+      "end_date": "2018-12-01T04:50+0000",
       "updated_at": "2018-10-18T03:42+0000",
-      "title": "Hack3r Hangout"
+      "description": "Attendees can hang out and discuss the day's events as well as get together and compare notes.",
+      "speakers": []
     },
     {
-      "event_type": 30213,
       "link": "",
+      "title": "Key Signing Party",
       "id": 30413,
+      "event_type": 30213,
+      "includes": "",
+      "location": 30220,
+      "conference": "SWV4",
+      "start_date": "2018-12-01T00:00+0000",
       "end_date": "2018-12-01T04:50+0000",
+      "updated_at": "2018-10-18T03:42+0000",
+      "description": "Participants will be able to learn how to set up GPG Keys for secure messaging and will also be able to add other attendees to their group.",
       "speakers": [
         30415
-      ],
-      "conference": "SWV4",
-      "description": "Participants will be able to learn how to set up GPG Keys for secure messaging and will also be able to add other attendees to their group.",
-      "location": 30220,
-      "start_date": "2018-12-01T00:00+0000",
-      "includes": "",
-      "updated_at": "2018-10-18T03:42+0000",
-      "title": "Key Signing Party"
+      ]
     },
     {
-      "event_type": 30213,
       "link": "",
+      "title": "Gun Safety Class",
       "id": 30414,
-      "end_date": "2018-11-30T21:50+0000",
+      "event_type": 30213,
+      "includes": "",
+      "location": 30225,
+      "conference": "SWV4",
+      "start_date": "2018-12-01T00:00+0000",
+      "end_date": "2018-12-01T02:00+0000",
+      "updated_at": "2018-11-29T17:14+0000",
+      "description": "",
       "speakers": [
         30418
-      ],
-      "conference": "SWV4",
-      "description": "",
-      "location": 30225,
-      "start_date": "2018-11-30T21:00+0000",
-      "includes": "",
-      "updated_at": "2018-10-18T03:42+0000",
-      "title": "Gun Safety Class"
+      ]
     },
     {
-      "event_type": 30213,
       "link": "",
+      "title": "Registration Opens",
       "id": 30415,
-      "end_date": "2018-12-01T21:50+0000",
-      "speakers": [],
-      "conference": "SWV4",
-      "description": "Registraion desk opens.",
-      "location": 30224,
-      "start_date": "2018-12-01T13:00+0000",
+      "event_type": 30213,
       "includes": "",
+      "location": 30224,
+      "conference": "SWV4",
+      "start_date": "2018-12-01T13:00+0000",
+      "end_date": "2018-12-01T21:50+0000",
       "updated_at": "2018-10-18T03:42+0000",
-      "title": "Registration Opens"
+      "description": "Registraion desk opens.",
+      "speakers": []
     },
     {
-      "event_type": 30211,
       "link": "",
+      "title": "Security Automation for the Blue Team",
       "id": 30416,
-      "end_date": "2018-12-02T00:50+0000",
+      "event_type": 30211,
+      "includes": "",
+      "location": 30220,
+      "conference": "SWV4",
+      "start_date": "2018-12-01T14:00+0000",
+      "end_date": "2018-12-01T14:50+0000",
+      "updated_at": "2018-11-29T17:16+0000",
+      "description": "Supposedly, there's a shortage of Information Security professionals. Some people agree while others disagree. However, there is one thing most infosec professionals will agree on\u2026 and that is the fact that we all run around like our hair is on fire because we don't have enough resources to accomplish everything that needs to get done. I know this is the case for most infosec people I talk to. Even if we get an additional headcount, our list of compliance checkboxes, projects, and daily responsibilities keep growing at a phenomenal pace. How do we keep up with this fast-paced growth, insane workload, alerts out our ears and no end in sight? One of the best ways to make a big impact is through automation. Whether you have a massive budget or no budget at all, I will discuss your options and how to start the automation journey\u2026 or improve upon what you already have. I'll talk about using existing tools, creating your own scripts, using API's and even the latest fad in security automation, SOAR (security operations analytics and reporting). We will discuss how to determine what you should automate first, automation use cases in infosec, and how to tell if there\u2019s something you shouldn\u2019t automate. Let's face it, we are over tooled and understaffed\u2026 We need automation to help us out.",
       "speakers": [
         30424
-      ],
-      "conference": "SWV4",
-      "description": "Supposedly, there's a shortage of Information Security professionals. Some people agree while others disagree. However, there is one thing most infosec professionals will agree on\u2026 and that is the fact that we all run around like our hair is on fire because we don't have enough resources to accomplish everything that needs to get done. I know this is the case for most infosec people I talk to. Even if we get an additional headcount, our list of compliance checkboxes, projects, and daily responsibilities keep growing at a phenomenal pace. How do we keep up with this fast-paced growth, insane workload, alerts out our ears and no end in sight? One of the best ways to make a big impact is through automation. Whether you have a massive budget or no budget at all, I will discuss your options and how to start the automation journey\u2026 or improve upon what you already have. I'll talk about using existing tools, creating your own scripts, using API's and even the latest fad in security automation, SOAR (security operations analytics and reporting). We will discuss how to determine what you should automate first, automation use cases in infosec, and how to tell if there\u2019s something you shouldn\u2019t automate. Let's face it, we are over tooled and understaffed\u2026 We need automation to help us out.",
-      "location": 30220,
-      "start_date": "2018-12-02T00:00+0000",
-      "includes": "",
-      "updated_at": "2018-11-26T16:45+0000",
-      "title": "Security Automation for the Blue Team"
+      ]
     },
     {
-      "event_type": 30211,
       "link": "",
+      "title": "Home Alone: A Pentester Perspective",
       "id": 30417,
+      "event_type": 30211,
+      "includes": "",
+      "location": 30220,
+      "conference": "SWV4",
+      "start_date": "2018-12-01T15:00+0000",
       "end_date": "2018-12-01T15:50+0000",
+      "updated_at": "2018-10-18T03:42+0000",
+      "description": "\"Free\" and \"Easy\" things you can do in your shop TODAY that will give attackers a bad day.",
       "speakers": [
         30421,
         30422
-      ],
-      "conference": "SWV4",
-      "description": "\"Free\" and \"Easy\" things you can do in your shop TODAY that will give attackers a bad day.",
-      "location": 30220,
-      "start_date": "2018-12-01T15:00+0000",
-      "includes": "",
-      "updated_at": "2018-10-18T03:42+0000",
-      "title": "Home Alone: A Pentester Perspective"
+      ]
     },
     {
-      "event_type": 30211,
       "link": "",
+      "title": "Simplified Red Hat Enterprise Linux Identity, Authentication, and Authorization management with Microsoft Active Directory and Red Hat Identity Management Trust",
       "id": 30418,
+      "event_type": 30211,
+      "includes": "",
+      "location": 30220,
+      "conference": "SWV4",
+      "start_date": "2018-12-01T16:00+0000",
       "end_date": "2018-12-01T16:50+0000",
+      "updated_at": "2018-11-26T16:46+0000",
+      "description": "This presentation will go into detail discussing the options of Active Directory and Red Hat IdM integration, along with the processes required. We will discuss best practices regarding each option and the various scenarios for when specific cases of integration should be used. The requirements and post setup procedures will also be mentioned as part of the overall integration.",
       "speakers": [
         30438
-      ],
-      "conference": "SWV4",
-      "description": "This presentation will go into detail discussing the options of Active Directory and Red Hat IdM integration, along with the processes required. We will discuss best practices regarding each option and the various scenarios for when specific cases of integration should be used. The requirements and post setup procedures will also be mentioned as part of the overall integration.",
-      "location": 30220,
-      "start_date": "2018-12-01T16:00+0000",
-      "includes": "",
-      "updated_at": "2018-11-26T16:46+0000",
-      "title": "Simplified Red Hat Enterprise Linux Identity, Authentication, and Authorization management with Microsoft Active Directory and Red Hat Identity Management Trust"
+      ]
     },
     {
-      "event_type": 30211,
       "link": "",
+      "title": "Simple Attribution in Social Media and Websites",
       "id": 30419,
+      "event_type": 30211,
+      "includes": "",
+      "location": 30220,
+      "conference": "SWV4",
+      "start_date": "2018-12-01T18:00+0000",
       "end_date": "2018-12-01T18:50+0000",
+      "updated_at": "2018-10-18T03:42+0000",
+      "description": "This presentation follows the methods and techniques we use in the business to discover who is behind malicious activities like libel on the web. It covers standard OSINT techniques and tools in a simplistic setting.\n\nMaterial is appropriate for beginner to moderate research abilities. This is a limited introductory overview of a process that has extensive depth in all the components. An hour long presentation could be made on any aspect, if not more. It is not a complete treatise, and practitioners should delve further before utilizing any of the information here.",
       "speakers": [
         30419
-      ],
-      "conference": "SWV4",
-      "description": "This presentation follows the methods and techniques we use in the business to discover who is behind malicious activities like libel on the web. It covers standard OSINT techniques and tools in a simplistic setting.\n\nMaterial is appropriate for beginner to moderate research abilities. This is a limited introductory overview of a process that has extensive depth in all the components. An hour long presentation could be made on any aspect, if not more. It is not a complete treatise, and practitioners should delve further before utilizing any of the information here.",
-      "location": 30220,
-      "start_date": "2018-12-01T18:00+0000",
-      "includes": "",
-      "updated_at": "2018-10-18T03:42+0000",
-      "title": "Simple Attribution in Social Media and Websites"
+      ]
     },
     {
-      "event_type": 30211,
       "link": "",
+      "title": "Offensive and Defensive Security with Ansible",
       "id": 30420,
+      "event_type": 30211,
+      "includes": "",
+      "location": 30220,
+      "conference": "SWV4",
+      "start_date": "2018-12-01T19:00+0000",
       "end_date": "2018-12-01T19:50+0000",
+      "updated_at": "2018-11-26T16:48+0000",
+      "description": "Ansible is a leading automation tool for the system administrator, but how can you use it as a way of managing enterprise security postures? As defensive technologies improve their ability to identify unusual processes and binaries on their endpoints, attackers also adjust their techniques, becoming more creative in order to stay under the radar. In this session, you will learn why Ansible is a great tool for offensive and defensive security, see examples of how to use Ansible for offensive and defensive security, review examples of Ansible security integrations across the Red Hat Portfolio, and review real Red Hat customer examples of Ansible security automation implementations.",
       "speakers": [
         30443
-      ],
-      "conference": "SWV4",
-      "description": "Ansible is a leading automation tool for the system administrator, but how can you use it as a way of managing enterprise security postures? As defensive technologies improve their ability to identify unusual processes and binaries on their endpoints, attackers also adjust their techniques, becoming more creative in order to stay under the radar. In this session, you will learn why Ansible is a great tool for offensive and defensive security, see examples of how to use Ansible for offensive and defensive security, review examples of Ansible security integrations across the Red Hat Portfolio, and review real Red Hat customer examples of Ansible security automation implementations.",
-      "location": 30220,
-      "start_date": "2018-12-01T19:00+0000",
-      "includes": "",
-      "updated_at": "2018-11-26T16:48+0000",
-      "title": "Offensive and Defensive Security with Ansible"
+      ]
     },
     {
-      "event_type": 30211,
       "link": "",
+      "title": "High School Competitive Robotics and why you should care.",
       "id": 30421,
+      "event_type": 30211,
+      "includes": "",
+      "location": 30220,
+      "conference": "SWV4",
+      "start_date": "2018-12-01T20:00+0000",
       "end_date": "2018-12-01T20:50+0000",
+      "updated_at": "2018-11-26T16:50+0000",
+      "description": "TBD",
       "speakers": [
         30444
-      ],
-      "conference": "SWV4",
-      "description": "TBD",
-      "location": 30220,
-      "start_date": "2018-12-01T20:00+0000",
-      "includes": "",
-      "updated_at": "2018-11-26T16:50+0000",
-      "title": "High School Competitive Robotics and why you should care."
+      ]
     },
     {
-      "event_type": 30211,
       "link": "",
+      "title": "Guaranteed Failure - Awareness The Greatest Cyber Insanity",
       "id": 30422,
+      "event_type": 30211,
+      "includes": "",
+      "location": 30220,
+      "conference": "SWV4",
+      "start_date": "2018-12-01T21:00+0000",
       "end_date": "2018-12-01T21:50+0000",
+      "updated_at": "2018-10-18T03:42+0000",
+      "description": "Human error is the cause of over 95% of data breaches and the weakest aspect of cybersecurity in nearly all organizations. These errors guarantee that hackers can easily gain access to almost any network in the world and take complete control of systems, data and more. This chapter outlines the top mistakes organizations make in security awareness and why most companies are failing to properly prepare their users for cyber attacks. Each point is accompanied by actionable data derived from real-world training program successes and failures. Attendees will learn how to measure human risk accurately and build programs effective at preparing users for attacks that hack people instead of systems. Strong user security awareness can prevent nearly all cyber incidents and significantly reduce risk exposure.",
       "speakers": [
         30433
-      ],
-      "conference": "SWV4",
-      "description": "Human error is the cause of over 95% of data breaches and the weakest aspect of cybersecurity in nearly all organizations. These errors guarantee that hackers can easily gain access to almost any network in the world and take complete control of systems, data and more. This chapter outlines the top mistakes organizations make in security awareness and why most companies are failing to properly prepare their users for cyber attacks. Each point is accompanied by actionable data derived from real-world training program successes and failures. Attendees will learn how to measure human risk accurately and build programs effective at preparing users for attacks that hack people instead of systems. Strong user security awareness can prevent nearly all cyber incidents and significantly reduce risk exposure.",
-      "location": 30220,
-      "start_date": "2018-12-01T21:00+0000",
-      "includes": "",
-      "updated_at": "2018-10-18T03:42+0000",
-      "title": "Guaranteed Failure - Awareness The Greatest Cyber Insanity"
+      ]
     },
     {
-      "event_type": 30211,
       "link": "",
+      "title": "Developing a Cloud Based Cyber Security Simulation Portal",
       "id": 30423,
+      "event_type": 30211,
+      "includes": "",
+      "location": 30220,
+      "conference": "SWV4",
+      "start_date": "2018-12-01T22:00+0000",
       "end_date": "2018-12-01T22:50+0000",
+      "updated_at": "2018-10-18T03:42+0000",
+      "description": "This talk provides an overview of the development and usage of the Cyber Security Simulation Portal (CSSP), a web application built on the Ruby on Rails framework which provides a portal to manage cybersecurity simulations in the cloud. The objective of this effort was to create easy-to-build, easy-to-destroy environments which users can access remotely. Such environments can be useful in training exercises for competitions such as the Mid-Atlantic Collegiate Cyber Defense Competition. By utlizing cloud computing and APIs, training resources can be allocated on demand which can greatly reduce costs of setup, deployment, delegation, and usage.",
       "speakers": [
         30423
-      ],
-      "conference": "SWV4",
-      "description": "This talk provides an overview of the development and usage of the Cyber Security Simulation Portal (CSSP), a web application built on the Ruby on Rails framework which provides a portal to manage cybersecurity simulations in the cloud. The objective of this effort was to create easy-to-build, easy-to-destroy environments which users can access remotely. Such environments can be useful in training exercises for competitions such as the Mid-Atlantic Collegiate Cyber Defense Competition. By utlizing cloud computing and APIs, training resources can be allocated on demand which can greatly reduce costs of setup, deployment, delegation, and usage.",
-      "location": 30220,
-      "start_date": "2018-12-01T22:00+0000",
-      "includes": "",
-      "updated_at": "2018-10-18T03:42+0000",
-      "title": "Developing a Cloud Based Cyber Security Simulation Portal"
+      ]
     },
     {
-      "event_type": 30215,
       "link": "",
+      "title": "The Hybrid Home Lab: From Laptop to Cloud",
       "id": 30424,
+      "event_type": 30215,
+      "includes": "",
+      "location": 30221,
+      "conference": "SWV4",
+      "start_date": "2018-12-01T14:00+0000",
       "end_date": "2018-12-01T18:50+0000",
+      "updated_at": "2018-10-18T03:42+0000",
+      "description": "It's awesome when we have a nice datacenter with oodles of compute, network, and storage. Most of us can't quite front the cost for that home datacenter, so we have to figure out the best way to build infrastructure to secure or break. This class will explore infrastructure automation in the home using modern tools including QEMU/KVM, Packer, Vagrant, Zerotier, and OpenVSwitch. If we have reasonable internet access, we will also experience cloud bursting to understand how that can provide on-demand compute without the expense of 24/7 operations. Students will create both CentOS and Windows VM's in an automated build process from ISO and learn how to deploy them via Vagrant.\n\nThey will experiment with OpenVSwitch and Zerotier to get exposure to VXLan and software defined networking that will allow VM's running on disparate hypervisors that ability to communicate as though they were connected on a local network. Finally, they will be exposed to Google Cloud and Packet.net to understand two different cloud approaches (service and baremetal) to understand how remote hosting can help provide extensive compute resources on demand without spending hundreds of dollars.",
       "speakers": [
         30426
-      ],
-      "conference": "SWV4",
-      "description": "It's awesome when we have a nice datacenter with oodles of compute, network, and storage. Most of us can't quite front the cost for that home datacenter, so we have to figure out the best way to build infrastructure to secure or break. This class will explore infrastructure automation in the home using modern tools including QEMU/KVM, Packer, Vagrant, Zerotier, and OpenVSwitch. If we have reasonable internet access, we will also experience cloud bursting to understand how that can provide on-demand compute without the expense of 24/7 operations. Students will create both CentOS and Windows VM's in an automated build process from ISO and learn how to deploy them via Vagrant.\n\nThey will experiment with OpenVSwitch and Zerotier to get exposure to VXLan and software defined networking that will allow VM's running on disparate hypervisors that ability to communicate as though they were connected on a local network. Finally, they will be exposed to Google Cloud and Packet.net to understand two different cloud approaches (service and baremetal) to understand how remote hosting can help provide extensive compute resources on demand without spending hundreds of dollars.",
-      "location": 30221,
-      "start_date": "2018-12-01T14:00+0000",
-      "includes": "",
-      "updated_at": "2018-10-18T03:42+0000",
-      "title": "The Hybrid Home Lab: From Laptop to Cloud"
+      ]
     },
     {
-      "event_type": 30215,
       "link": "",
+      "title": "Securing your networks with Ansible",
       "id": 30425,
+      "event_type": 30215,
+      "includes": "",
+      "location": 30221,
+      "conference": "SWV4",
+      "start_date": "2018-12-01T19:00+0000",
       "end_date": "2018-12-01T22:50+0000",
+      "updated_at": "2018-10-18T03:42+0000",
+      "description": "",
       "speakers": [
         30415
-      ],
-      "conference": "SWV4",
-      "description": "",
-      "location": 30221,
-      "start_date": "2018-12-01T19:00+0000",
-      "includes": "",
-      "updated_at": "2018-10-18T03:42+0000",
-      "title": "Securing your networks with Ansible"
+      ]
     },
     {
-      "event_type": 30215,
       "link": "",
+      "title": "A deep look at Stack Buffer Overflows and Format String Vulnerabilities",
       "id": 30426,
+      "event_type": 30215,
+      "includes": "",
+      "location": 30222,
+      "conference": "SWV4",
+      "start_date": "2018-12-01T14:00+0000",
       "end_date": "2018-12-01T18:50+0000",
+      "updated_at": "2018-10-18T03:42+0000",
+      "description": "Stack Buffer Overflows\n -What are they\n -The stack and calling conventions\n -Calculating the location for new return addresses\n -Injecting payloads\n -Protections against this\n --Non-executable stacks\n --Address Space Layout Randomization (ASLR)\n --Stack Canaries\n\nFormat Strings\n What is a format string\n How do the vulnerabilities get created\n Crashing programs\n Reading stack variables\n Reading arbitrary memory\n Writing arbitrary memory",
       "speakers": [
         30436
-      ],
-      "conference": "SWV4",
-      "description": "Stack Buffer Overflows\n -What are they\n -The stack and calling conventions\n -Calculating the location for new return addresses\n -Injecting payloads\n -Protections against this\n --Non-executable stacks\n --Address Space Layout Randomization (ASLR)\n --Stack Canaries\n\nFormat Strings\n What is a format string\n How do the vulnerabilities get created\n Crashing programs\n Reading stack variables\n Reading arbitrary memory\n Writing arbitrary memory",
-      "location": 30222,
-      "start_date": "2018-12-01T14:00+0000",
-      "includes": "",
-      "updated_at": "2018-10-18T03:42+0000",
-      "title": "A deep look at Stack Buffer Overflows and Format String Vulnerabilities"
+      ]
     },
     {
-      "event_type": 30215,
       "link": "",
+      "title": "Advanced threat hunting with open-source tools and no budget",
       "id": 30427,
+      "event_type": 30215,
+      "includes": "",
+      "location": 30222,
+      "conference": "SWV4",
+      "start_date": "2018-12-01T19:00+0000",
       "end_date": "2018-12-01T22:50+0000",
+      "updated_at": "2018-10-18T03:42+0000",
+      "description": "This talk is designed to provide you the skills necessary to hunt for malicious actors on the networks you defend. I will teach you how to do this using primarily Open-Source software and technologies. You CAN have effective cybersecurity on a limited budget.\n\nPart 1: OSINT Network defenses - talk through creating an open-source network intrusion detection sensor leveraging a Raspberri Pi and Suricata. We have successfully deployed these sensors on network up to 500 endpoints. We will cover the basics of what Suricata is as well as how to use a Pi for better visibility within a network.\n\nPart 2: OSINT Threat Intel - talk through using a number of different tools for faster false positive detection. Will also speak about how to automate some of the OSINT feeds for the Suricata sensor - daily OSINT updates protecting the network.\n\nPart 3: Now that we have some tooling in place - how do we look for anomalous activity. Will cover how to approach an investigation, define attackers and define a compromise.\n\nPart 4: Introduction of our F3EA Framework for threat hunting. Explore all 5 sections and define what each are and how they relate to the overall investigation. The Framework is iterative and feeds itself.\n\nPart 5: Threat Hunting models - practical examples of how to hunt and a number of common techniques that we have found highly successful.",
       "speakers": [
         30432
-      ],
-      "conference": "SWV4",
-      "description": "This talk is designed to provide you the skills necessary to hunt for malicious actors on the networks you defend. I will teach you how to do this using primarily Open-Source software and technologies. You CAN have effective cybersecurity on a limited budget.\n\nPart 1: OSINT Network defenses - talk through creating an open-source network intrusion detection sensor leveraging a Raspberri Pi and Suricata. We have successfully deployed these sensors on network up to 500 endpoints. We will cover the basics of what Suricata is as well as how to use a Pi for better visibility within a network.\n\nPart 2: OSINT Threat Intel - talk through using a number of different tools for faster false positive detection. Will also speak about how to automate some of the OSINT feeds for the Suricata sensor - daily OSINT updates protecting the network.\n\nPart 3: Now that we have some tooling in place - how do we look for anomalous activity. Will cover how to approach an investigation, define attackers and define a compromise.\n\nPart 4: Introduction of our F3EA Framework for threat hunting. Explore all 5 sections and define what each are and how they relate to the overall investigation. The Framework is iterative and feeds itself.\n\nPart 5: Threat Hunting models - practical examples of how to hunt and a number of common techniques that we have found highly successful.",
-      "location": 30222,
-      "start_date": "2018-12-01T19:00+0000",
-      "includes": "",
-      "updated_at": "2018-10-18T03:42+0000",
-      "title": "Advanced threat hunting with open-source tools and no budget"
+      ]
     },
     {
-      "event_type": 30213,
       "link": "",
+      "title": "Hack3r Karaoke",
       "id": 30428,
-      "end_date": "2018-12-02T04:50+0000",
-      "speakers": [],
-      "conference": "SWV4",
-      "description": "",
-      "location": 30223,
-      "start_date": "2018-12-02T01:00+0000",
+      "event_type": 30213,
       "includes": "",
+      "location": 30223,
+      "conference": "SWV4",
+      "start_date": "2018-12-02T01:00+0000",
+      "end_date": "2018-12-02T04:50+0000",
       "updated_at": "2018-10-18T03:42+0000",
-      "title": "Hack3r Karaoke"
+      "description": "",
+      "speakers": []
     },
     {
-      "event_type": 30213,
       "link": "",
+      "title": "Key Signing Party",
       "id": 30429,
+      "event_type": 30213,
+      "includes": "",
+      "location": 30220,
+      "conference": "SWV4",
+      "start_date": "2018-12-02T01:00+0000",
       "end_date": "2018-12-02T04:50+0000",
+      "updated_at": "2018-10-18T03:42+0000",
+      "description": "Participants will be able to learn how to set up GPG Keys for secure messaging and will also be able to add other attendees to their group.",
       "speakers": [
         30415
-      ],
-      "conference": "SWV4",
-      "description": "Participants will be able to learn how to set up GPG Keys for secure messaging and will also be able to add other attendees to their group.",
-      "location": 30220,
-      "start_date": "2018-12-02T01:00+0000",
-      "includes": "",
-      "updated_at": "2018-10-18T03:42+0000",
-      "title": "Key Signing Party"
+      ]
     },
     {
-      "event_type": 30211,
       "link": "",
+      "title": "What's in a Domain Name?",
       "id": 30430,
+      "event_type": 30211,
+      "includes": "",
+      "location": 30220,
+      "conference": "SWV4",
+      "start_date": "2018-12-02T15:00+0000",
       "end_date": "2018-12-02T15:50+0000",
+      "updated_at": "2018-10-18T03:42+0000",
+      "description": "This talk aims to dissect and expand on all of the data points that can be determined from a single domain name.\n\nA domain is the most public facing asset that a company or entity has. The entire goal of a domain/website is to make it easy for potential customers or partners to find the information they want easily. Unfortunately, this also sets up the owner to release too much information about themselves.\n\nThe goal of this talk is to show what information we can collect and expand on given a single domain name. We will answer the question of just how far we can go down the information security rabbit hole with just a single data point. We will only take advantage of open source services and tools, though we may discuss how other paid services and tools could aid to dig the hole even deeper.\n\nIf we can get this far and this much data during this short talk, how far do you think a threat actor can get when he/she devotes his/her entire motivation and attention to it?",
       "speakers": [
         30420
-      ],
-      "conference": "SWV4",
-      "description": "This talk aims to dissect and expand on all of the data points that can be determined from a single domain name.\n\nA domain is the most public facing asset that a company or entity has. The entire goal of a domain/website is to make it easy for potential customers or partners to find the information they want easily. Unfortunately, this also sets up the owner to release too much information about themselves.\n\nThe goal of this talk is to show what information we can collect and expand on given a single domain name. We will answer the question of just how far we can go down the information security rabbit hole with just a single data point. We will only take advantage of open source services and tools, though we may discuss how other paid services and tools could aid to dig the hole even deeper.\n\nIf we can get this far and this much data during this short talk, how far do you think a threat actor can get when he/she devotes his/her entire motivation and attention to it?",
-      "location": 30220,
-      "start_date": "2018-12-02T15:00+0000",
-      "includes": "",
-      "updated_at": "2018-10-18T03:42+0000",
-      "title": "What's in a Domain Name?"
+      ]
     },
     {
-      "event_type": 30211,
       "link": "",
+      "title": "Monitoring your home LAN with Python",
       "id": 30431,
+      "event_type": 30211,
+      "includes": "",
+      "location": 30220,
+      "conference": "SWV4",
+      "start_date": "2018-12-02T16:00+0000",
       "end_date": "2018-12-02T16:50+0000",
+      "updated_at": "2018-10-18T03:42+0000",
+      "description": "I recently built a Python script that would routinely scan my home network, and would notify me whenever an unknown host had connected to my network. Basically, I had noticed some odd usage on my network and wanted to be able to identify when someone was logged into it without me knowing. The app is very simple, but quite useful, especially when set within a cron job.",
       "speakers": [
         30441
-      ],
-      "conference": "SWV4",
-      "description": "I recently built a Python script that would routinely scan my home network, and would notify me whenever an unknown host had connected to my network. Basically, I had noticed some odd usage on my network and wanted to be able to identify when someone was logged into it without me knowing. The app is very simple, but quite useful, especially when set within a cron job.",
-      "location": 30220,
-      "start_date": "2018-12-02T16:00+0000",
-      "includes": "",
-      "updated_at": "2018-10-18T03:42+0000",
-      "title": "Monitoring your home LAN with Python"
+      ]
     },
     {
-      "event_type": 30211,
       "link": "",
+      "title": "Left of Boom",
       "id": 30432,
+      "event_type": 30211,
+      "includes": "",
+      "location": 30220,
+      "conference": "SWV4",
+      "start_date": "2018-12-02T18:00+0000",
       "end_date": "2018-12-02T18:50+0000",
+      "updated_at": "2018-10-18T03:42+0000",
+      "description": "The term \"Left of Boom\" was made popular in 2007 in reference to the U.S. military combating improvised explosive devices (IEDs) used by insurgents in Afghanistan and Iraq. The U.S. military spent billions of dollars developing technology and tactics to prevent and detect IEDs before detonation, with a goal of disrupting the bomb chain. This is an analog to cybersecurity as we strive to increase the incident prevention capabilities of our security tools and where we can\u2019t prevent attacks, augment prevention with incident detection and response tools.\n\nIf you feel that you don\u2019t have the cybersecurity evidence to know, empirically, what\u2019s working, what\u2019s not, how to fix it, how to verify the fix worked, and how to make sure it stays working across your security tools, your people, and the processes they follow, this presentation is for you.\n\nThis presentation will demonstrate automated methods to mitigate these problems. It will identify approaches that you can apply to improve the effectiveness of your security tools, security teams, and processes. Following this presentation, you\u2019ll be able to develop your own strategy to get \"left of boom.\"",
       "speakers": [
         30440
-      ],
-      "conference": "SWV4",
-      "description": "The term \"Left of Boom\" was made popular in 2007 in reference to the U.S. military combating improvised explosive devices (IEDs) used by insurgents in Afghanistan and Iraq. The U.S. military spent billions of dollars developing technology and tactics to prevent and detect IEDs before detonation, with a goal of disrupting the bomb chain. This is an analog to cybersecurity as we strive to increase the incident prevention capabilities of our security tools and where we can\u2019t prevent attacks, augment prevention with incident detection and response tools.\n\nIf you feel that you don\u2019t have the cybersecurity evidence to know, empirically, what\u2019s working, what\u2019s not, how to fix it, how to verify the fix worked, and how to make sure it stays working across your security tools, your people, and the processes they follow, this presentation is for you.\n\nThis presentation will demonstrate automated methods to mitigate these problems. It will identify approaches that you can apply to improve the effectiveness of your security tools, security teams, and processes. Following this presentation, you\u2019ll be able to develop your own strategy to get \"left of boom.\"",
-      "location": 30220,
-      "start_date": "2018-12-02T18:00+0000",
-      "includes": "",
-      "updated_at": "2018-10-18T03:42+0000",
-      "title": "Left of Boom"
+      ]
     },
     {
-      "event_type": 30211,
       "link": "",
+      "title": "Your Dead! Now what. How to help your family after your gone.",
       "id": 30433,
+      "event_type": 30211,
+      "includes": "",
+      "location": 30220,
+      "conference": "SWV4",
+      "start_date": "2018-12-02T19:00+0000",
       "end_date": "2018-12-02T19:50+0000",
+      "updated_at": "2018-10-18T03:42+0000",
+      "description": "Your dead. Now what is your family supposed to do. Do they know all the important passwords? What are they supposed to do with your computer hardware? Do they know your contacts, without having your cell phone? I am going to discuss some techniques and disaster plans, that you need to make your trip into the Afterlife easier, on your family.",
       "speakers": [
         30439
-      ],
-      "conference": "SWV4",
-      "description": "Your dead. Now what is your family supposed to do. Do they know all the important passwords? What are they supposed to do with your computer hardware? Do they know your contacts, without having your cell phone? I am going to discuss some techniques and disaster plans, that you need to make your trip into the Afterlife easier, on your family.",
-      "location": 30220,
-      "start_date": "2018-12-02T19:00+0000",
-      "includes": "",
-      "updated_at": "2018-10-18T03:42+0000",
-      "title": "Your Dead! Now what. How to help your family after your gone."
+      ]
     },
     {
-      "event_type": 30213,
       "link": "",
+      "title": "A Brief Introduction to Metasploit",
       "id": 30434,
+      "event_type": 30213,
+      "includes": "",
+      "location": 30221,
+      "conference": "SWV4",
+      "start_date": "2018-12-02T15:00+0000",
       "end_date": "2018-12-02T19:50+0000",
+      "updated_at": "2018-11-26T16:59+0000",
+      "description": "The goal of this class is to get people started and comfortable with working in metasploit, particularly msfconsole and doing basic penetration testing tasks using the tool. We will cover a basic overview of the commands in msfconsole and use several of the built-in tools to perform reconnaissance on a test network and targeting/exploitation of systems on that network. Additional course time will be devoted to looking at some post-exploitation steps and working with one of the more power payloads, meterpreter.\\n\\nThis class is designed to last four hours and provide this basic introduction to kickstart anyone's interest in learning more about the tool. While we cannot cover all aspects of the tool in a four hour class, we can lay some of the core foundations that will make it easier for people to continue with other in-depth courses or self-study.",
       "speakers": [
         30431
-      ],
-      "conference": "SWV4",
-      "description": "The goal of this class is to get people started and comfortable with working in metasploit, particularly msfconsole and doing basic penetration testing tasks using the tool. We will cover a basic overview of the commands in msfconsole and use several of the built-in tools to perform reconnaissance on a test network and targeting/exploitation of systems on that network. Additional course time will be devoted to looking at some post-exploitation steps and working with one of the more power payloads, meterpreter.\\n\\nThis class is designed to last four hours and provide this basic introduction to kickstart anyone's interest in learning more about the tool. While we cannot cover all aspects of the tool in a four hour class, we can lay some of the core foundations that will make it easier for people to continue with other in-depth courses or self-study.",
-      "location": 30221,
-      "start_date": "2018-12-02T15:00+0000",
-      "includes": "",
-      "updated_at": "2018-11-26T16:59+0000",
-      "title": "A Brief Introduction to Metasploit"
+      ]
     },
     {
-      "event_type": 30213,
       "link": "",
+      "title": "Amateur Radio Technician Testing",
       "id": 30435,
+      "event_type": 30213,
+      "includes": "",
+      "location": 30222,
+      "conference": "SWV4",
+      "start_date": "2018-12-02T15:00+0000",
       "end_date": "2018-12-02T16:50+0000",
+      "updated_at": "2018-11-26T17:04+0000",
+      "description": "Participants can take the Amateur Radio Technician Test.",
       "speakers": [
         30427,
         30428,
         30429
-      ],
-      "conference": "SWV4",
-      "description": "Participants can take the Amateur Radio Technician Test.",
-      "location": 30222,
-      "start_date": "2018-12-02T15:00+0000",
-      "includes": "",
-      "updated_at": "2018-11-26T17:04+0000",
-      "title": "Amateur Radio Technician Testing"
+      ]
     },
     {
-      "event_type": 30211,
       "link": "",
+      "title": "SecureWV / Hack3rCon Closing / Awards",
       "id": 30436,
+      "event_type": 30211,
+      "includes": "",
+      "location": 30220,
+      "conference": "SWV4",
+      "start_date": "2018-12-02T20:00+0000",
       "end_date": "2018-12-02T20:50+0000",
+      "updated_at": "2018-11-26T17:02+0000",
+      "description": "Closing Ceremonies",
       "speakers": [
         30412
-      ],
-      "conference": "SWV4",
-      "description": "Closing Ceremonies",
-      "location": 30220,
-      "start_date": "2018-12-02T20:00+0000",
-      "includes": "",
-      "updated_at": "2018-11-26T17:02+0000",
-      "title": "SecureWV / Hack3rCon Closing / Awards"
+      ]
     }
   ],
-  "updated_at": "2018-11-26T17:04+0000"
+  "updated_at": "2018-11-29T17:16+0000"
 }
