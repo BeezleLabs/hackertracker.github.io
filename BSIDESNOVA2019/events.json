@@ -1,0 +1,550 @@
+{
+  "schedule": [
+    {
+      "link": "",
+      "updated_at": "2018-09-26T01:18+0000",
+      "speakers": [],
+      "id": 30501,
+      "event_type": 30507,
+      "conference": "BSIDESNOVA2019",
+      "end_date": "2019-03-01T14:00+0000",
+      "location": 30508,
+      "description": "",
+      "includes": "",
+      "title": "Registration",
+      "start_date": "2019-03-01T13:00+0000"
+    },
+    {
+      "link": "",
+      "updated_at": "2018-09-01T01:18+0000",
+      "speakers": [],
+      "id": 30502,
+      "event_type": 30507,
+      "conference": "BSIDESNOVA2019",
+      "end_date": "2019-03-02T15:00+0000",
+      "location": 30508,
+      "description": "",
+      "includes": "",
+      "title": "Registration",
+      "start_date": "2019-03-02T13:00+0000"
+    },
+    {
+      "link": "",
+      "updated_at": "2018-09-01T01:18+0000",
+      "speakers": [
+        30535
+      ],
+      "id": 30503,
+      "event_type": 30502,
+      "conference": "BSIDESNOVA2019",
+      "end_date": "2019-03-01T22:00+0000",
+      "location": 30509,
+      "description": "What, exactly, is 'the Cloud'? Is it a network of machines connected via the Internet scattered all over the globe? Is it a data center environment located in the United States or anywhere in the world? Is it really just \u201csomeone else\u2019s computer\u201d? Or, is there more to it that needs to be understood by the Information Security professional, to arm him or her with enough knowledge to answer the tough question that inevitably will be asked by their employer, \u201cWhy should we take the risk to move our most sensitive data into the cloud?\u201d To take it one step further, should in the event of a data breach that same employer should say, \u201cWe need to investigate how this happened;\u201d what exactly will the Information Security professional need to know to successfully conduct a digital forensic investigation, especially if he or she doesn\u2019t have direct access to the server or hardware?\r\n The Cloud Forensics Challenge team (@Cloud4n6) is excited to come to the BSides NoVA conference for 2019 and bring our workshop with us. We have presented this training at both the 2017 BSides DC and the 2018 BSides Charm events, and seats have sold out both times. The focus of our workshop is two-fold: first, to explore key concepts of Cloud computing and understanding the procedures and processes of conducting a digital forensics investigation in the Cloud; and second, a half-day challenge to test students' comprehension of the material and their skill sets by investigating a digital image of a Cloud-based server and searching for various 'flags' to be turned in as part of a team competition. Prizes will be up for grabs and we look forward to sharing our knowledge with attendees!\r\n What to expect: Everything including the kitchen sink. Come get a 10,000-foot view on cloud computing and how it changes the way a digital forensics investigation is conducted. Come test your skills and knowledge on log analysis, file carving, packet analysis, memory analysis, reverse engineering, steganography, cryptography, and other areas as you conduct your investigation accordingly.\r\n What to bring: A laptop capable of running the latest version of Kali Linux. Don't like it nor care for it? Have the following tools pre-loaded and ready to go:\r\nTSK/Autopsy\r\nWireshark\r\nVolatility or other memory forensics software\r\nOpenStego or other steganography software\r\nIda Pro (trial version is fine), Ollydbg, or other reverse engineering tool\r\nDecrypter or other decryption software\r\nCipher tools",
+      "includes": "",
+      "title": "Cloud Busting: Cloud Forensics Workshop and Challenge",
+      "start_date": "2019-03-01T14:00+0000"
+    },
+    {
+      "link": "",
+      "updated_at": "2018-09-01T01:18+0000",
+      "speakers": [
+        30536
+      ],
+      "id": 30504,
+      "event_type": 30502,
+      "conference": "BSIDESNOVA2019",
+      "end_date": "2019-03-01T22:00+0000",
+      "location": 30510,
+      "description": "Does malware analysis seem like an arcane process involving hours of staring at assembly in OllyDbg or IDA? Is the only alternative relying on an 'auto-magically' generated report from a sandbox? Many of the malware variants that today's analyst will face during incident response, however, are not compiled binaries like Windows PE files, and do not require a knowledge of assembly to manually analyze. The goal of our training is to equip frontline defenders, regardless of job title, with skills to begin more advanced analysis of common malware variants, and help them avoid over-reliance on automated tools that may be defeated by anti-forensics.\r\nWe will present techniques for analyzing obfuscated VBA/VBS downloader scripts embedded in phishing email attachments. We will demystify malicious PowerShell being used for post-exploitation activities. We will also discuss JavaScript drive-bys and how an adversary can try to regain a foothold via a PHP tiny webshell. This training is for anyone on a blue team without a dedicated malware analyst, or anyone interested in malware analysis, but intimidated by all that hex.",
+      "includes": "",
+      "title": "No Disassembly Required",
+      "start_date": "2019-03-01T14:00+0000"
+    },
+    {
+      "link": "",
+      "updated_at": "2018-09-01T01:18+0000",
+      "speakers": [
+        30501
+      ],
+      "id": 30505,
+      "event_type": 30501,
+      "conference": "BSIDESNOVA2019",
+      "end_date": "2019-03-02T15:00+0000",
+      "location": 30507,
+      "description": "Opening Keynote",
+      "includes": "",
+      "title": "KEYNOTE",
+      "start_date": "2019-03-02T14:00+0000"
+    },
+    {
+      "link": "",
+      "updated_at": "2018-09-01T01:18+0000",
+      "speakers": [
+        30502
+      ],
+      "id": 30506,
+      "event_type": 30501,
+      "conference": "BSIDESNOVA2019",
+      "end_date": "2019-03-02T16:00+0000",
+      "location": 30507,
+      "description": "The venue for BSides NOVA 2019 (The George Washington Masonic National Memorial) inspired this ex-NSA Cryptologist to put together a presentation on codes, ciphers, and secrets from the era of the American Revolution, Gen. George Washington, and Freemasonry. That's right, InfoSec dates back to the beginnings of this country (and then some)! Look around as you attend BSides and you might see some examples of secret writings or symbols in the various artwork and decorations throughout this national treasure. Come learn about substitution ciphers, transposition ciphers, code books, invisible ink, and much more!",
+      "includes": "",
+      "title": "Spies, Ciphers, Symbols, & Secret Writings",
+      "start_date": "2019-03-02T15:00+0000"
+    },
+    {
+      "link": "",
+      "updated_at": "2018-09-01T01:18+0000",
+      "speakers": [
+        30503
+      ],
+      "id": 30507,
+      "event_type": 30501,
+      "conference": "BSIDESNOVA2019",
+      "end_date": "2019-03-02T16:30+0000",
+      "location": 30507,
+      "description": "This talk is designed to provide analysts with a few key ways to improve their reports and work with technical writers more effectively.\r\nBecause cybersecurity is constantly evolving, written reports are vital to sharing information, informing decision makers, and tracking emerging threats. As a technical writer at the DHS National Cybersecurity and Communication Integration Center, I've worked with analysts who specialize in hunt and incident response and malware analysis on a variety of different reports. While each writer has their own style, cybersecurity reports generally share common issues, which this talk will address, including\r\n\r\nOrganizing data,\r\nSupporting information and citations,\r\nAvoiding common mistakes, and\r\nWorking with technical writers.",
+      "includes": "",
+      "title": "Commas Kill: Writing Better for Analysts",
+      "start_date": "2019-03-02T16:00+0000"
+    },
+    {
+      "link": "",
+      "updated_at": "2018-09-01T01:18+0000",
+      "speakers": [
+        30504
+      ],
+      "id": 30508,
+      "event_type": 30501,
+      "conference": "BSIDESNOVA2019",
+      "end_date": "2019-03-02T17:00+0000",
+      "location": 30507,
+      "description": "Ever wonder which technique is used by the most threat actors? Or how many techniques the average RAT has built into it? Or which adversaries use the same techniques and software? This short talk will help answer these questions \u2013 and more! \u2013 by showing how we can leverage the vast amount of threat reporting in ATT&CK to try to understand the relationships between techniques, threat actors, and software. We\u2019ll address simple questions such as which techniques and threat actors have been most reported on, as well as more complex ones such as which techniques are dependent on others. Our talk is intended to be both entertaining and informative, with attendees walking away with a better understanding of the relationships held within the ATT&CK knowledge base and how they can run similar analyses with their own data.",
+      "includes": "",
+      "title": "ATT&CK By Numbers",
+      "start_date": "2019-03-02T16:30+0000"
+    },
+    {
+      "link": "",
+      "updated_at": "2018-09-01T01:18+0000",
+      "speakers": [
+        30505
+      ],
+      "id": 30509,
+      "event_type": 30501,
+      "conference": "BSIDESNOVA2019",
+      "end_date": "2019-03-02T17:30+0000",
+      "location": 30507,
+      "description": "Join us on this voyage as we discuss practical tips for coordinating cyber incidents at your company, explaining them to leadership, working with fellow IT and business teams, and why this all matters. It will include our own cyber incident framework, how to run a great incident bridge, presentation tips, and setting up for success.",
+      "includes": "",
+      "title": "Communicating just like Captain Picard",
+      "start_date": "2019-03-02T17:00+0000"
+    },
+    {
+      "link": "",
+      "updated_at": "2018-09-29T01:18+0000",
+      "speakers": [
+        30506
+      ],
+      "id": 30510,
+      "event_type": 30501,
+      "conference": "BSIDESNOVA2019",
+      "end_date": "2019-03-02T19:00+0000",
+      "location": 30507,
+      "description": "PM KEYNOTE",
+      "includes": "",
+      "title": "PM KEYNOTE - IAN COLDWATER",
+      "start_date": "2019-03-02T18:00+0000"
+    },
+    {
+      "link": "",
+      "updated_at": "2018-09-29T01:18+0000",
+      "speakers": [
+        30507
+      ],
+      "id": 30511,
+      "event_type": 30501,
+      "conference": "BSIDESNOVA2019",
+      "end_date": "2019-03-02T20:00+0000",
+      "location": 30507,
+      "description": "Mass Attack Campaign with Hands-on Webcam Exercise will teach participants about the IOT threat landscape (what have we seen) and common oversights made in the development, configuration, and deployment of IoT devices. And, while IOT may not be interesting itself as an end target, it\u2019s easy to build an automated campaign at scale which can access operational systems and sensitive data. For this workshop, we will provide the equipment, software tools, and step-by-step instructions for both technical and non-technical participants to exploit IoT devices. We will have an ongoing demonstration of hacking IoT devices and pivoting into connected networks.",
+      "includes": "",
+      "title": "No IOUs with IOT",
+      "start_date": "2019-03-02T19:00+0000"
+    },
+    {
+      "link": "",
+      "updated_at": "2018-09-29T01:18+0000",
+      "speakers": [
+        30508
+      ],
+      "id": 30512,
+      "event_type": 30501,
+      "conference": "BSIDESNOVA2019",
+      "end_date": "2019-03-02T21:00+0000",
+      "location": 30507,
+      "description": "The advent of cloud technologies has provided significant advantages for malicious attackers and penetration testers. When combined with domain fronting, the cloud can be a deadly combination for defenders.This talk will demystify what domain fronting is, how it works, and why you should use it in your penetration tests, as well as some of the non-technical issues surrounding the topic.",
+      "includes": "",
+      "title": "Domain Fronting FTW!",
+      "start_date": "2019-03-02T20:00+0000"
+    },
+    {
+      "link": "",
+      "updated_at": "2018-09-29T01:18+0000",
+      "speakers": [
+        30509
+      ],
+      "id": 30513,
+      "event_type": 30501,
+      "conference": "BSIDESNOVA2019",
+      "end_date": "2019-03-02T22:00+0000",
+      "location": 30507,
+      "description": "Containers are often seen as an easy target for attackers. Commonly referred to as a way to run code you've downloaded from the internet as root, and a soft core with built-in privilege escalation, containers also provide tools to secure applications that aren't seen in virtual machines.\r\nThis talk covers:\r\n\r\nCommon security issues encountered when running containers\r\nHow containers protect applications with the default settings\r\nHow to further limit exposure with the built-in functionality\r\nExamining various tools available to further lock down containers",
+      "includes": "",
+      "title": "Containing security vulnerabilities with containers",
+      "start_date": "2019-03-02T21:00+0000"
+    },
+    {
+      "link": "",
+      "updated_at": "2018-09-29T01:18+0000",
+      "speakers": [
+        30510,
+        30522
+      ],
+      "id": 30514,
+      "event_type": 30501,
+      "conference": "BSIDESNOVA2019",
+      "end_date": "2019-03-02T22:30+0000",
+      "location": 30507,
+      "description": "Hanlon's razor states, 'Never attribute to malice that which is adequately explained by stupidity' which is a perfect way to describe many of the newsmaking BGP Hijackings that have occurred over the last few years. Everyone from Google to Amazon to the US Government has been impacted by one of these hijacks, which almost always turn out to be the result of user error.\r\nThe problem is that it seems the same Autonomous System Numbers (ASNs) are repeatedly at the center of some of these large hijackings. At what point does incompetence give way to maliciousness? This presentation will look at thousands of ASNs and reported hijackings to show patterns in certain ASNs that fall outside the norms of 'incompetence' and veer into maliciousness.\r\nThe presentation will also offer some suggestions for concrete steps that organizations can take to protect themselves from BGP Hijacking, malicious or otherwise.",
+      "includes": "",
+      "title": "Hanlon's Razor & BGP Hijacking: You can't really be that incompetent, can you?",
+      "start_date": "2019-03-02T22:00+0000"
+    },
+    {
+      "link": "",
+      "updated_at": "2018-09-29T01:18+0000",
+      "speakers": [
+        30512
+      ],
+      "id": 30515,
+      "event_type": 30501,
+      "conference": "BSIDESNOVA2019",
+      "end_date": "2019-03-02T15:00+0000",
+      "location": 30502,
+      "description": "DESCRIPTION The term hunting has become a buzzword within the IT security community but what does it actually entail? Applying the Scientific Research Method to hunting standardizes the entire process, taking a generalized idea and turning it into a practical tool any organization can use.\r\nABSTRACT The word hunting has become a buzzword within the IT security community used by vendors, executives, and analysts alike. But what is hunting? Is it running IPs, domains, and hashes through a SIEM, trying to detect \u201cabnormal\u201d behavior, or staring at endless logs?\r\nApplying the Scientific Research Method to hunting standardizes the entire process: making observations, forming theories, gathering data, testing predictions, and interpreting results. And, most importantly, provides a concrete answer to the question \u201cHow do I hunt?\u201d\r\nBy defining each step of the Scientific Research Method and providing examples of how they can be applied to hunting, this process will now have context and applicability to any organization.\r\nNow the question \u201cHow do I hunt?\u201d has been answered. However there are still questions that also need consideration for a hunt to be useful:\r\n\r\nWhen I start hunting?\r\nWhy should I hunt?\r\nWho should hunt?\r\nHow do I show value?\r\n\r\nBy answering these questions an organization will have a successful hunt.",
+      "includes": "",
+      "title": "Hunting: More Than a Buzzword. Applying Scientific Research Method to Hunting",
+      "start_date": "2019-03-02T14:00+0000"
+    },
+    {
+      "link": "",
+      "updated_at": "2018-09-29T01:18+0000",
+      "speakers": [
+        30513
+      ],
+      "id": 30516,
+      "event_type": 30501,
+      "conference": "BSIDESNOVA2019",
+      "end_date": "2019-03-02T16:00+0000",
+      "location": 30502,
+      "description": "Let's have a look at how breaking best security practices in smart devices can potentially lead to serious consequences. This talk presents a case of a coffee maker where replacing a firmware can be done remotely without the user's interaction. The point here is that these devices could be easily turned into a hidden spy, slowly exfiltrating data out of your perimeter or as a tool of extortion. However this talk is on a funny note, the message is clear. If we won't address security in IoT than we are facing a big problem in the future. Come and join me on this journey where S stands for insecurity in IoT.\r\nHow this has begun\r\n\r\nHow the coffee maker works out of the box, analyzing the protocol\r\nCompanion application and firmware update\r\n\r\nReversing\r\n\r\ngetting the firmware image\r\nreversing control application\r\nreversing and documenting the firmware step-by-step\r\n\r\nPlanning the attack\r\n\r\ncreating a modified version of firmware\r\ndiscussing various possible attack vectors\r\ndemo\r\n\r\nConclusion\r\n\r\nfuture work\r\na release of source code and a full paper.- list text here",
+      "includes": "",
+      "title": "The fresh smell of ransomed coffee - altering not so smart devices",
+      "start_date": "2019-03-02T15:00+0000"
+    },
+    {
+      "link": "",
+      "updated_at": "2018-09-27T03:32+0000",
+      "speakers": [
+        30514
+      ],
+      "id": 30517,
+      "event_type": 30501,
+      "conference": "BSIDESNOVA2019",
+      "end_date": "2019-03-02T17:00+0000",
+      "location": 30502,
+      "description": "Description: Finding out how a host was compromised and/or what type of malware/exploit is present is a challenge. Dividing forensics tasks into processes that happen simultaneously can provide answers quicker.\r\nAbstract: Knowing how a host was compromised will help determine if other hosts on your network are vulnerable or have been compromised. This presentation will discuss strategies and steps for host based forensics focusing on things that can be done simultaneously.\r\nNew analysts may feel overwhelmed at first with hosts forensics. Preparation and planning will help you respond quicker in a crisis. Strategies for what to examine first for a given situation can save valuable time. We will step through a typical situation that requires host forensics to attempt to identify the source of the exploit.\r\nAcquire a memory dump Pull network data from your SIEM Pull the password hashes and start password cracking with tools such as John the Ripper and/or Hashcat Review system log files Review application log files Start running anti-virus on the image",
+      "includes": "",
+      "title": "Multitasking Host Forensics",
+      "start_date": "2019-03-02T16:00+0000"
+    },
+    {
+      "link": "",
+      "updated_at": "2018-09-29T01:18+0000",
+      "speakers": [
+        30515
+      ],
+      "id": 30518,
+      "event_type": 30501,
+      "conference": "BSIDESNOVA2019",
+      "end_date": "2019-03-02T17:30+0000",
+      "location": 30502,
+      "description": "Description: This presentation goes through a higher level overview of understanding cyber resilience, important concepts, the difference between cybersecurity and cyber resilience, and frameworks aimed at achieving or assessing an organizations cyber resilience.\r\nAbstract: Many cybersecurity professionals tend to focus solely on the IT / cybersecurity aspect of securing their systems and enforcing the CIA triad (confidentiality, integrity and availability), but don\u2019t fully take in the holistic picture of how cybersecurity ties into the over picture of ensuring that the business is resilient or cyber resilient. This presentation walks practitioners through understanding cyber resilience, its components and frameworks that are available for starting their path to cyber resiliency or assessing their progress thus far.",
+      "includes": "",
+      "title": "Understanding Cyber Resilience: People, Process, Technology and Facilities",
+      "start_date": "2019-03-02T17:00+0000"
+    },
+    {
+      "link": "",
+      "updated_at": "2018-09-29T01:18+0000",
+      "speakers": [
+        30516
+      ],
+      "id": 30519,
+      "event_type": 30501,
+      "conference": "BSIDESNOVA2019",
+      "end_date": "2019-03-02T19:00+0000",
+      "location": 30502,
+      "description": "Abstract This presentation outlines a new twist on an existing social engineering attack. In the past, we have worked on getting users to plug in USB devices to drop malicious documents and executables. While this attack sometimes proves our point, it is the tip of the iceberg that can be done. Enter Social Forensication. This is a two-pronged attack, consisting first of collecting a memory image for offsite offensive forensic analysis, the second being a rogue Wi-Fi access point attack. During this presentation, we will walk through the steps to perform each attack. Since defense is just as (if not more) important as the attack itself, we will also discuss mitigations (technical and procedural) and relevant windows detections for these attacks. Detailed Description Intro (1:00) The basics of Social Engineering? (6:00) General discussion about the methods of social engineering *ishing, Spear Phishing, Whaling, Baiting, Dumpster Diving, etc Goals of social engineering Principles of Persuasion Existing techniques and research (9:00) Discussion about Jayson Street and others\u2019 methods of introducing USB devices and the goals of such attacks. Attacks overview (10:00) Introduction to Forensics Attack Introduction to Rogue Wi-Fi Access Point (WAP) Attack #1: Forensics (17:00) Required Gear Steps: Planning Building the Pretext Gaining Access Building Rapport Playing the Part Getting the Memory Image Analysis Attack Defenses Basics of Volatility and Useful Commands (22:00) Steps to Collect Memory Image (dump) Volatility usage Useful commands (examples) Mimikatz Hashdump Connscan Privs DumpCerts Applicability in attacking Ideas for future research and wiki for more modules Mitigations and Considerations (30:00) Considerations for Attacking Legal Ethical Impersonation Detections Physical Windows events EDR/IDR Mitigations Training Timing Attack #2: Rogue AP (34:00) Required Gear Steps Planning Building the Pretext Standing up the infrastructure Gaining Access Planting the device Attack Defenses Mitigations and Considerations (42:00) Considerations for Attacking Legal Ethical Detections Physical Asset Management Mitigations Training Asset Management Routine Scanning Questions (45:00)",
+      "includes": "",
+      "title": "Social Forensication: A Multidisciplinary Approach to Successful Social Engineering",
+      "start_date": "2019-03-02T18:00+0000"
+    },
+    {
+      "link": "",
+      "updated_at": "2018-09-29T01:18+0000",
+      "speakers": [
+        30517
+      ],
+      "id": 30520,
+      "event_type": 30501,
+      "conference": "BSIDESNOVA2019",
+      "end_date": "2019-03-02T20:00+0000",
+      "location": 30502,
+      "description": "Military organizations have long known of the value of intelligence, but many commercial entities only realized its importance in the last five years. Cyber Threat Intelligence (CTI) recently became a priority for the average commercial company who now requires a threat intelligence analysis capability. Are you a security-geek like Jason Wonn who was recently hired to provide that world-class CTI program for your company with very little time and an even smaller budget? \u2026Good luck with that! Jason cannot present that solution in an hour, but he will guide you through the process to evaluate a Threat Intelligence Platform (TIP) and discuss how he made the metrics meaningful to the executives. In this original research talk, discover the benefits of employing a TIP and the technical evaluation of a TIP through requirements development to ensure it is measurable and meaningful to your leadership. If you're in the market for a TIP, don't miss this presentation from a customer's point-of-view using over 100 measurable requirements!",
+      "includes": "",
+      "title": "TIP of the Spear: A Threat Intelligence Platform Acquisition",
+      "start_date": "2019-03-02T19:00+0000"
+    },
+    {
+      "link": "",
+      "updated_at": "2018-09-29T01:18+0000",
+      "speakers": [
+        30518
+      ],
+      "id": 30521,
+      "event_type": 30501,
+      "conference": "BSIDESNOVA2019",
+      "end_date": "2019-03-02T21:00+0000",
+      "location": 30502,
+      "description": "By popular request, this is a sequel to a 2017 talk entitled 'Engineering Challenges Doing Intrusion Detection in the Cloud.' Security teams often ask for 'network intrusion detection' but conventional, specification-based intrusion detection paradigms, particularly around network intrusion detection, are not easily applied to the software defined network abstractions that power multi-tenant public clouds. The 2017 talk was about the experience of doing intrusion detection at scale at one of the ten largest AWS environments at the time. One of the major lessons learned during this time is that in the public cloud, where direct network instrumentation is unavailable, doing behavioral detection with endpoint data is often more effective and more efficient. Mandating the installation of terrestrial network security products onto software defined networks of the sort utilized in public clouds is not always the most productive approach.\r\nThis talk presents a practical demonstration of doing behavioral intrusion detection, threat hunting and security analytics using free and open source tools. Most security analytics use cases including compliance monitoring, behavioral and specification based intrusion detection, database monitoring, data loss detection, machine learning, security analytics and threat hunting can be accomplished through the coordinated usage of open source tools. This approach avoids numerous pitfalls facing security teams today such as managing fleets of complex and expensive security agents and operating metered data analytics platforms whose bills force difficult decisions about which data to ingest. Another, and perhaps the most compelling, advantage of the open source approach is the freedom to engage in community driven development and sharing of searches and analytics, which is sometimes missing in the black-box security product space. Demo included.",
+      "includes": "",
+      "title": "Cloud Intrusion Detection and Threat Hunting With Open Source Tools",
+      "start_date": "2019-03-02T20:00+0000"
+    },
+    {
+      "link": "",
+      "updated_at": "2018-09-29T01:18+0000",
+      "speakers": [
+        30519
+      ],
+      "id": 30522,
+      "event_type": 30501,
+      "conference": "BSIDESNOVA2019",
+      "end_date": "2019-03-02T22:00+0000",
+      "location": 30502,
+      "description": "A simple username and password are not enough to protect accounts and vital assets anymore. Time and time again, we see various types of accounts being compromised due to password reuse, phishing, smishing and vishing scams and overall poor password hygiene.\r\nThrowing money at this problem doesn\u2019t make it go away. Social engineering methods and the \u2018evil genius\u201d cyber criminals behind the attacks are furiously innovating, keeping IT off-guard.\r\nIn this session we will discuss different types of multi-factor authentication (MFA) such as hardware keys, smart cards, SMS and application-based factors. The session will explain the differences between hardware-based One Time Passwords (HOTP), Time-based One Time Passwords (TOTP) and Personal Identity Verification (PIV) credentials. We will talk about the pros and cons of each, the vulnerabilities and the various ways that they can be leveraged to help protect accounts.\r\nThe session is designed for people interested in expanding their knowledge of multi-factor authentication and will cover:\r\n\r\nThe damage being done through credential theft\r\nHardware and software tokens\r\nPIV certificates and Smart Card login options\r\nPassword vaults and MFA protections\r\nProtecting social media accounts",
+      "includes": "",
+      "title": "What you know, what you have and what you are: MFA in the modern age",
+      "start_date": "2019-03-02T21:00+0000"
+    },
+    {
+      "link": "",
+      "updated_at": "2018-09-29T01:18+0000",
+      "speakers": [
+        30520
+      ],
+      "id": 30523,
+      "event_type": 30501,
+      "conference": "BSIDESNOVA2019",
+      "end_date": "2019-03-02T22:30+0000",
+      "location": 30502,
+      "description": "Analytic conception of 'false flag' tactics, techniques and procedures (TTP) employed as part of sustained intrusion campaigns has primarily been presented in narrowly technical and tactical terms within the cyber threat intelligence community of practice. This discussion to date has been atheoretic, divorced from the wider professionalized understanding of denial & deception (D&D) doctrine and praxis that has developed over decades of intelligence community experience against hard target problems. As a result, analysis based on the dominant conception is often implicitly flawed by unacknowledged cognitive defects and other sources of error. It is necessary to challenge this conception and to reconsider the hitherto unexamined assumptions of 'false flag' operations in order to improve analysis, targeting, and collection against intrusion sets which have sought to complicate attribution, or to introduce deliberate misattribution narratives through deception measures.\r\nThis talk will present a target-centric model of hostile D&D activity considered as operational art within the context of adversary capabilities generation and deployment, campaign sustainment, disruptive and destructive effects delivery, and intrusion termination. We will examine the role of the operations planner in offensive activities, and the influences of foreign military and intelligence traditions on this function. Case examples will be explored in order to assess preliminary model validation, and to estimate future developments in adversary tradecraft. These future adaptions are expected to present new challenges of particular importance for analysts and defenders in the near to mid-term, as increasing operational pressures on adversary operators may be anticipated following the declared intention of the US government to shift towards 'defending forward' through the employment of deliberate counter-cyber operations to deny and degrade hostile capabilities options.",
+      "includes": "",
+      "title": "Torn flags: Reconsidering models of adversary denial and deception tradecraft in current and future offensive cyber operations",
+      "start_date": "2019-03-02T22:00+0000"
+    },
+    {
+      "link": "",
+      "updated_at": "2018-09-29T01:18+0000",
+      "speakers": [
+        30521,
+        30523,
+        30524,
+        30525,
+        30526,
+        30527
+      ],
+      "id": 30524,
+      "event_type": 30503,
+      "conference": "BSIDESNOVA2019",
+      "end_date": "2019-03-02T22:30+0000",
+      "location": 30503,
+      "description": "Have you found it hard to break into the cybersecurity industry? Well, CYVANT's Cyber Career Corner will be at BSIDES NoVA to help you break down those obstacles.\r\nI built my company CYVANT to change the way people think about recruiting and I want to help you with all the knowledge that I have. And not only will you have access to my knowledge but you will also have access to cyber SME's that I have personally invited to be there to help you as well! There will be red teamers, blue teamers, recruiters and CEO's there to help you achieve your optimal career! This is a unique opportunity to have one-on-one time with well-respected industry leaders.\r\nTo secure your spot, sign-up for a time slot at the link below. https://bit.ly/2DJHGVA \r\nBring questions, bring resumes, bring donuts and coffee or just bring yourself for a chat and a guaranteed great time!",
+      "includes": "",
+      "title": "Cyvant's Cyber Career Corner",
+      "start_date": "2019-03-02T15:00+0000"
+    },
+    {
+      "link": "",
+      "updated_at": "2018-09-29T01:18+0000",
+      "speakers": [
+        30528
+      ],
+      "id": 30525,
+      "event_type": 30504,
+      "conference": "BSIDESNOVA2019",
+      "end_date": "2019-03-02T22:30+0000",
+      "location": 30504,
+      "description": "Have you wondered how hiring authorities view your resume? Are you applying to dozens (or hundreds) of jobs with no response? Do you feel like your resume is constantly in the black hole? Have you wondered how hiring authorities view your resume? If you answered yes, then this workshop is for you! Together we will pick a lucky candidate who will get a resume makeover LIVE while I explain the various reasons why a job seeker isn't being approached.",
+      "includes": "",
+      "title": "Cyber Dream Resume Makeover",
+      "start_date": "2019-03-02T15:00+0000"
+    },
+    {
+      "link": "",
+      "updated_at": "2018-09-29T01:18+0000",
+      "speakers": [
+        30537
+      ],
+      "id": 30526,
+      "event_type": 30505,
+      "conference": "BSIDESNOVA2019",
+      "end_date": "2019-03-02T21:30+0000",
+      "location": 30505,
+      "description": "BSIDESNOVA TEAM CTF | DEFEND AND CONQUER by HACKER GROUND (Level of Difficulty: Advanced)\r\n\r\nOBJECTIVE: This CTF is a combination of a series of challenges and boot2root in order to pivot into a final network and compromise all machines. Points will be earned by completing mini challenges, obtaining low level access, and obtaining high level access on each machine. Flags will also be hidden throughout key locations in every machine. The CTF will test your ability to think critically while under pressure and will include challenges such as forensics, reverse engineering, web attacks, client attacks and general misconfigurations. There will be a combination of several different operating systems. Size limit will be 6 people to a team. Additional rules will be discussed at the time of the CTF.\r\nA Kali Linux virtual machine will come with all the tools necessary in order to participate and is recommended but not required. Any operating system should work for this CTF and we encourage you to use what you are most comfortable with. Make sure you have any tools you require installed before the day of the CTF in case there any issues with network latency. Access to the CTF will be through our custom Wifi network, it\u2019s recommended you bridge your VM networks so you don\u2019t see issues with shells and exploits (though if you\u2019d prefer to setup port-forwarding that\u2019s fine too, though it\u2019s up to you to ensure your shells will connect).\r\nWINNER OF THE 'DEFEND & CONQUER' CTF WILL TAKE HOME $1000.00 CASH courtesy of BSidesNOVA !\r\n\r\nHB CTF by HYPERQUBE.IO (Level of Difficulty: Intermediate to Advanced)\r\n\r\nThe HyperQube CTF is designed to simulate a small business network. It contains a Web Server, Database, Domain Controller, and many other common targets found in small businesses. Built by professional penetration testers, all vulnerabilities were encountered on real engagements. Deployed on the HyperQube platform, all participants get their own independent copy of the infrastructure.\r\nHappy Hunting from the HyperQube team\r\nNetwork Upgrade supported by Altus Consulting and their team (https://altuscc.com/) ",
+      "includes": "",
+      "title": "CTF CHALLENGES",
+      "start_date": "2019-03-02T15:00+0000"
+    },
+    {
+      "link": "",
+      "updated_at": "2018-09-29T01:18+0000",
+      "speakers": [
+        30537
+      ],
+      "id": 30527,
+      "event_type": 30505,
+      "conference": "BSIDESNOVA2019",
+      "end_date": "2019-03-02T21:30+0000",
+      "location": 30505,
+      "description": "Announcing winners of CTF",
+      "includes": "",
+      "title": "CTF Prize Winners Annoucements",
+      "start_date": "2019-03-02T21:00+0000"
+    },
+    {
+      "link": "",
+      "updated_at": "2018-09-29T01:18+0000",
+      "speakers": [
+        30537
+      ],
+      "id": 30528,
+      "event_type": 30501,
+      "conference": "BSIDESNOVA2019",
+      "end_date": "2019-03-02T22:00+0000",
+      "location": 30505,
+      "description": "Closing Remarks",
+      "includes": "",
+      "title": "Closing Remarks",
+      "start_date": "2019-03-02T21:30+0000"
+    },
+    {
+      "link": "",
+      "updated_at": "2018-09-29T01:18+0000",
+      "speakers": [
+        30529
+      ],
+      "id": 30529,
+      "event_type": 30506,
+      "conference": "BSIDESNOVA2019",
+      "end_date": "2019-03-02T22:30+0000",
+      "location": 30506,
+      "description": "Want to tinker with locks and tools the likes of which you\u2019ve only seen in movies featuring cat burglars, spies, and secret agents? Then come on by the Lockpick Village, run by The Open Organisa!on Of Lockpickers, where you will have the opportunity to learn hands- on how the fundamental hardware of physical security operates and how it can be comprommised. The Lockpick Village is a physical security demonstration and participation area. Participants can learn about the vulnerabilities of various locking devices, techniques used to exploit these vulnerabilities, and practice on locks of various levels of difficultly to try it themselves. Experts will be on hand to demonstrate, and plenty of trial locks, picks, shims, and other devices will be made available. By exploring the faults and flaws in many popular lock designs, you can prepare yourself not only for possible work in the penetra!on tes!ng field, but also simply gain a much stronger knowledge about the best methods and practices for protecting your own infrastructure and personal property.",
+      "includes": "",
+      "title": "Lockpick Village",
+      "start_date": "2019-03-02T15:00+0000"
+    },
+    {
+      "link": "",
+      "updated_at": "2018-09-29T01:18+0000",
+      "speakers": [
+        30530,
+        30531
+      ],
+      "id": 30530,
+      "event_type": 30502,
+      "conference": "BSIDESNOVA2019",
+      "end_date": "2019-03-02T17:00+0000",
+      "location": 30509,
+      "description": "Interested in cyber competitions but don\u2019t know where to start? Or have you tried one or two or ten and want more practice? In this hands-on-keys workshop we will explore different types of competitions, from capture-the-flag to offense/defense and everything in between. Participants will be provided with a virtualized environment that will be used to explore techniques associated with reconnaissance, scanning and enumeration, and exploitation. Also featured will be forensic challenges, hash-cracking, malware analysis, and crypto decoding. This guided workshop will help participants prepare to engage in cyber competitions being offered over the course of the weekend.",
+      "includes": "",
+      "title": "CTF4NOOBS",
+      "start_date": "2019-03-02T13:00+0000"
+    },
+    {
+      "link": "",
+      "updated_at": "2018-09-29T01:18+0000",
+      "speakers": [
+        30532
+      ],
+      "id": 30531,
+      "event_type": 30502,
+      "conference": "BSIDESNOVA2019",
+      "end_date": "2019-03-02T17:30+0000",
+      "location": 30509,
+      "description": "This is a beginner\u2019s guide to setting up a raspberry pi 3 as a functioning computer with the Raspbian operating system, and finally doing a first simple project. You will leave this talk understanding where to get the parts to start up and how to set up your raspberry pi 3 for the first time using NOOBs and Raspbian. The project is setting up a VPN with your raspberry pi and OpenVPN.",
+      "includes": "",
+      "title": "I got a Raspberry Pi, now what?",
+      "start_date": "2019-03-02T17:00+0000"
+    },
+    {
+      "link": "",
+      "updated_at": "2018-09-29T01:18+0000",
+      "speakers": [
+        30533
+      ],
+      "id": 30532,
+      "event_type": 30501,
+      "conference": "BSIDESNOVA2019",
+      "end_date": "2019-03-02T18:30+0000",
+      "location": 30509,
+      "description": "Companies, schools and communities desperately want to get into the cybersecurity scene and improve their security posture. Organizations throw endless amounts of money at the problem in hopes of finding a solution -- but the answer only comes from people. The solutions comes from a collective of individuals that are passionate about technology, computers, and who want to make the world better just by trying to understand interesting things and solve interesting problems. So, the need to build a cyber security team of hackers and programmers emerges, and the question that remains is how to improve and practice. Enter Capture the Flag: a gamified means of sharpening a person's skillset and keeping the individual engaged in the cybersecurity culture. But one CTF competition couldn't possibility make the next l33t h@x0r -- and thus a certain methodology and structure should be in place to build up a team. That means giving meaning to practice, providing knowledge in-depth, and ensuring that a team of hackers is ultimately enjoying themselves and finding a love for their craft. Cultivating a team and fostering an environment to encourage growth can be done with simple techniques: it just takes a personal touch to a digital world.",
+      "includes": "",
+      "title": "10 Steps to Build & Lead a Competitive Cybersecurity/CTF Team",
+      "start_date": "2019-03-02T18:00+0000"
+    },
+    {
+      "link": "",
+      "updated_at": "2018-09-01T01:18+0000",
+      "speakers": [
+        30534
+      ],
+      "id": 30533,
+      "event_type": 30502,
+      "conference": "BSIDESNOVA2019",
+      "end_date": "2019-03-02T22:30+0000",
+      "location": 30509,
+      "description": "This workshop focuses on infection traffic for hosts running Microsoft Windows. It begins with setting up Wireshark and identifying hosts in network traffic. Participants review malware infections and learn tips to identify indicators of malicious activity. The training ends with an evaluation where participants review a pcap with malicious traffic then draft an incident report.",
+      "includes": "",
+      "title": "Traffic Analysis Workshop - Beware Those Windows Infections!",
+      "start_date": "2019-03-02T18:30+0000"
+    },
+    {
+      "link": "",
+      "updated_at": "2018-09-01T01:18+0000",
+      "speakers": [],
+      "id": 30534,
+      "event_type": 30508,
+      "conference": "BSIDESNOVA2019",
+      "end_date": "2019-03-02T18:00+0000",
+      "location": 30508,
+      "description": "Lunch Time",
+      "includes": "",
+      "title": "Lunch Break",
+      "start_date": "2019-03-02T17:30+0000"
+    }
+  ],
+  "updated_at": "2018-09-29T01:18+0000"
+}
