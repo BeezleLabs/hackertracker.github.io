@@ -1,0 +1,65 @@
+{
+  "locations": [
+    {
+      "conference": "BSIDESNOVA2019",
+      "updated_at": "2018-09-26T01:18+0000",
+      "id": 30501,
+      "name": "Track A"
+    },
+    {
+      "conference": "BSIDESNOVA2019",
+      "updated_at": "2018-09-26T01:18+0000",
+      "id": 30502,
+      "name": "Track B"
+    },
+    {
+      "conference": "BSIDESNOVA2019",
+      "updated_at": "2018-09-26T01:18+0000",
+      "id": 30503,
+      "name": "Main Hall Career Track"
+    },
+    {
+      "conference": "BSIDESNOVA2019",
+      "updated_at": "2018-09-26T01:18+0000",
+      "id": 30504,
+      "name": "AJ ROOM Resume Review"
+    },
+    {
+      "conference": "BSIDESNOVA2019",
+      "updated_at": "2018-09-25T08:05+0000",
+      "id": 30505,
+      "name": "Main Hall CTF Challenges"
+    },
+    {
+      "conference": "BSIDESNOVA2019",
+      "updated_at": "2018-09-25T08:05+0000",
+      "id": 30506,
+      "name": "Main Hall Lockpick Village"
+    },
+    {
+      "conference": "BSIDESNOVA2019",
+      "updated_at": "2018-09-25T08:05+0000",
+      "id": 30507,
+      "name": "Room A Tier 1 Track"
+    },
+    {
+      "conference": "BSIDESNOVA2019",
+      "updated_at": "2018-09-25T08:05+0000",
+      "id": 30508,
+      "name": "BSidesNoVa"
+    },
+    {
+      "conference": "BSIDESNOVA2019",
+      "updated_at": "2018-09-25T08:05+0000",
+      "id": 30509,
+      "name": "CTF4NOOBS Room A"
+    },
+    {
+      "conference": "BSIDESNOVA2019",
+      "updated_at": "2018-09-25T08:05+0000",
+      "id": 30510,
+      "name": "Workshop Room A"
+    }
+  ],
+  "updated_at": "2018-09-26T01:18+0000"
+}

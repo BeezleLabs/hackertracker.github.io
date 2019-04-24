@@ -1,0 +1,61 @@
+{
+  "updated_at": "2019-02-20T18:34+0000",
+  "event_types": [
+    {
+      "conference": "BSIDESNOVA2019",
+      "updated_at": "2019-02-20T18:34+0000",
+      "color": "#fc853f",
+      "id": 30501,
+      "name": "Talk"
+    },
+    {
+      "conference": "BSIDESNOVA2019",
+      "updated_at": "2019-02-20T18:34+0000",
+      "color": "#5c74ff",
+      "id": 30502,
+      "name": "Workshop"
+    },
+    {
+      "conference": "BSIDESNOVA2019",
+      "updated_at": "2019-02-20T18:34+0000",
+      "color": "#AD1457",
+      "id": 30503,
+      "name": "Career Track"
+    },
+    {
+      "conference": "BSIDESNOVA2019",
+      "updated_at": "2019-02-20T18:34+0000",
+      "color": "#42d2bc",
+      "id": 30504,
+      "name": "Resume Review"
+    },
+    {
+      "conference": "BSIDESNOVA2019",
+      "updated_at": "2019-02-20T18:34+0000",
+      "color": "#653fff",
+      "id": 30505,
+      "name": "CTF Challenges"
+    },
+    {
+      "conference": "BSIDESNOVA2019",
+      "updated_at": "2019-02-20T18:34+0000",
+      "color": "#653fff",
+      "id": 30506,
+      "name": "Lockpick Village"
+    },
+    {
+      "conference": "BSIDESNOVA2019",
+      "updated_at": "2019-02-20T18:34+0000",
+      "color": "#653fff",
+      "id": 30507,
+      "name": "Registration"
+    },
+    {
+      "conference": "BSIDESNOVA2019",
+      "updated_at": "2019-02-20T18:34+0000",
+      "color": "#653fff",
+      "id": 30508,
+      "name": "Lunch"
+    }
+  ]
+}
