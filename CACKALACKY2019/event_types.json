@@ -1,0 +1,40 @@
+{
+  "event_types": [
+    {
+      "id": 30510,
+      "color": "#AD1457",
+      "name": "Workshop",
+      "updated_at": "2019-05-08T02:29+0000",
+      "conference": "CACKALACKY2019"
+    },
+    {
+      "id": 30511,
+      "color": "#5c74ff",
+      "name": "Party",
+      "updated_at": "2019-05-08T02:29+0000",
+      "conference": "CACKALACKY2019"
+    },
+    {
+      "id": 30512,
+      "color": "#5c74ff",
+      "name": "Village",
+      "updated_at": "2019-05-08T02:30+0000",
+      "conference": "CACKALACKY2019"
+    },
+    {
+      "id": 30513,
+      "color": "#9a3290",
+      "name": "Event",
+      "updated_at": "2019-05-08T02:30+0000",
+      "conference": "CACKALACKY2019"
+    },
+    {
+      "id": 30514,
+      "color": "#42d2bc",
+      "name": "Contest",
+      "updated_at": "2019-05-08T02:31+0000",
+      "conference": "CACKALACKY2019"
+    }
+  ],
+  "updated_at": "2019-05-08T02:31+0000"
+}
