@@ -1,0 +1,77 @@
+{
+  "updated_at": "2019-05-21T14:09+0000",
+  "vendors": [
+    {
+      "id": 103,
+      "link": "https://www.supplyframe.com/",
+      "updated_at": "2019-05-21T14:06+0000",
+      "description": "",
+      "name": "Supplyframe",
+      "conference": "LAYERONE2019",
+      "partner": false
+    },
+    {
+      "id": 104,
+      "link": "https://www.tinder.com/",
+      "updated_at": "2019-05-21T14:06+0000",
+      "description": "",
+      "name": "Tinder",
+      "conference": "LAYERONE2019",
+      "partner": false
+    },
+    {
+      "id": 105,
+      "link": "https://www.securitysnobs.com/",
+      "updated_at": "2019-05-21T14:07+0000",
+      "description": "",
+      "name": "Security Snobs",
+      "conference": "LAYERONE2019",
+      "partner": false
+    },
+    {
+      "id": 106,
+      "link": "https://www.bankofamerica.com/",
+      "updated_at": "2019-05-21T14:07+0000",
+      "description": "",
+      "name": "Bank of America",
+      "conference": "LAYERONE2019",
+      "partner": false
+    },
+    {
+      "id": 107,
+      "link": "https://www.richeymay.com/",
+      "updated_at": "2019-05-21T14:07+0000",
+      "description": "",
+      "name": "Richey May",
+      "conference": "LAYERONE2019",
+      "partner": false
+    },
+    {
+      "id": 108,
+      "link": "http://www.ariessecurity.com/",
+      "updated_at": "2019-05-21T14:07+0000",
+      "description": "",
+      "name": "Aries Security",
+      "conference": "LAYERONE2019",
+      "partner": false
+    },
+    {
+      "id": 109,
+      "link": "https://www.adaptconn.com/",
+      "updated_at": "2019-05-21T14:07+0000",
+      "description": "",
+      "name": "Adaptable Connectivity",
+      "conference": "LAYERONE2019",
+      "partner": false
+    },
+    {
+      "id": 110,
+      "link": "https://nostarch.com/",
+      "updated_at": "2019-05-21T14:09+0000",
+      "description": "",
+      "name": "No Starch Press",
+      "conference": "LAYERONE2019",
+      "partner": false
+    }
+  ]
+}
