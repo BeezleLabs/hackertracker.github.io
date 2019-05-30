@@ -1,46 +1,46 @@
 {
   "locations": [
     {
+      "updated_at": "2019-05-21T13:05+0000",
+      "conference": "LAYERONE2019",
       "id": 30516,
-      "name": "CTF",
-      "conference": "LAYERONE2019",
-      "updated_at": "2019-05-21T13:05+0000"
+      "name": "CTF"
     },
     {
+      "updated_at": "2019-05-21T13:05+0000",
+      "conference": "LAYERONE2019",
       "id": 30517,
-      "name": "International Ballroom",
-      "conference": "LAYERONE2019",
-      "updated_at": "2019-05-21T13:05+0000"
+      "name": "International Ballroom"
     },
     {
+      "updated_at": "2019-05-21T13:05+0000",
+      "conference": "LAYERONE2019",
       "id": 30518,
-      "name": "LPV",
-      "conference": "LAYERONE2019",
-      "updated_at": "2019-05-21T13:05+0000"
+      "name": "LPV"
     },
     {
+      "updated_at": "2019-05-21T13:06+0000",
+      "conference": "LAYERONE2019",
       "id": 30519,
-      "name": "HHV / IoT",
-      "conference": "LAYERONE2019",
-      "updated_at": "2019-05-21T13:06+0000"
+      "name": "HHV / IoT"
     },
     {
+      "updated_at": "2019-05-21T13:06+0000",
+      "conference": "LAYERONE2019",
       "id": 30520,
-      "name": "Registration & Vendor Area",
-      "conference": "LAYERONE2019",
-      "updated_at": "2019-05-21T13:06+0000"
+      "name": "Registration & Vendor Area"
     },
     {
+      "updated_at": "2019-05-21T13:34+0000",
+      "conference": "LAYERONE2019",
       "id": 30521,
-      "name": "RaiseMe Career Village",
-      "conference": "LAYERONE2019",
-      "updated_at": "2019-05-21T13:34+0000"
+      "name": "RaiseMe Career Village"
     },
     {
-      "id": 30522,
-      "name": "23b Shop",
+      "updated_at": "2019-05-21T13:55+0000",
       "conference": "LAYERONE2019",
-      "updated_at": "2019-05-21T13:55+0000"
+      "id": 30522,
+      "name": "23b Shop"
     }
   ],
   "updated_at": "2019-05-21T13:55+0000"
