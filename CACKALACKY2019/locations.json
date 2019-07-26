@@ -1,35 +1,53 @@
 {
   "locations": [
     {
-      "id": 30511,
-      "name": "Speaker Area - Venetian",
       "updated_at": "2019-05-09T17:18+0000",
-      "conference": "CACKALACKY2019"
+      "conference": "CACKALACKY2019",
+      "id": 30511,
+      "name": "Speaker Area - Venetian"
     },
     {
+      "updated_at": "2019-05-09T17:15+0000",
+      "conference": "CACKALACKY2019",
       "id": 30512,
-      "name": "Breakout Room 1 - Vienna B",
-      "updated_at": "2019-05-09T17:15+0000",
-      "conference": "CACKALACKY2019"
+      "name": "Breakout Room 1 - Vienna B"
     },
     {
+      "updated_at": "2019-05-09T17:15+0000",
+      "conference": "CACKALACKY2019",
       "id": 30513,
-      "name": "Breakout Room 2 - Brussels",
-      "updated_at": "2019-05-09T17:15+0000",
-      "conference": "CACKALACKY2019"
+      "name": "Breakout Room 2 - Brussels"
     },
     {
+      "updated_at": "2019-05-09T17:15+0000",
+      "conference": "CACKALACKY2019",
       "id": 30514,
-      "name": "Breakout Room 3 - Zurich",
-      "updated_at": "2019-05-09T17:15+0000",
-      "conference": "CACKALACKY2019"
+      "name": "Breakout Room 3 - Zurich"
     },
     {
-      "id": 30515,
-      "name": "Registration",
       "updated_at": "2019-05-08T14:56+0000",
-      "conference": "CACKALACKY2019"
+      "conference": "CACKALACKY2019",
+      "id": 30515,
+      "name": "Registration"
+    },
+    {
+      "updated_at": "2019-05-30T16:43+0000",
+      "conference": "CACKALACKY2019",
+      "id": 30523,
+      "name": "Hotel Bar"
+    },
+    {
+      "updated_at": "2019-05-30T16:44+0000",
+      "conference": "CACKALACKY2019",
+      "id": 30524,
+      "name": "Chillout Room"
+    },
+    {
+      "updated_at": "2019-05-30T16:55+0000",
+      "conference": "CACKALACKY2019",
+      "id": 30525,
+      "name": "37psr (range37)"
     }
   ],
-  "updated_at": "2019-05-09T17:18+0000"
+  "updated_at": "2019-05-30T16:55+0000"
 }
