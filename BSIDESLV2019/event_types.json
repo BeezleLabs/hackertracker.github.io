@@ -3,17 +3,17 @@
   "event_types": [
     {
       "updated_at": "2019-07-25T00:00+0000",
-      "name": "Talk",
       "id": 31601,
+      "color": "#0000ff",
       "conference": "BSIDESLV2019",
-      "color": "#0000ff"
+      "name": "Talk"
     },
     {
       "updated_at": "2019-07-25T00:00+0000",
-      "name": "Workshop",
       "id": 31602,
+      "color": "#ff7f00",
       "conference": "BSIDESLV2019",
-      "color": "#ff7f00"
+      "name": "Workshop"
     }
   ]
 }

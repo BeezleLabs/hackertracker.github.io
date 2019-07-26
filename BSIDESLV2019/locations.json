@@ -3,75 +3,75 @@
   "locations": [
     {
       "updated_at": "2019-07-25T00:00+0000",
-      "name": "Breaking Ground",
       "id": 31601,
-      "conference": "BSIDESLV2019"
+      "conference": "BSIDESLV2019",
+      "name": "Breaking Ground"
     },
     {
       "updated_at": "2019-07-25T00:00+0000",
-      "name": "Common Ground",
       "id": 31602,
-      "conference": "BSIDESLV2019"
+      "conference": "BSIDESLV2019",
+      "name": "Common Ground"
     },
     {
       "updated_at": "2019-07-25T00:00+0000",
-      "name": "CISO Track",
       "id": 31603,
-      "conference": "BSIDESLV2019"
+      "conference": "BSIDESLV2019",
+      "name": "CISO Track"
     },
     {
       "updated_at": "2019-07-25T00:00+0000",
-      "name": "Ground Floor",
       "id": 31604,
-      "conference": "BSIDESLV2019"
+      "conference": "BSIDESLV2019",
+      "name": "Ground Floor"
     },
     {
       "updated_at": "2019-07-25T00:00+0000",
-      "name": "Ground Truth",
       "id": 31605,
-      "conference": "BSIDESLV2019"
+      "conference": "BSIDESLV2019",
+      "name": "Ground Truth"
     },
     {
       "updated_at": "2019-07-25T00:00+0000",
-      "name": "Hire Ground",
       "id": 31606,
-      "conference": "BSIDESLV2019"
+      "conference": "BSIDESLV2019",
+      "name": "Hire Ground"
     },
     {
       "updated_at": "2019-07-25T00:00+0000",
-      "name": "I Am The Cavalry",
       "id": 31607,
-      "conference": "BSIDESLV2019"
+      "conference": "BSIDESLV2019",
+      "name": "I Am The Cavalry"
     },
     {
       "updated_at": "2019-07-25T00:00+0000",
-      "name": "Public Ground",
       "id": 31608,
-      "conference": "BSIDESLV2019"
+      "conference": "BSIDESLV2019",
+      "name": "Public Ground"
     },
     {
       "updated_at": "2019-07-25T00:00+0000",
-      "name": "Proving Ground",
       "id": 31609,
-      "conference": "BSIDESLV2019"
+      "conference": "BSIDESLV2019",
+      "name": "Proving Ground"
     },
     {
       "updated_at": "2019-07-25T00:00+0000",
-      "name": "Ground1234!",
       "id": 31610,
-      "conference": "BSIDESLV2019"
+      "conference": "BSIDESLV2019",
+      "name": "Ground1234!"
     },
     {
       "updated_at": "2019-07-25T00:00+0000",
-      "name": "Training Ground",
       "id": 31611,
-      "conference": "BSIDESLV2019"
+      "conference": "BSIDESLV2019",
+      "name": "Training Ground"
     },
     {
       "updated_at": "2019-07-25T00:00+0000",
-      "name": "Underground",
       "id": 31612,
-      "conference": "BSIDESLV2019"
+      "conference": "BSIDESLV2019",
+      "name": "Underground"
     }
   ]
 }

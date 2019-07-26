@@ -3,10 +3,10 @@
   "articles": [
     {
       "updated_at": "2019-07-25T23:39+0000",
-      "text": "Thanks for joining #hackertracker in our first year of importing BSides Las Vegas data during Hacker Summer Camp! Enjoy the heat and hackers in Vegas and watch out for the #hackertracker team.",
-      "name": "Welcome to BSides Las Vegas 2019",
       "id": 13,
-      "conference": "BSIDESLV2019"
+      "text": "Thanks for joining #hackertracker in our first year of importing BSides Las Vegas data during Hacker Summer Camp! Enjoy the heat and hackers in Vegas and watch out for the #hackertracker team.",
+      "conference": "BSIDESLV2019",
+      "name": "Welcome to BSides Las Vegas 2019"
     }
   ]
 }
