@@ -26,7 +26,7 @@
       "speakers": [],
       "location": 40023,
       "conference": "DEFCON27",
-      "end_date": "2019-08-09T09:00+0000",
+      "end_date": "2019-08-10T09:00+0000",
       "start_date": "2019-08-10T02:30+0000"
     },
     {
@@ -40,7 +40,7 @@
       "speakers": [],
       "location": 40024,
       "conference": "DEFCON27",
-      "end_date": "2019-08-09T09:00+0000",
+      "end_date": "2019-08-10T09:00+0000",
       "start_date": "2019-08-10T04:00+0000"
     },
     {
@@ -54,7 +54,7 @@
       "speakers": [],
       "location": 40025,
       "conference": "DEFCON27",
-      "end_date": "2019-08-09T09:00+0000",
+      "end_date": "2019-08-10T09:00+0000",
       "start_date": "2019-08-10T02:30+0000"
     },
     {
@@ -68,7 +68,7 @@
       "speakers": [],
       "location": 40026,
       "conference": "DEFCON27",
-      "end_date": "2019-08-09T09:00+0000",
+      "end_date": "2019-08-10T09:00+0000",
       "start_date": "2019-08-10T02:30+0000"
     },
     {
@@ -82,7 +82,7 @@
       "speakers": [],
       "location": 40026,
       "conference": "DEFCON27",
-      "end_date": "2019-08-09T09:00+0000",
+      "end_date": "2019-08-10T09:00+0000",
       "start_date": "2019-08-10T02:30+0000"
     },
     {
@@ -96,7 +96,7 @@
       "speakers": [],
       "location": 40027,
       "conference": "DEFCON27",
-      "end_date": "2019-08-09T09:00+0000",
+      "end_date": "2019-08-10T09:00+0000",
       "start_date": "2019-08-10T02:30+0000"
     },
     {
@@ -110,7 +110,7 @@
       "speakers": [],
       "location": 40027,
       "conference": "DEFCON27",
-      "end_date": "2019-08-10T09:00+0000",
+      "end_date": "2019-08-11T09:00+0000",
       "start_date": "2019-08-11T02:30+0000"
     },
     {
@@ -138,7 +138,7 @@
       "speakers": [],
       "location": 40028,
       "conference": "DEFCON27",
-      "end_date": "2019-08-10T09:00+0000",
+      "end_date": "2019-08-11T09:00+0000",
       "start_date": "2019-08-11T02:30+0000"
     },
     {
@@ -152,7 +152,7 @@
       "speakers": [],
       "location": 40023,
       "conference": "DEFCON27",
-      "end_date": "2019-08-10T09:00+0000",
+      "end_date": "2019-08-11T09:00+0000",
       "start_date": "2019-08-11T02:30+0000"
     },
     {
@@ -166,7 +166,7 @@
       "speakers": [],
       "location": 40029,
       "conference": "DEFCON27",
-      "end_date": "2019-08-10T09:00+0000",
+      "end_date": "2019-08-11T09:00+0000",
       "start_date": "2019-08-11T02:30+0000"
     },
     {
@@ -180,7 +180,7 @@
       "speakers": [],
       "location": 40030,
       "conference": "DEFCON27",
-      "end_date": "2019-08-10T09:00+0000",
+      "end_date": "2019-08-11T09:00+0000",
       "start_date": "2019-08-11T02:30+0000"
     },
     {
@@ -864,7 +864,7 @@
       "speakers": [
         40272
       ],
-      "location": 40011,
+      "location": null,
       "conference": "DEFCON27",
       "end_date": "2019-08-10T01:30+0000",
       "start_date": "2019-08-09T21:30+0000"
