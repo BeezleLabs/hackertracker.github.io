@@ -1,0 +1,497 @@
+{
+  "locations": [
+    {
+      "conference": "DEFCON27",
+      "id": 40001,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "0"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40002,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "DC101, Paris Theatre"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40003,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Track 1"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40004,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Track 2"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40005,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Track 3"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40006,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Track 4"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40007,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Firesides Lounge"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40008,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Paris Ballroom"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40009,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": ""
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40010,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Flamingo, Lake Mead II"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40011,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Flamingo, Red Rock II"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40012,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Flamingo, Red Rock V"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40013,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Flamingo, Red Rock IV"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40014,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Flamingo, Red Rock III"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40015,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Flamingo, Red Rock VII"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40016,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Flamingo, Red Rock VIII"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40017,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Flamingo, Valley of Fire I"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40018,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Flamingo, Red Rock I"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40019,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Flamingo, Valley of Fire II"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40020,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Flamingo, Lake Mead I"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40021,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Flamingo, Red Rock VI"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40022,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Sin City - Planet Hollywood"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40023,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Rivoli A - Paris"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40024,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "London Club/Night Club - Planet Hollywood"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40025,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Concorde A - Paris"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40026,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Concorde B - Paris"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40027,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Concorde C - Paris"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40028,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Rivoli B - Paris"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40029,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Front room Gallery Night Club - Planet Hollywood"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40030,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "London Club - Planet Hollywood"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40031,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Napoleons Corner Bar - Paris"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40032,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "AI Village"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40033,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Contest Stage (PH Mezzanine)"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40034,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Car Hacking Village"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40035,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Contest Floor (PH Celebrity Ballroom) (PH Celebrity Ballroom)"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40036,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Online"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40037,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Contest Floor (PH Celebrity Ballroom)"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40038,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "ICS Village"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40039,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "BioHacking Village"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40040,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Blue Team Village"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40041,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "SE Village"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40042,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "AppSec Village"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40043,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "IoT Village"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40044,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Crypto Village"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40045,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Wireless Village"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40046,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "DEAF CON Village"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40047,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Ham Radio Village"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40048,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Vendor Area"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40049,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Sunset Park, Pavilion F"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40050,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Sunset 1"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40051,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Sunset 6"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40052,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Sunset 3"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40053,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Sunset 4"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40054,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Sunset 2"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40055,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Sunset 5"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40056,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Bally's, Skyview 3"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40057,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Flamingo, Mesquite BR"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40058,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Bally's, Event Center"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40059,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Flamingo, Laughlin III"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40060,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Planet Hollywood, Melrose 1-3"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40061,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Planet Hollywood, Melrose 1"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40062,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Planet Hollywood, Melrose 2"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40063,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Planet Hollywood, Melrose 3"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40064,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Flamingo, Savoy BR"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40065,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Flamingo, Reno I"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40066,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Planet Hollywood, Celebrity 1 & 2"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40067,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Bally's, Event Center Office"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40068,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Flamingo, Reno II"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40069,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Flamingo, Virginia City II"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40070,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Flamingo, Eldorado Ballroom"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40071,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Flamingo, Carson City I"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40072,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Bally's, Platinum BR"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40073,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Bally\u2018s, Skyview 4"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40074,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Planet Hollywood, The Studio"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40075,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Planet Hollywood, Celebrity 5 and Some Celebrity 6"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40076,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Flamingo, Laughlin I and II"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40077,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Flamingo, Carson City II"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40078,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Bally's, Jubilee Tower - Las Vegas  BR - 3rd Floor"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40079,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Bally's, Jubilee Tower - Pacific BR - 2nd Floor"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40080,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Planet Hollywood, Wilshire Ballroom A-B"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40081,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Planet Hollywood,  Melrose 4"
+    },
+    {
+      "conference": "DEFCON27",
+      "id": 40082,
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Ballys, Palace Meeting Rooms  1-7"
+    }
+  ],
+  "updated_at": "2019-07-27T10:33+0000"
+}

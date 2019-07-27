@@ -1,0 +1,47 @@
+{
+  "event_types": [
+    {
+      "color": "#9a3290",
+      "id": 40001,
+      "conference": "DEFCON27",
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Workshop"
+    },
+    {
+      "color": "#5c74ff",
+      "id": 40002,
+      "conference": "DEFCON27",
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Official Talk"
+    },
+    {
+      "color": "#42d2bc",
+      "id": 40003,
+      "conference": "DEFCON27",
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Contest"
+    },
+    {
+      "color": "#5c74ff",
+      "id": 40004,
+      "conference": "DEFCON27",
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Party"
+    },
+    {
+      "color": "#AD1457",
+      "id": 40005,
+      "conference": "DEFCON27",
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "Village"
+    },
+    {
+      "color": "#AD1457",
+      "id": 40006,
+      "conference": "DEFCON27",
+      "updated_at": "2019-07-27T10:33+0000",
+      "name": "DemoLab"
+    }
+  ],
+  "updated_at": "2019-07-27T10:33+0000"
+}
