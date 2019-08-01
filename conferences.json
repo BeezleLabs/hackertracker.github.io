@@ -519,7 +519,7 @@
     {
       "events": {
         "link": "https://hackertracker.app/DEFCON27/events.json",
-        "updated_at": "2019-08-01T00:51+0000"
+        "updated_at": "2019-08-01T03:52+0000"
       },
       "timezone": "America/Los_Angeles",
       "description": "DEF CON 27 is August 8-11, 2019 at Paris, Ballys, Flamingo & Planet Hollywood hotels, Las Vegas",
@@ -549,12 +549,12 @@
       },
       "locations": {
         "link": "https://hackertracker.app/DEFCON27/locations.json",
-        "updated_at": "2019-07-28T17:43+0000"
+        "updated_at": "2019-08-01T02:39+0000"
       },
       "end_date": "2019-08-11",
       "speakers": {
         "link": "https://hackertracker.app/DEFCON27/speakers.json",
-        "updated_at": "2019-08-01T00:55+0000"
+        "updated_at": "2019-08-01T03:51+0000"
       },
       "start_date": "2019-08-08",
       "updated_at": "2019-07-26T00:18+0000"

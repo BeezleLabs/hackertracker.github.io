@@ -3349,7 +3349,317 @@
       "title": "",
       "name": "crlowell",
       "updated_at": "2019-07-31T03:13+0000"
+    },
+    {
+      "twitter": "@tomkopchak",
+      "link": "",
+      "conference": "DEFCON27",
+      "description": "Tom Kopchak (Twitter: @tomkopchak) is the Director of Technical Operations at Hurricane Labs, where he pretends to manage a team of Splunk engineers, but is still an engineer and technology geek at heart. Tom's speaking experience includes a previous talk at DC24 (Sentient Storage - Do SSDs Have a Mind of Their Own?) as well as many talks at other conferences around the country (and BSides LV in 2013). He holds a Master's degree in Computing Security from the Rochester Institute of Technology, and volunteers as the white team captain for the National Collegiate Penetration Testing Competition (CPTC). When he is not working with computers, Tom enjoys composing, music improvisation (Acts of Music), and playing both the piano and organ.",
+      "id": 40336,
+      "title": "COMPETITION DIRECTOR OF NATIONAL CPTC / DIRECTOR OF TECHNICAL OPERATIONS, HURRICANE LABS ",
+      "name": "Tom Kopchak",
+      "updated_at": "2019-08-01T02:32+0000"
+    },
+    {
+      "twitter": "",
+      "link": "lockboxx.blogspot.com",
+      "conference": "DEFCON27",
+      "description": "Dan Borges is an information security professional with over 15 years in computer science. Dan participates in a number of cyber security competitions each year, from being on the National CCDC Red Team and helping with the black team for the Collegiate Penetration Testing Competition (CPTC). He is an experienced red teamer who enjoys developing new tools in his free time. He has taught workshops on advanced red teaming at both DEF CON and WOPR Summit. He has been publishing a blog on infosec education for more than 10 years at lockboxx.blogspot.com.",
+      "id": 40337,
+      "title": "WORLD TEAM CAPTAIN OF NATIONAL CPTC",
+      "name": "Dan Borges",
+      "updated_at": "2019-08-01T02:33+0000"
+    },
+    {
+      "twitter": "@jaybeale",
+      "link": "",
+      "conference": "DEFCON27",
+      "description": "Jay Beale (Twitter: @jaybeale) works on Kubernetes and cloud native security, as a professional threat actor, a Kubernetes Contributor and as a member of the Kubernetes Security Audit working group. He's the architect and a developer on the Peirates attack tool for Kubernetes. In the past, Jay created two tools used by hundreds of thousands of individuals, companies and governments, Bastille Linux and the Center for Internet Security's first Linux/UNIX scoring tool. He has led training classes on Linux security and Kuberntes at the Black Hat, CanSecWest, RSA, and IDG conferences, as well as in private corporate training, since 2000. As an author, series editor and speaker, Jay has contributed to nine books and two columns and given over one hundred public talks. He is CTO of the information security consulting company InGuardians.",
+      "id": 40338,
+      "title": "CTO of InGuardians",
+      "name": "Jay Beale",
+      "updated_at": "2019-08-01T02:47+0000"
+    },
+    {
+      "twitter": "@DataHiding",
+      "link": "",
+      "conference": "DEFCON27",
+      "description": "Mike Raggo (Twitter: @DataHiding) is Chief Security Officer at 802 Secure and has over 20 years of security research experience. His current focus is wireless IoT threats impacting the enterprise. Michael is the author of \"Mobile Data Loss: Threats & Countermeasures\" and \"Data Hiding\" for Syngress Books, and contributing author for \"Information Security the Complete Reference 2nd Edition\". A former security trainer, Michael has briefed international defense agencies including the FBI and Pentagon, and is a frequent presenter at security conferences, including Black Hat, DEF CON, Gartner, DoD Cyber Crime, OWASP, HackCon, and SANS.",
+      "id": 40339,
+      "title": "Chief Security Officer at 802 Secure",
+      "name": "Mike Raggo",
+      "updated_at": "2019-08-01T02:50+0000"
+    },
+    {
+      "twitter": "@chethosmer",
+      "link": "",
+      "conference": "DEFCON27",
+      "description": "Chet Hosmer (Twitter: @chethosmer) is an international author, educator & researcher, and founder of Python Forensics, Inc., a non-profit research institute focused on the collaborative development of open source investigative technologies using the Python programming language. Chet is also a Visiting Professor at Utica College in the Cybersecurity Graduate Program, where his research and teaching is focused on data hiding, active cyber defense and security of industrial control systems. Additionally, Chet is an Adjunct Professor at Champlain College in the Digital Forensics Graduate Program, where his research and teaching is focused on solving hard digital investigation problems using the Python programming language.",
+      "id": 40340,
+      "title": "Owner of Python Forensics",
+      "name": "Chet Hosmer",
+      "updated_at": "2019-08-01T02:51+0000"
+    },
+    {
+      "twitter": "",
+      "link": "",
+      "conference": "DEFCON27",
+      "description": "Jay Dimartino is a Threat Researcher for Fidelis Cybersecurity and Head of Detections & Countermeasures. He has been doing Malware Reverse Engineering for over nine years and also has several industry certifications including the GREM and GCFA.",
+      "id": 40341,
+      "title": "Head of Detections & Countermeasures for Fidelis Cybersecurity",
+      "name": "Jay Dimartino",
+      "updated_at": "2019-08-01T02:53+0000"
+    },
+    {
+      "twitter": "@__winn",
+      "link": "",
+      "conference": "DEFCON27",
+      "description": "Winnona DeSombre (Twitter: @__winn) is an Asia Pacific threat intelligence researcher at Recorded Future, focusing on Chinese underground hacking communities and East Asian cyber espionage campaigns. She was recently featured in Threatcare's \"Tribe of Hackers\" book, containing career advice from some of the world's best information security professionals.",
+      "id": 40342,
+      "title": "Threat Intelligence Researcher at Recorded Future",
+      "name": "Winnona DeSombre",
+      "updated_at": "2019-08-01T03:00+0000"
+    },
+    {
+      "twitter": "@erbbysam",
+      "link": "",
+      "conference": "DEFCON27",
+      "description": "Sam Erb (Twitter: @erbbysam) is a 2x black badge winner with Co9 in the Badge Challenge and is working to make the Internet a safer place.",
+      "id": 40343,
+      "title": "",
+      "name": "Sam Erb",
+      "updated_at": "2019-08-01T03:02+0000"
+    },
+    {
+      "twitter": " @SecureBlogger",
+      "link": "",
+      "conference": "DEFCON27",
+      "description": "Joseph Muniz (Twitter: @SecureBlogger) and Aamir Lakhani (Twitter: @aamirlakhani) together have spoken at various conferences including the infamous Social Media Deception RSA talk quoted by many sources found by searching \"Emily Williams Social Engineering\". Both speakers have written books together including a recent title \"Digital Forensics for Network Engineers\" released on Cisco Press late February 2018. They have been friends for years and continue to collaborate on research and other projects.",
+      "id": 40344,
+      "title": "Security Architect at Cisco",
+      "name": "Joseph Muniz",
+      "updated_at": "2019-08-01T03:04+0000"
+    },
+    {
+      "twitter": "@aamirlakhani",
+      "link": "",
+      "conference": "DEFCON27",
+      "description": "Joseph Muniz (Twitter: @SecureBlogger) and Aamir Lakhani (Twitter: @aamirlakhani) together have spoken at various conferences including the infamous Social Media Deception RSA talk quoted by many sources found by searching \"Emily Williams Social Engineering\". Both speakers have written books together including a recent title \"Digital Forensics for Network Engineers\" released on Cisco Press late February 2018. They have been friends for years and continue to collaborate on research and other projects.",
+      "id": 40345,
+      "title": "Lead Researcher at Fortinet",
+      "name": "Aamir Lakhani",
+      "updated_at": "2019-08-01T03:05+0000"
+    },
+    {
+      "twitter": "@3ncr1pt3d",
+      "link": "",
+      "conference": "DEFCON27",
+      "description": "Cheryl Biswas (Twitter: @3ncr1pt3d) is a Strategic Threat Intel Analyst with a major bank in Toronto, Canada. Previously, she was a Cyber Security Consultant with KPMG and worked on security audits and assessment, privacy, breaches, and DRP. Her experience includes project management, vendor management and change management. Cheryl holds an ITIL certification and a degree in Political Science. Her areas of interest include APTs, mainframes, ransomware, ICS SCADA, and building threat intel. She actively shares her passion for security online, as a speaker and a volunteer at conferences, and by encouraging women and diversity in Infosec as a founder and member of the \"The Diana Initiative\".\r\n\r\n",
+      "id": 40346,
+      "title": "Strategic Threat Intel Analyst",
+      "name": "Cheryl Biswas",
+      "updated_at": "2019-08-01T03:07+0000"
+    },
+    {
+      "twitter": "",
+      "link": "",
+      "conference": "DEFCON27",
+      "description": "Milind Bhargava is a Manager with Deloitte's Risk Advisory team where he performs security audits and assessments, leads the incident response team. He also leads his own security consulting company that is known for Darknet Threat Intelligence Research.",
+      "id": 40347,
+      "title": "Manager with Deloitte's Risk Advisory",
+      "name": "Milind Bhargava",
+      "updated_at": "2019-08-01T03:09+0000"
+    },
+    {
+      "twitter": "",
+      "link": "",
+      "conference": "DEFCON27",
+      "description": "Adam Podgorski is a Manager at Deloitte Canada. He has managed and lead the delivery of a broad range of IT strategies and multiple technical advisory engagements. He presented at Black Hat in 2017.",
+      "id": 40348,
+      "title": "Manager at Deloitte Canada",
+      "name": "Adam Podgorski",
+      "updated_at": "2019-08-01T03:09+0000"
+    },
+    {
+      "twitter": "@MaryJo_E",
+      "link": "",
+      "conference": "DEFCON27",
+      "description": "Mar\u00eda Jos\u00e9 Erquiaga (Twitter: @MaryJo_E) is a malware researcher from Argentina. She is researcher and teacher at the University of Cuyo, Mendoza Argentina. She is collaborator on the Stratosphere laboratory since 2015. She is a member of the Aposemat project, a joint project between the Stratosphere laboratory and Avast. This project aims to execute malware and capture it from honeypots. Maria's work has been focused on execute and analyze malware for IoT devices. Spoke at CACIC, ArgenCon, SIGCOMM, BotConf and Ekoparty.",
+      "id": 40349,
+      "title": "Malware Researcher",
+      "name": "Mar\u00eda Jos\u00e9 Erquiaga",
+      "updated_at": "2019-08-01T03:11+0000"
+    },
+    {
+      "twitter": "",
+      "link": "",
+      "conference": "DEFCON27",
+      "description": "Sebastian Garcia is a malware researcher and security teacher that has extensive experience in machine learning applied on network traffic. He created the Stratosphere IPS project, a machine learning-based, free software IPS to protect the civil society. He likes to analyze network patterns and attacks with machine learning. As a researcher in the AIC group of Czech Technical University in Prague, he believes that free software and machine learning tools can help better protect users from abuse of their digital rights. He has been teaching in several countries and Universities and working on penetration testing for both corporations and governments. He was lucky enough to talk in Ekoparty, DeepSec, Hacktivity, Botconf, Hacklu, InBot, Security Sessions, ECAI, CitizenLab, ArgenCor, Free Software Foundation Europe, Virus Bulletin, BSides Vienna, HITB Singapore, CACIC, etc. As a co-founder of the MatesLab hackspace he is a free software advocate that worked on honeypots, malware detection, distributed scanning (dnmap) keystroke dynamics, Bluetooth analysis, privacy protection, intruder detection, robotics, microphone detection with SDR (Salamandra) and biohacking.",
+      "id": 40350,
+      "title": "Malware Researcher and Security Teacher",
+      "name": "Sebastian Garcia",
+      "updated_at": "2019-08-01T03:11+0000"
+    },
+    {
+      "twitter": "@D9_Pilot",
+      "link": "",
+      "conference": "DEFCON27",
+      "description": "D9 (Twitter: @D9_Pilot) is a member of the Senior Executive Service and currently serving as the Deputy Director for Expeditionary Warfare for the U.S. Navy. Twenty-six years as an U.S. Air Force officer serving as a B-52H navigator and then F-15A and A-37B pilot. Held Command, Director, and staff positions across the Air Force in training operations, policy, and advanced training technologies. Three operational deployments with the last in Pakistan in support of Operation Enduring Freedom (Afghanistan). Served in the Office of the Secretary of Defense for eleven years as the DoD Senior Executive responsible for the programming and execution of the nearly $900M/year the Department of Defense invests in worldwide joint training and training technologies. Cyber experience includes: Co-Lead with the DoD CIO to develop the strategy and implement the Secretary of Defense's DoD Cyber Strategy to \"Build and Maintain Ready Forces to Conduct Cyberspace Operations.\" Built from scratch a six-month Cyber Operations training course that yielded a 78% cohort pass rate (average is 16%) on the Offensive Security Certified Professional certification. Worked with DEF CON officials to repurpose DEF CON's CTF and CTP technical architecture to support DoD's cyber operations training. 2018 Doctorates in Education from The University of Pennsylvania's Graduate School of Education. Dissertation advanced organizational socialization theory by improving our understanding of the plasticity of human socialization. Study population consisted of \"chameleon\" hackers who practiced a socialization tradecraft technique they called \"Code Switching.\"",
+      "id": 40351,
+      "title": "Independent Researcher",
+      "name": "D9",
+      "updated_at": "2019-08-01T03:14+0000"
+    },
+    {
+      "twitter": "@gesman",
+      "link": "",
+      "conference": "DEFCON27",
+      "description": "Gleb Esman (Twitter: @gesman) helps to guide research, product planning and development efforts in the areas of fraud detection, data security analytics and investigations at Splunk Inc. Currently Gleb manages number of security projects in healthcare space such as drugs and opioids diversion platform and healthcare privacy monitoring platform. Before Splunk Gleb was engaged at Morgan Stanley overseeing fraud detection platform and enterprise wide data analytics systems within retail banking space. During his career, Gleb worked in a various positions at a number of enterprises involved in research and development of solutions against advanced malware and computer viruses as well as solutions for secure payments and data protection in e-commerce space. Gleb is an author of several patents in Deep Learning, Security, Behavior Biometrics and Healthcare Data Analytics.",
+      "id": 40352,
+      "title": "Senior Project Manager, Fraud Analytics and Research at Splunk Inc.",
+      "name": "Gleb Esman",
+      "updated_at": "2019-08-01T03:18+0000"
+    },
+    {
+      "twitter": "",
+      "link": "",
+      "conference": "DEFCON27",
+      "description": "Travis (Travco) Palmer is a Security Research Engineer at Cisco. Travis is a certified OSCP and OSCE who has been getting paid to either fix or break something for over seven years. He is a fan (and sometimes-contributer) of a number of simulator/sandbox video games, and keeper of too many unfinished hardware projects.",
+      "id": 40353,
+      "title": "Security Research Engineer at Cisco",
+      "name": "Travis Palmer",
+      "updated_at": "2019-08-01T03:20+0000"
+    },
+    {
+      "twitter": "",
+      "link": "",
+      "conference": "DEFCON27",
+      "description": "Brian Somers is a Site Reliability Engineer for Cisco Umbrella (formerly OpenDNS). He specializes in large scale development on Unix-like platforms, software design & architecture, low level C development, and FreeBSD development.",
+      "id": 40354,
+      "title": "Site Reliability Engineer for Cisco Umbrella",
+      "name": "Brian Somers",
+      "updated_at": "2019-08-01T03:21+0000"
+    },
+    {
+      "twitter": "@tcstoolhax0r",
+      "link": "",
+      "conference": "DEFCON27",
+      "description": "Russell Butturini (Twitter: @tcstoolhax0r) is head of information security for a top 20 CPA and financial services firm. He has authored tools for both red and blue teams with his C- and Python coding skills. His most popular tool, NoSQLMap, was featured in the Hacker Playbook 2.",
+      "id": 40355,
+      "title": "Head of Information Security",
+      "name": "Russell Butturini",
+      "updated_at": "2019-08-01T03:23+0000"
+    },
+    {
+      "twitter": "",
+      "link": "",
+      "conference": "DEFCON27",
+      "description": "Adam is an engineer. Several years ago, Adam's program got whacked with the compliance stick. If Adam wanted to fly he had to comply. In an odd turn of events, Adam found that all this security compliance made him level-up his systems engineering game. After satisfying a number of security \"one-offs\", Adam started to realize where non-engineers had strengths and willingness to bolster his program's overall security. As a lonely security engineer in a feature-driven world he credits the infosec community for providing so much \"professional development\". He is happy to show engineers how fun (less painful?) security can be. Tragically, he has yet to meet anyone who can wrestle failed vuln scanners as well as he can - but he knows that special someone is out there.",
+      "id": 40356,
+      "title": "Engineer",
+      "name": "Adam",
+      "updated_at": "2019-08-01T03:28+0000"
+    },
+    {
+      "twitter": "@utkusen",
+      "link": "",
+      "conference": "DEFCON27",
+      "description": "Utku Sen (Twitter: @utkusen) is a security researcher who is mostly focused on application security, network security and tool development. He presented his different tools and researches in Black Hat USA Arsenal, DEF CON Demo Labs and Packet Hacking Village in recent years. He's also nominated for Pwnie Awards on \"Best Backdoor\" category in 2016. He is currently working for Tear Security.",
+      "id": 40357,
+      "title": "R&D Lead at Tear Security",
+      "name": "Utku Sen",
+      "updated_at": "2019-08-01T03:30+0000"
+    },
+    {
+      "twitter": "@red5heep",
+      "link": "",
+      "conference": "DEFCON27",
+      "description": "Cesare Pizzi (Twitter: @red5heep) is a computer and technology enthusiast from the early '80. Computer and programming were his hobbies and then became also a real job. On the professional side, he works from more than 20 years in IT field, covering during the years a lot of different roles: programmer, system admin, DBA and in the last years, network and security engineer and analyst.",
+      "id": 40358,
+      "title": "Sorint.lab",
+      "name": "Cesare Pizzi",
+      "updated_at": "2019-08-01T03:31+0000"
+    },
+    {
+      "twitter": "@MrJeffMan",
+      "link": "",
+      "conference": "DEFCON27",
+      "description": "Jeff Man (Twitter: @MrJeffMan) is an infosec curmudgeon.",
+      "id": 40359,
+      "title": "Infosec Curmudgeon",
+      "name": "Jeff Man",
+      "updated_at": "2019-08-01T03:33+0000"
+    },
+    {
+      "twitter": "@ChrisHanlonCA",
+      "link": "",
+      "conference": "DEFCON27",
+      "description": "Chris Hanlon (Twitter: @ChrisHanlonCA) runs an Information Security Consulting Business where he monitors and protects Endpoints, Routers, Servers, and Cloud Systems. In addition to protecting infrastructure, Chris also coaches software companies on ways to minimize vulnerabilities in their code, and reduce their vulnerability to social engineering attacks. During his \"free time\", Chris finds/reports security vulnerabilities, hosts hack-a-thons, uses real world exploits to help developers understand security vulnerabilities, lectures at colleges, presents at conferences, organizes security conferences, and volunteers on the presentation review board for for a BSides Conference.",
+      "id": 40360,
+      "title": "Agile Data Security LTD.",
+      "name": "Chris Hanlon",
+      "updated_at": "2019-08-01T03:36+0000"
+    },
+    {
+      "twitter": "",
+      "link": "",
+      "conference": "DEFCON27",
+      "description": "J. Zhanna Malekos Smith is the Reuben Everett Cyber Scholar at Duke University Law School. Previously, she served as a Captain in the U.S. Air Force Judge Advocate General's Corps. Prior to military service, she was a post-doctoral fellow at the Belfer Center's Cyber Security Project at the Harvard Kennedy School. She holds a J.D. from the University of California, Davis; a B.A. from Wellesley College, where she was a Fellow of the Madeleine Korbel Albright Institute for Global Affairs; and is finishing her M.A. with the Department of War Studies at King's College London. She has presented her research at DEF CON, RSA, and ShmooCon, among others.",
+      "id": 40361,
+      "title": "Duke Law School",
+      "name": "Jessica \"Zhanna\" Malekos Smith",
+      "updated_at": "2019-08-01T03:39+0000"
+    },
+    {
+      "twitter": "@AltnokBesim",
+      "link": "",
+      "conference": "DEFCON27",
+      "description": "Besim Altinok (Twitter: @AltnokBesim) has been researching Wi-Fi security for over a decade. He created WiPi-Hunter project against Wi-Fi hackers. He is the author of a book on Wi-Fi security. Besim's work on wireless security has been published in ArkaKapi Magazine and others. He has also spoken at top conferences including BlackHat Europe, ASIA, Defcon, and others. Besim ALTINOK works currently at BARIKAT Internet Security in Turkey. Besim also founded Pentester Training project.",
+      "id": 40362,
+      "title": "BARIKAT Internet Security",
+      "name": "Besim Altinok",
+      "updated_at": "2019-08-01T03:45+0000"
+    },
+    {
+      "twitter": " @0x43414e",
+      "link": "",
+      "conference": "DEFCON27",
+      "description": "Can Kurnaz (Twitter: @0x43414e) is conducting penetration tests from internet and internal networks to web-based applications, network infrastructures, wireless devices, IoT devices and operational technology infrastructures such as ICS/SCADA systems and components.",
+      "id": 40363,
+      "title": "Senior CyberSecurity Consultant at KPMG Netherlands",
+      "name": "Can Kurnaz",
+      "updated_at": "2019-08-01T03:46+0000"
+    },
+    {
+      "twitter": "",
+      "link": "",
+      "conference": "DEFCON27",
+      "description": "Matt Nash works in a variety of realms, including internal/external network infrastructure, cloud architecture, web applications, automated teller machines (ATMs), physical security, social engineering, digital forensics and incident response, and wireless. As well, these assessments span a number of industries: oil and gas energy, utility, manufacturing, software development, financial, and retail. With more infrastructure and resources moving into \"the cloud\", at a staggering pace, building a skillset in large-scale cloud review was an obvious choice. Matt holds a B.S. in Food and Resource Economics, and is totally qualified to speak on this topic.",
+      "id": 40364,
+      "title": "Security Consultant at NCC Group",
+      "name": "Matt Nash",
+      "updated_at": "2019-08-01T03:47+0000"
+    },
+    {
+      "twitter": "@ekio_jp",
+      "link": "",
+      "conference": "DEFCON27",
+      "description": "Emilio Couto (Twitter: @ekio_jp) is a Security Consultant with more than 20 years of experience in the network and security field. Born and raised in Argentina, he is currently located in Japan where multitasking between language, culture and technologies is a must. Over the last decade focusing mainly on Finance IT. In his spare time he enjoys playing with RFID, computers and home made IoT devices. Over the last 5 years presenting tools in conferences (Black Hat Asia, HITB, AV Tokyo and SECCON)",
+      "id": 40365,
+      "title": "Ekie Security",
+      "name": "Emilio Couto",
+      "updated_at": "2019-08-01T03:49+0000"
+    },
+    {
+      "twitter": "@therealwlambert",
+      "link": "",
+      "conference": "DEFCON27",
+      "description": "Wes Lambert (Twitter: @therealwlambert) is a Senior Engineer at Security Onion Solutions, where he helps companies to implement enterprise security monitoring solutions and better understand their computer networks. He is a huge fan of open source software projects, and loves to solve problems and enhance organizational security using completely free and easily deployable tools.",
+      "id": 40366,
+      "title": "Senior Engineer at Security Onion Solutions",
+      "name": "Wes Lambert",
+      "updated_at": "2019-08-01T03:51+0000"
     }
   ],
-  "updated_at": "2019-08-01T00:55+0000"
+  "updated_at": "2019-08-01T03:51+0000"
 }

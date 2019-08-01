@@ -4895,7 +4895,428 @@
       "end_date": "2019-08-11T21:00+0000",
       "speakers": [],
       "updated_at": "2019-07-31T13:19+0000"
+    },
+    {
+      "location": 40083,
+      "link": "https://twitter.com/Defcondinner",
+      "conference": "DEFCON27",
+      "id": 40311,
+      "title": "DEF CON Dinner Con",
+      "start_date": "2019-08-10T01:30+0000",
+      "includes": "",
+      "event_type": 40004,
+      "description": "Informal meetup for drinks, food and catching up before the Friday night parties begin. Everyone will be on their own but come, hang out with friends old and new. \r\n\r\nFriday, August 9th, 2019\r\n18:30-20:00 at The Park on Las Vegas Blvd.\r\n\r\nAll are welcome. \r\n\r\nFollow @Defcondinner for updates.",
+      "end_date": "2019-08-10T03:00+0000",
+      "speakers": [],
+      "updated_at": "2019-08-01T02:19+0000"
+    },
+    {
+      "location": 40084,
+      "link": "",
+      "conference": "DEFCON27",
+      "id": 40312,
+      "title": "4 years and 10,000+ Hours Later: Lessons Learned from Running a National Penetration Testing Competition",
+      "start_date": "2019-08-09T17:00+0000",
+      "includes": "",
+      "event_type": 40005,
+      "description": "The National Collegiate Penetration Testing Competition (CPTC) provides students with realistic challenges that prepare for a career in the security assessment field. The architecture of the competition is designed to mimic a real-world organization, while requiring participants to excel in both technical and communication skills. The ultimate goal is to use a unique environment to prepare young professionals to navigate the technical and administrative challenges they are likely to face in their careers. Join National CPTC directors Dan Borges and Tom Kopchak in a deep-dive discussion on what goes into building the competition scenario created for each year's event.",
+      "end_date": "2019-08-09T18:00+0000",
+      "speakers": [
+        40336,
+        40337
+      ],
+      "updated_at": "2019-08-01T02:41+0000"
+    },
+    {
+      "location": 40084,
+      "link": "",
+      "conference": "DEFCON27",
+      "id": 40313,
+      "title": "Hacking Kubernetes: Choose Your Own Adventure Style",
+      "start_date": "2019-08-09T18:00+0000",
+      "includes": "",
+      "event_type": 40005,
+      "description": "Many companies have deployed Kubernetes, but few infosec folks have experience attacking it. We aim to address that shortage, culminating in an audience-directed Choose Your Own Adventure, movie-themed demo against an intentionally-vulnerable cluster named Bust-a-Kube. You'll see how to attack Kubernetes clusters and learn what hardening techniques and freely available tools can break those attacks. We'll review the components of a Kubernetes cluster, then show how a threat actor can chain configuration vulnerabilities to pivot and escalate privilege, pilfer data and take over clusters. You will also gain exposure to a new open source Kubernetes attack tool called Peirates.",
+      "end_date": "2019-08-09T19:00+0000",
+      "speakers": [
+        40338
+      ],
+      "updated_at": "2019-08-01T02:48+0000"
+    },
+    {
+      "location": 40084,
+      "link": "",
+      "conference": "DEFCON27",
+      "id": 40314,
+      "title": "StegoAugmented Malware",
+      "start_date": "2019-08-09T19:00+0000",
+      "includes": "",
+      "event_type": 40005,
+      "description": "As adversaries look for new methods of creating malware, steganography has seen a resurgence. In this session, we'll review this black art and uncover recent steganographic malware weaponizing techniques. We'll cover techniques that include file and image embedding techniques invisible to malware and intrusion detection systems, methods of exploiting weak networking protocols for covert communications, mischievous IoT devices, and cloud data hiding methods. But we don't stop there, our organic research has uncovered numerous other ways in which malware could be embedded in an effort to prepare threat researchers with the knowledge to improve their tools and fortify their networks.",
+      "end_date": "2019-08-09T20:00+0000",
+      "speakers": [
+        40339,
+        40340
+      ],
+      "updated_at": "2019-08-01T02:52+0000"
+    },
+    {
+      "location": 40084,
+      "link": "",
+      "conference": "DEFCON27",
+      "id": 40315,
+      "title": "The Art of Detection",
+      "start_date": "2019-08-09T20:00+0000",
+      "includes": "",
+      "event_type": 40005,
+      "description": "Ever inherited a security rule you were afraid to modify? Ever import a Yara rule only to have the alerts blow up in your face? Does your SEIM or security appliance keep you up at night with email alerts? The Art of Detection focuses on the methodology of writing and sharing accurate detections to make you a better detection author. Gain confidence in managing false positives, learn rule sharing best practices, tackle large monolithic detections, and write detections that feed other detections. Learn the importance of your intelligence test data, and if your intelligence streams could be causing bias.",
+      "end_date": "2019-08-09T21:00+0000",
+      "speakers": [
+        40341
+      ],
+      "updated_at": "2019-08-01T02:54+0000"
+    },
+    {
+      "location": 40084,
+      "link": "",
+      "conference": "DEFCON27",
+      "id": 40316,
+      "title": "Bestsellers in the Underground Economy: Measuring Malware Popularity by Forum",
+      "start_date": "2019-08-09T21:00+0000",
+      "includes": "",
+      "event_type": 40005,
+      "description": "While you can patch against malware infecting your tech stack or targeting your competitors, what about malware that hasn't been in the news? This presentation will cover what malware and tools are popular among underground forum members based on prevalence in forum ads, how malware presence differs between forums, and why understanding that difference matters.",
+      "end_date": "2019-08-09T21:30+0000",
+      "speakers": [
+        40342
+      ],
+      "updated_at": "2019-08-01T03:01+0000"
+    },
+    {
+      "location": 40084,
+      "link": "",
+      "conference": "DEFCON27",
+      "id": 40317,
+      "title": "Hunting Certificates and Servers",
+      "start_date": "2019-08-09T21:30+0000",
+      "includes": "",
+      "event_type": 40005,
+      "description": "From Shodan to Certificate Transparency, it is easier than ever to use TLS certificates for DNS hostname reconnaissance. However, these sources of data are either not free, infrequently updated or are not linked to a server IP address. This talk will survey existing resources & release a new, free service for finding TLS certificates in the IPv4 space!",
+      "end_date": "2019-08-09T22:00+0000",
+      "speakers": [
+        40343
+      ],
+      "updated_at": "2019-08-01T03:03+0000"
+    },
+    {
+      "location": 40084,
+      "link": "",
+      "conference": "DEFCON27",
+      "id": 40318,
+      "title": "Old Tech vs New Adversaries. Round 1... Fight!",
+      "start_date": "2019-08-09T22:00+0000",
+      "includes": "",
+      "event_type": 40005,
+      "description": "Security venders are struggling to keep up with the tactics used by adversaries. What happens when you use really old technology as a security strategy rather than bleeding edge tech? Can ransomware infect a Commodore 64 or Windows 3.0? What happens when malware attempts to compromise a Sega Genesis? Could an adversary successfully pivot and exfiltrate data from a network running CatOS? This talk will answer these and other questions regarding how modern threats react to really old technology. Research includes running various forms of modern malware on old technologies as well as permitting cybercriminals access to really old networks to see how they handle the situation. Speakers are authors of a handful of books including a recent title on digital forensics.",
+      "end_date": "2019-08-09T23:00+0000",
+      "speakers": [
+        40344,
+        40345
+      ],
+      "updated_at": "2019-08-01T03:06+0000"
+    },
+    {
+      "location": 40084,
+      "link": "",
+      "conference": "DEFCON27",
+      "id": 40319,
+      "title": "Patching: It's Complicated ",
+      "start_date": "2019-08-09T23:00+0000",
+      "includes": "",
+      "event_type": 40005,
+      "description": "Patching \u2013 it's complicated. Organizations at every level struggle with security updates in a fundamental process that seems more like a necessary evil than a best practice. The fact is, one size does not fit all when security patches get issued and things can go very wrong. What actually determines enterprise patching cycles? How should we prepare for the pernicious spread of unpatched BYOD that gets connected? We need to go beyond just finding the sweet spot between mitigating business risk with vulnerability exposure. Because the cure isn't supposed to be worse than the disease.",
+      "end_date": "2019-08-10T00:00+0000",
+      "speakers": [
+        40346
+      ],
+      "updated_at": "2019-08-01T03:08+0000"
+    },
+    {
+      "location": 40084,
+      "link": "",
+      "conference": "DEFCON27",
+      "id": 40320,
+      "title": "Your Phone is Using Tor and Leaking Your PII",
+      "start_date": "2019-08-10T00:00+0000",
+      "includes": "",
+      "event_type": 40005,
+      "description": "Do you have a cellphone? Do you run apps on it? Your personal information is most probably traversing over TOR without your knowledge or consent. As part of our research, we identified a surprising amount of unencrypted, sensitive and confidential user data originating from mobile devices traversing the TOR network, which included: GPS coordinates, WiFi BSSID, and general keys typed by the user. In some cases, we were able to build a complete user profile from physical movements to purchasing habits. At the end of the day, how comfortable are you that anyone can track you?",
+      "end_date": "2019-08-10T01:00+0000",
+      "speakers": [
+        40347,
+        40348
+      ],
+      "updated_at": "2019-08-01T03:10+0000"
+    },
+    {
+      "location": 40084,
+      "link": "",
+      "conference": "DEFCON27",
+      "id": 40321,
+      "title": "Beyond Sandboxes. How to Execute IoT Malware and Analyze Its Evolution",
+      "start_date": "2019-08-10T01:00+0000",
+      "includes": "",
+      "event_type": 40005,
+      "description": "Hacking is curiosity, discovering, and learning. This talk shares our experience executing and capturing the traffic for more than 4 years. We will show how we designed and deployed a Windows and IoT malware execution laboratory in our University to run malware for months and how we analyzed it to find novel attacks. Executing malware is sometimes clouded in mystery. We will show how to build, to setup a Windows execution environment and an IoT environment. The talk shows how to monitor in real time, store data, the legal implications, the network protections and how to find good malware samples.",
+      "end_date": "2019-08-10T02:00+0000",
+      "speakers": [
+        40349,
+        40350
+      ],
+      "updated_at": "2019-08-01T03:13+0000"
+    },
+    {
+      "location": 40084,
+      "link": "",
+      "conference": "DEFCON27",
+      "id": 40322,
+      "title": "Hacking Corporate Org Socialization: One Day You Are Out and the Next Day You Pwn the Org!",
+      "start_date": "2019-08-10T17:00+0000",
+      "includes": "",
+      "event_type": 40005,
+      "description": "There is growing community of hackers who refer to themselves as \"Chameleon Hackers\" and practice an organizational socialization technique they call \"code switching.\" Code switching is a \"tradecraft\" practice used by chameleon hackers to consciously change their mannerisms, outward appearance, dress, thinking, physical characteristics, and their language in order to achieve socialization in either a virtual or live setting. The briefer will draw on his December 2018 doctoral dissertation to describe a framework for how these chameleons hackers go about their code switching tradecraft and then discuss examples of how they \"hacked\" the hacker community and the Corporate C-suite",
+      "end_date": "2019-08-10T18:00+0000",
+      "speakers": [
+        40351
+      ],
+      "updated_at": "2019-08-01T03:15+0000"
+    },
+    {
+      "location": 40084,
+      "link": "",
+      "conference": "DEFCON27",
+      "id": 40323,
+      "title": "Solving Crimes with Wireless GeoFencing and Multi-Zone Correlation Analytics",
+      "start_date": "2019-08-10T18:00+0000",
+      "includes": "",
+      "event_type": 40005,
+      "description": "The presentation will introduce viewer to geofencing - the technique successfully used by law enforcement agencies to pinpoint suspects in an array of anonymous metadata coming from wireless devices. The presentation will teach viewer how to build such system from scratch using freely downloadable analytical tools. Different ways to visually define GeoFencing zones and investigation constraints will be explained. Samples of working scripts, search queries, data formats and working dashboard layouts will be provided.",
+      "end_date": "2019-08-10T19:00+0000",
+      "speakers": [
+        40352
+      ],
+      "updated_at": "2019-08-01T03:19+0000"
+    },
+    {
+      "location": 40084,
+      "link": "",
+      "conference": "DEFCON27",
+      "id": 40324,
+      "title": "\"First-Try\" DNS Cache Poisoning with IPv4 and IPv6 Fragmentation",
+      "start_date": "2019-08-10T19:00+0000",
+      "includes": "",
+      "event_type": 40005,
+      "description": "DNS fragmentation attacks are a more recent series of cache poisoning attacks on resolvers. Even if DNSSEC is fully implemented, an attacker can still poison various unsigned records in the response. These types of attacks are difficult but have been considered feasible over IPv4, but impossible over IPv6. Unfortunately, changes to the Linux kernel have made the entropy limiting this attack inferable off-path, poisoning on the first iteration is now possible. This talk will cover how this attack is carried out, and mitigations that can be put in place by operators of DNS servers to limit its effectiveness.",
+      "end_date": "2019-08-10T20:00+0000",
+      "speakers": [
+        40353,
+        40354
+      ],
+      "updated_at": "2019-08-01T03:22+0000"
+    },
+    {
+      "location": 40084,
+      "link": "",
+      "conference": "DEFCON27",
+      "id": 40325,
+      "title": "Phishing Freakonomics",
+      "start_date": "2019-08-10T20:00+0000",
+      "includes": "",
+      "event_type": 40005,
+      "description": "This presentation is the story of the success and failures of building a security awareness program at a Top 20 CPA firm, and finding \"the hidden side\" of why users fail phishing exercises (both simulated and not!). The presentation will cover how Elasticsearch was used to correlate awareness training, phishing test, and HR data together, examine real results from this work, and the improvements that were made to improve user awareness and reduce phishing related security incidents.",
+      "end_date": "2019-08-10T20:00+0000",
+      "speakers": [
+        40355
+      ],
+      "updated_at": "2019-08-01T03:24+0000"
+    },
+    {
+      "location": 40084,
+      "link": "",
+      "conference": "DEFCON27",
+      "id": 40326,
+      "title": "Security to Make the CFO Happy",
+      "start_date": "2019-08-10T21:30+0000",
+      "includes": "",
+      "event_type": 40005,
+      "description": "As a security professional you're hungry to learn everything you can but training isn't quite free. Meanwhile, your boss, and the bosses in a bunch of other business units are fretting all they can about DoD 8570, just one more \"unfunded mandate\". How does anyone justify the cost of these nonfunctional requirements? This talk will draw some indirect lines in the org chart and cite documentation in various parts of a company to show how training can be a win for the entire organization.",
+      "end_date": "2019-08-10T22:00+0000",
+      "speakers": [
+        40356
+      ],
+      "updated_at": "2019-08-01T03:25+0000"
+    },
+    {
+      "location": 40084,
+      "link": "",
+      "conference": "DEFCON27",
+      "id": 40327,
+      "title": "Generating Personalized Wordlists With NLP by Analyzing Tweets",
+      "start_date": "2019-08-10T22:00+0000",
+      "includes": "",
+      "event_type": 40005,
+      "description": "Adversaries need to have a wordlist or combination-generation tool while conducting password guessing attacks. To narrow the combination pool, researchers developed a method named \"mask attack\" where the attacker needs to assume a password's structure. Even if it narrows the combination pool significantly, it can be still too large to use for online attacks or offline attacks with low hardware resources. Rhodiola tool is developed to narrow the combination pool by creating a personalized wordlist for target people. It finds interest areas of a given user by analyzing his/her tweets, and builds a personalized wordlist.",
+      "end_date": "2019-08-10T22:30+0000",
+      "speakers": [
+        40357
+      ],
+      "updated_at": "2019-08-01T03:30+0000"
+    },
+    {
+      "location": 40084,
+      "link": "",
+      "conference": "DEFCON27",
+      "id": 40328,
+      "title": "Sandbox Creative Usage For Fun and Pro...Blems",
+      "start_date": "2019-08-10T22:30+0000",
+      "includes": "",
+      "event_type": 40005,
+      "description": "Malware analysis sanboxes are pervading our IT environments and the internet as well. So, a lot of systems are available to be used and may be abused. Let's have a look on what we can get there and get your own tools ready to express yourself in this field.",
+      "end_date": "2019-08-10T23:00+0000",
+      "speakers": [
+        40358
+      ],
+      "updated_at": "2019-08-01T03:33+0000"
+    },
+    {
+      "location": 40084,
+      "link": "",
+      "conference": "DEFCON27",
+      "id": 40329,
+      "title": "(Re)Thinking Security Given the Spectre of a Meltdown (hold my beer)",
+      "start_date": "2019-08-10T23:00+0000",
+      "includes": "",
+      "event_type": 40005,
+      "description": "Have you ever noticed that much of the mission of cyber- and information security professionals seems to be focused on vulnerabilities? Have you ever heard of the risk equation? Perhaps you are familiar with one or more versions that help you derive the risk to your organization (sometimes referred to as residual risk). I have been wondering for a while how to suggest to our industry that there is perhaps TOO much focus on vulnerabilities and not enough attention or focus on the other elements that derive the standard risk equation. The recent disclosure of Meltdown/Spectre introduced a \"perfect storm\" scenario where the vulnerability wasn't easy to patch or fix, and the solution seemed to be break things. This created a situation where the \"security solution\" wasn't simply to apply the patch - and that left many organizations scrambling to figure out how to deal with this example of a persistent vulnerability. This is a great example of what I've wanted to discuss for a while - what else should we focus on in terms of security if/when the vulnerabilities still remain. Interested? Intrigued? Come join the discussion!",
+      "end_date": "2019-08-11T00:00+0000",
+      "speakers": [
+        40359
+      ],
+      "updated_at": "2019-08-01T03:35+0000"
+    },
+    {
+      "location": 40084,
+      "link": "",
+      "conference": "DEFCON27",
+      "id": 40330,
+      "title": "State Sponsored Hacking: How to Intercept/Decrypt TLS Traffic and How to Prevent TLS Interception Attacks",
+      "start_date": "2019-08-11T00:00+0000",
+      "includes": "",
+      "event_type": 40005,
+      "description": "Recent reports of the Global DNS Hijacking Campaign campaign show state sponsored attackers using Man In The Middle attacks to generate fraudulent TLS certificates and intercept web traffic. In this presentation, we show the audience how they can perform similar attacks and use the certificates to intercept web traffic, emails or their coworker's VPN credentials. After demonstrating ways to trick 3 different certificate authorities into generate fraudulent TLS certificates, we explain simple ways to prevent these attacks.",
+      "end_date": "2019-08-11T01:00+0000",
+      "speakers": [
+        40360
+      ],
+      "updated_at": "2019-08-01T03:37+0000"
+    },
+    {
+      "location": 40084,
+      "link": "",
+      "conference": "DEFCON27",
+      "id": 40331,
+      "title": "Leveraging Passive Network Mapping with Raspberry Pi and Python",
+      "start_date": "2019-08-11T01:00+0000",
+      "includes": "",
+      "event_type": 40005,
+      "description": "Mapping of network assets and their behaviors is a vital step needed for the prevention and response to cyber-attacks. Today active tools like NMAP are used to discover network assets, however, these methods take a momentary snapshot of network devices. By passively monitoring network activity the discovery of rogue devices, aberrant behavior, and emerging threats is possible. This talk and demonstration will utilize a Raspberry Pi and a custom Python solution to map network assets and their behaviors and demonstration the identification of rogue devices and unauthorized behaviors.",
+      "end_date": "2019-08-11T02:00+0000",
+      "speakers": [
+        26345
+      ],
+      "updated_at": "2019-08-01T03:38+0000"
+    },
+    {
+      "location": 40084,
+      "link": "",
+      "conference": "DEFCON27",
+      "id": 40332,
+      "title": "The Cyberlous Mrs. Maisel: A Comedic (and slightly terrifying) Introduction to Information Warfare",
+      "start_date": "2019-08-11T02:00+0000",
+      "includes": "",
+      "event_type": 40005,
+      "description": "Like a dear family relative who won't stop talking at Thanksgiving dinner, a backdoor exploit also talks to anyone who'll listen. Come listen to the Cyberlous Mrs. Maisel! She'll offer a satirical reflection on how we engage with technology in the Information Age and explain the basic historical principles that animate Russia's approach to information warfare. Topics covered include maskirovka (i.e., cover, concealment and deception), reflexive control, disinformation, and imitation, among others. Although a strategic objective of information warfare is to induce complacency with falsehoods, this presentation's unique style can help jolt the public's consciousness awake through its originality and bite.",
+      "end_date": "2019-08-11T03:00+0000",
+      "speakers": [
+        40361
+      ],
+      "updated_at": "2019-08-01T03:40+0000"
+    },
+    {
+      "location": 40084,
+      "link": "",
+      "conference": "DEFCON27",
+      "id": 40333,
+      "title": "Wi-Fi Threat Modeling and Monitoring",
+      "start_date": "2019-08-11T17:00+0000",
+      "includes": "",
+      "event_type": 40005,
+      "description": "With the widespread use of wireless Internet access, we see that the use of portable technologies is rapidly increasing. Increasing public networks and facilitating access to these networks have attracted the attention of attackers. Due to easy availability of mature honeypot creation tools, this attack is a slam dunk for even the most novice of Wi-Fi attackers. Enterprise security products have tried but failed to solve this problem with rule and lockdown based approaches. In this talk, we are going to tell a story experienced about Wi-Fi network attackers. We will practically demonstrate how using new detection and deception techniques we can make Wi-Fi clients and environmentally secure.",
+      "end_date": "2019-08-11T18:00+0000",
+      "speakers": [
+        40362,
+        40363
+      ],
+      "updated_at": "2019-08-01T03:47+0000"
+    },
+    {
+      "location": 40084,
+      "link": "",
+      "conference": "DEFCON27",
+      "id": 40334,
+      "title": "Head in the Clouds",
+      "start_date": "2019-08-11T18:00+0000",
+      "includes": "",
+      "event_type": 40005,
+      "description": "Availability, scalability, agility, and automation - \"The Cloud\" brings all of these to your fingertips. Improperly configured, it can also be a security incident waiting to happen. In this talk, we'll cover open source tools to help paint a current, accurate picture of your cloud security posture, share some insight from first-hand experience, and show examples of how you can use this approach within your organization.",
+      "end_date": "2019-08-11T19:00+0000",
+      "speakers": [
+        40364
+      ],
+      "updated_at": "2019-08-01T03:48+0000"
+    },
+    {
+      "location": 40084,
+      "link": "",
+      "conference": "DEFCON27",
+      "id": 40335,
+      "title": "CIRCO: [Cisco Implant Raspberry Controlled Operations]",
+      "start_date": "2019-08-11T19:00+0000",
+      "includes": "",
+      "event_type": 40005,
+      "description": "Designed under Raspberry Pi and aimed for Red Team Ops, we take advantage of \"Sec/Net/Dev/Ops\" enterprise tools to capture network credentials in a stealth mode. Using a low profile hardware & electronics camouflaged as simple network outlet box to be sitting under/over a desk. CIRCO include different techniques for network data exfiltration to avoid detection. This tool gather information and use a combination of honeypots to trick Automation Systems to give us their network credentials!",
+      "end_date": "2019-08-11T20:00+0000",
+      "speakers": [
+        40365
+      ],
+      "updated_at": "2019-08-01T03:50+0000"
+    },
+    {
+      "location": 40084,
+      "link": "",
+      "conference": "DEFCON27",
+      "id": 40336,
+      "title": "Augmenting the (Security) Onion: Facilitating Enhanced Detection and Response with Open Source Tools",
+      "start_date": "2019-08-11T20:00+0000",
+      "includes": "",
+      "event_type": 40005,
+      "description": "As network defenders, we face evolving threats every day. We need to truly understand our computer networks, and gain greater context around events occurring within them. To do this, we can use completely free and open source tools, augmenting a platform like Security Onion, to assist in threat hunting, responding to alerts, tracking events, automating analysis of files extracted from network data streams, and even performing remote host-based forensics. This presentation discusses how freely available tools can be integrated to empower teams to effectively monitor, track, and investigate events to help lower risk and increase security posture within their organizations.",
+      "end_date": "2019-08-11T21:00+0000",
+      "speakers": [
+        40366
+      ],
+      "updated_at": "2019-08-01T03:52+0000"
     }
   ],
-  "updated_at": "2019-08-01T00:51+0000"
+  "updated_at": "2019-08-01T03:52+0000"
 }

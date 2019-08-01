@@ -485,7 +485,13 @@
       "updated_at": "2019-07-28T17:43+0000",
       "conference": "DEFCON27",
       "id": 40083
+    },
+    {
+      "name": "Packet Hacking Village, Skyview, Bally's",
+      "updated_at": "2019-08-01T02:39+0000",
+      "conference": "DEFCON27",
+      "id": 40084
     }
   ],
-  "updated_at": "2019-07-28T17:43+0000"
+  "updated_at": "2019-08-01T02:39+0000"
 }
