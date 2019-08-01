@@ -1,54 +1,54 @@
 {
+  "updated_at": "2019-07-30T19:56+0000",
   "event_types": [
     {
       "name": "Workshop",
       "color": "#A53E4F",
       "updated_at": "2019-07-30T19:56+0000",
-      "id": 40001,
-      "conference": "DEFCON27"
+      "conference": "DEFCON27",
+      "id": 40001
     },
     {
       "name": "Official Talk",
       "color": "#6497DC",
       "updated_at": "2019-07-30T19:54+0000",
-      "id": 40002,
-      "conference": "DEFCON27"
+      "conference": "DEFCON27",
+      "id": 40002
     },
     {
       "name": "Contest",
       "color": "#42d2bc",
       "updated_at": "2019-07-27T10:33+0000",
-      "id": 40003,
-      "conference": "DEFCON27"
+      "conference": "DEFCON27",
+      "id": 40003
     },
     {
       "name": "Party",
       "color": "#D86A68",
       "updated_at": "2019-07-30T19:54+0000",
-      "id": 40004,
-      "conference": "DEFCON27"
+      "conference": "DEFCON27",
+      "id": 40004
     },
     {
       "name": "Village",
       "color": "#968AC8",
       "updated_at": "2019-07-30T19:54+0000",
-      "id": 40005,
-      "conference": "DEFCON27"
+      "conference": "DEFCON27",
+      "id": 40005
     },
     {
       "name": "DemoLab",
       "color": "#88AA47",
       "updated_at": "2019-07-30T19:55+0000",
-      "id": 40006,
-      "conference": "DEFCON27"
+      "conference": "DEFCON27",
+      "id": 40006
     },
     {
       "name": "Skytalk",
       "color": "#FF9B6C",
       "updated_at": "2019-07-30T19:55+0000",
-      "id": 40007,
-      "conference": "DEFCON27"
+      "conference": "DEFCON27",
+      "id": 40007
     }
-  ],
-  "updated_at": "2019-07-30T19:56+0000"
+  ]
 }
