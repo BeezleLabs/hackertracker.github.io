@@ -1,40 +1,40 @@
 {
+  "updated_at": "2019-07-31T18:57+0000",
   "event_types": [
     {
+      "updated_at": "2019-07-31T18:57+0000",
+      "conference": "BSIDESLV2019",
       "color": "#fc853f",
-      "conference": "BSIDESLV2019",
-      "id": 31601,
-      "updated_at": "2019-07-31T18:57+0000",
-      "name": "Talk"
+      "name": "Talk",
+      "id": 31601
     },
     {
+      "updated_at": "2019-07-31T18:57+0000",
+      "conference": "BSIDESLV2019",
       "color": "#AD1457",
-      "conference": "BSIDESLV2019",
-      "id": 31602,
-      "updated_at": "2019-07-31T18:57+0000",
-      "name": "Training"
+      "name": "Training",
+      "id": 31602
     },
     {
+      "updated_at": "2019-07-31T18:57+0000",
+      "conference": "BSIDESLV2019",
       "color": "#42d2bc",
-      "conference": "BSIDESLV2019",
-      "id": 31603,
-      "updated_at": "2019-07-31T18:57+0000",
-      "name": "Contest"
+      "name": "Contest",
+      "id": 31603
     },
     {
+      "updated_at": "2019-07-31T18:57+0000",
+      "conference": "BSIDESLV2019",
       "color": "#5c74ff",
-      "conference": "BSIDESLV2019",
-      "id": 31604,
-      "updated_at": "2019-07-31T18:57+0000",
-      "name": "Party"
+      "name": "Party",
+      "id": 31604
     },
     {
-      "color": "#9a3290",
-      "conference": "BSIDESLV2019",
-      "id": 31605,
       "updated_at": "2019-07-31T18:57+0000",
-      "name": "Meetup"
+      "conference": "BSIDESLV2019",
+      "color": "#9a3290",
+      "name": "Meetup",
+      "id": 31605
     }
-  ],
-  "updated_at": "2019-07-31T18:57+0000"
+  ]
 }
