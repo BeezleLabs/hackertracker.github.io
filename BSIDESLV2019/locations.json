@@ -1,77 +1,113 @@
 {
-  "updated_at": "2019-07-25T00:00+0000",
+  "updated_at": "2019-07-31T00:00+0000",
   "locations": [
     {
-      "updated_at": "2019-07-25T00:00+0000",
+      "conference": "BSIDESLV2019",
       "id": 31601,
-      "conference": "BSIDESLV2019",
-      "name": "Breaking Ground"
-    },
-    {
-      "updated_at": "2019-07-25T00:00+0000",
-      "id": 31602,
-      "conference": "BSIDESLV2019",
+      "updated_at": "2019-07-31T00:00+0000",
       "name": "Common Ground"
     },
     {
-      "updated_at": "2019-07-25T00:00+0000",
-      "id": 31603,
       "conference": "BSIDESLV2019",
-      "name": "CISO Track"
-    },
-    {
-      "updated_at": "2019-07-25T00:00+0000",
-      "id": 31604,
-      "conference": "BSIDESLV2019",
-      "name": "Ground Floor"
-    },
-    {
-      "updated_at": "2019-07-25T00:00+0000",
-      "id": 31605,
-      "conference": "BSIDESLV2019",
+      "id": 31602,
+      "updated_at": "2019-07-31T00:00+0000",
       "name": "Ground Truth"
     },
     {
-      "updated_at": "2019-07-25T00:00+0000",
+      "conference": "BSIDESLV2019",
+      "id": 31603,
+      "updated_at": "2019-07-31T00:00+0000",
+      "name": "G103"
+    },
+    {
+      "conference": "BSIDESLV2019",
+      "id": 31604,
+      "updated_at": "2019-07-31T00:00+0000",
+      "name": "Sienna Room"
+    },
+    {
+      "conference": "BSIDESLV2019",
+      "id": 31605,
+      "updated_at": "2019-07-31T00:00+0000",
+      "name": "Tuscany Room"
+    },
+    {
+      "conference": "BSIDESLV2019",
       "id": 31606,
-      "conference": "BSIDESLV2019",
-      "name": "Hire Ground"
-    },
-    {
-      "updated_at": "2019-07-25T00:00+0000",
-      "id": 31607,
-      "conference": "BSIDESLV2019",
-      "name": "I Am The Cavalry"
-    },
-    {
-      "updated_at": "2019-07-25T00:00+0000",
-      "id": 31608,
-      "conference": "BSIDESLV2019",
+      "updated_at": "2019-07-31T00:00+0000",
       "name": "Public Ground"
     },
     {
-      "updated_at": "2019-07-25T00:00+0000",
+      "conference": "BSIDESLV2019",
+      "id": 31607,
+      "updated_at": "2019-07-31T00:00+0000",
+      "name": "Underground"
+    },
+    {
+      "conference": "BSIDESLV2019",
+      "id": 31608,
+      "updated_at": "2019-07-31T00:00+0000",
+      "name": "CISO Track"
+    },
+    {
+      "conference": "BSIDESLV2019",
       "id": 31609,
-      "conference": "BSIDESLV2019",
-      "name": "Proving Ground"
+      "updated_at": "2019-07-31T00:00+0000",
+      "name": "Middle Ground"
     },
     {
-      "updated_at": "2019-07-25T00:00+0000",
+      "conference": "BSIDESLV2019",
       "id": 31610,
-      "conference": "BSIDESLV2019",
-      "name": "Ground1234!"
-    },
-    {
-      "updated_at": "2019-07-25T00:00+0000",
-      "id": 31611,
-      "conference": "BSIDESLV2019",
+      "updated_at": "2019-07-31T00:00+0000",
       "name": "Training Ground"
     },
     {
-      "updated_at": "2019-07-25T00:00+0000",
-      "id": 31612,
       "conference": "BSIDESLV2019",
-      "name": "Underground"
+      "id": 31611,
+      "updated_at": "2019-07-31T00:00+0000",
+      "name": "Breaking Ground"
+    },
+    {
+      "conference": "BSIDESLV2019",
+      "id": 31612,
+      "updated_at": "2019-07-31T00:00+0000",
+      "name": "Ground1234!"
+    },
+    {
+      "conference": "BSIDESLV2019",
+      "id": 31613,
+      "updated_at": "2019-07-31T00:00+0000",
+      "name": "Ground Floor"
+    },
+    {
+      "conference": "BSIDESLV2019",
+      "id": 31614,
+      "updated_at": "2019-07-31T00:00+0000",
+      "name": "Hire Ground"
+    },
+    {
+      "conference": "BSIDESLV2019",
+      "id": 31615,
+      "updated_at": "2019-07-31T00:00+0000",
+      "name": "I Am The Cavalry"
+    },
+    {
+      "conference": "BSIDESLV2019",
+      "id": 31616,
+      "updated_at": "2019-07-31T00:00+0000",
+      "name": "Proving Ground"
+    },
+    {
+      "conference": "BSIDESLV2019",
+      "id": 31617,
+      "updated_at": "2019-07-31T00:00+0000",
+      "name": "Pool"
+    },
+    {
+      "conference": "BSIDESLV2019",
+      "id": 31618,
+      "updated_at": "2019-07-31T00:00+0000",
+      "name": "Lock Pick Village"
     }
   ]
 }
