@@ -1,26 +1,6 @@
 {
-  "updated_at": "2019-08-04T05:49+0000",
+  "updated_at": "2019-08-05T02:45+0000",
   "speakers": [
-    {
-      "id": 40001,
-      "description": "Travis (Travco) Palmer is a Security Research Engineer at Cisco. Travis is a certified OSCP and OSCE who has been getting paid to either fix or break something for over seven years. He is a fan (and sometimes-contributer) of a number of simulator/sandbox video games, and keeper of too many unfinished hardware projects.",
-      "title": "Security Research\nEngineer, Cisco",
-      "twitter": "",
-      "conference": "DEFCON27",
-      "link": "",
-      "name": "Travis (Travco) Palmer",
-      "updated_at": "2019-07-27T17:33+0000"
-    },
-    {
-      "id": 40002,
-      "description": "Brian Somers is a Site Reliability Engineer for Cisco Umbrella (formerly OpenDNS). He specializes in large scale development on Unix-like platforms, software design & architecture, low level C development, and FreeBSD development.",
-      "title": "Site Reliability Engineer",
-      "twitter": "",
-      "conference": "DEFCON27",
-      "link": "",
-      "name": "Brian Somers",
-      "updated_at": "2019-07-27T17:33+0000"
-    },
     {
       "id": 40003,
       "description": "Omer is End-Point team lead at Symantec (formerly Javelin Networks). His team focuses on methods to covertly manipulate OS internals. Before Symantec he was a malware researcher at IBM Trusteer for two years focusing on financial malware families. In the past he has worked at Algotec for six years developing medical imaging software and at IDF's technology unit for three years as dev team lead. Omer lectured on DerbyCon 8, Virus Bulletin and Zero Nights conferences. In his free time he revives historical photographic processes.",
@@ -123,13 +103,13 @@
     },
     {
       "id": 40013,
-      "description": "DEF CON, Director of Content & Coordination. Wife & Mom. Chicken Soup repairwoman. SecurityTribe. &#x2620;&#x1F984;&#x1F308;&#x1F913; Into: hacks &#x1F4A1; snacks &#x1F32E; shellacs &#x1F485;&#x1F3FB;",
+      "description": "DEF CON, Director of Content & Coordination. Wife & Mom. Chicken Soup repairwoman. SecurityTribe. Into: hacks  snacks  shellacs ",
       "title": "",
       "twitter": "@Niki7a",
       "conference": "DEFCON27",
       "link": "",
       "name": "Nikita",
-      "updated_at": "2019-07-27T17:33+0000"
+      "updated_at": "2019-08-05T01:14+0000"
     },
     {
       "id": 40014,
@@ -649,7 +629,7 @@
       "conference": "DEFCON27",
       "link": "",
       "name": "d4rkm4tter (Mike Spicer)",
-      "updated_at": "2019-07-27T17:33+0000"
+      "updated_at": "2019-08-05T02:45+0000"
     },
     {
       "id": 40066,
@@ -793,13 +773,13 @@
     },
     {
       "id": 40080,
-      "description": "",
+      "description": "Jayson E. Street is an author of the \u201cDissecting the hack: Series\u201d. Also the DEF CON Groups Global Ambassador. Plus the VP of InfoSec for SphereNY. He has also spoken at DEF CON, DerbyCon, GRRCon and at several other \u2018CONs and colleges on a variety of Information Security subjects.\r\n*He was a highly carbonated speaker who has partaken of Pizza from Beijing to Brazil. He does not expect anybody to still be reading this far but if they are please note he was chosen as one of Time\u2019s persons of the year for 2006.",
       "title": "Ambassador",
       "twitter": "@jaysonstreet",
       "conference": "DEFCON27",
       "link": "",
       "name": "Jayson E. Street",
-      "updated_at": "2019-07-27T17:33+0000"
+      "updated_at": "2019-08-04T22:36+0000"
     },
     {
       "id": 40081,
@@ -1259,16 +1239,6 @@
       "conference": "DEFCON27",
       "link": "",
       "name": "Andy Grant",
-      "updated_at": "2019-07-27T17:33+0000"
-    },
-    {
-      "id": 40127,
-      "description": "@DEFCON_NOC, @effffn, @macmceniry, @Mike_Moore, @mansimusa, @c7five, @_CRV, @jaredbird, all the other NOC members who refuse to share their twitter handles and our very special guest Lord Raytheon",
-      "title": "",
-      "twitter": "",
-      "conference": "DEFCON27",
-      "link": "",
-      "name": "(cont) The DEF CON NOC",
       "updated_at": "2019-07-27T17:33+0000"
     },
     {
@@ -1934,12 +1904,12 @@
     {
       "id": 40194,
       "description": "As Director of Cyber Operations at HORNE Cyber, Wesley McGrew oversees and participates in offense-oriented services for clients in many areas, including finance, healthcare, manufacturing, and national critical infrastructure. He has presented on topics of penetration testing and and malware analysis at DEF CON and Black Hat USA. He teaches a self-designed course on reverse engineering to students at Mississippi State University, using real-world, high-profile malware samples. Wesley has a Ph.D. in Computer Science from Mississippi State University for his research in vulnerability analysis of SCADA HMI systems.",
-      "title": "Hacker",
-      "twitter": "",
+      "title": "",
+      "twitter": "@McGrewSecurity",
       "conference": "DEFCON27",
       "link": "",
       "name": "Wesley McGrew",
-      "updated_at": "2019-07-27T17:33+0000"
+      "updated_at": "2019-08-04T22:59+0000"
     },
     {
       "id": 40195,
@@ -2264,12 +2234,12 @@
     {
       "id": 40227,
       "description": "Emilio Couto (@ekio_jp) is a Security Consultant with more than 20 years of experience in the network and security field. Born and raised in Argentina, he is currently located in Japan where multitasking between language, culture and technologies is a must. Over the last decade focusing mainly on Finance IT and presenting tools in conferences (BlackHat Asia, HITB, AV Tokyo, SECCON and HamaSec) In his spare time he enjoys 3D printing, tinkering electronics and home-made IoT devices.",
-      "title": "",
-      "twitter": "",
+      "title": "Ekie Security",
+      "twitter": "@ekio_jp",
       "conference": "DEFCON27",
       "link": "",
       "name": "Emilio Couto",
-      "updated_at": "2019-07-27T17:33+0000"
+      "updated_at": "2019-08-04T22:53+0000"
     },
     {
       "id": 40228,
@@ -2564,12 +2534,12 @@
     {
       "id": 40257,
       "description": "Utku Sen is a security researcher who is mostly focused on application security, network security and tool development. He presented his different tools and researches in Black Hat USA Arsenal, DEF CON Demo Labs and Packet Hacking Village in recent years. He's also nominated for Pwnie Awards on \"Best Backdoor\" category in 2016. He is currently working for Tear Security.",
-      "title": "",
+      "title": "R&D Lead at Tear Security",
       "twitter": "@utkusen",
       "conference": "DEFCON27",
       "link": "",
       "name": "Utku Sen",
-      "updated_at": "2019-08-03T23:24+0000"
+      "updated_at": "2019-08-04T22:43+0000"
     },
     {
       "id": 40258,
@@ -2692,16 +2662,6 @@
       "updated_at": "2019-07-27T17:33+0000"
     },
     {
-      "id": 40270,
-      "description": "d4rkm4tter is a mad scientist hacker who likes to meddle with hardware and software. He is particularly obsessed with wireless. He has a degree in computer science from Southern Utah University which he has put to use building and breaking a wide array of systems. These include web application pentesting, wireless monitoring and tracking as well as good old fashioned reverse engineering. He is the creator of the #WiFiCactus and has been seen presenting Demolabs at DEF CON and DEF CON China Beta. He is a Kismet cultist and active in the wireless and wardriving communities.",
-      "title": "",
-      "twitter": "",
-      "conference": "DEFCON27",
-      "link": "",
-      "name": "Mike Spicer",
-      "updated_at": "2019-07-27T17:33+0000"
-    },
-    {
       "id": 40271,
       "description": "Francis Brown is the Chief Technology Officer (CTO) at Bishop Fox, a consulting firm providing cyber security services to the Fortune 1000, global financial institutions, and high-tech startups.  Before founding Bishop Fox, Francis worked for Honeywell International where he performed network and application penetration testing, product security evaluations, incident response, and risk assessments of critical infrastructure.  Prior to that, Francis was a consultant with the Ernst & Young.  Francis holds a Bachelor of Science and Engineering from the University of Pennsylvania with a major in Computer Science and Engineering and a minor in Psychology.",
       "title": "",
@@ -2729,26 +2689,6 @@
       "conference": "DEFCON27",
       "link": "",
       "name": "sund0wn",
-      "updated_at": "2019-07-30T05:24+0000"
-    },
-    {
-      "id": 40274,
-      "description": "",
-      "title": "",
-      "twitter": "",
-      "conference": "DEFCON27",
-      "link": "",
-      "name": "Milind Bhargava",
-      "updated_at": "2019-07-30T05:24+0000"
-    },
-    {
-      "id": 40275,
-      "description": "",
-      "title": "",
-      "twitter": "",
-      "conference": "DEFCON27",
-      "link": "",
-      "name": "Adam Podgorski",
       "updated_at": "2019-07-30T05:24+0000"
     },
     {
@@ -2790,26 +2730,6 @@
       "link": "",
       "name": "Joe Slowik",
       "updated_at": "2019-08-04T00:02+0000"
-    },
-    {
-      "id": 40280,
-      "description": "",
-      "title": "",
-      "twitter": "",
-      "conference": "DEFCON27",
-      "link": "",
-      "name": "Mike Raggo",
-      "updated_at": "2019-07-30T05:24+0000"
-    },
-    {
-      "id": 40281,
-      "description": "",
-      "title": "",
-      "twitter": "",
-      "conference": "DEFCON27",
-      "link": "",
-      "name": "Chet Hosmer ",
-      "updated_at": "2019-07-30T05:24+0000"
     },
     {
       "id": 40282,
@@ -2922,26 +2842,6 @@
       "updated_at": "2019-07-30T05:24+0000"
     },
     {
-      "id": 40293,
-      "description": "",
-      "title": "",
-      "twitter": "",
-      "conference": "DEFCON27",
-      "link": "",
-      "name": "Soldier of FORTRAN",
-      "updated_at": "2019-07-30T05:24+0000"
-    },
-    {
-      "id": 40294,
-      "description": "",
-      "title": "",
-      "twitter": "",
-      "conference": "DEFCON27",
-      "link": "",
-      "name": "Bigendian Smalls",
-      "updated_at": "2019-07-30T05:24+0000"
-    },
-    {
       "id": 40295,
       "description": "",
       "title": "",
@@ -3019,16 +2919,6 @@
       "conference": "DEFCON27",
       "link": "",
       "name": "Dr. Russ Handorf",
-      "updated_at": "2019-07-30T05:24+0000"
-    },
-    {
-      "id": 40303,
-      "description": "",
-      "title": "",
-      "twitter": "",
-      "conference": "DEFCON27",
-      "link": "",
-      "name": "Kurt Opsahl",
       "updated_at": "2019-07-30T05:24+0000"
     },
     {
@@ -3273,13 +3163,13 @@
     },
     {
       "id": 40328,
-      "description": "@olafhartong is a person of many interests with a passion for defensive security and data. He has over 12 years experience in security, he specializes in building and operationalizing SOC teams through the use of SIEM systems or log management systems such as Splunk. He is an expert Threat Hunter and works in close collaboration with the Red Team to facilitate Purple teaming workshops for his clients. He is the author of several security focused tools and blogs. Before joining Deloitte, Olaf worked as a Security Officer for a large managed hosting provider serving Governmental and Commercial service clients. Olaf has spoken at MITRE ATT&CKcon, ISF Live, Splunk Live, BlackHat EU Arsenal.\r\n\r\n",
+      "description": "@olafhartong is a person of many interests with a passion for defensive security and data. He has over 12 years experience in security, he specializes in building and operationalizing SOC teams through the use of SIEM systems or log management systems such as Splunk. He is an expert Threat Hunter and works in close collaboration with the Red Team to facilitate Purple teaming workshops for his clients. He is the author of several security focused tools and blogs. Before joining Deloitte, Olaf worked as a Security Officer for a large managed hosting provider serving Governmental and Commercial service clients. Olaf has spoken at MITRE ATT&CKcon, ISF Live, Splunk Live, BlackHat EU Arsenal.\r\n\r\nPhotographer | DFIR | Threat hunter | Data Dweller | Splunk | Sysmon |",
       "title": "",
-      "twitter": "",
+      "twitter": "@olafhartong",
       "conference": "DEFCON27",
       "link": "",
-      "name": "olafhartong",
-      "updated_at": "2019-07-31T03:11+0000"
+      "name": "Olaf Hartong",
+      "updated_at": "2019-08-04T16:51+0000"
     },
     {
       "id": 40329,
@@ -3452,16 +3342,6 @@
       "updated_at": "2019-08-01T03:05+0000"
     },
     {
-      "id": 40346,
-      "description": "Cheryl Biswas (Twitter: @3ncr1pt3d) is a Strategic Threat Intel Analyst with a major bank in Toronto, Canada. Previously, she was a Cyber Security Consultant with KPMG and worked on security audits and assessment, privacy, breaches, and DRP. Her experience includes project management, vendor management and change management. Cheryl holds an ITIL certification and a degree in Political Science. Her areas of interest include APTs, mainframes, ransomware, ICS SCADA, and building threat intel. She actively shares her passion for security online, as a speaker and a volunteer at conferences, and by encouraging women and diversity in Infosec as a founder and member of the \"The Diana Initiative\".\r\n\r\n",
-      "title": "Strategic Threat Intel Analyst",
-      "twitter": "@3ncr1pt3d",
-      "conference": "DEFCON27",
-      "link": "",
-      "name": "Cheryl Biswas",
-      "updated_at": "2019-08-01T03:07+0000"
-    },
-    {
       "id": 40347,
       "description": "Milind Bhargava is a Manager with Deloitte's Risk Advisory team where he performs security audits and assessments, leads the incident response team. He also leads his own security consulting company that is known for Darknet Threat Intelligence Research.",
       "title": "Manager with Deloitte's Risk Advisory",
@@ -3528,8 +3408,8 @@
       "twitter": "",
       "conference": "DEFCON27",
       "link": "",
-      "name": "Travis Palmer",
-      "updated_at": "2019-08-01T03:20+0000"
+      "name": "Travis (Travco) Palmer",
+      "updated_at": "2019-08-04T22:46+0000"
     },
     {
       "id": 40354,
@@ -3539,7 +3419,7 @@
       "conference": "DEFCON27",
       "link": "",
       "name": "Brian Somers",
-      "updated_at": "2019-08-01T03:21+0000"
+      "updated_at": "2019-08-04T22:45+0000"
     },
     {
       "id": 40355,
@@ -3560,16 +3440,6 @@
       "link": "",
       "name": "Adam",
       "updated_at": "2019-08-01T03:28+0000"
-    },
-    {
-      "id": 40357,
-      "description": "Utku Sen (Twitter: @utkusen) is a security researcher who is mostly focused on application security, network security and tool development. He presented his different tools and researches in Black Hat USA Arsenal, DEF CON Demo Labs and Packet Hacking Village in recent years. He's also nominated for Pwnie Awards on \"Best Backdoor\" category in 2016. He is currently working for Tear Security.",
-      "title": "R&D Lead at Tear Security",
-      "twitter": "@utkusen",
-      "conference": "DEFCON27",
-      "link": "",
-      "name": "Utku Sen",
-      "updated_at": "2019-08-01T03:30+0000"
     },
     {
       "id": 40358,
@@ -3612,16 +3482,6 @@
       "updated_at": "2019-08-01T03:39+0000"
     },
     {
-      "id": 40362,
-      "description": "Besim Altinok (Twitter: @AltnokBesim) has been researching Wi-Fi security for over a decade. He created WiPi-Hunter project against Wi-Fi hackers. He is the author of a book on Wi-Fi security. Besim's work on wireless security has been published in ArkaKapi Magazine and others. He has also spoken at top conferences including BlackHat Europe, ASIA, Defcon, and others. Besim ALTINOK works currently at BARIKAT Internet Security in Turkey. Besim also founded Pentester Training project.",
-      "title": "BARIKAT Internet Security",
-      "twitter": "@AltnokBesim",
-      "conference": "DEFCON27",
-      "link": "",
-      "name": "Besim Altinok",
-      "updated_at": "2019-08-01T03:45+0000"
-    },
-    {
       "id": 40363,
       "description": "Can Kurnaz (Twitter: @0x43414e) is conducting penetration tests from internet and internal networks to web-based applications, network infrastructures, wireless devices, IoT devices and operational technology infrastructures such as ICS/SCADA systems and components.",
       "title": "Senior CyberSecurity Consultant at KPMG Netherlands",
@@ -3640,16 +3500,6 @@
       "link": "",
       "name": "Matt Nash",
       "updated_at": "2019-08-01T03:47+0000"
-    },
-    {
-      "id": 40365,
-      "description": "Emilio Couto (Twitter: @ekio_jp) is a Security Consultant with more than 20 years of experience in the network and security field. Born and raised in Argentina, he is currently located in Japan where multitasking between language, culture and technologies is a must. Over the last decade focusing mainly on Finance IT. In his spare time he enjoys playing with RFID, computers and home made IoT devices. Over the last 5 years presenting tools in conferences (Black Hat Asia, HITB, AV Tokyo and SECCON)",
-      "title": "Ekie Security",
-      "twitter": "@ekio_jp",
-      "conference": "DEFCON27",
-      "link": "",
-      "name": "Emilio Couto",
-      "updated_at": "2019-08-01T03:49+0000"
     },
     {
       "id": 40366,
@@ -3763,13 +3613,13 @@
     },
     {
       "id": 40377,
-      "description": "",
+      "description": "Joined the U.S. Navy directly out of High School and served for 7 years as a Submarine Navigation Electronics Technician. Joe is the inaugural winner of the DerbyCon Social Engineering Capture the Flag (SECTF) and was awarded a DerbyCon Black Badge. Joe has contributed material for the likes of AlienVault, ITSP Magazine, CSO Online, and Dark Reading. Joe is a regular contributor for Forbes and is an IBM Recognized Speaker/Presenter.",
       "title": "",
       "twitter": "@C_3Pjoe",
       "conference": "DEFCON27",
       "link": "",
       "name": "Joe Gray",
-      "updated_at": "2019-08-03T23:22+0000"
+      "updated_at": "2019-08-04T18:36+0000"
     },
     {
       "id": 40378,
@@ -3792,16 +3642,6 @@
       "updated_at": "2019-08-02T15:15+0000"
     },
     {
-      "id": 40380,
-      "description": "As Director of Cyber Operations at HORNE Cyber, Wesley McGrew oversees and participates in offense-oriented services for clients in many areas, including finance, healthcare, manufacturing, and national critical infrastructure. He has presented on topics of penetration testing and and malware analysis at DEF CON and Black Hat USA. He teaches a self-designed course on reverse engineering to students at Mississippi State University, using real-world, high-profile malware samples. Wesley has a Ph.D. in Computer Science from Mississippi State University for his research in vulnerability analysis of SCADA HMI systems.Twitter: @McGrewSecurity",
-      "title": "",
-      "twitter": "",
-      "conference": "DEFCON27",
-      "link": "",
-      "name": "Wesley McGrew",
-      "updated_at": "2019-08-02T15:15+0000"
-    },
-    {
       "id": 40381,
       "description": "\u03a9r is an active member of the security community, where he leads several industry-wide initiatives and standard bodies. His active role helps businesses, academic institutions, state and local law enforcement agencies, and other participants that are dedicated to increasing the security of the critical infrastructure. Omar is the author of over 20 books and video courses; numerous white papers, articles, and security configuration guidelines and best practices. Omar is a Principal Engineer of Cisco\u2019s Product Security Incident Response Team (PSIRT) where he mentors and lead engineers and incident managers during the investigation and resolution of security vulnerabilities. Twitter: @santosomar\r\n",
       "title": "",
@@ -3815,181 +3655,181 @@
       "id": 40382,
       "description": "Sean Metcalf is founder and principal consultant at Trimarc (www.TrimarcSecurity.com), a professional services company which focuses on improving enterprise security. He is one of about 100 people in the world who holds the Microsoft Certified Master Directory Services (MCM) certification, is a Microsoft MVP, and has presented on Active Directory & Microsoft Cloud attack and defense at Black Hat, BSides, DEF CON, DerbyCon, Microsoft BlueHat, Shakacon and Walmart Sp4rkCon security conferences. He currently provides security consulting services to customers and posts interesting Active Directory security information on his blog, ADSecurity.org",
       "title": "",
-      "twitter": "",
+      "twitter": "@PyroTek3",
       "conference": "DEFCON27",
       "link": "",
       "name": "Sean Metcalf",
-      "updated_at": "2019-08-02T15:39+0000"
+      "updated_at": "2019-08-04T16:52+0000"
     },
     {
       "id": 40383,
       "description": "Currently a threat researcher at Netskope focused on AWS and GCP. Colin was previously the CSO at Sift Security (acquired by Netskope), where he helped move the product towards breach detection for IaaS. He was a senior engineer on the security teams at Netflix and Apple before joining Sift. He was also a FBI Agent specializing in Cyber crime, where he spent a fair amount of time coordinating with other countries to locate and arrest malware authors and botnet operators.",
       "title": "",
-      "twitter": "",
+      "twitter": "@colinestep",
       "conference": "DEFCON27",
       "link": "",
       "name": "Colin Estep",
-      "updated_at": "2019-08-02T15:40+0000"
+      "updated_at": "2019-08-04T16:47+0000"
     },
     {
       "id": 40384,
       "description": "I work in the automotive field for about 4 years now, Started my way with red-teaming production plants and different cloud providers with the goal of getting as deep as possible and showing full impact.I love breaking stuff, especially when its in mass scale. taking control over entire systems and seeing my clients in awe and shock as I give them live annotations of what I'm doing to them.",
       "title": "",
-      "twitter": "",
+      "twitter": "@rotembar",
       "conference": "DEFCON27",
       "link": "",
       "name": "Rotem Bar",
-      "updated_at": "2019-08-02T15:40+0000"
+      "updated_at": "2019-08-04T16:52+0000"
     },
     {
       "id": 40385,
       "description": "Chris is a security researcher based in London. He has not had an unusual entrance to infosec coming from a Computer Science background which led him to dabble in software development for sometime. This resulted in Chris realising he is a terrible dev and prefers breaking things which led him to breaking things full-time. The breaking of things full-time has allowed Chris to share his ramblings at multiple conferences in the USA and Europe.",
       "title": "",
-      "twitter": "",
+      "twitter": "@brompwnie",
       "conference": "DEFCON27",
       "link": "",
       "name": "Chris Le Roy",
-      "updated_at": "2019-08-02T15:40+0000"
+      "updated_at": "2019-08-04T16:47+0000"
     },
     {
       "id": 40386,
       "description": "Erick is a security researcher at Netskope focused on malicious SaaS usage and attacks against Microsoft Azure. He previously was previously at Cisco's Talos group where he focused on hunting exploit kits. As part of his academic research at Johns Hopkins University, he conducts research on neural networks, verifiable computing, and computational complexity.",
       "title": "",
-      "twitter": "",
+      "twitter": "@erickgalinkin",
       "conference": "DEFCON27",
       "link": "",
       "name": "Erick Galinkin",
-      "updated_at": "2019-08-02T15:41+0000"
+      "updated_at": "2019-08-04T16:48+0000"
     },
     {
       "id": 40387,
       "description": "Ayman Elsawah is a veteran Information Security Professional and Educator having worked in a variety of industries including Financial, Social Media, Global E-Commerce, Silicon Valley Startups, and the Movie/Entertainment Industry. An early user of AWS, Ayman specializes in AWS Security and helps companies operationalize their presence in the cloud and take their security maturity to the next level. He has built custom tools internally for organizations with hundreds of AWS accounts helping streamline their operations. His specializations are in Centralized Log Management and Identity and Access Management (IAM). He is also the host of the Getting Into Infosec Podcast and author of a book Breaking IN: A Practical Guide to Starting a Career In Information Security. He loves teaches others about Information Security and Cloud.",
       "title": "",
-      "twitter": "",
+      "twitter": "@coffeewithayman",
       "conference": "DEFCON27",
       "link": "",
       "name": "Ayman Elsawah",
-      "updated_at": "2019-08-02T15:41+0000"
+      "updated_at": "2019-08-04T16:46+0000"
     },
     {
       "id": 40388,
       "description": "At the age of 20 he founded his own boutique company for innovative software and hardware solutions. He is a certified AWS Cloud Solutions Architect. While gaining experience in business and finance, Dani did not neglect his hands-on capabilities in both making and breaking systems. Dani recently relocated from Israel to the United States to study Data Science at the prestigious UC Berkeley. During his studies, Dani found VirusBay, a collaborative malware research community which skyrocket amongst the global security community with over 2500 researchers. After serving in the Israeli Defense Forces as a commander of a Field Intelligence unit, Dani went on an 8-month journey across South America. He loves snowboarding, music concerts, and having crazy, breathtaking experiences such as spending 5 days in the Bolivian Jungle with no food or water.",
       "title": "",
-      "twitter": "",
+      "twitter": "@DaniGoland",
       "conference": "DEFCON27",
       "link": "",
       "name": "Dani Goland",
-      "updated_at": "2019-08-02T15:42+0000"
+      "updated_at": "2019-08-04T16:47+0000"
     },
     {
       "id": 40389,
       "description": "Mohsan has over 13 years of experience in cyber security. Mohsan has ran the gamut in the security space: from penetration testing for Rapid7 as a consultant, penetration testing for numerous federal agencies, pentesting mobile applications for HP, pentesting Fortune 500 companies, and contributing exploits to the Metasploit framework as well as contributing to open source projects. When Mohsan isn't breaking things, he likes to travel the globe in search of incredible surf, scuba diving, rock climbing, hiking, and is an avid yogi.",
       "title": "",
-      "twitter": "",
+      "twitter": "@Pwn__Star",
       "conference": "DEFCON27",
       "link": "",
       "name": "Mohsan Farid",
-      "updated_at": "2019-08-02T15:42+0000"
+      "updated_at": "2019-08-04T16:51+0000"
     },
     {
       "id": 40390,
       "description": "Pratik is an information security enthusiast with a strong interest in infrastructure penetration testing, web application security assessments and cloud penetration testing, which has led to extensive penetration testing experience for Fortune 500 companies involving web applications, networks, Infra, and Red Team. Pratik took part in multiple Bug Bounty programs and in over the years he has reported multiple vulnerabilities through HackerOne, Synack Red Team, and Cobalt Core. He has also contributed to Metasploit exploit development (written exploit for Windows local privilege escalation).",
       "title": "",
-      "twitter": "",
+      "twitter": "@7echsec",
       "conference": "DEFCON27",
       "link": "",
       "name": "Pratik Shah",
-      "updated_at": "2019-08-02T15:42+0000"
+      "updated_at": "2019-08-04T16:52+0000"
     },
     {
       "id": 40391,
-      "description": "Tanya Janca, also known as SheHacksPurple, is a senior cloud advocate for Microsoft, specializing in application and cloud security; evangelizing software security and advocating for developers and operations folks alike through public speaking, her open source project OWASP DevSlop, and various forms of teaching via workshops, blogs, public speaking and community events. As an ethical hacker, OWASP Project Leader, Women of Security (WoSEC) chapter leader, software developer and professional computer geek of 20+ years, she is a person who is truly fascinated by the 'science' of computer science.\r\n\r\n",
+      "description": "Tanya Janca, also known as SheHacksPurple, is a senior cloud advocate for Microsoft, specializing in application and cloud security; evangelizing software security and advocating for developers and operations folks alike through public speaking, her open source project OWASP DevSlop, and various forms of teaching via workshops, blogs, public speaking and community events. As an ethical hacker, OWASP Project Leader, Women of Security (WoSEC) chapter leader, software developer and professional computer geek of 20+ years, she is a person who is truly fascinated by the 'science' of computer science.",
       "title": "",
-      "twitter": "",
+      "twitter": "@SheHacksPurple",
       "conference": "DEFCON27",
       "link": "",
       "name": "Tanya Janca",
-      "updated_at": "2019-08-02T15:43+0000"
+      "updated_at": "2019-08-04T16:53+0000"
     },
     {
       "id": 40392,
-      "description": "Teri has helped 1000's of companies with cloud security through consulting, writing, research, and training. She moved a web hosting business to the cloud and then started the Seattle AWS Architects and Engineers Meetup in 2013 which now has over 2500 members. She was on the original team that helped Capital One move production workloads to AWS. Another company recruited her to help them move to the cloud. She led a team of 30 people in two countries, architected a SAAS IOT solution on AWS and delivered a secure CI/CD pipeline based on her whitepaper, Balancing Security and Innovation with Event Driven Automation. She then moved into security research, writing articles for publications such as Dark Reading and Infosecurity Magazine and reverse engineering malware. When someone told her packet capture was not possible in the cloud, she wrote a white paper Packet Capture on AWS proving that it was.\r\nTeri has presented on cloud security at major security conferences including RSA, AWS re:Invent, Countermeasure, SANS Networking, SANS Cloud Summit, and BSides. She is an IANS Faculty member and received the SANS Differences Makers Award for security innovation. Teri has 25 years of professional technical experience including software architecture and engineering, cyber security, and business operations. She was on the initial SANS cloud security advisory board and provided information and updates for SANS cloud curriculum. She taught the cloud security class for SANS Institute in 2018. She holds a business degree from the University of Washington, a Master of Software Engineering from Seattle University, and is currently finishing a Master of Information Security Engineering from SANS Institute. She got started with computers when she taught herself to program on a TI99/4A when she was 12 years old.",
+      "description": "Teri has helped 1000's of companies with cloud security through consulting, writing, research, and training. She moved a web hosting business to the cloud and then started the Seattle AWS Architects and Engineers Meetup in 2013 which now has over 2500 members. She was on the original team that helped Capital One move production workloads to AWS. Another company recruited her to help them move to the cloud. She led a team of 30 people in two countries, architected a SAAS IOT solution on AWS and delivered a secure CI/CD pipeline based on her whitepaper, Balancing Security and Innovation with Event Driven Automation. She then moved into security research, writing articles for publications such as Dark Reading and Infosecurity Magazine and reverse engineering malware. When someone told her packet capture was not possible in the cloud, she wrote a white paper Packet Capture on AWS proving that it was.\r\n\r\nTeri has presented on cloud security at major security conferences including RSA, AWS re:Invent, Countermeasure, SANS Networking, SANS Cloud Summit, and BSides. She is an IANS Faculty member and received the SANS Differences Makers Award for security innovation. Teri has 25 years of professional technical experience including software architecture and engineering, cyber security, and business operations. She was on the initial SANS cloud security advisory board and provided information and updates for SANS cloud curriculum. She taught the cloud security class for SANS Institute in 2018. She holds a business degree from the University of Washington, a Master of Software Engineering from Seattle University, and is currently finishing a Master of Information Security Engineering from SANS Institute. She got started with computers when she taught herself to program on a TI99/4A when she was 12 years old.",
       "title": "",
-      "twitter": "",
+      "twitter": "@TeriRadichel",
       "conference": "DEFCON27",
       "link": "",
       "name": "Teri Radichel",
-      "updated_at": "2019-08-02T15:43+0000"
+      "updated_at": "2019-08-04T16:54+0000"
     },
     {
       "id": 40393,
       "description": "Rod Soto has over 15 years of experience in information technology and security. Currently working as Principal Security Research Engineer at Splunk. He has spoken at ISSA, ISC2, OWASP, DEFCON, Hackmiami, Bsides and also been featured in Rolling Stone Magazine, Pentest Magazine, Univision and CNN. Rod Soto was the winner of the 2012 BlackHat Las vegas CTF competition and is the founder and lead developer of the Kommand && KonTroll competitive hacking Tournament series.",
       "title": "",
-      "twitter": "",
+      "twitter": "@rodsoto",
       "conference": "DEFCON27",
       "link": "",
       "name": "Rod Soto",
-      "updated_at": "2019-08-02T15:44+0000"
+      "updated_at": "2019-08-04T16:52+0000"
     },
     {
       "id": 40394,
       "description": "Jos\u00e9 is a Principal Security Researcher at Splunk. He started his professional career at Prolexic Technologies (now Akamai), fighting DDOS attacks from \u201canonymous\u201d and \u201clulzsec\u201d against Fortune 100 companies. As a engineering co-founder of Zenedge Inc. (acquired by Oracle Inc.), Jos\u00e9 helped build technologies to fight bots and web-application attacks. While working at Splunk as a Security Architect, he built and released an auto-mitigation framework that has been used to automatically fight attacks in large organizations. He has also built security operation centers and run a public threat-intelligence service. Although security information has been the focus of his career, Jos\u00e9 has found that his true passion is in solving problems and creating solutions. As an example, he built an underwater remote-control vehicle called the SensorSub, which was used to test and measure toxicity in Miami's waterways.",
       "title": "",
-      "twitter": "",
+      "twitter": "@d1vious",
       "conference": "DEFCON27",
       "link": "",
-      "name": "Jose Hernandez",
-      "updated_at": "2019-08-02T15:44+0000"
+      "name": "Jos\u00e9 Hernandez",
+      "updated_at": "2019-08-04T16:50+0000"
     },
     {
       "id": 40395,
       "description": "James Strassburg is an experienced software engineer, architect, researcher, and speaker. He has been building distributed software systems and web applications for the past 20 years. Most recently specializing in cloud migration and search engineering, he is an automation fanatic who has also worked on systems engineering, full-stack development, information security, artificial intelligence (AI), and DevOps, and has spoken on several related topics.",
       "title": "",
-      "twitter": "",
+      "twitter": "@jstrassburg",
       "conference": "DEFCON27",
       "link": "",
       "name": "James Strassburg",
-      "updated_at": "2019-08-02T15:44+0000"
+      "updated_at": "2019-08-04T16:49+0000"
     },
     {
       "id": 40396,
-      "description": "Cheryl Biswas, aka 3ncr1pt3d, is a Strategic Threat Intel Analyst with a major bank in Toronto, Canada. Cheryl has experience with security audits and assessments, privacy, DRP, project management, vendor management and change management. She has an ITIL certification and a degree in Political Science. She is actively involved in the security community as a speaker and a volunteer at conferences and encourages women and diversity in Infosec as a founding member of the \"The Diana Initiative\".",
-      "title": "",
-      "twitter": "",
+      "description": "Cheryl Biswas, aka 3ncr1pt3d, is a Strategic Threat Intel Analyst with a major bank in Toronto, Canada. Cheryl has experience with security audits and assessments, privacy, DRP, project management, vendor management and change management. She has an ITIL certification and a degree in Political Science. She is actively involved in the security community as a speaker and a volunteer at conferences and encourages women and diversity in Infosec as a founding member of the \"The Diana Initiative\".\r\n\r\nCheryl Biswas (Twitter: @3ncr1pt3d) is a Strategic Threat Intel Analyst with a major bank in Toronto, Canada. Previously, she was a Cyber Security Consultant with KPMG and worked on security audits and assessment, privacy, breaches, and DRP. Her experience includes project management, vendor management and change management. Cheryl holds an ITIL certification and a degree in Political Science. Her areas of interest include APTs, mainframes, ransomware, ICS SCADA, and building threat intel. She actively shares her passion for security online, as a speaker and a volunteer at conferences, and by encouraging women and diversity in Infosec as a founder and member of the \"The Diana Initiative\".\r\n",
+      "title": "Strategic Threat Intel Analyst",
+      "twitter": "@3ncr1pt3d",
       "conference": "DEFCON27",
       "link": "",
       "name": "Cheryl Biswas",
-      "updated_at": "2019-08-02T15:45+0000"
+      "updated_at": "2019-08-04T22:48+0000"
     },
     {
       "id": 40397,
-      "description": "Ashwin Vamshi is a Security Researcher with innate interest in targeted attacks and malwares using cloud services. His research has been quoted in Forbes and also in several infosec magazines and online portals. Currently, he is working in Netskope primarily focusing in identifying malwares, campaigns and threat actors using 'cloud as an attack vector'.",
+      "description": "Ashwin Vamshi is a Security Researcher with innate interest in targeted attacks and malwares using cloud services. His research has been quoted in Forbes and also in several infosec magazines and online portals. Currently, he is working in Netskope primarily focusing in identifying malwares, campaigns and threat actors using 'cloud as an attack vector'.\r\n",
       "title": "",
-      "twitter": "",
+      "twitter": "@_ashwin_vamshi",
       "conference": "DEFCON27",
       "link": "",
       "name": "Ashwin Vamshi",
-      "updated_at": "2019-08-02T15:45+0000"
+      "updated_at": "2019-08-04T16:45+0000"
     },
     {
       "id": 40398,
-      "description": "Abhinav Singh is an information security researcher for Netskope, Inc. He is the author of Metasploit Penetration Testing Cookbook (first, second & third editions) and Instant Wireshark Starter, by Packt. He is an active contributor to the security community in the form of paper publications, articles, and blogs. His work has been quoted in several security and privacy magazines, and digital portals. He is a frequent speaker at eminent international conferences like Black Hat and RSA. His areas of expertise include malware research, reverse engineering, enterprise security, forensics, and cloud security.",
+      "description": "Abhinav Singh is an information security researcher for Netskope, Inc. He is the author of Metasploit Penetration Testing Cookbook (first, second & third editions) and Instant Wireshark Starter, by Packt. He is an active contributor to the security community in the form of paper publications, articles, and blogs. His work has been quoted in several security and privacy magazines, and digital portals. He is a frequent speaker at eminent international conferences like Black Hat and RSA. His areas of expertise include malware research, reverse engineering, enterprise security, forensics, and cloud security.\r\n",
       "title": "",
-      "twitter": "",
+      "twitter": "@abhinavbom",
       "conference": "DEFCON27",
       "link": "",
       "name": "Abhinav Singh",
-      "updated_at": "2019-08-02T15:45+0000"
+      "updated_at": "2019-08-04T16:35+0000"
     },
     {
       "id": 40399,
       "description": "Eric is a program manager creating new security initiatives, process, and tools to address systemic security issues in hybrid cloud scenarios.",
       "title": "",
-      "twitter": "",
+      "twitter": "@emarinho",
       "conference": "DEFCON27",
       "link": "",
       "name": "Eric Marinho",
-      "updated_at": "2019-08-02T15:45+0000"
+      "updated_at": "2019-08-04T16:48+0000"
     },
     {
       "id": 40400,
@@ -4005,21 +3845,21 @@
       "id": 40401,
       "description": "Jenko Hwong is on the Security Research Team at Netskope, focusing on cloud threats/vectors. He's spent time in engineering and product at a few too many security startups in vulnerability scanning, AV/AS, pen-testing/exploits, L3/4 appliances, threat intel, and windows security.",
       "title": "",
-      "twitter": "",
+      "twitter": "@jenkohwong",
       "conference": "DEFCON27",
       "link": "",
       "name": "Jenko Hwong",
-      "updated_at": "2019-08-02T15:46+0000"
+      "updated_at": "2019-08-04T16:49+0000"
     },
     {
       "id": 40402,
-      "description": "Michael has presented at various industry events and meetups including DEF CON, Black Hat Asia, Thotcon, 44Con and Hack in the Box. Michael is also actively involved in the local security community in Australia where he is one of organizers of the monthly SecTalks meetup as well as the hacker camp TuskCon.\r\n",
+      "description": "Michael has presented at various industry events and meetups including DEF CON, Black Hat Asia, Thotcon, 44Con and Hack in the Box. Michael is also actively involved in the local security community in Australia where he is one of organizers of the monthly SecTalks meetup as well as the hacker camp TuskCon.",
       "title": "",
-      "twitter": "",
+      "twitter": "@mgianarakis",
       "conference": "DEFCON27",
       "link": "",
       "name": "Michael Gianarakis",
-      "updated_at": "2019-08-02T15:46+0000"
+      "updated_at": "2019-08-04T16:50+0000"
     },
     {
       "id": 40403,
@@ -4029,7 +3869,7 @@
       "conference": "DEFCON27",
       "link": "",
       "name": "Sean Yeoh",
-      "updated_at": "2019-08-02T15:46+0000"
+      "updated_at": "2019-08-04T16:53+0000"
     },
     {
       "id": 40404,
@@ -4629,16 +4469,6 @@
       "conference": "DEFCON27",
       "link": "",
       "name": "Micah Zenko",
-      "updated_at": "2019-08-03T04:48+0000"
-    },
-    {
-      "id": 40464,
-      "description": "Jayson E. Street is an author of the \u201cDissecting the hack: Series\u201d. Also the DEF CON Groups Global Ambassador. Plus the VP of InfoSec for SphereNY. He has also spoken at DEF CON, DerbyCon, GRRCon and at several other \u2018CONs and colleges on a variety of Information Security subjects.\r\n*He was a highly carbonated speaker who has partaken of Pizza from Beijing to Brazil. He does not expect anybody to still be reading this far but if they are please note he was chosen as one of Time\u2019s persons of the year for 2006.",
-      "title": "",
-      "twitter": "@jaysonstreet",
-      "conference": "DEFCON27",
-      "link": "",
-      "name": "Jayson Street",
       "updated_at": "2019-08-03T04:48+0000"
     },
     {
@@ -5323,13 +5153,13 @@
     },
     {
       "id": 40533,
-      "description": "Alex is a light aircraft pilot and hardware reverse engineer with a keen interest in commercial avionics security. He started in this space by securing access to a number of end-of-life airframes & investigating / reverse engineering the avionics hardware and network protocols that manage, for example, flight surface control movement.",
+      "description": "Worked for internet service providers and public-sector sector security blue teams before joining Pen Test Partners (PTP) in 2017. His background in designing and implementing secure networks and applications for hostile environments allows him to understand and communicate the inherent trade-offs between security and usability. At PTP, Alex has undertaken penetration testing of systems as diverse as banking and critical national infrastructure and bringing his skills as a qualified pilot and aeronautical engineer to the testing of the aviation sector.\r\n\r\nAlex is a light aircraft pilot and hardware reverse engineer with a keen interest in commercial avionics security. He started in this space by securing access to a number of end-of-life airframes & investigating / reverse engineering the avionics hardware and network protocols that manage, for example, flight surface control movement.",
       "title": "",
       "twitter": "@alexlomas",
       "conference": "DEFCON27",
       "link": "",
       "name": "Alex Lomas",
-      "updated_at": "2019-08-03T20:56+0000"
+      "updated_at": "2019-08-04T18:37+0000"
     },
     {
       "id": 40534,
@@ -7130,6 +6960,1136 @@
       "link": "",
       "name": "C00p3r",
       "updated_at": "2019-08-04T05:49+0000"
+    },
+    {
+      "id": 40715,
+      "description": "Andrew Krug is the founder of open source project ThreatResponse which includes popular tools like AWS_IR and MargaritaShotgun. Krug works as a Staff Security Engineer at Mozilla focused on Identity and Access Management and Cloud Security. Previously Krug has been a re: Invent, re: Inforce, BlackHat, BSides PDX speaker, and more.",
+      "title": "",
+      "twitter": "@andrewkrug",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Andrew Krug",
+      "updated_at": "2019-08-04T16:36+0000"
+    },
+    {
+      "id": 40716,
+      "description": "Edoardo Gerosa works for Deloitte AG's Cyber Risk Services, where he leads a team specialised in providing technical consultancy services to client SOC's across Switzerland. Previously he led Deloitte UK's Cyber Engineering DevOps team, where he oversaw the development of automated reconnaissance tools to support red teaming and cyber threat intelligence engagements. He loves the shores of Z\u00fcrisee much more than the streets of London, where he previously used to live.",
+      "title": "",
+      "twitter": "@netevert",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Edoardo Gerosa",
+      "updated_at": "2019-08-04T16:48+0000"
+    },
+    {
+      "id": 40717,
+      "description": "Enterprise Cloud Architect, 9 years exp in cloud, former lead cloud SRE",
+      "title": "",
+      "twitter": "@janemiceli",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Jane Miceli",
+      "updated_at": "2019-08-04T16:49+0000"
+    },
+    {
+      "id": 40718,
+      "description": "Josh Mize is a Staff Site Reliability Engineer at Mozilla responsible for Mozilla's largest web properties: mozilla.org, Mozilla Developer Network, Support, and more. As an SRE Mize wholly owns the security configuration for a multi-cloud Kubernetes deployment serving millions of users. Mize brings a unique perspective on \"security at scale\".",
+      "title": "",
+      "twitter": "@jgmize",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Josh Mize",
+      "updated_at": "2019-08-04T16:50+0000"
+    },
+    {
+      "id": 40719,
+      "description": "Cloud Security Architect with specialization towards defense in depth and incident response in cloud.",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Setu Parimi",
+      "updated_at": "2019-08-04T16:53+0000"
+    },
+    {
+      "id": 40720,
+      "description": "Rich Mogull, Analyst & CEO. Rich has twenty years experience in information security, physical security, and risk management. These days he specializes in cloud security and DevSecOps, having starting working hands-on in cloud nearly 10 years ago. He is also the principle course designer of the Cloud Security Alliance training class, primary author of the latest version of the CSA Security Guidance, and actively works on developing hands-on cloud security techniques. Prior to founding Securosis, Rich was a Research Vice President at Gartner on the security team. Prior to his seven years at Gartner, Rich worked as an independent consultant, web application developer, software development manager at the University of Colorado, and systems and network administrator.\r\n\r\nRich is the Security Editor of TidBITS and a frequent contributor to industry publications. He is a frequent industry speaker at events including the RSA Security Conference, Black Hat, and DefCon, and has spoken on every continent except Antarctica (where he's happy to speak for free -- assuming travel is covered).",
+      "title": "",
+      "twitter": "@rmogull",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Rich Mogull",
+      "updated_at": "2019-08-04T16:55+0000"
+    },
+    {
+      "id": 40721,
+      "description": "Is a writer and Public Speaker for technical subjects as well as Diversity & Inclusion and other social subjects. Her passion lies with advocating for underrepresented communities in Tech. Her career has encompassed everything from firmware to application space. Miki also has many outside interests including volunteering as a TrevorChat Crisis Counselor, Women Who Code PDX Evangelist, Women of Security PDX founder, Portland Women in Tech, and the Diana Initiative to help drive diversity and true inclusion while advocating for women in the STEM fields.",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Miki Demeter",
+      "updated_at": "2019-08-04T18:35+0000"
+    },
+    {
+      "id": 40722,
+      "description": "Is a Security Researcher Advocate @Bugcrowd, board member for 4 nonprofits, one of the Women in Security (WoSEC) founders & heads the SF Chapter, founder of WomenHackerz online community, mentors women to enter InfoSec and remain, aspeaker on diversity and inclusion, bug bounty, and safe harbor in InfoSec, a supporter of Disclose.io, and Drop Labels founder.",
+      "title": "",
+      "twitter": "@ChloeMessdaghi",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Chlo\u00e9 Messdaghi",
+      "updated_at": "2019-08-04T18:34+0000"
+    },
+    {
+      "id": 40723,
+      "description": "Co-founded the Queercon Badge team in 2012. He serves as the hardware and electrical design lead, creating schematics, PCB layout, and support boards. He is known in the badge community for careful and unconventional PCB traces. In the real world, he works as an electrical engineer for an oil field equipment company, specializing in controls and PCB design.",
+      "title": "",
+      "twitter": "@AkioOhtori",
+      "conference": "DEFCON27",
+      "link": "https://blinkylights.ninja",
+      "name": "Evan Mackay",
+      "updated_at": "2019-08-04T18:34+0000"
+    },
+    {
+      "id": 40724,
+      "description": "Enjoys learning the finer details of classic cryptology, and as of late has become a bit of an oenophile. He also occasionally makes noise on drums, as part of a small band of fellow tech folk, that makes no headlines, but enjoys playing various B-rated venues in Seattle.",
+      "title": "",
+      "twitter": "@sidechannel_org",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Subterfuge",
+      "updated_at": "2019-08-04T18:33+0000"
+    },
+    {
+      "id": 40725,
+      "description": "Has worked on Queercon\u2019s electronic badge team since its inception, as the lead coder and supply chain person. Among indie badge makers, he\u2019s especially known for a love of Texas Instruments parts. He's also hosting this year's Queercon karaoke party.",
+      "title": "",
+      "twitter": "@duplico",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "George Louthan",
+      "updated_at": "2019-08-04T18:33+0000"
+    },
+    {
+      "id": 40726,
+      "description": "Is a US Army Veteran, who currently attends the University of Washington \u2013 Tacoma as a senior while pursuing a degree in I.T. Information Assurance and Cybersecurity. She works in Avanade\u2019s SOC as a Security Analyst in Seattle. She has also served as a teaching assistant for the UWT CPES program, which builds and delivers cybersecurity focused curricula for K-12 students, where she focused on wireless security and RF concepts. Maxine was selected for the SANS Women\u2019s Immersion Academy 2018 Cohort and, at the time of this writing, currently holds the GSEC and GCIH GIAC certifications.",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Maxine Filcher",
+      "updated_at": "2019-08-04T18:35+0000"
+    },
+    {
+      "id": 40727,
+      "description": "Is currently the Chair of Medtronic\u2019s LGBT Employee Resource Group Steering Committee where she has focused on LGBTQ equity in policies and benefits since 2010. She served as co-chair & organizer of the last Minnesota Transgender Health Conference which brought together 300 Trans people, Allies and Healthcare providers for two days of sessions focused on Trans health. Marie is a #RealLiveTransAdult, and has been out as #Trans and the #Bi for more than a decade.",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Marie Fromm",
+      "updated_at": "2019-08-04T18:36+0000"
+    },
+    {
+      "id": 40728,
+      "description": "Is a recovering hacker of 20 years, specializing in penetration testing of connected cars. She has started and sold two prior companies as a successful serial entrepreneur, is a published author, venture capitalist, and is now a full-time industry analyst and writer. Alissa has spoken at over 2 dozen security conferences across the US, Europe, Asia, and the Middle East on hacking connected cars.",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Alissa Knight",
+      "updated_at": "2019-08-04T18:36+0000"
+    },
+    {
+      "id": 40729,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Raul Rojas",
+      "updated_at": "2019-08-05T00:21+0000"
+    },
+    {
+      "id": 40730,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Alyssa Herrera",
+      "updated_at": "2019-08-05T01:41+0000"
+    },
+    {
+      "id": 40731,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Anthony Kava",
+      "updated_at": "2019-08-05T01:41+0000"
+    },
+    {
+      "id": 40732,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Corben Leo",
+      "updated_at": "2019-08-05T01:41+0000"
+    },
+    {
+      "id": 40733,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Fletcher Heisler",
+      "updated_at": "2019-08-05T01:42+0000"
+    },
+    {
+      "id": 40734,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "fs0c131y",
+      "updated_at": "2019-08-05T01:42+0000"
+    },
+    {
+      "id": 40735,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Jerry Gamblin",
+      "updated_at": "2019-08-05T01:42+0000"
+    },
+    {
+      "id": 40736,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Jillian Ratliff",
+      "updated_at": "2019-08-05T01:42+0000"
+    },
+    {
+      "id": 40737,
+      "description": "",
+      "title": "Founder, Manicode Security",
+      "twitter": "@manicode",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Jim Manico",
+      "updated_at": "2019-08-05T01:42+0000"
+    },
+    {
+      "id": 40738,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Jo\u00e3o Pena Gil",
+      "updated_at": "2019-08-05T01:42+0000"
+    },
+    {
+      "id": 40739,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Joe Schottman",
+      "updated_at": "2019-08-05T01:43+0000"
+    },
+    {
+      "id": 40740,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Luis Gomez",
+      "updated_at": "2019-08-05T01:43+0000"
+    },
+    {
+      "id": 40741,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "\u00d6zkan M. Akkus",
+      "updated_at": "2019-08-05T01:43+0000"
+    },
+    {
+      "id": 40742,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Rafael Santos",
+      "updated_at": "2019-08-05T01:43+0000"
+    },
+    {
+      "id": 40743,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "ST\u00d6K",
+      "updated_at": "2019-08-05T01:43+0000"
+    },
+    {
+      "id": 40744,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Swaroop Yermalkar",
+      "updated_at": "2019-08-05T01:44+0000"
+    },
+    {
+      "id": 40745,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Vandana Verma Sehgal",
+      "updated_at": "2019-08-05T01:44+0000"
+    },
+    {
+      "id": 40746,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "YanYan Wang",
+      "updated_at": "2019-08-05T01:44+0000"
+    },
+    {
+      "id": 40747,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Alta",
+      "updated_at": "2019-08-05T02:29+0000"
+    },
+    {
+      "id": 40748,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Cyan Banister",
+      "updated_at": "2019-08-05T02:30+0000"
+    },
+    {
+      "id": 40749,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Erik",
+      "updated_at": "2019-08-05T02:31+0000"
+    },
+    {
+      "id": 40750,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Erin Owens",
+      "updated_at": "2019-08-05T02:31+0000"
+    },
+    {
+      "id": 40751,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "GajetGirl",
+      "updated_at": "2019-08-05T02:31+0000"
+    },
+    {
+      "id": 40752,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Haz31",
+      "updated_at": "2019-08-05T02:31+0000"
+    },
+    {
+      "id": 40753,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Jason Taylor",
+      "updated_at": "2019-08-05T02:31+0000"
+    },
+    {
+      "id": 40754,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Meecles",
+      "updated_at": "2019-08-05T02:32+0000"
+    },
+    {
+      "id": 40755,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Mike",
+      "updated_at": "2019-08-05T02:33+0000"
+    },
+    {
+      "id": 40756,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Nic0",
+      "updated_at": "2019-08-05T02:33+0000"
+    },
+    {
+      "id": 40757,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "p0wnyb0y",
+      "updated_at": "2019-08-05T02:33+0000"
+    },
+    {
+      "id": 40758,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Ray Watson",
+      "updated_at": "2019-08-05T02:33+0000"
+    },
+    {
+      "id": 40759,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "RomanFire",
+      "updated_at": "2019-08-05T02:34+0000"
+    },
+    {
+      "id": 40760,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Tara",
+      "updated_at": "2019-08-05T02:34+0000"
+    },
+    {
+      "id": 40761,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "y0rk",
+      "updated_at": "2019-08-05T02:34+0000"
+    },
+    {
+      "id": 40762,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "AI Village Selection",
+      "updated_at": "2019-08-05T02:44+0000"
+    },
+    {
+      "id": 40763,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Kathleen Smith",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40764,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Andrea Limbago",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40765,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Yolonda Smith",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40766,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Susan Peediyakkal",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40767,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Joe Gray",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40768,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Emilie St-Pierre",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40769,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Mary Waddick",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40770,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Tanya Janca",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40771,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Seth Vargo",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40772,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Jessica Hyde",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40773,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Emily Cole",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40774,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Chloe Messdaghi",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40775,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Christine McGarry",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40776,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Suzanne Pereira",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40777,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Laura Webb",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40778,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Brianne Hughes",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40779,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Miki Demeter",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40780,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Xena Olsen",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40781,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Lodrina Cherne",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40782,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Serenity Smile",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40783,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Olivia Stella",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40784,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Clover Twombley",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40785,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Megan Carney",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40786,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Paulina Valdivieso",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40787,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Diana Kelley",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40788,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Sylvia Killinen",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40789,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Alana Staszczyszyn",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40790,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Jasmine Jackson",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40791,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Kat Sweet",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40792,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Karen Worstell",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40793,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Jaime Lightfoot",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40794,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Saba Deyhim",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40795,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Sarah Young",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40796,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Swathi Joshi",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40797,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Shannon Morrison ",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40798,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Wendy Edwards",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40799,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Katie Nickels",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40800,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Lauren Rudman",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40801,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Fatima Ahmed",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40802,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Vanessa Redman",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40803,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Sapna Singh",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40804,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Elizabeth Bell",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40805,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Amber Welch",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40806,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Sam Bowne",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40807,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Elizabeth Biddlecome",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40808,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Whitney Maxwell",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40809,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Gabrielle Hempel",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40810,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Tash Norris",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40811,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Aunshul Rege",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40812,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Isaiah Sarju",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40813,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Yasmine Johnston-Ison",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40814,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Mandy Logan",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40815,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Vandana Verma Sehgal",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40816,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Margaret Layton",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40817,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Kelley Robinson",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40818,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Kathleen Mullin",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40819,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Alyssa Miller",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40820,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Jordanne Barrett",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40821,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Michelle Brenner",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40822,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Daryl Pfeif",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40823,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Keira Paterson",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40824,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Village",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40825,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "contest",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40826,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Training",
+      "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "id": 40827,
+      "description": "",
+      "title": "",
+      "twitter": "",
+      "conference": "DEFCON27",
+      "link": "",
+      "name": "Party",
+      "updated_at": "2019-08-02T20:57+0000"
     }
   ]
 }

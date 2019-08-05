@@ -24,8 +24,8 @@
     {
       "id": 40004,
       "conference": "DEFCON27",
-      "name": "Party",
-      "updated_at": "2019-07-30T19:54+0000",
+      "name": "Party/Meetup",
+      "updated_at": "2019-08-04T18:17+0000",
       "color": "#D86A68"
     },
     {
@@ -50,5 +50,5 @@
       "color": "#FF9B6C"
     }
   ],
-  "updated_at": "2019-08-01T21:19+0000"
+  "updated_at": "2019-08-04T18:17+0000"
 }
