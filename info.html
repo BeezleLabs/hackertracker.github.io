@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>info.defcon.org</title>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+<script src="https://www.gstatic.com/firebasejs/6.3.4/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/6.3.4/firebase-firestore.js"></script>
+</head>
+<body class="bg-dark">
+<nav class="navbar navbar-expand-md navbar-dark bg-dark mb-3">
+    <div class="container">
+        <a href="#" class="navbar-brand mr-4">DEF CON 27 Schedule</a>
+    </div>    
+</nav>
+<div class="container">
+    <div class="row">
+        <div class="col-md-8 text-white">
+            <h3>LIVE NOW</h3>
+            <p>Insert scrolling live events here</p>
+        </div>
+        <div class="col-md-4 text-white">
+	    <a class="twitter-timeline" data-height="250" data-theme="dark" href="https://twitter.com/defcon?ref_src=twsrc%5Etfw">Tweets by defcon</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-8 text-white">
+            <h3>UPCOMING EVENTS</h3>
+            <p>Insert scrolling upcoming here</p>
+        </div>
+        <div class="col-md-4 text-white">
+	    <a class="twitter-timeline" data-height="250" data-theme="dark" href="https://twitter.com/dcib?ref_src=twsrc%5Etfw">Tweets by defcon</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        </div>
+    </div>
+    <hr>
+    <footer>
+        <div class="row">
+            <div class="col-md-6 text-white">
+                <p>HackerTracker Web</p>
+            </div>
+            <div class="col-md-6 text-md-right">
+                <a href="#" class="text-white">@sethlaw</a>
+            </div>
+        </div>
+    </footer>
+</div>
+<script>
+  // Your web app's Firebase configuration
+  var firebaseConfig = {
+    apiKey: "AIzaSyAsAP88rl0Qk0v4g_vYFpybKohS_hiyq-w",
+    authDomain: "hackertest-5a202.firebaseapp.com",
+    databaseURL: "https://hackertest-5a202.firebaseio.com",
+    projectId: "hackertest-5a202",
+    storageBucket: "hackertest-5a202.appspot.com",
+    messagingSenderId: "611899979455",
+    appId: "1:611899979455:web:e52aa3314edcf7a2"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+
+  function defcon() {
+    self.prototype.getAllEvents = function(render) {
+      var query = firebase.firestore()
+        .collection('conferences').document('DEFCON27').collection('events')
+        .orderBy('begin_timestamp', 'desc')
+      this.getDocumentsInQuery(query, render);
+    };
+  };
+
+  
+</script>
+</body>
+</html>                            
