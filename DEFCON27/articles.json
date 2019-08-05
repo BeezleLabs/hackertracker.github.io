@@ -1,4 +1,12 @@
 {
-  "articles": [],
-  "updated_at": "2018-01-01T01:00+0000"
+  "articles": [
+    {
+      "text": "We are all geared up for #HackerSummerCamp here in #hackertracker. The DEF CON 27 schedule currently has more than 750 different talks, parties, contests, events, and everything you could possibly want to see during the week. Good luck deciding on your favorite items. Bookmark away and find one of our team for an official #hackertracker sticker. Safe travels and see you all in Vegas.",
+      "updated_at": "2019-08-05T03:52+0000",
+      "id": 14,
+      "name": "Only 3 days left!",
+      "conference": "DEFCON27"
+    }
+  ],
+  "updated_at": "2019-08-05T03:52+0000"
 }
