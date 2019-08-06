@@ -363,7 +363,7 @@
       "title": "EAPHammer",
       "description": "EAPHammer is a toolkit for performing targeted rogue access point attacks against enterprise wireless infrastructure. It is designed to be used in full scope wireless assessments and red team engagements. As such, focus has been placed on providing an easy-to-use interface that can be leveraged to execute powerful wireless attacks with minimal manual configuration.     This summer will mark the third anniversary of EAPHammer since it was released at DEF CON Demo Labs and BlackHat Arsenal in 2017. It's also the most exciting and complete version of the tool yet, with the addition of a number of features that were requested directly by users at Demo Labs in 2018.     EAPHammer now supports most of the bleeding edge attacks that have been discovered by the wireless community over the past few years, including:       - WPA3 Transition Mode and Security Group Downgrade Attacks    - Reflection and Invalid Curve attacks against EAP-pwd    - GTC-Downgrade, Fixed Challenge, and EAP Relay attacks against WPA/2-EAP    - PMKID attacks against WPA/2-PSK networks    - Known Beacons Attack and Legacy SSL Support    - External Certificate Handling and Import     Perhaps most excitingly, we've also included some never-before-seen attacks against Opportunistic Wireless Encryption (OWE), which is better known as \"Enhanced Open\".",
       "speakers": [
-        40233
+        40209
       ],
       "end_date": "2019-08-09T20:50+0000",
       "includes": "",
@@ -372,7 +372,7 @@
       "start_date": "2019-08-09T19:00+0000",
       "event_type": 40006,
       "conference": "DEFCON27",
-      "updated_at": "2019-07-27T17:33+0000",
+      "updated_at": "2019-08-06T17:15+0000",
       "id": 40025
     },
     {
@@ -1628,8 +1628,8 @@
       "id": 40101
     },
     {
-      "title": "Behind the Scenes: The Industry of Social Media Manipulation Driven by Malware\u2020",
-      "description": "This talk is the grand finale of a four-year long investigation that started with analyzing an IoT botnet, to discovering the structured industry that exists behind social media manipulation (SMM). SMM is the deliberate act of paying for popularity with followers or activity on social media. \n\nAdopting a bottom-up approach, the thorough methodology undertook to study the botnet will be presented: from building honeypots, infecting them with malware and conducting a man-in-the-middle-attack on the honeypots\u00ed traffic to access the decrypted HTTPS content between the C&Cs and social networks. Then, the various investigative paths taken to analyze this large data set, leading to the discovery of industry actors involved in the supply chain of social media manipulation, will be presented. These investigative paths include traffic analysis, various OSINT approaches to reveal and understand actors, reverse-engineering the software that automates the use and creation of fake accounts, forum investigations, and qualitative profiling. All actors involved in the industry will be mapped, from malware authors, to reseller panels, and customers of fake popularity.  \n\nThe potential profitability of the industry will then be discussed, as well as the revenue division in the chain, demonstrating that the ones making the highest revenue per fake follower sold are not the malware authors, but rather those at the end of the chain.",
+      "title": "Behind the Scenes: The Industry of Social Media Manipulation Driven by Malware",
+      "description": "This talk is the grand finale of a four-year long investigation that started with analyzing an IoT botnet, to discovering the structured industry that exists behind social media manipulation (SMM). SMM is the deliberate act of paying for popularity with followers or activity on social media. \r\n\r\nAdopting a bottom-up approach, the thorough methodology undertook to study the botnet will be presented: from building honeypots, infecting them with malware and conducting a man-in-the-middle-attack on the honeypots\u00ed traffic to access the decrypted HTTPS content between the C&Cs and social networks. Then, the various investigative paths taken to analyze this large data set, leading to the discovery of industry actors involved in the supply chain of social media manipulation, will be presented. These investigative paths include traffic analysis, various OSINT approaches to reveal and understand actors, reverse-engineering the software that automates the use and creation of fake accounts, forum investigations, and qualitative profiling. All actors involved in the industry will be mapped, from malware authors, to reseller panels, and customers of fake popularity.  \r\n\r\nThe potential profitability of the industry will then be discussed, as well as the revenue division in the chain, demonstrating that the ones making the highest revenue per fake follower sold are not the malware authors, but rather those at the end of the chain.",
       "speakers": [
         40025,
         40026
@@ -1641,7 +1641,7 @@
       "start_date": "2019-08-09T17:00+0000",
       "event_type": 40002,
       "conference": "DEFCON27",
-      "updated_at": "2019-07-27T17:33+0000",
+      "updated_at": "2019-08-06T17:52+0000",
       "id": 40102
     },
     {
@@ -2094,8 +2094,8 @@
       "id": 40129
     },
     {
-      "title": "Breaking The Back End!\u2020 It Is Not Always A Bug.\u2020 Sometimes, It Is Just Bad Design!",
-      "description": "Reverse engineering is critical to exploitation.  However, going through the process of reverse engineering can often lead to a great deal more than just uncovering a bug.  So much so that you might find what you need for exploitation even if you don't find a bug.\n\nThat\u00eds right.  If you go through object data, object representation, object states, and state changes enough you can find out quite a lot.  Yes.  Poor application logic is a bitch.  Just ask any application penetration tester.  This time it is not the magstripe.  It\u00eds appsec and you will get to see how application attacks can be used against a hardware platform.\n\nIn this talk, I will go through the journey that I took in reverse engineering the public transportation system of an east asian mega-city, the questions that I asked as I wondered \u00ecHow does this work?\u00ee, the experiments that I ran to answers those questions, what I learned that lead me to an exploit capable of generating millions of dollars in fake tickets for that very same system, and how other designers can avoid the same fate.  Not without risk, this research was done under a junta so I will also be telling you how I kept myself out of jail while doing it.  Please join me.  You won\u00edt want to miss it.",
+      "title": "Breaking The Back End! It Is Not Always A Bug. Sometimes, It Is Just Bad Design!",
+      "description": "Reverse engineering is critical to exploitation.  However, going through the process of reverse engineering can often lead to a great deal more than just uncovering a bug.  So much so that you might find what you need for exploitation even if you don't find a bug.\r\n\r\nThat\u00eds right.  If you go through object data, object representation, object states, and state changes enough you can find out quite a lot.  Yes.  Poor application logic is a bitch.  Just ask any application penetration tester.  This time it is not the magstripe.  It\u00eds appsec and you will get to see how application attacks can be used against a hardware platform.\r\n\r\nIn this talk, I will go through the journey that I took in reverse engineering the public transportation system of an east asian mega-city, the questions that I asked as I wondered \u00ecHow does this work?\u00ee, the experiments that I ran to answers those questions, what I learned that lead me to an exploit capable of generating millions of dollars in fake tickets for that very same system, and how other designers can avoid the same fate.  Not without risk, this research was done under a junta so I will also be telling you how I kept myself out of jail while doing it.  Please join me.  You won\u00edt want to miss it.",
       "speakers": [
         40071
       ],
@@ -2106,7 +2106,7 @@
       "start_date": "2019-08-09T23:30+0000",
       "event_type": 40002,
       "conference": "DEFCON27",
-      "updated_at": "2019-07-27T17:33+0000",
+      "updated_at": "2019-08-06T17:52+0000",
       "id": 40130
     },
     {
@@ -2612,11 +2612,11 @@
       "id": 40160
     },
     {
-      "title": "Vacuum Cleaning Security\u00f3Pinky and the Brain Edition",
-      "description": "Data collected by vacuum cleaning robot sensors is highly privacy-sensitive, as it includes details and metadata about consumers\u00ed habits, how they live, when they work or invite friends, and more. Connected vacuum robots are not as low-budget as other IoT devices and vendors indeed invest into their security. This makes vacuum cleaning robot ecosystems interesting for further analysis to understand their security mechanisms and derive takeaways.\n\nIn this talk we discuss the security of the well-protected Neato and Vorwerk ecosystems. Their robots run the proprietary QNX operating system, are locally protected with secure boot, and use various mechanisms that ensure authentication and encryption in the cloud communication. Nonetheless, we were able to bypass substantial security components and even gain unauthenticated privileged remote execution on arbitrary robots. We present how we dissected ecosystem components including a selection of vacuum robot firmwares and their cloud interactions.",
+      "title": "Vacuum Cleaning Security - Pinky and the Brain Edition",
+      "description": "Data collected by vacuum cleaning robot sensors is highly privacy-sensitive, as it includes details and metadata about consumers\u00ed habits, how they live, when they work or invite friends, and more. Connected vacuum robots are not as low-budget as other IoT devices and vendors indeed invest into their security. This makes vacuum cleaning robot ecosystems interesting for further analysis to understand their security mechanisms and derive takeaways.\r\n\r\nIn this talk we discuss the security of the well-protected Neato and Vorwerk ecosystems. Their robots run the proprietary QNX operating system, are locally protected with secure boot, and use various mechanisms that ensure authentication and encryption in the cloud communication. Nonetheless, we were able to bypass substantial security components and even gain unauthenticated privileged remote execution on arbitrary robots. We present how we dissected ecosystem components including a selection of vacuum robot firmwares and their cloud interactions.",
       "speakers": [
-        40124,
-        40125
+        40125,
+        40848
       ],
       "end_date": "2019-08-10T23:20+0000",
       "includes": "",
@@ -2625,7 +2625,7 @@
       "start_date": "2019-08-10T23:00+0000",
       "event_type": 40002,
       "conference": "DEFCON27",
-      "updated_at": "2019-07-27T17:33+0000",
+      "updated_at": "2019-08-06T17:46+0000",
       "id": 40161
     },
     {
@@ -2697,8 +2697,8 @@
       "id": 40166
     },
     {
-      "title": "We Hacked Twitter\u00d6 And the World Lost Their Sh*t Over It!",
-      "description": "In December 2018 INSINIA Security was involved in one of the biggest hacking stories of the year. A number of \u00eccelebrities\u00ee, including Louis Theroux, Eamon Holmes and more, logged into their Twitter accounts just after Christmas to find a Tweet, from their account, saying: \n\n\u00ecThis account has been temporarily hijacked by INSINIA SECURITY\u00ee. \n\nThe tweet immediately directed people to our blog post, and the compromised accounts retweeted INSINIA\u00eds Tweet, saying:\n\n\u00ecThis account is now under the control of @InsiniaSRT. Luckily, this has been H4CK3D to highlight an important vulnerability. The user of this account has NOT lost access to it, no data compromised and is NOT under attack. See how it was done\u00d6\u00ee.\n\nWhat we did was simple. We used spoof texts to Tweet from these accounts. We NEVER had access to these accounts. We could never read DM\u00eds. We simply passively controlled these accounts with no opportunity of getting confidential data in return.\n\nSo what did the hacking community, journalists and commentators do?! They LOST THEIR SH*T OVER IT!\n\n\u00ecIt\u00eds unethical\u00ee \u00ecIt\u00eds a crime\u00ee \u00ecComputer Misuse Act counts for security researchers too!\u00ee \u00ecYou guys are total f*cking idiots! \n\nThese are the types of things we\u00edd heard from our peers. But why was the backlash so bad? In this talk, INSINIA explains why it was done, how it was done, how people reacted and how research can be released quickly and responsibly\u00d6 Without always getting the warm reception you might expect!",
+      "title": "We Hacked Twitter... And the World Lost Their Sh*t Over It!",
+      "description": "In December 2018 INSINIA Security was involved in one of the biggest hacking stories of the year. A number of \u00eccelebrities\u00ee, including Louis Theroux, Eamon Holmes and more, logged into their Twitter accounts just after Christmas to find a Tweet, from their account, saying: \r\n\r\n\u00ecThis account has been temporarily hijacked by INSINIA SECURITY\u00ee. \r\n\r\nThe tweet immediately directed people to our blog post, and the compromised accounts retweeted INSINIA\u00eds Tweet, saying:\r\n\r\n\u00ecThis account is now under the control of @InsiniaSRT. Luckily, this has been H4CK3D to highlight an important vulnerability. The user of this account has NOT lost access to it, no data compromised and is NOT under attack. See how it was done\u00d6\u00ee.\r\n\r\nWhat we did was simple. We used spoof texts to Tweet from these accounts. We NEVER had access to these accounts. We could never read DM\u00eds. We simply passively controlled these accounts with no opportunity of getting confidential data in return.\r\n\r\nSo what did the hacking community, journalists and commentators do?! They LOST THEIR SH*T OVER IT!\r\n\r\n\u00ecIt\u00eds unethical\u00ee \u00ecIt\u00eds a crime\u00ee \u00ecComputer Misuse Act counts for security researchers too!\u00ee \u00ecYou guys are total f*cking idiots! \r\n\r\nThese are the types of things we\u00edd heard from our peers. But why was the backlash so bad? In this talk, INSINIA explains why it was done, how it was done, how people reacted and how research can be released quickly and responsibly\u00d6 Without always getting the warm reception you might expect!",
       "speakers": [
         40135,
         40136
@@ -2710,7 +2710,7 @@
       "start_date": "2019-08-11T05:15+0000",
       "event_type": 40002,
       "conference": "DEFCON27",
-      "updated_at": "2019-07-27T17:33+0000",
+      "updated_at": "2019-08-06T17:51+0000",
       "id": 40167
     },
     {
@@ -8197,7 +8197,7 @@
       "start_date": "2019-08-10T17:50+0000",
       "event_type": 40005,
       "conference": "DEFCON27",
-      "updated_at": "2019-08-03T23:39+0000",
+      "updated_at": "2019-08-06T17:30+0000",
       "id": 40515
     },
     {
@@ -11825,7 +11825,7 @@
       "title": "Shifting the DevSecOps Culture, Taking away the sugar piece and giving the pile to ants",
       "description": "We have been talking about the technical angle of DevSecOps. How do I go about building the DevSecOps culture in the organisation? So far Generally corporates are trying to have all three Plays and teams Dev, Sec and Ops team together. However, the Ideal DevSecOps idea is each individual should know what is happening in the whole process. If person or team has issues/concern, then anyone can stand-up and take the DevSecOps further. Instead of giving the sugar cube to the individuals give them the who Pile of sugar to the Ants (aka teams), incase something fails the other teams can balance the situation or stand up for each other.\r\n\r\nThis talk will portray Call to action from different teams. What should a Developer should do, what a security and Operations person should do? How to bring the teams to work together. Example \u2013 Earlier security teams used to sit in a room alone.  Now security team sits with operations and Dev teams.",
       "speakers": [
-        40745
+        40815
       ],
       "end_date": "2019-08-11T16:50+0000",
       "includes": "",
@@ -11834,7 +11834,7 @@
       "start_date": "2019-08-11T16:30+0000",
       "event_type": 40005,
       "conference": "DEFCON27",
-      "updated_at": "2019-08-05T19:24+0000",
+      "updated_at": "2019-08-06T17:36+0000",
       "id": 40750
     },
     {
@@ -12313,7 +12313,7 @@
       "title": "DECEPTICONv2: OPSEC and Anti-OSINT for Personal Protection",
       "description": "The Diana Initiative pre-registration and badge is required to attend this event.\r\n\r\nWhen we think of the process for attacking an organization, OSINT comes to the front and center of our minds. This presentation takes a presenter with experience in applying OSINT to effective penetration testing and social engineering and reverse engineers the process to determine what steps can be taken to further complicate their efforts. This is a presentation that talks about online deception, decoy accounts, canary data, encryption, maintaining one's social media in a secure manner, and protecting one's identity as much as possible. While nothing is absolute, this is a presentation that will leave attendees more aware of techniques to make it harder for attackers to collect accurate OSINT, either by removal or deception.",
       "speakers": [
-        40767
+        40377
       ],
       "end_date": "2019-08-09T17:50+0000",
       "includes": "",
@@ -12322,7 +12322,7 @@
       "start_date": "2019-08-09T17:00+0000",
       "event_type": 40005,
       "conference": "DEFCON27",
-      "updated_at": "2019-08-05T15:41+0000",
+      "updated_at": "2019-08-06T17:31+0000",
       "id": 40782
     },
     {
@@ -12361,7 +12361,7 @@
       "title": "OWASP DevSlop: A DevSecOps Pipeline",
       "description": "The Diana Initiative pre-registration and badge is required to attend this event.\r\n\r\n The OWASP DevSlop team are back with \"Patty\", a new module of the project consisting of a DevSecOps pipeline made with Azure DevOps Pipelines, passing negative unit tests, ensuring all the 3rd party components are known-secure (White Source Bolt), dynamic code analysis (OWASP Zap), retrieving secrets from a secret store (Key Vault), releasing into Azure.  This entire system/project is open-sourced as part of the project as live streaming and recorded videos, so that developers can watch each of the lessons, add it to their own pipelines, and have a head start on DevSecOps.  The talk will consist mostly of a start-to-finish demo of the system, finishing with the DevSlop team releasing their own website live, on stage, using the pipeline. Tools showcased include SSL Labs, White Source Bolt and OWASP Zap.\r\n\r\nFor many people 'the cloud' and DevSecOps can be a bit mysterious.  Let's clear this up with a nice, long, slow demo of how to load up an app in your editor, make a change, run it through your pipeline (and pass the security checks!), then publish it into the cloud.  One step at a time.",
       "speakers": [
-        40770
+        40391
       ],
       "end_date": "2019-08-09T20:50+0000",
       "includes": "",
@@ -12370,7 +12370,7 @@
       "start_date": "2019-08-09T20:00+0000",
       "event_type": 40005,
       "conference": "DEFCON27",
-      "updated_at": "2019-08-05T15:42+0000",
+      "updated_at": "2019-08-06T17:34+0000",
       "id": 40785
     },
     {
@@ -12521,7 +12521,7 @@
       "title": "Infiltration to effect change from the inside",
       "description": "The Diana Initiative pre-registration and badge is required to attend this event.\r\n\r\nIn today's world of divisiveness, open bigotry, and hate rhetoric it is easy to stand back and shout at the world that this is wrong. I came to the realization that I was the only one listening and this accomplished nothing. I decided to step out of my comfort zone and see what I could do to effect real change. When I embarked on my plan to quit yelling at the world around me and become involved, to actually try to make the changes I wanted to see come to fruition, I had no idea how emotional the journey would be - or how the many people I worked with would come to mean so much to me personally. This talk shows exactly how we can Believe and Achieve Together.",
       "speakers": [
-        40779
+        40721
       ],
       "end_date": "2019-08-09T18:55+0000",
       "includes": "",
@@ -12530,7 +12530,7 @@
       "start_date": "2019-08-09T18:30+0000",
       "event_type": 40005,
       "conference": "DEFCON27",
-      "updated_at": "2019-08-05T15:45+0000",
+      "updated_at": "2019-08-06T17:33+0000",
       "id": 40795
     },
     {
@@ -12857,7 +12857,7 @@
       "id": 40815
     },
     {
-      "title": "Ain't Nobody Got Time For That!':  Understanding Algorithmic Game Theory and Price of Anarchy",
+      "title": "Ain't Nobody Got Time For That!:  Understanding Algorithmic Game Theory and Price of Anarchy",
       "description": "The Diana Initiative pre-registration and badge is required to attend this event.\r\n\r\nAs cyber becomes the new battlefield for the lowest levels of criminal activity, much of our cyber defense posture as a community is built on Anti-Virus (AV) signatures (and other alert based systems), and policy.  What do we know about the people/entities we are protecting ourselves against?  In this game of cyber chess, how do we know what move to make next?  There is a mathematical model of study that is growing in popularity in the Computer Science community called Game Theory.  Algorithmic Game Theory could help advance algorithmic systems to identify malicious activity BEFORE it affects a network (being proactive vs reactive) by using strategic decisions based on the interactions of rational decision makers.  But what about negligence in following policy as a kind of insider threat?  Price of Anarchy (PoA) is a subset of Game Theory that analyzes and attempts to measure how much a system can be degraded by selfish behaviors.  \r\n\r\nThis talk is for everyone looking to crack the egg of cyber defense and stop the Whack-A-Intrusion game and asks how we can use Game Theory to create proactive solutions in the technical and psychological realm of cybersecurity.  We will discuss what Game Theory is, how it is being used today in Cybersecurity, and then attempt to apply a non-cyber principle (PoA) to further calculate if the changes we are making in cyber defense is actually helping us become more secure (or if it is just lip service).  This talk will NOT tell you the best AV to use.  The purpose is to show you a different way of thinking about defense decision making, down to the employee/policy level.",
       "speakers": [
         40802
@@ -12869,7 +12869,7 @@
       "start_date": "2019-08-10T19:00+0000",
       "event_type": 40005,
       "conference": "DEFCON27",
-      "updated_at": "2019-08-06T02:01+0000",
+      "updated_at": "2019-08-06T17:52+0000",
       "id": 40816
     },
     {
@@ -12924,8 +12924,8 @@
       "title": "Exploiting Web Apps: Hands-On",
       "description": "The Diana Initiative pre-registration and badge is required to attend this event.\r\n\r\nLearn attack techniques in a fun, CTF-style hands-on workshop.  Participants will attack on Web applications with: command injections in Bash, PowerShell and ImageMagick; SQL injection; Cross-Site Request Forgery; Cross-Site Scripting; cookie manipulation, and exploit Drupal and SAML.  We will also implement network defenses and monitoring agents. We will use Burp, Splunk, Snort, and simple Python scripts.\r\n\r\nPrerequisites: participants should know basic security and networking. Experience with Web development is helpful but not necessary.\r\n\r\nStudents must have a computer with a Web browser and Java.  For some projects you will need a Linux or Windows virtual or cloud machine.\r\n\r\nAll project instructions and materials are freely available online.",
       "speakers": [
-        40806,
-        40807
+        40173,
+        40174
       ],
       "end_date": "2019-08-10T23:50+0000",
       "includes": "",
@@ -12934,7 +12934,7 @@
       "start_date": "2019-08-10T23:00+0000",
       "event_type": 40005,
       "conference": "DEFCON27",
-      "updated_at": "2019-08-06T02:03+0000",
+      "updated_at": "2019-08-06T17:12+0000",
       "id": 40820
     },
     {
@@ -13021,7 +13021,7 @@
       "title": "Hacking Brainstems, Mitigating Vulns: Promise from a 0 Day Inside",
       "description": "The Diana Initiative pre-registration and badge is required to attend this event.\r\n\r\nWhen I was 32, I lived on the beach, thrived in my made-for-me role inspecting large-scale construction sites, and enjoyed a mix of being highly social and deeply reflective. Then I had a Brainstem Stroke, four Cerebellar strokes, and massive concussions from external trauma/being strangled. Ability to move, communicate, comprehend, or even unconsciously run homeostasis was gone. Just like that. So, what do you do when every sense has been wiped of prior filters, every known ability glitches or has been removed, and only you can climb your way out? Hear how I analytically devised an ingenious way to format a wholly new internal working platform, one based on rational steps, exploiting my body's electrical system to remove the conscious/subconscious barrier, electrical impulses, ratios and leaning on \u201chacking\u201d ways around what was no longer functioning. This started with the only things I could control: breath and my tongue against my teeth. I held faith that any logical networking would provide a workable outcome. What transpired turned into something that approximately 1% of 1% do: survive, and then thrive, beyond damage to the deepest, most challenging CPU known to man. Doing this, I made 45 years of recovery in 5. An analog reality of \u201cengineering out of the problem\u201d that inspires joy, courage, humanity.",
       "speakers": [
-        40814
+        40668
       ],
       "end_date": "2019-08-10T20:50+0000",
       "includes": "",
@@ -13030,7 +13030,7 @@
       "start_date": "2019-08-10T20:00+0000",
       "event_type": 40005,
       "conference": "DEFCON27",
-      "updated_at": "2019-08-06T02:05+0000",
+      "updated_at": "2019-08-06T17:32+0000",
       "id": 40827
     },
     {
@@ -13046,7 +13046,7 @@
       "start_date": "2019-08-10T22:00+0000",
       "event_type": 40005,
       "conference": "DEFCON27",
-      "updated_at": "2019-08-06T02:05+0000",
+      "updated_at": "2019-08-06T17:36+0000",
       "id": 40828
     },
     {
@@ -15024,5 +15024,5 @@
       "id": 40963
     }
   ],
-  "updated_at": "2019-08-06T17:07+0000"
+  "updated_at": "2019-08-06T17:52+0000"
 }

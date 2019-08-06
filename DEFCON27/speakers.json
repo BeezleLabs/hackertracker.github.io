@@ -51,12 +51,12 @@
       "id": 40007
     },
     {
-      "description": "Philippe Laulheret is a Senior Security Researcher on the McAfee Advanced Threat Research team. With a focus on Reverse Engineering and Vulnerability Research, Philippe uses his background in Embedded Security and Software Engineering to poke at complex system and get them to behave in interesting ways.\n\nHe previously talked about Reverse Engineering PSX game at Bsides PDX, created & contributed to some Hardware Hacking CTF when working at Red Balloon Security and shared the love of tearing apart VOIP phones during ad-hoc workshops at multiple conferences (Summer Con, Hardware Hacking Village, etc.)",
+      "description": "Philippe Laulheret is a Senior Security Researcher on the McAfee Advanced Threat Research team. With a focus on Reverse Engineering and Vulnerability Research, Philippe uses his background in Embedded Security and Software Engineering to poke at complex system and get them to behave in interesting ways.\r\n\r\nHe previously talked about Reverse Engineering PSX game at Bsides PDX, created & contributed to some Hardware Hacking CTF when working at Red Balloon Security and shared the love of tearing apart VOIP phones during ad-hoc workshops at multiple conferences (Summer Con, Hardware Hacking Village, etc.)",
       "twitter": "@phLaul",
       "title": "Senior Security Researcher @ McAfee Advanced Threat Research",
-      "name": "Philippe Laulheret\u2020",
+      "name": "Philippe Laulheret",
       "conference": "DEFCON27",
-      "updated_at": "2019-07-27T17:33+0000",
+      "updated_at": "2019-08-06T17:43+0000",
       "link": "",
       "id": 40008
     },
@@ -694,9 +694,9 @@
       "description": "Jens M\u00b8ller is a PhD student at the Chair for Network and Data Security, Ruhr University Bochum, Germany. His research interests are legacy protocols and data formats, for which he loves to investigate what could possibly go wrong in a modern world. He has experience as a speaker on international security conferences (BlackHat, IEEE S&P, OWASP) and as a freelancer in network penetration testing and security auditing. Besides breaking thinks, he develops free open source software, for example, tools related to network printer exploit^H^H^H^H^H^H^H, um, \"debugging\".",
       "twitter": "@jensvoid",
       "title": "Ruhr University Bochum",
-      "name": "Jens M\u00b8ller",
+      "name": "Jens M\u00fcller",
       "conference": "DEFCON27",
-      "updated_at": "2019-07-27T17:33+0000",
+      "updated_at": "2019-08-06T17:39+0000",
       "link": "",
       "id": 40072
     },
@@ -704,9 +704,9 @@
       "description": "Christian (quaddi) Dameff MD is an emergency medicine doctor, former open capture the flag champion, prior DEF CON/RSA/Blackhat/HIMSS speaker, and security researcher. He is currently the Medical Director of Cybersecurity at The University of California San Diego. Published works include topics such as therapeutic hypothermia after cardiac arrest, novel drug targets for myocardial infarction patients, and other Emergency Medicine related works with an emphasis on CPR optimization. Published security research topics including hacking critical healthcare infrastructure, medical devices and the effects of malware on patient care. This is his fifteenth DEF CON.\r\n\r\n--\r\n\r\nDr. Christian Dameff an Emergency Physician, Clinical Informatician, and researcher. He is currently the Medical Director of Cybersecurity for UC San Diego Health. Published clinical works include post cardiac arrest care including therapeutic hypothermia, novel drug targets for acute myocardial infarction patients, ventricular fibrillation waveform analysis, cardiopulmonary resuscitation (CPR) quality and optimization, dispatch assisted CPR, teletoxicology, clinical applications of wearables, and electronic health records. He has published in internationally known journals such as JAMA, Resuscitation, Circulation, JAMA Cardiology, Academic Medicine, and others.\r\n\r\nDr. Dameff is also a hacker and security researcher interested in the intersection of healthcare, patient safety, and cybersecurity. He has spoken at some of the world\u2019s most prominent hacker forums including DEFCON, RSA, Blackhat, Derbycon, BSides, and is one of the cofounders of the CyberMed Summit, a novel multidisciplinary conference with emphasis on medical device and infrastructure cybersecurity. Published cybersecurity topics include hacking 911 systems, HL7 messaging vulnerabilities, and malware.\r\n\r\nDr. Dameff\u2019s unique perspective has allowed him to perform some ground-breaking research and be covered by news publications such as Popular Science, The Washington Post, ABC NIGHTLINE, and WIRED.",
       "twitter": "@CdameffMD",
       "title": "Medical Director of Security at The University of California San Diego",
-      "name": "Christian (quaddi) Dameff",
+      "name": "Christian \"quaddi\" Dameff",
       "conference": "DEFCON27",
-      "updated_at": "2019-08-04T03:19+0000",
+      "updated_at": "2019-08-06T17:39+0000",
       "link": "",
       "id": 40073
     },
@@ -714,9 +714,9 @@
       "description": "Jeff (r3plicant) Tully is an anesthesiologist, pediatrician and security researcher with an interest in understanding the ever-growing intersections between healthcare and technology.",
       "twitter": "@JeffTullyMD",
       "title": "Anesthesiologist at The University of California Davis",
-      "name": "Jeff \u00ecr3plicant\u00ee Tully MD",
+      "name": "Jeff \"r3plicant\" Tully MD",
       "conference": "DEFCON27",
-      "updated_at": "2019-07-27T17:33+0000",
+      "updated_at": "2019-08-06T17:39+0000",
       "link": "",
       "id": 40074
     },
@@ -1031,12 +1031,12 @@
       "id": 40105
     },
     {
-      "description": "Alvaro Mu\u00d2oz (@pwntester) is Principal Security Researcher at Micro Focus Fortify where he researches new software vulnerabilities and implement systems to detect them. His research focuses on web application frameworks where he looks for vulnerabilities or unsafe uses of APIs. Before joining the research team, he worked as an Application Security Consultant helping enterprises to deploy application security programs. Mu\u00d2oz has presented at many Security conferences including BlackHat, DEF CON, RSA, OWASP AppSec US & EU, JavaOne, etc and holds several infosec certifications, including OSCP, GWAPT and CISSP. He plays CTFs with Spanish int3pids team and blogs at http://www.pwntester.com.",
+      "description": "Alvaro Mu\u00f1oz (@pwntester) is Principal Security Researcher at Micro Focus Fortify where he researches new software vulnerabilities and implement systems to detect them. His research focuses on web application frameworks where he looks for vulnerabilities or unsafe uses of APIs. Before joining the research team, he worked as an Application Security Consultant helping enterprises to deploy application security programs. Mu\u00d2oz has presented at many Security conferences including BlackHat, DEF CON, RSA, OWASP AppSec US & EU, JavaOne, etc and holds several infosec certifications, including OSCP, GWAPT and CISSP. He plays CTFs with Spanish int3pids team and blogs at http://www.pwntester.com.",
       "twitter": "@pwntester",
       "title": "Software Security Researcher @ Fortify (Micro Focus)",
-      "name": "Alvaro Mu\u00d2oz",
+      "name": "Alvaro Mu\u00f1oz",
       "conference": "DEFCON27",
-      "updated_at": "2019-07-27T17:33+0000",
+      "updated_at": "2019-08-06T17:43+0000",
       "link": "http://www.pwntester.com",
       "id": 40106
     },
@@ -1211,16 +1211,6 @@
       "id": 40123
     },
     {
-      "description": "Jiska has a M.Sc. in IT-Security. She is a PhD student at the Secure Mobile Networking Lab (TU Darmstadt) since May 2014. Her main research interest are wireless physical layer security and reverse engineering. You might also know her embroidery projects or game shows from past CCC events.",
-      "twitter": "@seemoolab",
-      "title": "TU Darmstadt, Secure\nMobile Networking Lab",
-      "name": "jiska",
-      "conference": "DEFCON27",
-      "updated_at": "2019-07-27T17:33+0000",
-      "link": "",
-      "id": 40124
-    },
-    {
       "description": "Fabian has a M.Sc. in IT-Security. He is working as a researcher and analyst at ERNW. His main research interests are full stack IoT and web application security. In his free time, Fabian likes to capture some flags.",
       "twitter": "",
       "title": "",
@@ -1391,12 +1381,12 @@
       "id": 40142
     },
     {
-      "description": "R\u00c8mi G\u00c8raud-Stewart is a cryptologist and security expert with Ecole normale superieure in Paris, focusing on intrusion and cyberwarfare.",
+      "description": "R\u00e9mi G\u00e9raud-Stewart is a cryptologist and security expert with Ecole normale superieure in Paris, focusing on intrusion and cyberwarfare.",
       "twitter": "",
       "title": "Hacker",
-      "name": "R\u00c8mi G\u00c8raud-Stewart",
+      "name": "R\u00e9mi G\u00e9raud-Stewart",
       "conference": "DEFCON27",
-      "updated_at": "2019-07-27T17:33+0000",
+      "updated_at": "2019-08-06T17:40+0000",
       "link": "",
       "id": 40143
     },
@@ -1701,12 +1691,12 @@
       "id": 40173
     },
     {
-      "description": "Elizabeth Biddlecome is a senior researcher at Bowne Consulting, an independent consultant, and a part-time instructor at City College San\nFrancisco, delivering technical training and mentorship to students and professionals. She leverages her enthusiasm for architecture,\nsecurity, and code to design and implement comprehensive information security solutions for business needs. Elizabeth enjoys wielding\neverything from soldering irons to scripting languages in cybersecurity competitions, hackathons, and CTFs.",
+      "description": "Elizabeth Biddlecome is a senior researcher at Bowne Consulting, an independent consultant, and a part-time instructor at City College San\r\nFrancisco, delivering technical training and mentorship to students and professionals. She leverages her enthusiasm for architecture,\r\nsecurity, and code to design and implement comprehensive information security solutions for business needs. Elizabeth enjoys wielding\r\neverything from soldering irons to scripting languages in cybersecurity competitions, hackathons, and CTFs.",
       "twitter": "",
       "title": "Senior Researcher, Bowne Consulting",
       "name": "Elizabeth Biddlecome",
       "conference": "DEFCON27",
-      "updated_at": "2019-07-27T17:33+0000",
+      "updated_at": "2019-08-06T17:12+0000",
       "link": "",
       "id": 40174
     },
@@ -2289,16 +2279,6 @@
       "updated_at": "2019-07-27T17:33+0000",
       "link": "",
       "id": 40232
-    },
-    {
-      "description": "Gabriel Ryan is an offensive security R&D and consultant at SpecterOps. He is the author of EAPHammer, a toolkit for performing targeted rogue access point attacks against enterprise wireless networks. Gabriel has presented at DEF CON, DerbyCon, Hackfest, and several Security BSides conferences on topics ranging from infrastructure security to access control protocols and red team tradecraft. His professional interests include wireless security, systems internals, low-level programming, and infrastructure automation.",
-      "twitter": "",
-      "title": "",
-      "name": "Gabriel Ryan",
-      "conference": "DEFCON27",
-      "updated_at": "2019-07-27T17:33+0000",
-      "link": "",
-      "id": 40233
     },
     {
       "description": "Aseem Jakhar is the Director, research at Payatu Software Labs https://payatu.com a security testing company specialized in IoT, Embedded, cloud, mobile security. He is the founder of null-The open security community, a registered not-for-profit organization https://null.co.in and also organizes https://nullcon.net and https://hardwear.io security conferences. He has worked on various security software including UTM appliances, messaging/security appliances, anti-spam engine, anti-virus software, bayesian engine to name a few. He currently spends his time researching on IoT security and hacking things. He is an active speaker and trainer at security conferences like AusCERT, Black Hat, Brucon, Defcon, Hack.lu, Hack in Paris, Hack In The Box, PHDays and many more. He has authored various open source security software including   - EXPLIoT - IoT Exploitation Framework   - DIVA (Damn Insecure and Vulnerable App) for Android   - Jugaad/Indroid - Linux Thread injection kit for x86 and ARM   - Dexfuzzer - Dex file format fuzzer",
@@ -3616,7 +3596,7 @@
       "title": "",
       "name": "Joe Gray",
       "conference": "DEFCON27",
-      "updated_at": "2019-08-04T18:36+0000",
+      "updated_at": "2019-08-06T17:30+0000",
       "link": "",
       "id": 40377
     },
@@ -4559,16 +4539,6 @@
       "updated_at": "2019-08-03T05:31+0000",
       "link": "",
       "id": 40473
-    },
-    {
-      "description": "Dr. Suzanne Schwartz\u2019s programmatic efforts in medical device cybersecurity extend beyond incident response to include raising awareness, educating, outreach, partnering and coalition-building within the Healthcare and Public Health Sector (HPH) as well as fostering collaborations across other government agencies and the private sector. Suzanne has been recognized for Excellence in Innovation at FDA\u2019s Women\u2019s History Month on March 1st 2018 for her work in Medical Device Cybersecurity. Suzanne chairs CDRH\u2019s Cybersecurity Working Group, tasked with formulating FDA\u2019s medical device cybersecurity policy. She also co-chairs the Government Coordinating Council (GCC) for the HPH Critical Infrastructure Sector, focusing on the sector\u2019s healthcare cybersecurity initiatives. ",
-      "twitter": "",
-      "title": "Associate Director for Science and Strategic Partnerships at the US FDA",
-      "name": "_deleteme_ Suzanne Schwartz, MD",
-      "conference": "DEFCON27",
-      "updated_at": "2019-08-06T17:07+0000",
-      "link": "",
-      "id": 40474
     },
     {
       "description": "Austin King is a UW-Madison graduate, with a Master's degree in public administration from Harvard University and law degree from New York University. He won his Madison City Council seat at the age of 21 and at age 24 he was chosen as council president. He was hired by the Federal Trade Commision, where he serves as an adviser to Rebecessar Kelly Slaughter. King is also president of the board of directors of SurvJustice, the non-profit legal arm of the MeToo movement. ",
@@ -7264,16 +7234,6 @@
       "description": "",
       "twitter": "",
       "title": "",
-      "name": "Vandana Verma Sehgal",
-      "conference": "DEFCON27",
-      "updated_at": "2019-08-05T01:44+0000",
-      "link": "",
-      "id": 40745
-    },
-    {
-      "description": "",
-      "twitter": "",
-      "title": "",
       "name": "YanYan Wang",
       "conference": "DEFCON27",
       "updated_at": "2019-08-05T01:44+0000",
@@ -7484,16 +7444,6 @@
       "description": "",
       "twitter": "",
       "title": "",
-      "name": "Joe Gray",
-      "conference": "DEFCON27",
-      "updated_at": "2019-08-02T20:57+0000",
-      "link": "",
-      "id": 40767
-    },
-    {
-      "description": "",
-      "twitter": "",
-      "title": "",
       "name": "Emilie St-Pierre",
       "conference": "DEFCON27",
       "updated_at": "2019-08-02T20:57+0000",
@@ -7509,16 +7459,6 @@
       "updated_at": "2019-08-02T20:57+0000",
       "link": "",
       "id": 40769
-    },
-    {
-      "description": "",
-      "twitter": "",
-      "title": "",
-      "name": "Tanya Janca",
-      "conference": "DEFCON27",
-      "updated_at": "2019-08-02T20:57+0000",
-      "link": "",
-      "id": 40770
     },
     {
       "description": "",
@@ -7549,16 +7489,6 @@
       "updated_at": "2019-08-02T20:57+0000",
       "link": "",
       "id": 40773
-    },
-    {
-      "description": "",
-      "twitter": "",
-      "title": "",
-      "name": "_deleteme_ Chloe Messdaghi",
-      "conference": "DEFCON27",
-      "updated_at": "2019-08-06T17:02+0000",
-      "link": "",
-      "id": 40774
     },
     {
       "description": "",
@@ -7599,16 +7529,6 @@
       "updated_at": "2019-08-02T20:57+0000",
       "link": "",
       "id": 40778
-    },
-    {
-      "description": "",
-      "twitter": "",
-      "title": "",
-      "name": "Miki Demeter",
-      "conference": "DEFCON27",
-      "updated_at": "2019-08-02T20:57+0000",
-      "link": "",
-      "id": 40779
     },
     {
       "description": "",
@@ -7874,26 +7794,6 @@
       "description": "",
       "twitter": "",
       "title": "",
-      "name": "Sam Bowne",
-      "conference": "DEFCON27",
-      "updated_at": "2019-08-02T20:57+0000",
-      "link": "",
-      "id": 40806
-    },
-    {
-      "description": "",
-      "twitter": "",
-      "title": "",
-      "name": "Elizabeth Biddlecome",
-      "conference": "DEFCON27",
-      "updated_at": "2019-08-02T20:57+0000",
-      "link": "",
-      "id": 40807
-    },
-    {
-      "description": "",
-      "twitter": "",
-      "title": "",
       "name": "Whitney Maxwell",
       "conference": "DEFCON27",
       "updated_at": "2019-08-02T20:57+0000",
@@ -7954,19 +7854,9 @@
       "description": "",
       "twitter": "",
       "title": "",
-      "name": "Mandy Logan",
-      "conference": "DEFCON27",
-      "updated_at": "2019-08-02T20:57+0000",
-      "link": "",
-      "id": 40814
-    },
-    {
-      "description": "",
-      "twitter": "",
-      "title": "",
       "name": "Vandana Verma Sehgal",
       "conference": "DEFCON27",
-      "updated_at": "2019-08-02T20:57+0000",
+      "updated_at": "2019-08-06T17:36+0000",
       "link": "",
       "id": 40815
     },
@@ -8291,12 +8181,12 @@
       "id": 40847
     },
     {
-      "description": "University of Darmstadt in Germany",
-      "twitter": "",
-      "title": "",
+      "description": "Jiska has a M.Sc. in IT-Security. She is a PhD student at the Secure Mobile Networking Lab (TU Darmstadt) since May 2014. Her main research interest are wireless physical layer security and reverse engineering. You might also know her embroidery projects or game shows from past CCC events.",
+      "twitter": "@seemoolab",
+      "title": "TU Darmstadt, SecureMobile Networking Lab",
       "name": "Jiska",
       "conference": "DEFCON27",
-      "updated_at": "2019-08-05T20:11+0000",
+      "updated_at": "2019-08-06T17:21+0000",
       "link": "",
       "id": 40848
     },
@@ -8351,5 +8241,5 @@
       "id": 40853
     }
   ],
-  "updated_at": "2019-08-06T17:07+0000"
+  "updated_at": "2019-08-06T17:43+0000"
 }
