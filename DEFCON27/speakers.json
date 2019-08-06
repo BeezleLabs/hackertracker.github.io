@@ -2775,10 +2775,10 @@
       "title": "",
       "name": "Ethan Gregory Dodge",
       "link": "",
-      "description": "",
+      "description": "Ethan Gregory Dodge started his career as a cyber-security engineer in Silicon Valley. His understanding of security naturally flowered into a deep passion for privacy and he slowly found himself following journalists uncovering the state of surveillance in the United States. In early 2016, he experienced a drastic change of world view when he abandoned the orthodox Mormon belief system he was raised with. Despite having left the religion, Ethan has found the culture of Mormonism to be important to his identity. He continues studying the religious movement's history and progression as a secular Mormon. In late 2016, he was a founding member of the MormonLeaks.io team where his loves of transparency and Mormonism intersected. A year later, he co-founded the Truth & Transparency Foundation, a non-profit newsroom dedicated to empowering the disenfranchised by promoting transparency within religious institutions. He holds a bachelor's degree in Information Technology from Utah Valley University and enjoys learning and writing about where his interests of technology, security, privacy, and religion intersect.",
       "conference": "DEFCON27",
       "id": 40286,
-      "updated_at": "2019-07-30T05:24+0000"
+      "updated_at": "2019-08-06T00:03+0000"
     },
     {
       "twitter": "",
@@ -3275,10 +3275,10 @@
       "title": "Chief Security Officer at 802 Secure",
       "name": "Mike Raggo",
       "link": "",
-      "description": "Mike Raggo (Twitter: @DataHiding) is Chief Security Officer at 802 Secure and has over 20 years of security research experience. His current focus is wireless IoT threats impacting the enterprise. Michael is the author of \"Mobile Data Loss: Threats & Countermeasures\" and \"Data Hiding\" for Syngress Books, and contributing author for \"Information Security the Complete Reference 2nd Edition\". A former security trainer, Michael has briefed international defense agencies including the FBI and Pentagon, and is a frequent presenter at security conferences, including Black Hat, DEF CON, Gartner, DoD Cyber Crime, OWASP, HackCon, and SANS.",
+      "description": "Mike Raggo (Twitter: @DataHiding) is Chief Security Officer at 802 Secure and has over 20 years of security research experience. His current focus is wireless IoT threats impacting the enterprise. Michael is the author of \"Mobile Data Loss: Threats & Countermeasures\" and \"Data Hiding\" for Syngress Books, and contributing author for \"Information Security the Complete Reference 2nd Edition\". A former security trainer, Michael has briefed international defense agencies including the FBI and Pentagon, and is a frequent presenter at security conferences, including Black Hat, DEF CON, Gartner, DoD Cyber Crime, OWASP, HackCon, and SANS.\r\n\r\n@mikeraggo",
       "conference": "DEFCON27",
       "id": 40339,
-      "updated_at": "2019-08-01T02:50+0000"
+      "updated_at": "2019-08-05T19:53+0000"
     },
     {
       "twitter": "@chethosmer",
@@ -5158,7 +5158,7 @@
       "description": "Worked for internet service providers and public-sector sector security blue teams before joining Pen Test Partners (PTP) in 2017. His background in designing and implementing secure networks and applications for hostile environments allows him to understand and communicate the inherent trade-offs between security and usability. At PTP, Alex has undertaken penetration testing of systems as diverse as banking and critical national infrastructure and bringing his skills as a qualified pilot and aeronautical engineer to the testing of the aviation sector.\r\n\r\nAlex is a light aircraft pilot and hardware reverse engineer with a keen interest in commercial avionics security. He started in this space by securing access to a number of end-of-life airframes & investigating / reverse engineering the avionics hardware and network protocols that manage, for example, flight surface control movement.",
       "conference": "DEFCON27",
       "id": 40533,
-      "updated_at": "2019-08-04T18:37+0000"
+      "updated_at": "2019-08-05T23:59+0000"
     },
     {
       "twitter": "",
@@ -5825,10 +5825,10 @@
       "title": "",
       "name": "Alan Monie",
       "link": "",
-      "description": "",
+      "description": "Alan has many years\u2019 experience in the IT industry, including working for the Defence Evaluation and Research Agency, and other government agencies.\r\n\r\nAlan has world-class skills in both Application and Infrastructure testing and often identifies \u201c0-days\u201d in products from hard disk encryption software to on-line collaboration tools.",
       "conference": "DEFCON27",
       "id": 40600,
-      "updated_at": "2019-08-04T01:18+0000"
+      "updated_at": "2019-08-06T00:00+0000"
     },
     {
       "twitter": "",
@@ -5845,10 +5845,10 @@
       "title": "",
       "name": "Ben Brecht",
       "link": "",
-      "description": "",
+      "description": "Ben started his career in the automotive industry in 2010. Since 2013, he has been a Program Manager responsible for the global rollout of connected car technology. He was assigned to work in the U.S. to work on Vehicle-to-Everything (V2X) security in 2015. He is currently the Vice Chair of the 5GAA WG7 \"security & privacy\" and involved in security topics for V2X communication.",
       "conference": "DEFCON27",
       "id": 40602,
-      "updated_at": "2019-08-04T01:18+0000"
+      "updated_at": "2019-08-06T00:05+0000"
     },
     {
       "twitter": "",
@@ -5865,40 +5865,40 @@
       "title": "",
       "name": "Cat Murdock",
       "link": "",
-      "description": "",
+      "description": "Cat Murdock is a Security Analyst with GuidePoint Security's Threat and Attack Simulation team. For the last few years, she has worked on red teams predominantly as a social engineer. Murdock finds the space where privacy policies end and users' choice regarding their own privacy fascinating. Good intentions towards privacy only go so far, and there are many gaps in knowledge, ability, and/or desire that increase risk to individuals' privacy. She likes to explore where this interacts with organizations' established privacy policies. She also really likes dogs.",
       "conference": "DEFCON27",
       "id": 40604,
-      "updated_at": "2019-08-04T01:18+0000"
+      "updated_at": "2019-08-06T00:04+0000"
     },
     {
       "twitter": "",
       "title": "",
       "name": "Cathie Yun",
       "link": "",
-      "description": "Software Engineer and Applied Cryptographer",
+      "description": "Cathie was an applied cryptographer at Chain and Interstellar. She enjoys working on open-source zero knowledge proof implementations and protocols for confidentiality in blockchain systems. She has a background in distributed systems and cryptography from MIT. When she isn't designing better blockchain protocols, she can be found climbing tall rocks and performing aerial silks.",
       "conference": "DEFCON27",
       "id": 40605,
-      "updated_at": "2019-08-04T01:58+0000"
+      "updated_at": "2019-08-06T00:07+0000"
     },
     {
       "twitter": "",
       "title": "",
       "name": "Christian Paquin",
       "link": "",
-      "description": "",
+      "description": "Christian Paquin - I am a crypto specialist in Microsoft Research's Security and Cryptography team. I\u2019m currently involved in projects related to post-quantum cryptography, such as the Open Quantum Safe project. I\u2019m also leading the development of U-Prove, a privacy-enhanced authentication technology. In my time at MSR, I\u2019ve worked on projects involving various privacy-enhancing technologies, smart cloud encryption (e.g., searchable and homomorphic encryption), and the intersection of AI and security. Prior to joining Microsoft in 2008, I was the Chief Security Engineer at Credentica, a crypto developer at Silanis Technology working on digital signature systems, and a security engineer at Zero-Knowledge Systems working on TOR-like systems.",
       "conference": "DEFCON27",
       "id": 40606,
-      "updated_at": "2019-08-04T01:18+0000"
+      "updated_at": "2019-08-06T00:06+0000"
     },
     {
       "twitter": "",
       "title": "",
       "name": "Dan Hastings",
       "link": "",
-      "description": "",
+      "description": "Dan Hastings is a Security Consultant at NCC Group. He has a background in education in the capacity of tech instructor teaching at Year Up and Abaarso School in Abaarso, Somaliland. In his free time you can find him surfing, playing music or reading privacy policies. ",
       "conference": "DEFCON27",
       "id": 40607,
-      "updated_at": "2019-08-04T01:19+0000"
+      "updated_at": "2019-08-05T23:59+0000"
     },
     {
       "twitter": "",
@@ -5915,50 +5915,50 @@
       "title": "",
       "name": "George Callow",
       "link": "",
-      "description": "",
+      "description": "George is a cyber security engineer, currently focusing on application and cloud security. He holds degrees in electrical engineering and computer science, as well as the OSCP certification. His experience with RSA signatures came from a software project involving online code signing. He enjoys creating and participating in CTFs, and collecting and hacking electronic badges.",
       "conference": "DEFCON27",
       "id": 40609,
-      "updated_at": "2019-08-04T01:19+0000"
+      "updated_at": "2019-08-06T00:07+0000"
     },
     {
       "twitter": "",
       "title": "",
       "name": "Harlo Holmes",
       "link": "",
-      "description": "",
+      "description": "Harlo Holmes is the Director of Digital Security at Freedom of the Press Foundation. She strives to help individual journalists in various media organizations become confident and effective in securing their communications within their newsrooms, with their sources, and with the public at large. She is a media scholar, software programmer, and activist.",
       "conference": "DEFCON27",
       "id": 40610,
-      "updated_at": "2019-08-04T01:19+0000"
+      "updated_at": "2019-08-06T00:02+0000"
     },
     {
       "twitter": "",
       "title": "",
       "name": "Karl Koscher",
       "link": "",
-      "description": "",
+      "description": "Karl Koscher is a research scientist working at the University of Washington where he specializes in wireless and embedded systems security. Previously, he was a postdoctoral scholar working with Stefan Savage at UC San Diego. He received his Ph.D. from the University of Washington in 2014, where he was advised by Tadayoshi Kohno.",
       "conference": "DEFCON27",
       "id": 40611,
-      "updated_at": "2019-08-04T01:19+0000"
+      "updated_at": "2019-08-06T00:06+0000"
     },
     {
       "twitter": "",
       "title": "",
       "name": "Kate Rose",
       "link": "",
-      "description": "",
+      "description": "Kate Rose is director of an organization that provides privacy, security, and technology resources and training to nonprofits and activists. She\u2019s organized civic hackathons across the US, and currently leads a volunteer team building open source state advocacy tools. When she\u2019s not recreationally filing FOIA requests, she illustrates and designs fabrics.",
       "conference": "DEFCON27",
       "id": 40612,
-      "updated_at": "2019-08-04T01:19+0000"
+      "updated_at": "2019-08-06T00:02+0000"
     },
     {
       "twitter": "",
       "title": "",
       "name": "Katelyn Bowden",
       "link": "",
-      "description": "",
+      "description": "Katelyn is the founder and CEO of BADASS- a nonprofit dedicated to fighting image based abuse online. Since starting the organization in 2017, BADASS has helped thousands victims of Non Consensual Pornography remove their photos and protect themselves, worked with platforms to prevent private images from being uploaded, and assisted in getting several statewide revenge porn laws put into place. ",
       "conference": "DEFCON27",
       "id": 40613,
-      "updated_at": "2019-08-04T01:19+0000"
+      "updated_at": "2019-08-06T00:07+0000"
     },
     {
       "twitter": "",
@@ -5975,20 +5975,20 @@
       "title": "",
       "name": "Mark B Cooper",
       "link": "",
-      "description": "",
+      "description": "Mark B. Cooper is president and founder of PKI Solutions. He has deep knowledge in all things Public Key Infrastructure (PKI) and has been known as \u201cThe PKI Guy\u201d since his early days at Microsoft. PKI Solutions Inc. provides consulting, training and software solutions for Microsoft PKI and related technologies for enterprises around the world. Prior to founding PKI Solutions, Cooper was a senior engineer at Microsoft, where he was a PKI and identity management subject matter expert who designed, implemented and supported Active Directory Certificate Services (ADCS) environments for Microsoft\u2019s largest customers.",
       "conference": "DEFCON27",
       "id": 40615,
-      "updated_at": "2019-08-04T01:19+0000"
+      "updated_at": "2019-08-06T00:04+0000"
     },
     {
       "twitter": "",
       "title": "",
       "name": "Michael Portera",
       "link": "",
-      "description": "",
+      "description": "Michael is a Red Team Operator at Millennium Corporation supporting a Full Spectrum Red Team. His previous experiences focused on threat hunting and security analytics. He\u2019s been featured in the official Raspberry Pi magazine (MagPi) and has given several talks at conferences including Shmoocon and Layer8. He enjoys maker culture, CTFs, arcade games, and dance parties with his toddler.",
       "conference": "DEFCON27",
       "id": 40616,
-      "updated_at": "2019-08-04T01:19+0000"
+      "updated_at": "2019-08-06T00:01+0000"
     },
     {
       "twitter": "",
@@ -6005,10 +6005,10 @@
       "title": "",
       "name": "Riana Pfefferkorn",
       "link": "",
-      "description": "",
+      "description": "Riana Pfefferkorn is the Associate Director of Surveillance and Cybersecurity at the Stanford Center for Internet and Society. Her work focuses on investigating and analyzing the U.S. government's policy and practices for forcing decryption and/or influencing crypto-related design of online platforms and services, devices, and products, both via technical means and through the courts and legislatures.",
       "conference": "DEFCON27",
       "id": 40618,
-      "updated_at": "2019-08-04T01:19+0000"
+      "updated_at": "2019-08-06T00:08+0000"
     },
     {
       "twitter": "",
@@ -6025,10 +6025,10 @@
       "title": "",
       "name": "Sarah McCarthy",
       "link": "",
-      "description": "",
+      "description": "Sarah McCarthy is a researcher at the Centre for Secure Information Technologies, Queen\u2019s University Belfast (QUB), where she has been based for 5 years. She specialises in post-quantum lattice-based cryptography, has made contributions to the EU-funded H2020 SAFEcrypto project and is involved in the ETSI Standards Quantum Safe Cryptography (QSC) Working Group. She has recently given invited talks at the 2018 ETSI QSC Workshop and 2019 International Cryptographic Module Conference. Sarah graduated from QUB with a Masters of Science in Mathematics and is currently completing her PhD in Computer Science there.",
       "conference": "DEFCON27",
       "id": 40620,
-      "updated_at": "2019-08-04T01:20+0000"
+      "updated_at": "2019-08-06T00:03+0000"
     },
     {
       "twitter": "",
@@ -6055,40 +6055,40 @@
       "title": "",
       "name": "Tiffany Li",
       "link": "",
-      "description": "",
+      "description": "Tiffany C. Li is a tech lawyer and legal scholar. She is a Resident Fellow at Yale Law School\u2019s Information Society Project.\r\n\r\nLi is an expert on privacy, intellectual property, and tech platform governance. Li\u2019s writing has appeared in the Washington Post, NBC News, Slate, and academic publications.\r\n\r\nLi has been honored as a Transatlantic Digital Debates Fellow (Global Public Policy Institute/ New America Foundation), a Fellow of Information Privacy (International Association of Privacy Professionals), and an Internet Law and Policy Foundry Fellow (Internet Education Foundation).\r\n\r\nLi is a licensed attorney and holds CIPP/US, CIPP/E, CIPT, and CIPM certifications. She has a J.D. from Georgetown University Law Center, where she was a Global Law Scholar, and a B.A. in English from University of California Los Angeles.",
       "conference": "DEFCON27",
       "id": 40623,
-      "updated_at": "2019-08-04T01:20+0000"
+      "updated_at": "2019-08-06T00:01+0000"
     },
     {
       "twitter": "",
       "title": "",
       "name": "Tyler Kell",
       "link": "",
-      "description": "",
+      "description": "Tyler Kell is a Research Engineer at Cornell Tech in New York City. In a prior life, before becoming a researcher, he worked as a penetration tester and security consultant.",
       "conference": "DEFCON27",
       "id": 40624,
-      "updated_at": "2019-08-04T01:20+0000"
+      "updated_at": "2019-08-06T00:04+0000"
     },
     {
       "twitter": "",
       "title": "",
       "name": "Vitor Ventura",
       "link": "",
-      "description": "",
+      "description": "Vitor Ventura is a Cisco Talos security researcher. Has a researcher, he investigated and published various articles on emerging threats. Most of the days Vitor is hunting for threats, investigating, them reversing code but also looking for the geopolitical and/or economic context that better suits them. Vitor has been a speaker in conferences, like Recon and BSides Lisbon among others.\r\nPrior to that he was IBM X-Force IRIS European manager where he was lead responder on several high profile organizations affected by the WannaCry and NotPetya infections, helping to determine the extent of the damage and to define the recovery path. Before that he did penetration testing at IBM X-Force Red, where Vitor lead flagship projects like Connected Car assessments and Oil and Gas ICS security assessments, custom mobile devices among other IoT security projects. Vitor holds multiple security related certifications like GREM (GIAC Reverse Engineer Malware), CISM (Certified Information Security Manager).",
       "conference": "DEFCON27",
       "id": 40625,
-      "updated_at": "2019-08-04T01:20+0000"
+      "updated_at": "2019-08-06T00:01+0000"
     },
     {
-      "twitter": "",
+      "twitter": "@anomalroil",
       "title": "",
       "name": "Yolan Romailler",
       "link": "",
-      "description": "",
+      "description": "Yolan is a security researcher at Kudelski Security delving into (and dwelling on) cryptography, crypto-coding, blockchains technologies and other fun things. He has spoken at Black Hat USA, BSidesLV, DEF CON and North Sec, on topics including automation in cryptography, public keys vulnerabilities, ECC and presented at FDTC the first known practical fault attack against the EdDSA signature scheme.",
       "conference": "DEFCON27",
       "id": 40626,
-      "updated_at": "2019-08-04T01:20+0000"
+      "updated_at": "2019-08-06T00:00+0000"
     },
     {
       "twitter": "",
@@ -8089,7 +8089,267 @@
       "conference": "DEFCON27",
       "id": 40827,
       "updated_at": "2019-08-02T20:57+0000"
+    },
+    {
+      "twitter": "",
+      "title": "",
+      "name": "Lennert Wouters",
+      "link": "",
+      "description": "",
+      "conference": "DEFCON27",
+      "id": 40828,
+      "updated_at": "2019-08-05T19:34+0000"
+    },
+    {
+      "twitter": "",
+      "title": "",
+      "name": "Rick Hansen",
+      "link": "",
+      "description": "",
+      "conference": "DEFCON27",
+      "id": 40829,
+      "updated_at": "2019-08-05T19:34+0000"
+    },
+    {
+      "twitter": "",
+      "title": "",
+      "name": "ac0rn",
+      "link": "",
+      "description": "",
+      "conference": "DEFCON27",
+      "id": 40830,
+      "updated_at": "2019-08-05T19:34+0000"
+    },
+    {
+      "twitter": "",
+      "title": "",
+      "name": "Victor Murray",
+      "link": "",
+      "description": "",
+      "conference": "DEFCON27",
+      "id": 40831,
+      "updated_at": "2019-08-05T19:35+0000"
+    },
+    {
+      "twitter": "",
+      "title": "",
+      "name": "Eoin Bates",
+      "link": "",
+      "description": "",
+      "conference": "DEFCON27",
+      "id": 40832,
+      "updated_at": "2019-08-05T19:35+0000"
+    },
+    {
+      "twitter": "",
+      "title": "",
+      "name": "Neiko Rivera",
+      "link": "",
+      "description": "",
+      "conference": "DEFCON27",
+      "id": 40833,
+      "updated_at": "2019-08-05T19:35+0000"
+    },
+    {
+      "twitter": "",
+      "title": "",
+      "name": "Greg Hogan",
+      "link": "",
+      "description": "",
+      "conference": "DEFCON27",
+      "id": 40834,
+      "updated_at": "2019-08-05T19:35+0000"
+    },
+    {
+      "twitter": "@jaymzu",
+      "title": "",
+      "name": "Alex \"Jay\" Balan",
+      "link": "",
+      "description": "Alex \"Jay\" Balan is the Chief Security Researcher and Spokesperson for Bitdefender. His career is focused on Information Security, Innovation and Product Strategy, fields in which he has so far accumulated over 15 years of experience. He drove the vision for Bitdefender's UNIX-based security solutions before kickstarting an ambitious project that would advance the company's R&D department and steer a good part of the company's focus towards technology and innovation.",
+      "conference": "DEFCON27",
+      "id": 40835,
+      "updated_at": "2019-08-05T20:07+0000"
+    },
+    {
+      "twitter": "@AmitElazari",
+      "title": "",
+      "name": "Amit Elazari",
+      "link": "",
+      "description": "Amit Elazari Bar On is a Director of Global Cybersecurity Policy at Intel Corporation and a Lecturer at UC Berkeley\u2019s School of Information Master in Information and Cybersecurity. She holds a JSD from UC Berkeley School of Law and graduated summa cum laude three prior degrees. Her research in information security law and policy has appeared in leading technology law journals, presented at conferences such as RSA, Black Hat, USENIX Enigma, USENIX Security, BsidesLV, BsidesSF and DEF CON, and featured at leading news sites such as The Wall Street Journal, The Washington Post and the New York Times. In 2018, she received a Center for Long Term Cybersecurity grant for her work on private ordering regulating information security, exploring safe harbors for security researchers. She practiced law in Israel.",
+      "conference": "DEFCON27",
+      "id": 40836,
+      "updated_at": "2019-08-05T20:08+0000"
+    },
+    {
+      "twitter": "@bertinjoseb",
+      "title": "",
+      "name": "Bertin Bervis",
+      "link": "",
+      "description": "Security Researcher ",
+      "conference": "DEFCON27",
+      "id": 40837,
+      "updated_at": "2019-08-05T20:07+0000"
+    },
+    {
+      "twitter": "",
+      "title": "",
+      "name": "DanielAW",
+      "link": "",
+      "description": "Security Researcher",
+      "conference": "DEFCON27",
+      "id": 40838,
+      "updated_at": "2019-08-05T20:09+0000"
+    },
+    {
+      "twitter": "@dgi_de",
+      "title": "",
+      "name": "Dennis Giese",
+      "link": "",
+      "description": "Dennis is a grad student at Northeastern University and TU Darmstadt. He was a member of one European ISP's CERT for several years. While being interested in physical security and lockpicking, he enjoys applied research and reverse engineering malware and all kinds of smart devices. His latest area of research is reverse engineering of various IoT ecosystems. He has presented at the Chaos Communication Congress, REcon BRX and DC 26. ",
+      "conference": "DEFCON27",
+      "id": 40839,
+      "updated_at": "2019-08-05T20:08+0000"
+    },
+    {
+      "twitter": "@b1ack0wl",
+      "title": "",
+      "name": "Elvis Collado",
+      "link": "",
+      "description": "Elvis is a Senior Researcher on Exodus Intelligence\u2019s 0day team. Prior to Exodus, he worked at TippingPoint DVLabs where he researched submissions to the world\u2019s largest and most diverse bug bounty program and developed filters for them. After DVLabs, Elvis worked as a consultant for Praetorian performing penetration tests for large manufacturers of embedded devices. While at Exodus, Elvis has developed a good amount of 0day exploits against market leading routers, firewalls, and smart devices.",
+      "conference": "DEFCON27",
+      "id": 40840,
+      "updated_at": "2019-08-05T20:06+0000"
+    },
+    {
+      "twitter": "",
+      "title": "",
+      "name": "Fragkiskos Koufogiannis",
+      "link": "",
+      "description": "Fragkiskos is a senior research engineer in the Cyber System Security group at United Technologies Research Center. Presently, he works on a range of projects that span from applied machine learning to applied crypto and embedded systems. In the past, he contributed to the theory of differential privacy. He holds a PhD in Electrical and Systems Engineering from the University of Pennsylvania and an AM in Statistics from the Wharton School.",
+      "conference": "DEFCON27",
+      "id": 40841,
+      "updated_at": "2019-08-05T20:08+0000"
+    },
+    {
+      "twitter": "@moraeh23",
+      "title": "",
+      "name": "Hyejin Jeong",
+      "link": "",
+      "description": "Hyejin Jeong is a mentee of BoB 7th vulnerability assessment track and major in software at Soongsil University. She is interested in system and IoT hacking. Currently, she enjoys studying various attack vectors.",
+      "conference": "DEFCON27",
+      "id": 40842,
+      "updated_at": "2019-08-05T20:07+0000"
+    },
+    {
+      "twitter": "@0x43414e",
+      "title": "",
+      "name": "M. Can Kurnaz",
+      "link": "",
+      "description": "Can has over five years of professional experience in cyber security area mostly focused on vulnerability assessment and penetration testing including but not limited to the network/infrastructure, web application, wireless, IoT and ICS/SCADA. During his work, he occupied the role of penetration tester in various industries and companies helping the clients securing their applications and infrastructure.",
+      "conference": "DEFCON27",
+      "id": 40843,
+      "updated_at": "2019-08-05T20:06+0000"
+    },
+    {
+      "twitter": "",
+      "title": "",
+      "name": "Maxwell Dulin",
+      "link": "",
+      "description": "Maxwell Dulin (Strikeout or \ua4d8) is a recent graduate from Gonzaga University who is a self taught hacker. He will be starting a job at Security Innovation in a couple of months as security consultant. Previously, he has organized the Spokane (WA) Mayor's Cyber Cup for college and high school students to learn about the cybersecurity industry.",
+      "conference": "DEFCON27",
+      "id": 40844,
+      "updated_at": "2019-08-05T20:07+0000"
+    },
+    {
+      "twitter": "@rramgattie",
+      "title": "",
+      "name": "Rick Ramgattie",
+      "link": "",
+      "description": "Rick Ramgattie is a Senior Security Analyst and Team Lead at Independent Security Evaluators (ISE), where he conducts high-end, custom security assessments of computer hardware, software products, and manages a team of security researchers. As someone who appreciates the art of reverse engineering, he has taken part in hands-on security assessments of complex systems, IoT devices, and many different native and mobile applications. Rick enjoys RE, exploit dev, and reading.",
+      "conference": "DEFCON27",
+      "id": 40845,
+      "updated_at": "2019-08-05T20:09+0000"
+    },
+    {
+      "twitter": "",
+      "title": "",
+      "name": "Ian Sindermann",
+      "link": "",
+      "description": "Ian Sindermann, a Security Analyst at Independent Security Evaluators (ISE), as well as a researcher for ISE\u2019s newly formed research division, ISE Labs. His day-to-day duties include conducting rigorous security assessments on a wide variety of web applications, researching the security posture of various IoT devices, and sharing knowledge whenever possible. His background is somewhat varied, with a primarily self-taught education, prior experience as a wannabe Linux admin, and a childhood spent as a traveling performer. Interests include hardware hacking, legacy systems, mainframes, and whatever tech obscurities he can get his hands on.",
+      "conference": "DEFCON27",
+      "id": 40846,
+      "updated_at": "2019-08-05T19:55+0000"
+    },
+    {
+      "twitter": "",
+      "title": "",
+      "name": "Carolin",
+      "link": "",
+      "description": "University of Darmstadt in Germany",
+      "conference": "DEFCON27",
+      "id": 40847,
+      "updated_at": "2019-08-05T20:11+0000"
+    },
+    {
+      "twitter": "",
+      "title": "",
+      "name": "Jiska",
+      "link": "",
+      "description": "University of Darmstadt in Germany",
+      "conference": "DEFCON27",
+      "id": 40848,
+      "updated_at": "2019-08-05T20:11+0000"
+    },
+    {
+      "twitter": "",
+      "title": "Senior Security Engineer, Bird",
+      "name": "Marc Newlin",
+      "link": "",
+      "description": "",
+      "conference": "DEFCON27",
+      "id": 40849,
+      "updated_at": "2019-08-05T20:12+0000"
+    },
+    {
+      "twitter": "",
+      "title": "Head of Security, Zingbox",
+      "name": "Jun Dun",
+      "link": "",
+      "description": "",
+      "conference": "DEFCON27",
+      "id": 40850,
+      "updated_at": "2019-08-05T20:12+0000"
+    },
+    {
+      "twitter": "",
+      "title": "Research Team Lead, Securing Sam",
+      "name": "Hagai Shapira",
+      "link": "",
+      "description": "",
+      "conference": "DEFCON27",
+      "id": 40851,
+      "updated_at": "2019-08-05T20:13+0000"
+    },
+    {
+      "twitter": "",
+      "title": "",
+      "name": "Troy Brown",
+      "link": "",
+      "description": "Kwikset",
+      "conference": "DEFCON27",
+      "id": 40852,
+      "updated_at": "2019-08-05T20:13+0000"
+    },
+    {
+      "twitter": "",
+      "title": "Google Nest Security & Privacy",
+      "name": "Ankur Chakraborty",
+      "link": "",
+      "description": "",
+      "conference": "DEFCON27",
+      "id": 40853,
+      "updated_at": "2019-08-05T20:13+0000"
     }
   ],
-  "updated_at": "2019-08-05T02:45+0000"
+  "updated_at": "2019-08-06T00:08+0000"
 }
