@@ -12972,22 +12972,6 @@
     },
     {
       "speakers": [
-        40810
-      ],
-      "includes": "",
-      "end_date": "2019-08-10T07:50+0000",
-      "start_date": "2019-08-10T07:00+0000",
-      "description": "The Diana Initiative pre-registration and badge is required to attend this event.\r\n\r\nOur engineers are going from software engineers to software + infrastructure + network + database engineers, and they're delivering faster. In an environment of continuous deployment how do security teams scale? Can we? \r\n\r\nLet's talk about TTP's for are engineering teams, to better equip them to secure our estate. We're going to be using real threat models as examples to guide us through how we can increase our security teams and reduce our threat landscape. Like how to use incidents to evolve our threat models, why and how we should write and use security tests to validate our models and the power of POC'ing attack vectors from our models to evolve them further. Finally, how we build, evolve, share and ultimately transfer ownership of these models to our engineering teams - teaching them to be our blue team.",
-      "conference": "DEFCON27",
-      "title": "_deleteme_ Are we making our engineers blue?",
-      "link": "",
-      "location": 40098,
-      "event_type": 40005,
-      "id": 40823,
-      "updated_at": "2019-08-06T01:52+0000"
-    },
-    {
-      "speakers": [
         40811
       ],
       "includes": "",
