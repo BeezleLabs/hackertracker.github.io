@@ -1,274 +1,274 @@
 {
   "vendors": [
     {
-      "partner": false,
-      "name": "Attify",
-      "link": "https://www.attify-store.com/",
       "description": "Attify provides educational learning kits for security enthusiasts to acquire skillsets in various IoT areas such as Embedded and Hardware Device Hacking, Radio Exploitation, BLE, ZigBee Analysis and more. Our learning kits are suited both for experienced professionals as well as beginners who are about to kickstart their security",
       "conference": "DEFCON27",
+      "name": "Attify",
       "id": 40001,
-      "updated_at": "2019-07-27T17:33+0000"
+      "updated_at": "2019-07-27T17:33+0000",
+      "partner": false,
+      "link": "https://www.attify-store.com/"
     },
     {
-      "partner": false,
-      "name": "Baidu",
-      "link": "https://www.baidu.com/",
       "description": "",
       "conference": "DEFCON27",
+      "name": "Baidu",
       "id": 40002,
-      "updated_at": "2019-07-27T17:33+0000"
+      "updated_at": "2019-07-27T17:33+0000",
+      "partner": false,
+      "link": "https://www.baidu.com/"
     },
     {
-      "partner": false,
-      "name": "Calyx Institute",
-      "link": "https://www.calyxinstitute.org/",
       "description": "The Calyx Institute is a member-supported non-profit privacy\norganization.  We host Tor exit nodes, have a free VPN service and are developing a privacy and security focused Mobile phone operating system, CalyxOS. Become a member and you could get great free membership premiums such as a mobile hotspot with unlimited unthrottled & uncapped mobile data for a year, or a Google Pixel 2 phone with CalyxOS pre-installed on it.The Calyx Institute is a member-supported non-profit privacy\norganization.  We host Tor exit nodes, have a free VPN service and are developing a privacy and security focused Mobile phone operating system, CalyxOS. Become a member and you could get great free membership premiums such as a mobile hotspot with unlimited unthrottled & uncapped mobile data for a year, or a Google Pixel 2 phone with CalyxOS pre-installed on it.The Calyx Institute is a member-supported non-profit privacy\norganization.  We host Tor exit nodes, have a free VPN service and are developing a privacy and security focused Mobile phone operating system, CalyxOS. Become a member and you could get great free membership premiums such as a mobile hotspot with unlimited unthrottled & uncapped mobile data for a year, or a Google Pixel 2 phone with CalyxOS pre-installed on it.",
       "conference": "DEFCON27",
+      "name": "Calyx Institute",
       "id": 40003,
-      "updated_at": "2019-07-27T17:33+0000"
+      "updated_at": "2019-07-27T17:33+0000",
+      "partner": false,
+      "link": "https://www.calyxinstitute.org/"
     },
     {
-      "partner": false,
-      "name": "Capitol Technology University",
-      "link": "http://www.captechu.edu/",
       "description": "Capitol Technology University\u2019s mission is to educate individuals for professional opportunities.  A STEM focused institution of higher education, providing undergraduate and graduate degrees in engineering, information sciences, and technology leadership, that has flexibility and opportunities to grow, and that adapts offerings to emerging workforce needs.",
       "conference": "DEFCON27",
+      "name": "Capitol Technology University",
       "id": 40004,
-      "updated_at": "2019-07-27T17:33+0000"
+      "updated_at": "2019-07-27T17:33+0000",
+      "partner": false,
+      "link": "http://www.captechu.edu/"
     },
     {
-      "partner": false,
-      "name": "EFF",
-      "link": "https://eff.org/join",
       "description": "The Electronic Frontier Foundation (EFF) is the leading organization defending civil liberties in the digital world. We guard free speech online, fight illegal surveillance, support emerging technologies, defend digital innovators, and work to ensure that our rights and freedoms are enhanced, rather than eroded, as our use of technology grows.",
       "conference": "DEFCON27",
+      "name": "EFF",
       "id": 40005,
-      "updated_at": "2019-07-27T17:33+0000"
+      "updated_at": "2019-07-27T17:33+0000",
+      "partner": false,
+      "link": "https://eff.org/join"
     },
     {
-      "partner": false,
-      "name": "Gunnar optics",
-      "link": "https://gunnar.com/",
       "description": "GUNNAR is the only patented computer eyewear recommended by doctors to protect and enhance your vision.  GUNNAR\u2019s premium computer eyewear defends eyes against short and long-term effects of digital eyestrain due to exposure to digital screens and artificial blue light.  GUNNAR\u2019s patented lens technology is specifically formulated to combat the harmful effects of digital\neye strain to protect both your eye and body health.  The result - improved clarity, focus and performance.GUNNAR is the only patented computer eyewear recommended by doctors to protect and enhance your vision.  GUNNAR\u2019s premium computer eyewear defends eyes against short and long-term effects of digital eyestrain due to exposure to digital screens and artificial blue light.  GUNNAR\u2019s patented lens technology is specifically formulated to combat the harmful effects of digital\neye strain to protect both your eye and body health.  The result - improved clarity, focus and performance.GUNNAR is the only patented computer eyewear recommended by doctors to protect and enhance your vision.  GUNNAR\u2019s premium computer eyewear defends eyes against short and long-term effects of digital eyestrain due to exposure to digital screens and artificial blue light.  GUNNAR\u2019s patented lens technology is specifically formulated to combat the harmful effects of digital\neye strain to protect both your eye and body health.  The result - improved clarity, focus and performance.",
       "conference": "DEFCON27",
+      "name": "Gunnar optics",
       "id": 40006,
-      "updated_at": "2019-07-27T17:33+0000"
+      "updated_at": "2019-07-27T17:33+0000",
+      "partner": false,
+      "link": "https://gunnar.com/"
     },
     {
-      "partner": false,
-      "name": "Hacker Boxes",
-      "link": "http://www.hackerboxes.com/",
       "description": "Hcker Boxes is the monthly subscription box service for hardware hacking, DIY electronics, and hacker culture.  Each monthly HackerBox includes a carefully curated collection of projects, components, modules, tools, supplies, and exclusive items.  HackerBox Hackers connect online as a community of experience, support, and ideas.  It's like having a tiny hacker con in your mailbox every month!",
       "conference": "DEFCON27",
+      "name": "Hacker Boxes",
       "id": 40007,
-      "updated_at": "2019-07-27T17:33+0000"
+      "updated_at": "2019-07-27T17:33+0000",
+      "partner": false,
+      "link": "http://www.hackerboxes.com/"
     },
     {
-      "partner": false,
-      "name": "Hacker Puzzle Adventure Cube",
-      "link": "",
       "description": "This Defcon, We're excited to launch a community-driven fundraiser to build the Hacker Puzzle Adventure Cube, an interactive art project celebrating the magic and wizardry of hacking.  With your support, this ~3 foot square electronic puzzle box will contain a series of challenges ranging from classic CTF-style to lockpicking, crypto, RF, reverse engineering, and audiovisual, delivered in a sleek and visually stunning package.  The finished cube will be showcased at hacker cons and events, engaging community collaboration as participants solve the ultimate hacker challenge.  Stop by our booth to learn more!",
       "conference": "DEFCON27",
+      "name": "Hacker Puzzle Adventure Cube",
       "id": 40008,
-      "updated_at": "2019-07-27T17:33+0000"
+      "updated_at": "2019-07-27T17:33+0000",
+      "partner": false,
+      "link": ""
     },
     {
-      "partner": false,
-      "name": "Hacker Warehouse",
-      "link": "https://hackerwarehouse.com/",
       "description": "HACKER WAREHOUSE is your one stop shop for hacking equipment. We understand the importance of tools and gear which is why we carry only the highest quiality gear from the best brands in the industry.  From WiFi Hacking to Hardware Hacking to Lock Picks, we carry equipment that all hackers need.  Check us out at the HackerWarehouse.com.",
       "conference": "DEFCON27",
+      "name": "Hacker Warehouse",
       "id": 40009,
-      "updated_at": "2019-07-27T17:33+0000"
+      "updated_at": "2019-07-27T17:33+0000",
+      "partner": false,
+      "link": "https://hackerwarehouse.com/"
     },
     {
-      "partner": false,
-      "name": "Hak5 LLC",
-      "link": "https://shop.hak5.org/",
       "description": "Discover the devices that have found their way into the hearts and tool-kits of the modern hacker. Notable for ease of use. Celebrated by geek culture. From comprehensive WiFi audits to covert network implants and physical access mayhem - Hak5 Gear gets the job done. Check out the brand new 2019 gear from Hak5 complimenting an arsenal of WiFi Pineapples and USB Rubber Duckies!",
       "conference": "DEFCON27",
+      "name": "Hak5 LLC",
       "id": 40010,
-      "updated_at": "2019-07-27T17:33+0000"
+      "updated_at": "2019-07-27T17:33+0000",
+      "partner": false,
+      "link": "https://shop.hak5.org/"
     },
     {
-      "partner": false,
-      "name": "Keyport, Inc.",
-      "link": "https://www.mykeyport.com/",
       "description": "Keyport\u00ae combines keys, pocket tools, & smart tech into one everyday multi-tool. We will be selling our latest modular product line (DEFCON 27 Editions) including the Keyport Slide 3.0 & Keyport Pivot (holds your existing keys), Anywhere Tools\u2122 Modules, and the debut of OmniFob\u2122. If you want a Keyport Slide made on site, don\u2019t forget to bring your keys to the vendor area!",
       "conference": "DEFCON27",
+      "name": "Keyport, Inc.",
       "id": 40011,
-      "updated_at": "2019-07-27T17:33+0000"
+      "updated_at": "2019-07-27T17:33+0000",
+      "partner": false,
+      "link": "https://www.mykeyport.com/"
     },
     {
-      "partner": false,
-      "name": "Netool LLC",
-      "link": "https://netool.io/",
       "description": "Netool.io - A pocket sized network analyzer. Discovery patch detection, packet sniffing to pcap file, tagged VLAN detection and much more. Make network diagnostics and penetration testing easy.",
       "conference": "DEFCON27",
+      "name": "Netool LLC",
       "id": 40012,
-      "updated_at": "2019-07-27T17:33+0000"
+      "updated_at": "2019-07-27T17:33+0000",
+      "partner": false,
+      "link": "https://netool.io/"
     },
     {
-      "partner": false,
-      "name": "No Starch Press",
-      "link": "https://nostarch.com/",
       "description": "No Starch Press publishes the finest in geek entertainment \u2014 bestsellers like Python Crash Course, Linux Basics for Hackers, Hacking: The Art of Exploitation, and The Game Console. We focus on programming, security, hacking, and alternative operating systems. Our titles have personality and attitude, our authors are passionate about their subjects, and we read and edit every book that we publish. Readers appreciate our straightforward presentation, fearless approach to the complex world of technology, and desire to give back to the hacking community.",
       "conference": "DEFCON27",
+      "name": "No Starch Press",
       "id": 40013,
-      "updated_at": "2019-07-27T17:33+0000"
+      "updated_at": "2019-07-27T17:33+0000",
+      "partner": false,
+      "link": "https://nostarch.com/"
     },
     {
-      "partner": false,
-      "name": "Nuand LLC",
-      "link": "http://nuand.com/bladeRF, https://nuand.com/shop/",
       "description": "Nuand provides low-cost, USB 3.0 SDRs (Software Defined Radio) for enthusiasts, and experts alike. Come checkout the brand new bladeRF micro in action! Stop by our table to see our demos and find out more about bladeRF, GNURadio, and Software Defined Radios!",
       "conference": "DEFCON27",
+      "name": "Nuand LLC",
       "id": 40014,
-      "updated_at": "2019-07-27T17:33+0000"
+      "updated_at": "2019-07-27T17:33+0000",
+      "partner": false,
+      "link": "http://nuand.com/bladeRF, https://nuand.com/shop/"
     },
     {
-      "partner": false,
-      "name": "OWASP",
-      "link": "https://www.owasp.org/",
       "description": "The Open Web Application Security Project (OWASP) is a 501(c)(3) worldwide not-for-profit charitable organization focused on improving the security of software. Our mission is to make software security visible so that individuals and organizations are able to make informed decisions. OWASP is in a unique position to provide impartial, practical information about AppSec to individuals, corporations, universities, government agencies, and other organizations worldwide. Operating as a community of like-minded professionals, OWASP issues software tools and knowledge-based documentation on application security.",
       "conference": "DEFCON27",
+      "name": "OWASP",
       "id": 40015,
-      "updated_at": "2019-07-27T17:33+0000"
+      "updated_at": "2019-07-27T17:33+0000",
+      "partner": false,
+      "link": "https://www.owasp.org/"
     },
     {
-      "partner": false,
-      "name": "Rapid7",
-      "link": "http://www.rapid7.com/",
       "description": "Rapid7 is advancing security to accelerate innovation. Learn how our Insight cloud delivers shared visibility, analytics, and automation at www.rapid7.com.",
       "conference": "DEFCON27",
+      "name": "Rapid7",
       "id": 40016,
-      "updated_at": "2019-07-27T17:33+0000"
+      "updated_at": "2019-07-27T17:33+0000",
+      "partner": false,
+      "link": "http://www.rapid7.com/"
     },
     {
-      "partner": false,
-      "name": "Security Snobs",
-      "link": "https://securitysnobs.com/",
       "description": "Security Snobs offers High Security Mechanical Locks and Physical Security Products including door locks, padlocks, cutaways, security devices, and more.  We feature the latest in security items including top brands like Abloy, BiLock, EVVA, KeyPort, Mobeye, Anchor Las and Sargent and Greenleaf.  Visit https://Securitysnobs.com for our complete range of products. Stop by to see the new and coming soon products in high security and con specials!",
       "conference": "DEFCON27",
+      "name": "Security Snobs",
       "id": 40017,
-      "updated_at": "2019-07-27T17:33+0000"
+      "updated_at": "2019-07-27T17:33+0000",
+      "partner": false,
+      "link": "https://securitysnobs.com/"
     },
     {
-      "partner": false,
-      "name": "Security Weekly",
-      "link": "https://securityweekly.com/",
       "description": "Security Weekly is the security podcast network for the security community, distributing free podcasts and media since 2005. We connect the security industry and the security community through our security market validation programs. We view our relationships with the security industry as partnerships, not sponsorships. Security Weekly works closely with each partner to help them achieve their marketing goals and gain traction in the security market.",
       "conference": "DEFCON27",
+      "name": "Security Weekly",
       "id": 40018,
-      "updated_at": "2019-07-27T17:33+0000"
+      "updated_at": "2019-07-27T17:33+0000",
+      "partner": false,
+      "link": "https://securityweekly.com/"
     },
     {
-      "partner": false,
-      "name": "Shadowvex",
-      "link": "http://store.shadowvexindustries.com/",
       "description": "Shadowvex Industries and Miss Jackalope have mysteriously appeared from the digital underground for over 20 years!  Purveyors of hacker-relevant limited edition Clothing, DJ mixes, Stickers, Buttons, Patches, Unique Art and 0-day swag specifically for DEF CON 27!  If you want to bring home your piece of DEF CON history you need to get here early... so follow the music in the vending area to find our booth!",
       "conference": "DEFCON27",
+      "name": "Shadowvex",
       "id": 40019,
-      "updated_at": "2019-07-27T17:33+0000"
+      "updated_at": "2019-07-27T17:33+0000",
+      "partner": false,
+      "link": "http://store.shadowvexindustries.com/"
     },
     {
-      "partner": false,
-      "name": "Simple WiFi",
-      "link": "https://www.simplewifi.com/",
       "description": "Simple WiFi designs & manufactures in the U.S.A., high quality WiFi antennas for wireless networking.",
       "conference": "DEFCON27",
+      "name": "Simple WiFi",
       "id": 40020,
-      "updated_at": "2019-07-27T17:33+0000"
+      "updated_at": "2019-07-27T17:33+0000",
+      "partner": false,
+      "link": "https://www.simplewifi.com/"
     },
     {
-      "partner": false,
-      "name": "Sparrows",
-      "link": "http://www.sparrowslockpicks.com/",
       "description": "With the largest selection of lock picks, covert entry and SERE tools available at DEF CON it\u00b9s guaranteed we will have gear you have not seen before. New tools and classics will be on display and available for sale in a hands on environment. Our Product range covers Custom LOCK PICKS, Entry Tools, PRACTICE LOCKS, Bypass tools, Urban Escape & Evasion hardware and items that until recently were sales restricted. We will be displaying a full range of gear including our newly released DIMPLE PICKS, Revolver and Ranger. The Night Crawler set will also be available to the public for the first time in limited quantities. All products will be demonstrated at various times and can be personally tested for use and Efficacy.",
       "conference": "DEFCON27",
+      "name": "Sparrows",
       "id": 40021,
-      "updated_at": "2019-07-27T17:33+0000"
+      "updated_at": "2019-07-27T17:33+0000",
+      "partner": false,
+      "link": "http://www.sparrowslockpicks.com/"
     },
     {
-      "partner": false,
-      "name": "Tencent",
-      "link": "https://www.tencent.com/zh-cn/index.html",
       "description": "Tencent is an internet-based technology and cultural enterprise headquartered in Shenzhen, China. Founded in 1998, Tencent\u2019s mission is to \u201cimprove the quality of life through Internet value-added services\u201d. Tencent Security Response Center is responsible for the antihacking, monitoring and analyzing security threats of Tencent. We are protecting over 1,000,000,000 netizens around the world and are building an open platform for technology sharing for a better cyber security ecosystem.",
       "conference": "DEFCON27",
+      "name": "Tencent",
       "id": 40022,
-      "updated_at": "2019-07-27T17:33+0000"
+      "updated_at": "2019-07-27T17:33+0000",
+      "partner": false,
+      "link": "https://www.tencent.com/zh-cn/index.html"
     },
     {
-      "partner": false,
-      "name": "The Tor Project",
-      "link": "https://www.torproject.org/",
       "description": "The Tor Project is a nonprofit that develops free and open source\nsoftware to protect people from tracking, censorship, and surveillance\nonline. Stop by our table to learn more, pick up some gear, and find out\nhow you can get involved.The Tor Project is a nonprofit that develops free and open source\nsoftware to protect people from tracking, censorship, and surveillance\nonline. Stop by our table to learn more, pick up some gear, and find out\nhow you can get involved.",
       "conference": "DEFCON27",
+      "name": "The Tor Project",
       "id": 40023,
-      "updated_at": "2019-07-27T17:33+0000"
+      "updated_at": "2019-07-27T17:33+0000",
+      "partner": false,
+      "link": "https://www.torproject.org/"
     },
     {
-      "partner": false,
-      "name": "TOOOL",
-      "link": "https://toool.us/equipment.html",
       "description": "The Open Organisation Of Lockpickers is back as always, offering a wide selection of tasty lock goodies for both the novice and master lockpicker! A variety of commercial picks, handmade picks, custom designs, practice locks, handcuffs, cutaways, and other neat tools will be available for your perusing and enjoyment! Stop by our table for interactive demos of this fine lockpicking gear or just to pick up a T-shirt and show your support for locksport.  All sales exclusively benefit Toool, a 501(c)3 non-profit organization.  You can purchase picks from many fine vendors, but ours is the only table where you know that 100% of your money goes directly back to the hacker community.",
       "conference": "DEFCON27",
+      "name": "TOOOL",
       "id": 40024,
-      "updated_at": "2019-07-27T17:33+0000"
+      "updated_at": "2019-07-27T17:33+0000",
+      "partner": false,
+      "link": "https://toool.us/equipment.html"
     },
     {
-      "partner": false,
-      "name": "TSOK",
-      "link": "https://www.defcononline.com/",
       "description": "Recorded sessions from DefCon 27 (including the 4 tracks and some villages) available for purchase on a USB or access to online streaming for affordable prices. Streaming content available within 10 business days post event. See our two on site sales stations at Paris Bally\u2019s to purchase or visit www.defcononline.com",
       "conference": "DEFCON27",
+      "name": "TSOK",
       "id": 40025,
-      "updated_at": "2019-07-27T17:33+0000"
+      "updated_at": "2019-07-27T17:33+0000",
+      "partner": false,
+      "link": "https://www.defcononline.com/"
     },
     {
-      "partner": false,
-      "name": "U.N.I.C.O.R.N.",
-      "link": "N/A",
       "description": "The union of Unicorns in China's Internet security ecology, this time not just include  UnicornTeam, come here to pick up awesome offensive and defensive hacker tools from our vendor!",
       "conference": "DEFCON27",
+      "name": "U.N.I.C.O.R.N.",
       "id": 40026,
-      "updated_at": "2019-07-27T17:33+0000"
+      "updated_at": "2019-07-27T17:33+0000",
+      "partner": false,
+      "link": "N/A"
     },
     {
-      "partner": false,
-      "name": "University of Advancing Technology",
-      "link": "https://www.uat.edu/",
       "description": "UAT is an elite intimate private college in Tempe, AZ focused on educating students in advancing technology who desire to innovate in the areas of emerging technology disciplines including Advancing Computer Science, Information Security, Game and New Media technologies.",
       "conference": "DEFCON27",
+      "name": "University of Advancing Technology",
       "id": 40027,
-      "updated_at": "2019-07-27T17:33+0000"
+      "updated_at": "2019-07-27T17:33+0000",
+      "partner": false,
+      "link": "https://www.uat.edu/"
     },
     {
-      "partner": false,
-      "name": "WISP",
-      "link": "https://www.wisporg.com/",
       "description": "Women in Security and Privacy (WISP) is a fiscally sponsored non-profit project of Community Initiatives (501(c)(3)). WISP advances women to lead the future of security and privacy. We believe that empowerment requires the inclusion of all women, with expertise in both security and privacy. Our work includes education, mentoring & networking, career advancement, leadership, and research. To learn more, visit us at https://www.wisporg.com.",
       "conference": "DEFCON27",
+      "name": "WISP",
       "id": 40028,
-      "updated_at": "2019-07-27T17:33+0000"
+      "updated_at": "2019-07-27T17:33+0000",
+      "partner": false,
+      "link": "https://www.wisporg.com/"
     },
     {
-      "partner": false,
-      "name": "Mar",
-      "link": "http://ihate.art",
       "description": "For the past decade, DEF CON resident artist Mar Williams\u2019s artwork has been a part of the DEF CON experience. For DEF CON 27, Mar will be doing a live, onsite mural painting. Once the mural is completed, it will be broken into individual pieces and auctioned off, with half the proceeds going to support the Electronic Frontier Foundation. Mar will also be selling original artwork as well as limited-run art prints and other arty, vaguely-cat-shaped baubles.  IG @spuxo",
       "conference": "DEFCON27",
+      "name": "Mar",
       "id": 40029,
-      "updated_at": "2019-07-27T17:33+0000"
+      "updated_at": "2019-07-27T17:33+0000",
+      "partner": false,
+      "link": "http://ihate.art"
     },
     {
-      "partner": false,
-      "name": "Scam Stuff",
-      "link": "https://scamstuff.com",
       "description": "Scam Stuff is gear for the modern rogue: magic tricks, lockpicking, puzzle boxes, clever novelty items, spy gear, and more! if it's designed to get you ahead, you'll find it here.",
       "conference": "DEFCON27",
+      "name": "Scam Stuff",
       "id": 40030,
-      "updated_at": "2019-07-27T17:33+0000"
+      "updated_at": "2019-07-27T17:33+0000",
+      "partner": false,
+      "link": "https://scamstuff.com"
     }
   ],
   "updated_at": "2019-07-27T17:33+0000"

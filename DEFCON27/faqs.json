@@ -3,157 +3,157 @@
   "faqs": [
     {
       "question": "When and where is DEF CON 27?",
-      "conference": "DEFCON27",
-      "id": 25,
+      "answer": "DEF CON is generally in the last week of July or first week of August in Las Vegas. DEF CON 27 will be held August 8-11, 2019, at Paris, Ballys, Flamingo & Planet Hollywood hotels in Las Vegas. Many people arrive a day early, and many stay a day later. Again this year we will have some things running on Thursday.",
       "updated_at": "2019-07-26T01:59+0000",
-      "answer": "DEF CON is generally in the last week of July or first week of August in Las Vegas. DEF CON 27 will be held August 8-11, 2019, at Paris, Ballys, Flamingo & Planet Hollywood hotels in Las Vegas. Many people arrive a day early, and many stay a day later. Again this year we will have some things running on Thursday."
+      "conference": "DEFCON27",
+      "id": 25
     },
     {
       "question": "How much is admission?",
-      "conference": "DEFCON27",
-      "id": 26,
+      "answer": "$300.00 USD, Cash for all four days. Everyone pays the same: The government, the media, the \u2018well known hackers\u2019, the unknown script kiddies. The only discount is for Goons and speakers, who get to work without paying for the privilege. We only accept cash - no checks, no money orders, no travelers checks. We don't want to be a target of any State or Federal fishing expeditions.",
       "updated_at": "2019-07-26T01:59+0000",
-      "answer": "$300.00 USD, Cash for all four days. Everyone pays the same: The government, the media, the \u2018well known hackers\u2019, the unknown script kiddies. The only discount is for Goons and speakers, who get to work without paying for the privilege. We only accept cash - no checks, no money orders, no travelers checks. We don't want to be a target of any State or Federal fishing expeditions."
+      "conference": "DEFCON27",
+      "id": 26
     },
     {
       "question": "Is DEF CON 27 canceled?",
-      "conference": "DEFCON27",
-      "id": 27,
+      "answer": "No.",
       "updated_at": "2019-07-26T02:00+0000",
-      "answer": "No."
+      "conference": "DEFCON27",
+      "id": 27
     },
     {
       "question": "Can I pre-register for DEF CON?",
-      "conference": "DEFCON27",
-      "id": 28,
+      "answer": "No.",
       "updated_at": "2019-07-26T02:00+0000",
-      "answer": "No."
+      "conference": "DEFCON27",
+      "id": 28
     },
     {
       "question": "How many people will be there?",
-      "conference": "DEFCON27",
-      "id": 29,
+      "answer": "Last year we had more than 25,000 people at DEF CON! The last few years, attendance has been in the 20-25k range.",
       "updated_at": "2019-07-26T02:00+0000",
-      "answer": "Last year we had more than 25,000 people at DEF CON! The last few years, attendance has been in the 20-25k range."
+      "conference": "DEFCON27",
+      "id": 29
     },
     {
       "question": "How much do rooms at cost, and how do I reserve a room?",
-      "conference": "DEFCON27",
-      "id": 30,
+      "answer": "The DEF CON rate is available at the following hotels: Caesars Palace, Paris, Bally's, Flamingo and Quad. Check out the DEF CON 27 Venue page for all the details!",
       "updated_at": "2019-07-26T02:01+0000",
-      "answer": "The DEF CON rate is available at the following hotels: Caesars Palace, Paris, Bally's, Flamingo and Quad. Check out the DEF CON 27 Venue page for all the details!"
+      "conference": "DEFCON27",
+      "id": 30
     },
     {
       "question": "I can't afford that.",
-      "conference": "DEFCON27",
-      "id": 31,
+      "answer": "Try the Ride and Room sharing threads on the Forums.\r\n\r\nYou may also want to visit your Local DEF CON Groups meeting and see who you might want to bunk up with. It's important to mention you should use good judgment when sharing a room and consider who is sleeping next to you and who has access to your belongings. That said, there are a lot of great people looking to save a buck or pinch a penny, good luck.\r\n",
       "updated_at": "2019-07-26T02:01+0000",
-      "answer": "Try the Ride and Room sharing threads on the Forums.\r\n\r\nYou may also want to visit your Local DEF CON Groups meeting and see who you might want to bunk up with. It's important to mention you should use good judgment when sharing a room and consider who is sleeping next to you and who has access to your belongings. That said, there are a lot of great people looking to save a buck or pinch a penny, good luck.\r\n"
+      "conference": "DEFCON27",
+      "id": 31
     },
     {
       "question": "Can I get a discount on DEF CON badges?",
-      "conference": "DEFCON27",
-      "id": 32,
+      "answer": "DEF CON charges one price regardless of your social status or affiliation. Please know that we depend on attendee income to pay the costs of the conference and don't have sponsors to help defray the expenses.\r\n\r\nWe sometimes get requests for discounts [students, veterans, children], unfortunately we don't want to try and validate if you are a current student, look at your ID to determine your age, decode military discharge papers, etc.\r\n\r\nIf you really want to attend DEF CON for free then do something for the con. \r\n\r\nYou could: \r\nSubmit a CFP and be an accepted speaker or workshop instructor. \r\nWork on a contest, event, or village. \r\nQualify for CTF/Contests that include entry. \r\nFind a team to become a Goon newbie. \r\nContribute to content, or perform some entertainment.\r\n\r\n",
       "updated_at": "2019-07-26T02:02+0000",
-      "answer": "DEF CON charges one price regardless of your social status or affiliation. Please know that we depend on attendee income to pay the costs of the conference and don't have sponsors to help defray the expenses.\r\n\r\nWe sometimes get requests for discounts [students, veterans, children], unfortunately we don't want to try and validate if you are a current student, look at your ID to determine your age, decode military discharge papers, etc.\r\n\r\nIf you really want to attend DEF CON for free then do something for the con. \r\n\r\nYou could: \r\nSubmit a CFP and be an accepted speaker or workshop instructor. \r\nWork on a contest, event, or village. \r\nQualify for CTF/Contests that include entry. \r\nFind a team to become a Goon newbie. \r\nContribute to content, or perform some entertainment.\r\n\r\n"
+      "conference": "DEFCON27",
+      "id": 32
     },
     {
       "question": "I need a letter of invite for my visa application, how do I get that?",
-      "conference": "DEFCON27",
-      "id": 33,
+      "answer": "In most cases, DEF CON can send a signed letter of invite, usually within a few short business days once we have all the info. If you also require verification of housing, we can put you in touch with someone to help you get your hotel stay organized, let us know if you need that. \r\n\r\nAlong with your request, please email us the following to info(at)defcon(.)org \r\n\r\nName as is on passport: \r\nPassport number: \r\nCountry of issue:\r\nDate of issue: \r\nDate of expiration:\r\nCountry of origin:",
       "updated_at": "2019-07-26T02:02+0000",
-      "answer": "In most cases, DEF CON can send a signed letter of invite, usually within a few short business days once we have all the info. If you also require verification of housing, we can put you in touch with someone to help you get your hotel stay organized, let us know if you need that. \r\n\r\nAlong with your request, please email us the following to info(at)defcon(.)org \r\n\r\nName as is on passport: \r\nPassport number: \r\nCountry of issue:\r\nDate of issue: \r\nDate of expiration:\r\nCountry of origin:"
+      "conference": "DEFCON27",
+      "id": 33
     },
     {
       "question": "How much is internet access in the rooms?",
-      "conference": "DEFCON27",
-      "id": 34,
+      "answer": "It varies by hotel. Internet access is available for free in the convention area.",
       "updated_at": "2019-07-26T02:03+0000",
-      "answer": "It varies by hotel. Internet access is available for free in the convention area."
+      "conference": "DEFCON27",
+      "id": 34
     },
     {
       "question": "Is there a free network at DEF CON?",
-      "conference": "DEFCON27",
-      "id": 35,
+      "answer": "Why yes, DEF CON is FULLY network-enabled. Now that we've perfected the art of a stable hacker con network, we're ascending to a higher level - we're providing you a network that you feel SAFE in using! Since DEF CON 18 we're WPA2 encrypted over-the-air, with a direct trunk out to the Internet. No peer-to-peer, no sniffing, just straight to the net (and internal servers). We'll provide login credentials at Registration. We know the 3G airwaves will be saturated so we're putting our own cred on the line to give you a net that even we would put our own mobile phones on. \r\n\r\nIf you're feeling frisky, we'll still have the traditional \"open\" network for you - bring your laptop (we'd recommend a clean OS, fully patched--you know the procedure) because we don't police what happens on that net. Share & enjoy!\r\n",
       "updated_at": "2019-07-26T02:03+0000",
-      "answer": "Why yes, DEF CON is FULLY network-enabled. Now that we've perfected the art of a stable hacker con network, we're ascending to a higher level - we're providing you a network that you feel SAFE in using! Since DEF CON 18 we're WPA2 encrypted over-the-air, with a direct trunk out to the Internet. No peer-to-peer, no sniffing, just straight to the net (and internal servers). We'll provide login credentials at Registration. We know the 3G airwaves will be saturated so we're putting our own cred on the line to give you a net that even we would put our own mobile phones on. \r\n\r\nIf you're feeling frisky, we'll still have the traditional \"open\" network for you - bring your laptop (we'd recommend a clean OS, fully patched--you know the procedure) because we don't police what happens on that net. Share & enjoy!\r\n"
+      "conference": "DEFCON27",
+      "id": 35
     },
     {
       "question": "What about the smoking policy?",
-      "conference": "DEFCON27",
-      "id": 36,
+      "answer": "Due to the Clean Air Act in Las Vegas, the Vendor Area, Speaking rooms, and Hallways will be completely non-smoking in order to comply with the law. The Hotel will have designated smoking areas clearly posted.",
       "updated_at": "2019-07-26T02:03+0000",
-      "answer": "Due to the Clean Air Act in Las Vegas, the Vendor Area, Speaking rooms, and Hallways will be completely non-smoking in order to comply with the law. The Hotel will have designated smoking areas clearly posted."
+      "conference": "DEFCON27",
+      "id": 36
     },
     {
       "question": "What is the age limit?",
-      "conference": "DEFCON27",
-      "id": 37,
+      "answer": "People have brought children to DEF CON - it is not recommended to do this unless you are going to constantly supervise them. It is generally an \u2018adult\u2019 atmosphere (language, booze, et cetera). If you've never been to DEF CON, you may want to refrain from bringing your children (unless they are demanding that you bring them). While there are no age limits, we have consistently cooperated with parents and/or private investigators who are looking for children that \u2018ran away from home\u2019 to go to DEF CON. You must be 18 years of age or older to reserve a hotel room and to check-in. A valid ID is required upon check-in. DEF CON 27 will have enforcement of the 21 or older rule in certain \"private\" parties with possible bouncers at the doors checking IDs. This is generally the rule in all areas where alcohol is being served. However, DEF CON does not take responsibility for anything potentially indecent or offensive your minor may witness or participate in. The underage attendee is the responsibility of his or her guardian or themselves.\r\n\r\nThe presentations are open to all ages. Observation of contests as they take place on the contest floor is open to all ages.\r\n\r\nCompetition in some contests may have age restrictions due to laws. There is plenty of fun to be had without booze and gambling! There is a discussion regarding fun for those under 21 on the forums. https://forum.defcon.org/showthread.php?t=8232",
       "updated_at": "2019-07-26T02:04+0000",
-      "answer": "People have brought children to DEF CON - it is not recommended to do this unless you are going to constantly supervise them. It is generally an \u2018adult\u2019 atmosphere (language, booze, et cetera). If you've never been to DEF CON, you may want to refrain from bringing your children (unless they are demanding that you bring them). While there are no age limits, we have consistently cooperated with parents and/or private investigators who are looking for children that \u2018ran away from home\u2019 to go to DEF CON. You must be 18 years of age or older to reserve a hotel room and to check-in. A valid ID is required upon check-in. DEF CON 27 will have enforcement of the 21 or older rule in certain \"private\" parties with possible bouncers at the doors checking IDs. This is generally the rule in all areas where alcohol is being served. However, DEF CON does not take responsibility for anything potentially indecent or offensive your minor may witness or participate in. The underage attendee is the responsibility of his or her guardian or themselves.\r\n\r\nThe presentations are open to all ages. Observation of contests as they take place on the contest floor is open to all ages.\r\n\r\nCompetition in some contests may have age restrictions due to laws. There is plenty of fun to be had without booze and gambling! There is a discussion regarding fun for those under 21 on the forums. https://forum.defcon.org/showthread.php?t=8232"
+      "conference": "DEFCON27",
+      "id": 37
     },
     {
       "question": "I want to speak, how do I give a talk?",
-      "conference": "DEFCON27",
-      "id": 38,
+      "answer": "GREAT! We are looking for and give preference to: unique research, new tool releases, \u00d8-day attacks (with responsible disclosure), highly technical material, social commentaries, and groundbreaking material of any kind. Want to screen a new hacking documentary or release research? Consider DEF CON. To submit a speech, read the Announcement and complete the DEF CON 27 Call for Papers Form: https://www.defcon.org/html/defcon-27/dc-27-cfp-form.html CFP forms and questions should get mailed to: talks/at/defcon.org",
       "updated_at": "2019-07-26T02:04+0000",
-      "answer": "GREAT! We are looking for and give preference to: unique research, new tool releases, \u00d8-day attacks (with responsible disclosure), highly technical material, social commentaries, and groundbreaking material of any kind. Want to screen a new hacking documentary or release research? Consider DEF CON. To submit a speech, read the Announcement and complete the DEF CON 27 Call for Papers Form: https://www.defcon.org/html/defcon-27/dc-27-cfp-form.html CFP forms and questions should get mailed to: talks/at/defcon.org"
+      "conference": "DEFCON27",
+      "id": 38
     },
     {
       "question": "When does the CFP Close? Can I get an Extension?",
-      "conference": "DEFCON27",
-      "id": 39,
+      "answer": "DEF CON 27 Call For Papers will close on May 1, 2019. No.",
       "updated_at": "2019-07-26T02:04+0000",
-      "answer": "DEF CON 27 Call For Papers will close on May 1, 2019. No."
+      "conference": "DEFCON27",
+      "id": 39
     },
     {
       "question": "How can I help or participate?",
-      "conference": "DEFCON27",
-      "id": 40,
+      "answer": "DEF CON is not a spectator sport! Before the con, during, and after there are chances for you to get involved. Below is a list of this years contests and events. This list may not be complete so check the forums to see what people are up to.\r\n\r\nGo to the forums for more info on Contests and Events: https://forum.defcon.org/node/227574",
       "updated_at": "2019-07-26T02:05+0000",
-      "answer": "DEF CON is not a spectator sport! Before the con, during, and after there are chances for you to get involved. Below is a list of this years contests and events. This list may not be complete so check the forums to see what people are up to.\r\n\r\nGo to the forums for more info on Contests and Events: https://forum.defcon.org/node/227574"
+      "conference": "DEFCON27",
+      "id": 40
     },
     {
       "question": "How do I become a Vendor?",
-      "conference": "DEFCON27",
-      "id": 41,
+      "answer": "If you want a space in our vendor area, you need to apply. Because of limited space and our attempt to have a diversity of vendors, you may not be able to get a booth. It is wise to think of staffing issues - if you are one person do you want to spend your entire time behind a vendors booth?",
       "updated_at": "2019-07-26T02:05+0000",
-      "answer": "If you want a space in our vendor area, you need to apply. Because of limited space and our attempt to have a diversity of vendors, you may not be able to get a booth. It is wise to think of staffing issues - if you are one person do you want to spend your entire time behind a vendors booth?"
+      "conference": "DEFCON27",
+      "id": 41
     },
     {
       "question": "I'm press, how do I sign up, why can't I get in for free (I'm just doing my job)?",
-      "conference": "DEFCON27",
-      "id": 42,
+      "answer": "Please check out the DEF CON 27 Press Registration page if you wish press credentials. Lots of people come to DEF CON and are doing their job; security professionals, federal agents, and the press. It wouldn't be fair to DEF CON attendees if we exempted one group from paying. If you are a major network and plan on doing a two minute piece showing all the people with blue hair, you probably shouldn't bother applying for a press pass - you won't get one. If you are a security writer or from a real publication please submit, and someone will respond with an answer.",
       "updated_at": "2019-07-26T02:05+0000",
-      "answer": "Please check out the DEF CON 27 Press Registration page if you wish press credentials. Lots of people come to DEF CON and are doing their job; security professionals, federal agents, and the press. It wouldn't be fair to DEF CON attendees if we exempted one group from paying. If you are a major network and plan on doing a two minute piece showing all the people with blue hair, you probably shouldn't bother applying for a press pass - you won't get one. If you are a security writer or from a real publication please submit, and someone will respond with an answer."
+      "conference": "DEFCON27",
+      "id": 42
     },
     {
       "question": "What should I bring to DEF CON?",
-      "conference": "DEFCON27",
-      "id": 43,
+      "answer": "It depends on what you're going to do at DEF CON. This is discussed in quite some depth on the unofficial DC FAQ. You may want to bring fancy (or outrageously silly) clothes for the Black and White Balls, annual Friday and Saturday night events where everyone shows off nifty attire. SWAG is Always recommended, people LOVE to trade! You never know when or where a t-shirt with your .org will come in handy. Government SWAG is a hot commodity, however, DT wishes to pillage those goods first! It's generally a good idea if you are a pale geek to have some sunscreen at the top of your list. Other honorable mentions are: Blister preventions, Band-aids, Gel shoe inserts, Personal cooling devices, Pain relievers and antacids, Bottle openers, Personal voice recorders, water filters, and last but not least an Alibi.",
       "updated_at": "2019-07-26T02:06+0000",
-      "answer": "It depends on what you're going to do at DEF CON. This is discussed in quite some depth on the unofficial DC FAQ. You may want to bring fancy (or outrageously silly) clothes for the Black and White Balls, annual Friday and Saturday night events where everyone shows off nifty attire. SWAG is Always recommended, people LOVE to trade! You never know when or where a t-shirt with your .org will come in handy. Government SWAG is a hot commodity, however, DT wishes to pillage those goods first! It's generally a good idea if you are a pale geek to have some sunscreen at the top of your list. Other honorable mentions are: Blister preventions, Band-aids, Gel shoe inserts, Personal cooling devices, Pain relievers and antacids, Bottle openers, Personal voice recorders, water filters, and last but not least an Alibi."
+      "conference": "DEFCON27",
+      "id": 43
     },
     {
       "question": "This FAQ didn't answer my questions, or was unclear, how can I get further information?",
-      "conference": "DEFCON27",
-      "id": 44,
+      "answer": "Please visit: https://www.defcon.org for previous conference archives, information, and speeches. Updated announcements will be posted to news groups, security mailing lists and this web site.\r\n\r\nhttps://forum.defcon.org/ for a look at all the events and contests being planned for DEF CON 27. Join in on the action.\r\n\r\nhttps://www.defcon.org/defconrss.xml for news and announcements surrounding DEF CON. Also check out our Twitter and Facebook accounts for up to the minute news.",
       "updated_at": "2019-07-26T02:06+0000",
-      "answer": "Please visit: https://www.defcon.org for previous conference archives, information, and speeches. Updated announcements will be posted to news groups, security mailing lists and this web site.\r\n\r\nhttps://forum.defcon.org/ for a look at all the events and contests being planned for DEF CON 27. Join in on the action.\r\n\r\nhttps://www.defcon.org/defconrss.xml for news and announcements surrounding DEF CON. Also check out our Twitter and Facebook accounts for up to the minute news."
+      "conference": "DEFCON27",
+      "id": 44
     },
     {
       "question": "Is there a prayer room in the DEF CON space?",
-      "conference": "DEFCON27",
-      "id": 45,
+      "answer": "No. To our knowledge, the hotel does not provide a prayer room space.",
       "updated_at": "2019-07-26T02:06+0000",
-      "answer": "No. To our knowledge, the hotel does not provide a prayer room space."
+      "conference": "DEFCON27",
+      "id": 45
     },
     {
       "question": "What is the policy on hotel room safety checks?",
-      "conference": "DEFCON27",
-      "id": 46,
+      "answer": "We received the following from Caesar\u2019s in relation to room searches:\r\n\r\nIn an effort to ensure the safety of our guests and employees, please know that certain hotel team members may periodically enter guest rooms to perform standard wellness checks, if \u2013 and only if \u2013 a room has not otherwise been serviced or accessed by a team member for an extended period.\r\n\r\nIn other words, even if you have declined team member access to your room, by opting out of housekeeping services or posting a room occupied sign on your door, for example, team members may still periodically enter your room. These brief visits are intended to help us ensure that our guests and employees are safe.\r\n\r\nPlease note that team members conducting these room checks will be wearing visible IDs. If at any time you would like to confirm the team member requesting access to your room is part of the hotel staff, please call the security supervisor on duty.\r\n\r\nLINQ 702-794-3150\r\nFlamingo 702-733-352\r\nCaesars Palace 702-731-7909\r\nPlanet Hollywood 702-785-9935\r\nParis Las Vegas 702-946-4481\r\nBally's 702-967-4481",
       "updated_at": "2019-08-05T04:34+0000",
-      "answer": "We received the following from Caesar\u2019s in relation to room searches:\r\n\r\nIn an effort to ensure the safety of our guests and employees, please know that certain hotel team members may periodically enter guest rooms to perform standard wellness checks, if \u2013 and only if \u2013 a room has not otherwise been serviced or accessed by a team member for an extended period.\r\n\r\nIn other words, even if you have declined team member access to your room, by opting out of housekeeping services or posting a room occupied sign on your door, for example, team members may still periodically enter your room. These brief visits are intended to help us ensure that our guests and employees are safe.\r\n\r\nPlease note that team members conducting these room checks will be wearing visible IDs. If at any time you would like to confirm the team member requesting access to your room is part of the hotel staff, please call the security supervisor on duty.\r\n\r\nLINQ 702-794-3150\r\nFlamingo 702-733-352\r\nCaesars Palace 702-731-7909\r\nPlanet Hollywood 702-785-9935\r\nParis Las Vegas 702-946-4481\r\nBally's 702-967-4481"
+      "conference": "DEFCON27",
+      "id": 46
     }
   ]
 }

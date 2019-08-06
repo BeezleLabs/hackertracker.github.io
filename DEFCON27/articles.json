@@ -1,12 +1,19 @@
 {
+  "updated_at": "2019-08-06T16:14+0000",
   "articles": [
     {
-      "updated_at": "2019-08-05T03:52+0000",
       "text": "We are all geared up for #HackerSummerCamp here in #hackertracker. The DEF CON 27 schedule currently has more than 750 different talks, parties, contests, events, and everything you could possibly want to see during the week. Good luck deciding on your favorite items. Bookmark away and find one of our team for an official #hackertracker sticker. Safe travels and see you all in Vegas.",
-      "id": 14,
+      "updated_at": "2019-08-05T03:52+0000",
       "conference": "DEFCON27",
-      "name": "Only 3 days left!"
+      "name": "Only 3 days left!",
+      "id": 14
+    },
+    {
+      "text": "No, it's not cancelled. With only 2 days until DEF CON 27, most of you are already in Vegas or on your way. Travel safe, drink water, and use #hackertracker to plan your days. See you there!",
+      "updated_at": "2019-08-06T16:14+0000",
+      "conference": "DEFCON27",
+      "name": "Safe Travels",
+      "id": 15
     }
-  ],
-  "updated_at": "2019-08-05T03:52+0000"
+  ]
 }
