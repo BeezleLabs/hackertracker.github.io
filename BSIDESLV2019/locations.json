@@ -1,131 +1,131 @@
 {
-  "updated_at": "2019-07-31T00:00+0000",
   "locations": [
     {
-      "hotel": "",
-      "updated_at": "2019-07-31T00:00+0000",
       "conference": "BSIDESLV2019",
-      "name": "Common Ground",
-      "id": 31601
+      "id": 31601,
+      "updated_at": "2019-07-31T00:00+0000",
+      "hotel": "",
+      "name": "Breaking Ground"
     },
     {
-      "hotel": "",
-      "updated_at": "2019-07-31T00:00+0000",
       "conference": "BSIDESLV2019",
-      "name": "Ground Truth",
-      "id": 31602
+      "id": 31602,
+      "updated_at": "2019-07-31T00:00+0000",
+      "hotel": "",
+      "name": "Common Ground"
     },
     {
-      "hotel": "",
-      "updated_at": "2019-07-31T00:00+0000",
       "conference": "BSIDESLV2019",
-      "name": "G103",
-      "id": 31603
+      "id": 31603,
+      "updated_at": "2019-07-31T00:00+0000",
+      "hotel": "",
+      "name": "CISO Track"
     },
     {
-      "hotel": "",
-      "updated_at": "2019-07-31T00:00+0000",
       "conference": "BSIDESLV2019",
-      "name": "Sienna Room",
-      "id": 31604
+      "id": 31604,
+      "updated_at": "2019-07-31T00:00+0000",
+      "hotel": "",
+      "name": "Ground Floor"
     },
     {
-      "hotel": "",
-      "updated_at": "2019-07-31T00:00+0000",
       "conference": "BSIDESLV2019",
-      "name": "Tuscany Room",
-      "id": 31605
+      "id": 31605,
+      "updated_at": "2019-07-31T00:00+0000",
+      "hotel": "",
+      "name": "Ground Truth"
     },
     {
-      "hotel": "",
-      "updated_at": "2019-07-31T00:00+0000",
       "conference": "BSIDESLV2019",
-      "name": "Public Ground",
-      "id": 31606
+      "id": 31606,
+      "updated_at": "2019-07-31T00:00+0000",
+      "hotel": "",
+      "name": "Hire Ground"
     },
     {
-      "hotel": "",
-      "updated_at": "2019-07-31T00:00+0000",
       "conference": "BSIDESLV2019",
-      "name": "Underground",
-      "id": 31607
+      "id": 31607,
+      "updated_at": "2019-07-31T00:00+0000",
+      "hotel": "",
+      "name": "I Am The Cavalry"
     },
     {
-      "hotel": "",
-      "updated_at": "2019-07-31T00:00+0000",
       "conference": "BSIDESLV2019",
-      "name": "CISO Track",
-      "id": 31608
+      "id": 31608,
+      "updated_at": "2019-07-31T00:00+0000",
+      "hotel": "",
+      "name": "Public Ground"
     },
     {
-      "hotel": "",
-      "updated_at": "2019-07-31T00:00+0000",
       "conference": "BSIDESLV2019",
-      "name": "Middle Ground",
-      "id": 31609
+      "id": 31609,
+      "updated_at": "2019-07-31T00:00+0000",
+      "hotel": "",
+      "name": "Proving Ground"
     },
     {
-      "hotel": "",
-      "updated_at": "2019-07-31T00:00+0000",
       "conference": "BSIDESLV2019",
-      "name": "Training Ground",
-      "id": 31610
+      "id": 31610,
+      "updated_at": "2019-07-31T00:00+0000",
+      "hotel": "",
+      "name": "Ground1234!"
     },
     {
-      "hotel": "",
-      "updated_at": "2019-07-31T00:00+0000",
       "conference": "BSIDESLV2019",
-      "name": "Breaking Ground",
-      "id": 31611
+      "id": 31611,
+      "updated_at": "2019-07-31T00:00+0000",
+      "hotel": "",
+      "name": "Training Ground"
     },
     {
-      "hotel": "",
-      "updated_at": "2019-07-31T00:00+0000",
       "conference": "BSIDESLV2019",
-      "name": "Ground1234!",
-      "id": 31612
+      "id": 31612,
+      "updated_at": "2019-07-31T00:00+0000",
+      "hotel": "",
+      "name": "Underground"
     },
     {
-      "hotel": "",
-      "updated_at": "2019-07-31T00:00+0000",
       "conference": "BSIDESLV2019",
-      "name": "Ground Floor",
-      "id": 31613
+      "id": 31613,
+      "updated_at": "2019-07-31T00:00+0000",
+      "hotel": "",
+      "name": "Middle Ground"
     },
     {
-      "hotel": "",
-      "updated_at": "2019-07-31T00:00+0000",
       "conference": "BSIDESLV2019",
-      "name": "Hire Ground",
-      "id": 31614
+      "id": 31614,
+      "updated_at": "2019-07-31T00:00+0000",
+      "hotel": "",
+      "name": "Lock Pick Village"
     },
     {
-      "hotel": "",
-      "updated_at": "2019-07-31T00:00+0000",
       "conference": "BSIDESLV2019",
-      "name": "I Am The Cavalry",
-      "id": 31615
+      "id": 31615,
+      "updated_at": "2019-07-31T00:00+0000",
+      "hotel": "",
+      "name": "Sienna Room"
     },
     {
-      "hotel": "",
-      "updated_at": "2019-07-31T00:00+0000",
       "conference": "BSIDESLV2019",
-      "name": "Proving Ground",
-      "id": 31616
+      "id": 31616,
+      "updated_at": "2019-07-31T00:00+0000",
+      "hotel": "",
+      "name": "Pool"
     },
     {
-      "hotel": "",
-      "updated_at": "2019-07-31T00:00+0000",
       "conference": "BSIDESLV2019",
-      "name": "Pool",
-      "id": 31617
+      "id": 31617,
+      "updated_at": "2019-07-31T00:00+0000",
+      "hotel": "",
+      "name": "G103"
     },
     {
-      "hotel": "",
-      "updated_at": "2019-07-31T00:00+0000",
       "conference": "BSIDESLV2019",
-      "name": "Lock Pick Village",
-      "id": 31618
+      "id": 31618,
+      "updated_at": "2019-07-31T00:00+0000",
+      "hotel": "",
+      "name": "Tuscany Room"
     }
-  ]
+  ],
+  "updated_at": "2019-07-31T00:00+0000"
 }
