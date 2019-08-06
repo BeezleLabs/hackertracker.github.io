@@ -721,12 +721,12 @@
       "id": 40074
     },
     {
-      "description": "Dr.Suzanne Schwartz\u00eds programmatic efforts in medical device cybersecurity extend beyond incident response to include raising awareness, educating, outreach, partnering and coalition-building within the Healthcare and Public Health Sector (HPH) as well as fostering collaborations across other government agencies and the private sector. Suzanne has been recognized for Excellence in Innovation at FDA\u00eds Women\u00eds History Month on March 1st 2018 for her work in Medical Device Cybersecurity. Suzanne chairs CDRH\u00eds Cybersecurity Working Group, tasked with formulating FDA\u00eds medical device cybersecurity policy. She also co-chairs the Government Coordinating Council (GCC) for the HPH Critical Infrastructure Sector, focusing on the sector\u00eds healthcare cybersecurity initiatives.",
+      "description": "Dr. Suzanne Schwartz\u2019s programmatic efforts in medical device cybersecurity extend beyond incident response to include raising awareness, educating, outreach, partnering and coalition-building within the Healthcare and Public Health Sector (HPH) as well as fostering collaborations across other government agencies and the private sector. Suzanne has been recognized for Excellence in Innovation at FDA\u2019s Women\u2019s History Month on March 1st 2018 for her work in Medical Device Cybersecurity. Suzanne chairs CDRH\u2019s Cybersecurity Working Group, tasked with formulating FDA\u2019s medical device cybersecurity policy. She also co-chairs the Government Coordinating Council (GCC) for the HPH Critical Infrastructure Sector, focusing on the sector\u2019s healthcare cybersecurity initiatives. ",
       "twitter": "",
-      "title": "Associate Director for Science and Strategic Partnerships at the US Food and Drug Administration FDA",
-      "name": "Suzanne Schwartz MD",
+      "title": "Associate Director for Science and Strategic Partnerships at the US FDA",
+      "name": "Suzanne Schwartz, MD",
       "conference": "DEFCON27",
-      "updated_at": "2019-07-27T17:33+0000",
+      "updated_at": "2019-08-06T17:07+0000",
       "link": "",
       "id": 40075
     },
@@ -4563,10 +4563,10 @@
     {
       "description": "Dr. Suzanne Schwartz\u2019s programmatic efforts in medical device cybersecurity extend beyond incident response to include raising awareness, educating, outreach, partnering and coalition-building within the Healthcare and Public Health Sector (HPH) as well as fostering collaborations across other government agencies and the private sector. Suzanne has been recognized for Excellence in Innovation at FDA\u2019s Women\u2019s History Month on March 1st 2018 for her work in Medical Device Cybersecurity. Suzanne chairs CDRH\u2019s Cybersecurity Working Group, tasked with formulating FDA\u2019s medical device cybersecurity policy. She also co-chairs the Government Coordinating Council (GCC) for the HPH Critical Infrastructure Sector, focusing on the sector\u2019s healthcare cybersecurity initiatives. ",
       "twitter": "",
-      "title": "",
-      "name": "Dr. Suzanne Schwartz",
+      "title": "Associate Director for Science and Strategic Partnerships at the US FDA",
+      "name": "_deleteme_ Suzanne Schwartz, MD",
       "conference": "DEFCON27",
-      "updated_at": "2019-08-03T05:31+0000",
+      "updated_at": "2019-08-06T17:07+0000",
       "link": "",
       "id": 40474
     },
@@ -7554,9 +7554,9 @@
       "description": "",
       "twitter": "",
       "title": "",
-      "name": "Chloe Messdaghi",
+      "name": "_deleteme_ Chloe Messdaghi",
       "conference": "DEFCON27",
-      "updated_at": "2019-08-02T20:57+0000",
+      "updated_at": "2019-08-06T17:02+0000",
       "link": "",
       "id": 40774
     },
@@ -8351,5 +8351,5 @@
       "id": 40853
     }
   ],
-  "updated_at": "2019-08-06T00:08+0000"
+  "updated_at": "2019-08-06T17:07+0000"
 }
