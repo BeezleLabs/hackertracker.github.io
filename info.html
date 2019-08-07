@@ -17,7 +17,10 @@
 <nav class="navbar navbar-expand-md navbar-dark bg-dark mb-3">
     <div class="container">
         <a href="#" class="navbar-brand mr-4">DEF CON 27 Schedule</a>
-    </div>    
+    </div>
+    <div class="container align-right text-white mr-8">
+        @sethlaw | @_advice_dog
+    </div>
 </nav>
 <div class="container-fluid">
     <div class="row">
@@ -26,7 +29,7 @@
             <a class="twitter-timeline" data-theme="dark" href="https://twitter.com/defcon?ref_src=twsrc%5Etfw">Tweets by defcon</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
         </div>
 
-        <div class="col-md-8 text-white">
+        <div class="col-md-8 text-white" id="event-list">
             <!-- Day -->
             <h3 class="text-center">August 8th</h3>
 
@@ -87,16 +90,26 @@
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
 
-  function defcon() {
-    self.prototype.getAllEvents = function(render) {
-      var query = firebase.firestore()
-        .collection('conferences').document('DEFCON27').collection('events')
-        .orderBy('begin_timestamp', 'desc')
-      this.getDocumentsInQuery(query, render);
-    };
-  };
+  var currentTime = Date.now()
+  console.log(`Current Time: ${currentTime}`)
+  firebase.firestore().collection('conferences')
+    .doc('DEFCON27').collection('events').orderBy('begin_timestamp', 'asc')
+    .get().then((querySnapshot) => {
+    querySnapshot.forEach((event) => {
+        e = event.data()
+        if (e.type.id == 40002) {
+            if (e.begin_timestamp.toMillis() > currentTime) {
+                console.log(`${e.id} => ${e.title} => ${e.begin_timestamp.toMillis()}`);
+            } else {
+                console.log(`nope ${e.begin_timestamp.toMillis()} is <= ${currentTime}`)
+            }
 
-  
+        }
+
+    });
+  });
+
+
 </script>
 </body>
-</html>                            
+</html>
