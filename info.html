@@ -19,7 +19,7 @@
         <a href="#" class="navbar-brand mr-4">DEF CON 27 Schedule</a>
     </div>
     <div class="container align-right text-white mr-12">
-        @sethlaw | @_advice_dog
+        @_advice_dog | @sethlaw
     </div>
 </nav>
 <div class="container-fluid">
@@ -78,7 +78,7 @@
         querySnapshot.forEach((event) => {
             e = event.data();
             if (e.type.id == 40002) {
-                if (e.begin_timestamp.toMillis() > currentTime) {
+                if (e.end_timestamp.toMillis() > currentTime) {
                     var begin = e.begin_timestamp.toDate();
                     if (dayString != begin.toDateString()) {
                         dayString = begin.toDateString();
