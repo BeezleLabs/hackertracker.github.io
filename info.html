@@ -19,7 +19,7 @@
         <a href="#" class="navbar-brand mr-4">DEF CON 27 Schedule</a>
     </div>
     <div class="container align-right text-white mr-12">
-        @sethlaw | @_advice_dog
+        @_advice_dog | @sethlaw
     </div>
 </nav>
 <div class="container-fluid">
@@ -64,8 +64,9 @@
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
 
-  window.onload = function() {
+  function loadEvents() {
       var eventList = document.getElementById('eventlist');
+      eventList.innerHTML = ""
       console.log(eventList)
       var currentTime = Date.now();
       console.log(`Current Time: ${currentTime}`);
@@ -78,14 +79,14 @@
         querySnapshot.forEach((event) => {
             e = event.data();
             if (e.type.id == 40002) {
-                if (e.begin_timestamp.toMillis() > currentTime) {
+                if (e.end_timestamp.toMillis() > currentTime) {
                     var begin = e.begin_timestamp.toDate();
                     if (dayString != begin.toDateString()) {
                         dayString = begin.toDateString();
                         newDayHTML = `<h3 class="text-center">${dayString}</h3>`
                         eventList.insertAdjacentHTML('beforeend',newDayHTML);
                     }
-                    console.log(`${e.id} => ${e.title} => ${e.begin_timestamp.toMillis()}`);
+                    //console.log(`${e.id} => ${e.title} => ${e.begin_timestamp.toMillis()}`);
 
                     var element = `<div class="card text-white bg-dark"  style="border: 0px;">
 
@@ -110,7 +111,10 @@
       });
   };
 
-
+  window.onload = loadEvents();
+  $(function() {
+      setInterval(loadEvents,60000)
+  });
 </script>
 </body>
 </html>
