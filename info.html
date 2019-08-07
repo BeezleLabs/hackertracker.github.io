@@ -64,8 +64,9 @@
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
 
-  window.onload = function() {
+  function loadEvents() {
       var eventList = document.getElementById('eventlist');
+      eventList.innerHTML = ""
       console.log(eventList)
       var currentTime = Date.now();
       console.log(`Current Time: ${currentTime}`);
@@ -110,7 +111,10 @@
       });
   };
 
-
+  window.onload = loadEvents();
+  $(function() {
+      setInterval(loadEvents,60000)
+  });
 </script>
 </body>
 </html>
