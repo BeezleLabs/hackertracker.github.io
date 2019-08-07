@@ -6,6 +6,7 @@
 <title>info.defcon.org</title>
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="info.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
@@ -16,35 +17,35 @@
 <nav class="navbar navbar-expand-md navbar-dark bg-dark mb-3">
     <div class="container">
         <a href="#" class="navbar-brand mr-4">DEF CON 27 Schedule</a>
-    </div>    
+    </div>
+    <div class="container align-right text-white mr-12">
+        @sethlaw | @_advice_dog
+    </div>
 </nav>
-<div class="container">
+<div class="container-fluid">
     <div class="row">
-        <div class="col-md-8 text-white">
-            <h3>LIVE NOW</h3>
-            <p>Insert scrolling live events here</p>
+
+        <div class="col-md-2 text-white .d-none .d-lg-block .d-xl-none">
+            <a class="twitter-timeline" data-theme="dark" href="https://twitter.com/defcon?ref_src=twsrc%5Etfw">Tweets by defcon</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
         </div>
-        <div class="col-md-4 text-white">
-	    <a class="twitter-timeline" data-height="250" data-theme="dark" href="https://twitter.com/defcon?ref_src=twsrc%5Etfw">Tweets by defcon</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+        <div id="eventlist" class="col-md-8 text-white" >
+
         </div>
-    </div>
-    <div class="row">
-        <div class="col-md-8 text-white">
-            <h3>UPCOMING EVENTS</h3>
-            <p>Insert scrolling upcoming here</p>
+
+            <div class="col-md-2 text-white">
+                <a class="twitter-timeline" data-theme="dark" href="https://twitter.com/dcib?ref_src=twsrc%5Etfw">Tweets by defcon</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+            </div>
         </div>
-        <div class="col-md-4 text-white">
-	    <a class="twitter-timeline" data-height="250" data-theme="dark" href="https://twitter.com/dcib?ref_src=twsrc%5Etfw">Tweets by defcon</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-        </div>
-    </div>
-    <hr>
+
+        <hr>
     <footer>
         <div class="row">
             <div class="col-md-6 text-white">
                 <p>HackerTracker Web</p>
             </div>
             <div class="col-md-6 text-md-right">
-                <a href="#" class="text-white">@sethlaw</a>
+                <a href="#" class="text-white">@sethlaw | @_advice_dog</a>
             </div>
         </div>
     </footer>
@@ -63,16 +64,53 @@
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
 
-  function defcon() {
-    self.prototype.getAllEvents = function(render) {
-      var query = firebase.firestore()
-        .collection('conferences').document('DEFCON27').collection('events')
-        .orderBy('begin_timestamp', 'desc')
-      this.getDocumentsInQuery(query, render);
-    };
+  window.onload = function() {
+      var eventList = document.getElementById('eventlist');
+      console.log(eventList)
+      var currentTime = Date.now();
+      console.log(`Current Time: ${currentTime}`);
+      var first = true
+      var dayString = ""
+
+      firebase.firestore().collection('conferences')
+        .doc('DEFCON27').collection('events').orderBy('begin_timestamp', 'asc')
+        .get().then((querySnapshot) => {
+        querySnapshot.forEach((event) => {
+            e = event.data();
+            if (e.type.id == 40002) {
+                if (e.begin_timestamp.toMillis() > currentTime) {
+                    var begin = e.begin_timestamp.toDate();
+                    if (dayString != begin.toDateString()) {
+                        dayString = begin.toDateString();
+                        newDayHTML = `<h3 class="text-center">${dayString}</h3>`
+                        eventList.insertAdjacentHTML('beforeend',newDayHTML);
+                    }
+                    console.log(`${e.id} => ${e.title} => ${e.begin_timestamp.toMillis()}`);
+
+                    var element = `<div class="card text-white bg-dark"  style="border: 0px;">
+
+                        <!-- Left colour bar -->
+                        <div  style="background-color: ${e.type.color}; width: 8px; height: 100%; display: inline-block; position: absolute;"> </div>
+
+                        <div class="card-body">
+                            <h5 class="card-title">${e.title}</h5>
+                            <p class="card-text" style="color: #cccccc">${begin.toLocaleTimeString()} | ${e.location.name}</p>
+                            <p class="card-text" style="color: #cccccc"><span class="dot"></span>  Official Talk</p>
+                        </div>
+                    </div>`;
+                    //console.log(element)
+                    eventList.insertAdjacentHTML('beforeend',element);
+                } else {
+                    console.log(`nope ${e.begin_timestamp.toMillis()} is <= ${currentTime}`)
+                }
+
+            }
+
+        });
+      });
   };
 
-  
+
 </script>
 </body>
-</html>                            
+</html>
