@@ -13,13 +13,10 @@
 <script src="https://www.gstatic.com/firebasejs/6.3.4/firebase-app.js"></script>
 <script src="https://www.gstatic.com/firebasejs/6.3.4/firebase-firestore.js"></script>
 </head>
-<body class="bg-dark">
-<nav class="navbar navbar-expand-md navbar-dark bg-dark mb-3">
-    <div class="container">
+<body style="background-color: #2a2b35;">
+<nav class="navbar navbar-expand-md navbar-dark">
+    <div class="mr-4">
         <a href="#" class="navbar-brand mr-4">DEF CON 27 Schedule</a>
-    </div>
-    <div class="container align-right text-white mr-12">
-        @_advice_dog | @sethlaw
     </div>
 </nav>
 <div class="container-fluid">
@@ -72,6 +69,7 @@
       console.log(`Current Time: ${currentTime}`);
       var first = true
       var dayString = ""
+      var timeString = ""
 
       firebase.firestore().collection('conferences')
         .doc('DEFCON27').collection('events').orderBy('begin_timestamp', 'asc')
@@ -83,20 +81,32 @@
                     var begin = e.begin_timestamp.toDate();
                     if (dayString != begin.toDateString()) {
                         dayString = begin.toDateString();
-                        newDayHTML = `<h3 class="text-center">${dayString}</h3>`
+                        newDayHTML = `<h4 class="text-center">${dayString}</h4>`
                         eventList.insertAdjacentHTML('beforeend',newDayHTML);
                     }
                     //console.log(`${e.id} => ${e.title} => ${e.begin_timestamp.toMillis()}`);
 
-                    var element = `<div class="card text-white bg-dark"  style="border: 0px;">
+                    var element = `<div class="card text-white"  style="border: 0px; background-color: #2a2b35;">
+                    <div  style="background-color: ${e.type.color}; width: 8px; height: 90%; display: inline-block; position: absolute;"> </div>
+                    <div class="row">`
+                    //eventList.insertAdjacentHTML('beforeend',e1);
 
-                        <!-- Left colour bar -->
-                        <div  style="background-color: ${e.type.color}; width: 8px; height: 100%; display: inline-block; position: absolute;"> </div>
+                    var tmpString = begin.toLocaleTimeString(navigator.language, {hour: '2-digit', minute:'2-digit'});
+                    if (timeString != tmpString) {
+                        timeString = tmpString;
+                        newTimeHTML = `<div class="card-body col-2"><p class="text-center" style="color: #cccccc">${timeString.replace('AM','').replace('PM','')}</p></div>`
+                        element += newTimeHTML;
+                    } else {
+                        newTimeHTML = `<div class="card-body col-2"><p class="text-center" style="color: #cccccc">&nbsp;</p></div>`
+                        element += newTimeHTML;
+                    }
 
-                        <div class="card-body">
-                            <h5 class="card-title">${e.title}</h5>
-                            <p class="card-text" style="color: #cccccc">${begin.toLocaleTimeString()} | ${e.location.name}</p>
-                            <p class="card-text" style="color: #cccccc"><span class="dot"></span>  Official Talk</p>
+                    element += `
+                        <div class="card-body col-10">
+                            <h6 class="card-text">${e.title}</h6>
+                            <div class="card-text" style="color: #cccccc">${e.location.name}</div>
+                            <div class="card-text" style="color: #cccccc"><span class="dot"></span>  Official Talk</div>
+                        </div>
                         </div>
                     </div>`;
                     //console.log(element)
