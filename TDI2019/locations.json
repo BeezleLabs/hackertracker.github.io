@@ -1,0 +1,54 @@
+{
+  "locations": [
+    {
+      "hotel": "Westin",
+      "name": "The Westin Las Vegas Hotel & Spa, Acacia C",
+      "id": 40099,
+      "conference": "TDI2019",
+      "updated_at": "2019-08-08T03:12+0000"
+    },
+    {
+      "hotel": "Westin",
+      "name": "The Westin Las Vegas Hotel & Spa, Acacia D",
+      "id": 40100,
+      "conference": "TDI2019",
+      "updated_at": "2019-08-08T03:12+0000"
+    },
+    {
+      "hotel": "Westin",
+      "name": "The Westin Las Vegas Hotel & Spa, Acacia A&B",
+      "id": 40101,
+      "conference": "TDI2019",
+      "updated_at": "2019-08-08T03:12+0000"
+    },
+    {
+      "hotel": "Westin",
+      "name": "The Westin Las Vegas Hotel & Spa, Mesquite 2 (First Floor)",
+      "id": 40102,
+      "conference": "TDI2019",
+      "updated_at": "2019-08-08T03:12+0000"
+    },
+    {
+      "hotel": "Westin",
+      "name": "The Westin Las Vegas Hotel & Spa, Lockpick Village",
+      "id": 40103,
+      "conference": "TDI2019",
+      "updated_at": "2019-08-08T03:13+0000"
+    },
+    {
+      "hotel": "Westin",
+      "name": "The Westin Las Vegas Hotel & Spa, Soldering Village",
+      "id": 40104,
+      "conference": "TDI2019",
+      "updated_at": "2019-08-08T03:14+0000"
+    },
+    {
+      "hotel": "Westin",
+      "name": "The Westin Las Vegas Hotel & Spa, CTF Room",
+      "id": 40105,
+      "conference": "TDI2019",
+      "updated_at": "2019-08-08T03:14+0000"
+    }
+  ],
+  "updated_at": "2019-08-08T03:14+0000"
+}

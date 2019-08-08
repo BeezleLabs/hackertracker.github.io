@@ -1,0 +1,655 @@
+{
+  "updated_at": "2019-08-02T20:57+0000",
+  "speakers": [
+    {
+      "title": "",
+      "link": "",
+      "name": "Kathleen Smith",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41001,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Andrea Limbago",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41002,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Yolonda Smith",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41003,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Susan Peediyakkal",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41004,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Joe Gray",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41005,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Emilie St-Pierre",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41006,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Mary Waddick",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41007,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Tanya Janca",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41008,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Seth Vargo",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41009,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Jessica Hyde",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41010,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Emily Cole",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41011,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Chloe Messdaghi",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41012,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Christine McGarry",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41013,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Suzanne Pereira",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41014,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Laura Webb",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41015,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Brianne Hughes",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41016,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Miki Demeter",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41017,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Xena Olsen",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41018,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Lodrina Cherne",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41019,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Serenity Smile",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41020,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Olivia Stella",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41021,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Clover Twombley",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41022,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Megan Carney",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41023,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Paulina Valdivieso",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41024,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Diana Kelley",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41025,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Sylvia Killinen",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41026,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Alana Staszczyszyn",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41027,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Jasmine Jackson",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41028,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Kat Sweet",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41029,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Karen Worstell",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41030,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Jaime Lightfoot",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41031,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Saba Deyhim",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41032,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Sarah Young",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41033,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Swathi Joshi",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41034,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Shannon Morrison ",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41035,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Wendy Edwards",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41036,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Katie Nickels",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41037,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Lauren Rudman",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41038,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Fatima Ahmed",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41039,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Vanessa Redman",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41040,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Sapna Singh",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41041,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Elizabeth Bell",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41042,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Amber Welch",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41043,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Sam Bowne",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41044,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Elizabeth Biddlecome",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41045,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Whitney Maxwell",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41046,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Gabrielle Hempel",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41047,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Tash Norris",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41048,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Aunshul Rege",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41049,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Isaiah Sarju",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41050,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Yasmine Johnston-Ison",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41051,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Mandy Logan",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41052,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Vandana Verma Sehgal",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41053,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Margaret Layton",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41054,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Kelley Robinson",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41055,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Kathleen Mullin",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41056,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Alyssa Miller",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41057,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Jordanne Barrett",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41058,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Michelle Brenner",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41059,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Daryl Pfeif",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41060,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Keira Paterson",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41061,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Village",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41062,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "contest",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41063,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Training",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41064,
+      "conference": "TDI2019"
+    },
+    {
+      "title": "",
+      "link": "",
+      "name": "Party",
+      "updated_at": "2019-08-02T20:57+0000",
+      "twitter": "",
+      "description": "",
+      "id": 41065,
+      "conference": "TDI2019"
+    }
+  ]
+}
