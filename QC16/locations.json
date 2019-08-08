@@ -1,0 +1,54 @@
+{
+  "locations": [
+    {
+      "id": 40106,
+      "hotel": "Alexis Park",
+      "conference": "QC16",
+      "name": "Alexis Park, badge | info | swag",
+      "updated_at": "2019-08-08T20:20+0000"
+    },
+    {
+      "id": 40107,
+      "hotel": "Alexis Park",
+      "conference": "QC16",
+      "name": "Alexis Park, Chill",
+      "updated_at": "2019-08-08T20:20+0000"
+    },
+    {
+      "id": 40108,
+      "hotel": "Alexis Park",
+      "conference": "QC16",
+      "name": "Alexis Park, Main Pool",
+      "updated_at": "2019-08-08T20:20+0000"
+    },
+    {
+      "id": 40109,
+      "hotel": "Alexis Park",
+      "conference": "QC16",
+      "name": "Alexis Park, Mingle",
+      "updated_at": "2019-08-08T20:21+0000"
+    },
+    {
+      "id": 40110,
+      "hotel": "Alexis Park",
+      "conference": "QC16",
+      "name": "Alexis Park, Pegasus Showroom",
+      "updated_at": "2019-08-08T20:21+0000"
+    },
+    {
+      "id": 40111,
+      "hotel": "Alexis Park",
+      "conference": "QC16",
+      "name": "Alexis Park, Share",
+      "updated_at": "2019-08-08T20:21+0000"
+    },
+    {
+      "id": 40112,
+      "hotel": "Alexis Park",
+      "conference": "QC16",
+      "name": "Alexis Park, Zeus A",
+      "updated_at": "2019-08-08T20:21+0000"
+    }
+  ],
+  "updated_at": "2019-08-08T20:21+0000"
+}

@@ -1,0 +1,19 @@
+{
+  "event_types": [
+    {
+      "id": 40012,
+      "conference": "QC16",
+      "name": "Talk",
+      "color": "#6497DC",
+      "updated_at": "2019-08-08T20:19+0000"
+    },
+    {
+      "id": 40013,
+      "conference": "QC16",
+      "name": "Party/Meetup",
+      "color": "#D86A68",
+      "updated_at": "2019-08-08T20:20+0000"
+    }
+  ],
+  "updated_at": "2019-08-08T20:20+0000"
+}

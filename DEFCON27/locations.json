@@ -564,8 +564,8 @@
       "id": 40083,
       "hotel": "",
       "conference": "DEFCON27",
-      "name": "",
-      "updated_at": "2019-07-28T17:43+0000"
+      "name": "See details",
+      "updated_at": "2019-08-08T21:20+0000"
     },
     {
       "id": 40084,
@@ -671,7 +671,14 @@
       "conference": "DEFCON27",
       "name": "Diana Initiative, Westin Las Vegas",
       "updated_at": "2019-08-05T03:33+0000"
+    },
+    {
+      "id": 40113,
+      "hotel": "Bally's",
+      "conference": "DEFCON27",
+      "name": "Drone Warz, Bally's, Event Center",
+      "updated_at": "2019-08-08T21:16+0000"
     }
   ],
-  "updated_at": "2019-08-08T01:32+0000"
+  "updated_at": "2019-08-08T21:20+0000"
 }
