@@ -1,5 +1,5 @@
 {
-  "updated_at": "2019-08-08T16:51+0000",
+  "updated_at": "2019-08-08T16:57+0000",
   "schedule": [
     {
       "id": 40001,
@@ -7172,22 +7172,6 @@
       "location": 40068
     },
     {
-      "id": 40452,
-      "title": "Coffee Talk With Austin King",
-      "description": "",
-      "updated_at": "2019-08-03T20:18+0000",
-      "start_date": "2019-08-09T23:00+0000",
-      "link": "",
-      "event_type": 40005,
-      "includes": "",
-      "speakers": [
-        40475
-      ],
-      "conference": "DEFCON27",
-      "end_date": "2019-08-10T00:00+0000",
-      "location": 40068
-    },
-    {
       "id": 40453,
       "title": "Void If Removed: Securing Our Right To Repair",
       "description": "",
@@ -13961,6 +13945,38 @@
       "conference": "DEFCON27",
       "end_date": "2019-08-11T06:00+0000",
       "location": 40081
+    },
+    {
+      "id": 41072,
+      "title": "Coffee Talk with Erie Meyer",
+      "description": "",
+      "updated_at": "2019-08-08T16:56+0000",
+      "start_date": "2019-08-10T00:00+0000",
+      "link": "",
+      "event_type": 40005,
+      "includes": "",
+      "speakers": [
+        41067
+      ],
+      "conference": "DEFCON27",
+      "end_date": "2019-08-10T01:00+0000",
+      "location": 40068
+    },
+    {
+      "id": 41073,
+      "title": "Coffee talk with Joshua Steinman",
+      "description": "",
+      "updated_at": "2019-08-08T16:57+0000",
+      "start_date": "2019-08-09T23:00+0000",
+      "link": "",
+      "event_type": 40005,
+      "includes": "",
+      "speakers": [
+        41066
+      ],
+      "conference": "DEFCON27",
+      "end_date": "2019-08-10T00:00+0000",
+      "location": 40068
     }
   ]
 }
