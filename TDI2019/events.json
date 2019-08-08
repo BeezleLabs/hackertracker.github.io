@@ -1,0 +1,1116 @@
+{
+  "schedule": [
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40009,
+      "location": 40100,
+      "title": "On this journey, where do I go next?",
+      "link": "",
+      "end_date": "2019-08-09T16:50+0000",
+      "description": "Everyone's journey is different; many times, we think we are alone on our journey. What choices do you need to make to build a path for professional and personal fulfillment? How do you manage opportunities and challenges both personally and professionally especially in the security community? Three professionals have been selected based on their varied career paths which include academia, military, government and corporate positions; their personal lives as single or partnerships; and how they have participated in the community. This panel discussion is for beginners in the community looking for goalposts to follow and those already deep into their career looking for inspiration to overcome current challenges and set new goals for themselves.",
+      "speakers": [
+        41001,
+        41002,
+        41003,
+        41004
+      ],
+      "id": 41001,
+      "conference": "TDI2019",
+      "start_date": "2019-08-09T16:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40009,
+      "location": 40100,
+      "title": "DECEPTICONv2: OPSEC and Anti-OSINT for Personal Protection",
+      "link": "",
+      "end_date": "2019-08-09T17:50+0000",
+      "description": "When we think of the process for attacking an organization, OSINT comes to the front and center of our minds. This presentation takes a presenter with experience in applying OSINT to effective penetration testing and social engineering and reverse engineers the process to determine what steps can be taken to further complicate their efforts. This is a presentation that talks about online deception, decoy accounts, canary data, encryption, maintaining one's social media in a secure manner, and protecting one's identity as much as possible. While nothing is absolute, this is a presentation that will leave attendees more aware of techniques to make it harder for attackers to collect accurate OSINT, either by removal or deception.",
+      "speakers": [
+        41005
+      ],
+      "id": 41002,
+      "conference": "TDI2019",
+      "start_date": "2019-08-09T17:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40009,
+      "location": 40100,
+      "title": "All Aboard: Let's GoPhish-ing and learn new tricks!",
+      "link": "",
+      "end_date": "2019-08-09T18:50+0000",
+      "description": "If you haven't gone phishing yet, it can be daunting. With all of the tools and services out there to pick from, which ones do the professionals use? Come learn some tips and tricks from a penetration tester who goes phishing for a living. Learn how to setup a domain, use the powerful GoPhish framework and much, much, more before sending your phish out to sea!",
+      "speakers": [
+        41006
+      ],
+      "id": 41003,
+      "conference": "TDI2019",
+      "start_date": "2019-08-09T18:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40009,
+      "location": 40100,
+      "title": "Could Static Code Analysis and Secure Coding have Saved the Death Star?",
+      "link": "",
+      "end_date": "2019-08-09T19:50+0000",
+      "description": "Could a scan of the Empire's Death Star software have found the insider threat that Galen Erso left in the Death Star's system? My hypothesis is that if the Empire had used a Static Analysis Tool for issues, then maybe the outcome of the Star Wars movies would have been different.\nThe teacher will explain the terms \u201cSecure Coding\u201d or \u201cStatic Code Analysis\u201d and give associated examples.",
+      "speakers": [
+        41007
+      ],
+      "id": 41004,
+      "conference": "TDI2019",
+      "start_date": "2019-08-09T19:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40009,
+      "location": 40100,
+      "title": "OWASP DevSlop: A DevSecOps Pipeline",
+      "link": "",
+      "end_date": "2019-08-09T20:50+0000",
+      "description": "The OWASP DevSlop team are back with \"Patty\", a new module of the project consisting of a DevSecOps pipeline made with Azure DevOps Pipelines, passing negative unit tests, ensuring all the 3rd party components are known-secure (White Source Bolt), dynamic code analysis (OWASP Zap), retrieving secrets from a secret store (Key Vault), releasing into Azure.  This entire system/project is open-sourced as part of the project as live streaming and recorded videos, so that developers can watch each of the lessons, add it to their own pipelines, and have a head start on DevSecOps.  The talk will consist mostly of a start-to-finish demo of the system, finishing with the DevSlop team releasing their own website live, on stage, using the pipeline. Tools showcased include SSL Labs, White Source Bolt and OWASP Zap.\n\nFor many people 'the cloud' and DevSecOps can be a bit mysterious.  Let's clear this up with a nice, long, slow demo of how to load up an app in your editor, make a change, run it through your pipeline (and pass the security checks!), then publish it into the cloud.  One step at a time.",
+      "speakers": [
+        41008
+      ],
+      "id": 41005,
+      "conference": "TDI2019",
+      "start_date": "2019-08-09T20:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40009,
+      "location": 40100,
+      "title": "Base64 is not encryption - a better story for Kubernetes Secrets",
+      "link": "",
+      "end_date": "2019-08-09T21:50+0000",
+      "description": "Secrets are a key pillar of Kubernetes' security model, used internally (e.g. service accounts) and by users (e.g. API keys), but did you know they are stored in plaintext? That's right, by default all Kubernetes secrets are base64 encoded and stored as plaintext in etcd. Anyone with access to the etcd cluster has access to all your Kubernetes secrets.\n\nThankfully there are better ways. This lecture provides an overview of different techniques for more securely managing secrets in Kubernetes including secrets encryption, KMS plugins, and tools like HashiCorp Vault. Attendees will learn the tradeoffs of each approach to make better decisions on how to secure their Kubernetes clusters.",
+      "speakers": [
+        41009
+      ],
+      "id": 41006,
+      "conference": "TDI2019",
+      "start_date": "2019-08-09T21:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40009,
+      "location": 40100,
+      "title": "It's Coming From Inside the House: An Inside-Out Approach to NodeJS Application Security",
+      "link": "",
+      "end_date": "2019-08-09T22:50+0000",
+      "description": "Getting application security right often requires that developers have a deeper than average understanding of the security domain. In what other industry is this the case? We don't have to be M.D.s to get a medical diagnosis; we don't have to be auto mechanics to get our cars fixed, yet we in security wag our fingers at \"iD10t errors\" and build grand mousetraps to catch \"so obvious\" developer missteps, when they may not know what they need to add, change or remove from their applications to make it \"secure\" in the first place. Furthermore, patterns to address these issues don't always fit the requirements of the application short or long term, resulting in solutions that only address part of the problem, or worse, are omitted altogether because they are too cumbersome to implement. \n\nMy answer to this is _spartan-a node application created for developers of node.js applications, not security people. _spartan allows developers to create security policies which address their node app's (whether it be Desktop, Web, Mobile, IoT or API) specific requirements; it installs & configures the modules to match the policy and; it generates the boilerplate code that developers can import directly into their applications.",
+      "speakers": [
+        41003
+      ],
+      "id": 41007,
+      "conference": "TDI2019",
+      "start_date": "2019-08-09T22:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40009,
+      "location": 40100,
+      "title": "Mobile App Parsing - All about that data",
+      "link": "",
+      "end_date": "2019-08-09T23:50+0000",
+      "description": "Every day new mobile applications hit the App Store / Google Play. Often these new apps contain chat functions or other storage that can be crucial digital forensic evidence in a case. Often these apps are not yet supported by commercial tools. This talk will\n discuss methodologies for discovering and parsing data from unsupported applications. We will go through the methodologies we utilized to discover, test, find, parse, and script to obtain forensic evidence dealing with new applications. This presentation will\n outline the process we went through in order to meet this need for two game applications that had chat functionality not supported by commercial tools. We will provide attendees with a method to find the data when the tools do not yet parse the application provided\n a physical forensic image.",
+      "speakers": [
+        41010
+      ],
+      "id": 41008,
+      "conference": "TDI2019",
+      "start_date": "2019-08-09T23:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40009,
+      "location": 40100,
+      "title": "Getting started with AWS Security",
+      "link": "",
+      "end_date": "2019-08-10T00:50+0000",
+      "description": "More and more businesses have their production infrastructure at least partly in the cloud. Some of the traditional security measures like firewalls, border routers, and unplugging systems from the network no longer apply. In their place is a dizzying list of service offerings from AWS, Azure, and Google (among others). How do you build a secure network on AWS, secure the one you've got, or find all the weak spots? This talk will give you some places to start, and also some \"gotcha\" spots you may need to be aware of.",
+      "speakers": [
+        41011
+      ],
+      "id": 41009,
+      "conference": "TDI2019",
+      "start_date": "2019-08-10T00:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40008,
+      "location": 40099,
+      "title": "Fixing the Internet's Auto-Immune Problem: Bilateral Safe Harbor for Good-Faith Hackers",
+      "link": "",
+      "end_date": "2019-08-09T16:25+0000",
+      "description": "Thousands of organizations have already adopted the idea of inviting good-faith hacking to hack into their systems via vulnerability disclosure, bug bounty and next-gen pen test programs. Even so, the risk of prosecution under anti-hacking laws still casts a cloud over the hackers who are trying to help, and many programs haven't removed this risk by including Safe Harbor language within their program policies. It's not intentional -- the simple truth is that the market has progressed so rapidly that most have implemented crowdsourced security programs without realizing this issue, nor do they know how to how to fix it. Bilateral Safe Harbor language enables program owners to not only provide a strong incentive for good-faith hackers in terms of explicit legal protection, but also to outline exactly what constitutes \"good-faith\" hacking for their organization, and leave legal protections against malicious hackers intact.\n \nThis talk provides an overview of Safe Harbor in the context of good-faith hacking and introduces a current effort to create a standardized, open-source, easily readable legal boilerplate for disclosure program owners all around the world to use.\n\nWhat is Safe Harbor and key takeaways from CFAA/DMCA\nWhy we need a open source vulnerability standardized disclosure\nWhat is disclose.io\nHow can companies participate\nHow can security researchers participate\nHow can legal community participate",
+      "speakers": [
+        41012
+      ],
+      "id": 41010,
+      "conference": "TDI2019",
+      "start_date": "2019-08-09T16:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40008,
+      "location": 40099,
+      "title": "From Novice to Apprentice: How to start participating in Capture the Flag events",
+      "link": "",
+      "end_date": "2019-08-09T16:55+0000",
+      "description": "Capture the Flag (CTF) events are friendly competitions where Digital Forensics and Infosec professionals can hone and showcase their skills but they can also be formidable and intimidating challenges to those who are early in their career. If you have never participated in Capture the Flag events because you don't yet know what CTF are, where they are offered, or you believe you don't yet have the experience or skills to participate then this is for you.\n\nThe session will start by dispelling some myths about the competitions and competitors. Next, I will share how I got started and why I believe I waited too long to test my skills in a competitive environment. I will also share how you can prepare yourself and your toolbox for a CTF event and what to expect during the competition. Finally, the session will conclude with an overview of why participating in CTF will benefit you regardless of your career level.",
+      "speakers": [
+        41013
+      ],
+      "id": 41011,
+      "conference": "TDI2019",
+      "start_date": "2019-08-09T16:30+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40008,
+      "location": 40099,
+      "title": "Working Remote Can Be Overwhelming and Lonely, Let's Change That!",
+      "link": "",
+      "end_date": "2019-08-09T17:25+0000",
+      "description": "One of the challenges we face when working remotely is feeling overwhelmed and isolated.  We can feel overwhelmed by the pressure we put on ourselves, pressure from work or pressure from our family and friends. Sometimes all of the pressure may lead to us feeling anxious, overworked and guilty. I will go over a few different ways you can set yourself up for a positive experience when working remotely.",
+      "speakers": [
+        41014
+      ],
+      "id": 41012,
+      "conference": "TDI2019",
+      "start_date": "2019-08-09T17:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40008,
+      "location": 40099,
+      "title": "The Way of Security",
+      "link": "",
+      "end_date": "2019-08-09T17:55+0000",
+      "description": "What's a different way to talk about security? This talk is inspired by Adam Wick's https://www.thestrangeloop.com/2016/diocletian-constantine-bedouin-sayings-and-network-defense.html which remains one of the best talks I have ever seen, the Tao Te Ching as translated by Ursula K. Le Guin, and a conversation I had recently about how security work is perceived. Security is more than cape and crimefighter analogies- there is a different way to talk about making communities more safe, and that's what I want to explore here.",
+      "speakers": [
+        41015
+      ],
+      "id": 41013,
+      "conference": "TDI2019",
+      "start_date": "2019-08-09T17:30+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40008,
+      "location": 40099,
+      "title": "Step 2: Editing, Step 3: Profit",
+      "link": "",
+      "end_date": "2019-08-09T18:25+0000",
+      "description": "You know how to hack all the things, and you do it well, but if you don't write up your findings coherently, you're not gonna get paid. If you insult or confuse your clients, you'll have to spend your time cleaning up messes instead of increasing your skills and advancing your career. \n\nI'm one of five technical editors who perform grammar QA on reports and presentations at Bishop Fox. Our consultants have us to rely on, but many security professionals have no editor on call. So how do you take control of your writing without a dedicated person checking your work? **You must become the editor.**\n\nThis talk will equip you with practical skills that can help clean up your emails today, and start leveling up your writing for the long term. Come learn how to recognize your strengths and weaknesses as a technical writer, how to fix common typos that spell check can't catch, and how to build editing time into your process.\n\nIt's frustrating to redo work. Check yourself before you wreck yourself, and then enjoy **Step 3: Profit!**",
+      "speakers": [
+        41016
+      ],
+      "id": 41014,
+      "conference": "TDI2019",
+      "start_date": "2019-08-09T18:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40008,
+      "location": 40099,
+      "title": "Infiltration to effect change from the inside",
+      "link": "",
+      "end_date": "2019-08-09T18:55+0000",
+      "description": "In today's world of divisiveness, open bigotry, and hate rhetoric it is easy to stand back and shout at the world that this is wrong. I came to the realization that I was the only one listening and this accomplished nothing. I decided to step out of my comfort zone and see what I could do to effect real change. When I embarked on my plan to quit yelling at the world around me and become involved, to actually try to make the changes I wanted to see come to fruition, I had no idea how emotional the journey would be - or how the many people I worked with would come to mean so much to me personally. This talk shows exactly how we can Believe and Achieve Together.",
+      "speakers": [
+        41017
+      ],
+      "id": 41015,
+      "conference": "TDI2019",
+      "start_date": "2019-08-09T18:30+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40008,
+      "location": 40099,
+      "title": "In the wake of an Advanced Persistent Threat...to Your Personal Safety",
+      "link": "",
+      "end_date": "2019-08-09T19:25+0000",
+      "description": "As an infosec professional, you may be a pro at finding security threats and APTs in your corporate environment, but have you evaluated your personal threat model? What would you do if someone close to you was using technology in a way that was a risk to your personal privacy and safety? Would you do something different if that person was front page news and internationally known as a hacker? As the discussion around stalkerware grows, hear presenters' personal experiences navigating spyware and stalking dating back two decades. Attendees will learn that stalkerware is not a new problem, how to use enterprise network defense and incident response frameworks to respond to personal threats, and what resources can help individuals experiencing tracking, digital harassment, or digital abuse at the hands of a technical adversary. This talk is suitable for software developers and managers to learn about unintended personal safety risks in software, individuals experiencing this threat, and anyone interested in the extent of this problem.",
+      "speakers": [
+        41018,
+        41019
+      ],
+      "id": 41016,
+      "conference": "TDI2019",
+      "start_date": "2019-08-09T19:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40008,
+      "location": 40099,
+      "title": "Scholarships for Women in Cybersecurity",
+      "link": "",
+      "end_date": "2019-08-09T19:55+0000",
+      "description": "There are opportunities and scholarships available to women interested in cybersecurity careers.  How do you find them?  What is available?  What is it like to be part of a pilot program?  As a career changer and liberal arts graduate, with no technical work background, I was chosen as a pilot student for the new SANS Diversity Immersion Academy program, an all online bootcamp, where I completed three SANS certifications: GIAC GSEC, GIAC GCIH, and GIAC GCIA, within six months.  I would love to share my experiences and what I have learned on this exciting journey with other women!",
+      "speakers": [
+        41020
+      ],
+      "id": 41017,
+      "conference": "TDI2019",
+      "start_date": "2019-08-09T19:30+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40008,
+      "location": 40099,
+      "title": "The Secret Weapon to Fight InfoSec FUD",
+      "link": "",
+      "end_date": "2019-08-09T20:25+0000",
+      "description": "FUD (Fear, Uncertainty & Doubt) runs rampant in information security on a daily basis. Sensationalized claims leveraging stolen data or a simple misconfiguration are manipulated to make a headline. The science becomes so obscure that the true findings falls through the cracks. How do we get out of this vicious cycle? The secret weapon to fight FUD is provided from two points of view: the researcher and their target. As a researcher, how can you ensure your findings are taken seriously and not tagged as FUD? As a company or area under the eye of the research community, what can you do to not make the situation worse and become better respected.",
+      "speakers": [
+        41021
+      ],
+      "id": 41018,
+      "conference": "TDI2019",
+      "start_date": "2019-08-09T20:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40008,
+      "location": 40099,
+      "title": "Your Mom Doesn't Work Here...But She Probably Should",
+      "link": "",
+      "end_date": "2019-08-09T20:55+0000",
+      "description": "As two parents working in incident response with seven children between us, we have a unique perspective and appreciation for the overlap in skills between parenting and the security field.  \n\nWe will use the NIST Incident Response Life Cycle model (Preparation; Detection & Analysis; Containment, Eradication & Recovery; and Post-Incident Activity) to illustrate the parallels in these skillsets and show the value that a seasoned parent holds. From threat modeling to triage, moms and dads have expertise that may not be recognized. We want to call that to attention and stress that providing a flexible workplace in order for the people with these diverse skills to thrive is a worthwhile investment.",
+      "speakers": [
+        41022,
+        41023
+      ],
+      "id": 41019,
+      "conference": "TDI2019",
+      "start_date": "2019-08-09T20:30+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40008,
+      "location": 40099,
+      "title": "Accountability and Ethics in Cybersecurity Practices",
+      "link": "",
+      "end_date": "2019-08-09T21:50+0000",
+      "description": "With the increasing dependence on digital systems, cybersecurity is in high demand to secure resources, information, platforms, and identities throughout an organization's entire technical stack, including online and on-prem systems. Public awareness of the need for security and privacy is on the rise, but companies and government regulations are not keeping pace with the fast-changing threat ecosystem. The goal of this project is to enumerate and explore the concrete ways companies' security practices can be aligned with current best practices for consumer data protection. Drawing from expectations implied by U.S. state, federal and international law (such as the California Privacy Act, HIPAA and EUGDPR), industry standards and current understanding of effective IT security practice, the guideline developed in this research shows the actions that companies should follow in order to secure their customers' data and by extent achieve an ethical business practice as well as the grounds to be held accountable for their actions and mistakes. This is all focused from a business perspective: security is approached in terms of a \u2018calculated risk' and the acceptance of consequences instead of the traditional technical-only analysis, which is often incomprehensible to management.",
+      "speakers": [
+        41024
+      ],
+      "id": 41020,
+      "conference": "TDI2019",
+      "start_date": "2019-08-09T21:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40008,
+      "location": 40099,
+      "title": "Research at the Speed of News: Lessons Learned Building & Managing a Cybersecurity Research Publication Process",
+      "link": "",
+      "end_date": "2019-08-09T22:50+0000",
+      "description": "Ever watched a news anchor present the latest vulnerability or fast-moving malware and wondered how that story went from research to headline? Who came up with the soundbites? Who tech reviewed the research before it hit the news? Why aren't there more details and POC code? And why isn't the original researcher on TV doing the talking? The behind the scenes reality is probably more complicated than you think and includes peer researcher reviews, responsible disclosure activity, legal edits (and wrangling), and keeping the PR and marketing machines tuned to technical truth. I learned all of this first-hand when tasked with building out a new research publication process for one of the world's largest security companies. After analyzing the problem, we developed an original, interconnected, \u201cgear-based\u201d framework for coordinating the process quickly using a collaborative, community approach. In this talk, I'll explain the many moving parts of research publication and detail the framework that I developed with my colleagues to ensure the research word got out as quickly, effectively, and responsibly as possible. I'll share what worked - and what didn't - and deliver practical advice on how to set up the process, deal with fast (latest malware) and slow (annual security report) research cycles, manage researcher expectations, handle issues with plagiarism, work with legal reviewers, and determine the best channels for amplifying the message and keeping the research publication gears turning smoothly.",
+      "speakers": [
+        41025
+      ],
+      "id": 41021,
+      "conference": "TDI2019",
+      "start_date": "2019-08-09T22:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40008,
+      "location": 40099,
+      "title": "Offroading with Test Scripts: Security in QA",
+      "link": "",
+      "end_date": "2019-08-09T23:50+0000",
+      "description": "How can QA and Information Security be allies?\n\nIn the QA community, it's been acknowledged for years that we want the same thing as Development and Product: good software, delivered on time, to reach our company's goals. Information Security has been less well represented. This is the story of how we started talking across the gap, improved our requirements, and spread the practice of security testing across a department.",
+      "speakers": [
+        41026
+      ],
+      "id": 41022,
+      "conference": "TDI2019",
+      "start_date": "2019-08-09T23:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40008,
+      "location": 40099,
+      "title": "Hackers are Scary: Why the \"Stupid User\" is Actually just Afraid",
+      "link": "",
+      "end_date": "2019-08-10T00:50+0000",
+      "description": "One of the first and most important lessons the risk assessor learns is that the human is the weakest link. While computers will never stray from their algorithms, the average user is naive and forgetful - making them susceptible to being socially engineered into disclosing sensitive information.\n\nThe average user doesn't see themself as a piece of the security puzzle - they believe that their data is sufficiently protected by immature frameworks, ethical corporations, and academia or affairs that are \u201ctoo complicated\u201d for them to participate in. As infosec professionals we know this is far from the truth - the compromise of an entire infrastructure can be owed to even the smallest human error. Yet our average user is unaware of the risk they carry, leading them to believe that anything they are allowed to know or do is inherently secure rather than simply being convenient for business operations.\n\nHackers are Scary recounts how a quest to make privacy and security a priority in the healthcare sector reveals this gap between theoretical responsibility and actual practice. Through the trials and tribulations in making health record fraud and medical device vulnerabilities an approachable topic, one thing becomes clear: that the average user is actually quite concerned, but does not know how to participate. At the same time, industry culture has a tendency to pass off this this gap of knowledge as the user's laziness or irresponsiblity. Only by creating an approachable dialogue with which the non-security savvy can interface with will they be able to learn how they fit into the bigger picture - both technically and culturally - and why it is necessary for them to take agency over the protection of data entrusted to them.",
+      "speakers": [
+        41027
+      ],
+      "id": 41023,
+      "conference": "TDI2019",
+      "start_date": "2019-08-10T00:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40010,
+      "location": 40101,
+      "title": "How Secure Is This Thing Anyway? A Guide into Mobile Security and Bug Bounties",
+      "link": "",
+      "end_date": "2019-08-09T22:00+0000",
+      "description": "Would you like to build your Android hacking skills and use them to collect bug bounties? This talk is for the absolute beginners who want to learn about mobile security and bug bounties. Mobile application security is an important area that has received relatively little attention so far. This makes it a promising area for opportunities, given that mobile devices are often in scope with bug bounty programs.\n\nIf you want to learn about bug bounties and android applications this talk is made for you!\n\nAttendees will learn the structure of Android applications and be introduced to tools that can be used for penetration testing. Android Tamer is a virtual machine (VM) that can be used for mobile pentesting, reverse engineering, and code analysis. Burp Suite provides a proxy server and other tools that can be used to test web applications. Android Studio is an Integrated Development Environment (IDE) to review android code that also provides a simulator that allows users to run Android APK files on their desktops.",
+      "speakers": [
+        41028
+      ],
+      "id": 41024,
+      "conference": "TDI2019",
+      "start_date": "2019-08-09T20:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40010,
+      "location": 40101,
+      "title": "Conference Talk Proposal Writing 101",
+      "link": "",
+      "end_date": "2019-08-10T00:00+0000",
+      "description": "Do you dream of applying to speak at a conference? Need to flesh out a presentation idea? Not sure where to start? \n\nJoin us as we break down what the talk proposal process entails, and get words onto paper! In this hands-on workshop, we will:\n\n-Brainstorm and fine-tune presentation ideas individually and in groups\n-Walk through how to structure and deliver content\n-Write drafts of talk abstracts and outlines\n-Provide peer feedback on abstracts and outlines\n\nBring your desire to transform ideas into viable proposals for security cons or other technical conferences, and prepare to deliver and receive constructive peer feedback!\n\nLaptops are optional - you will be writing, but you may do so either on a laptop or on paper.",
+      "speakers": [
+        41029
+      ],
+      "id": 41025,
+      "conference": "TDI2019",
+      "start_date": "2019-08-09T22:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40010,
+      "location": 40101,
+      "title": "Be the Change - She/They Strategies for Ascending to a Level of Tech Influence to Change the World",
+      "link": "",
+      "end_date": "2019-08-10T02:00+0000",
+      "description": "This presentation will talk about four specific things you can do to prevent burnout, manage the inequity in a way that works to your advantage, and have the staying power so that future generations will have the benefit of standing on your shoulders.  You will leave with practices and your personal roadmap for navigating the US \u201cbrotropia\u201d whether you are an executive, a senior tech pro, or just getting started in tech.",
+      "speakers": [
+        41030
+      ],
+      "id": 41026,
+      "conference": "TDI2019",
+      "start_date": "2019-08-10T00:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40010,
+      "location": 40101,
+      "title": "The Birds and the PCBs: Where Baby Circuit Boards Come From",
+      "link": "",
+      "end_date": "2019-08-09T20:00+0000",
+      "description": "This part talk, part workshop is for anyone who wants to learn circuit design but doesn't know where to start!  We'll be creating a PCB with a six character 7-segment display, controlled by a microprocessor.  This design doesn't have a direct security application (other than possibly as a conference badge for next year) but serves as a crash course in circuit design and creation, so that attendees can have the knowledge and tools to make their own designs, and/or make sense of hardware that they are reverse engineering.  \n\nIn addition to being the end product of this workshop, the design will be used to show:  \n* How you can go from a nebulous idea, to prototyping, to schematics and board layout all the way to a finished board.  \n* Common circuit features, including how they work, why they're used, how to decide between competing options, and how they might be used in future projects.  \n* A crash course in using Eagle (a free/inexpensive tool for hobbyists) to create schematics and PCBs. \n\nThe goal of the workshop is for attendees to be able to arrive with little or no circuit knowledge, and leave with an understanding of circuit board development from concept to completion, and a completed board design.",
+      "speakers": [
+        41031
+      ],
+      "id": 41027,
+      "conference": "TDI2019",
+      "start_date": "2019-08-09T16:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40010,
+      "location": 40100,
+      "title": "Hacking the signals: From a Practitioner to Leading Security Professionals",
+      "link": "",
+      "end_date": "2019-08-10T07:25+0000",
+      "description": "As a high performing individual contributor, if you want to succeed as a leader, is the answer to fit in with \ufffdmanagement\ufffd, the status quo and lose your own sense of iTransitioning from being a security practitioner to be a leader of a security/ technical team is a path that meanders through insecurities, values, and ultimately growth. It is often about embarking on the unknown where you discover new abilities and qualities like the power of a personal advisory board and fast-fail-forward. For me it is profoundly important to help others take on this challenge and power them to succeed. I will share my personal story, provide guidance, the do\ufffds and don\ufffdts and (look to) create dialogue and inspiration.dentity in the process? Or can you carve out a great niche your authentic self, lead a security team and still be you? How you move up without compromising yourself?",
+      "speakers": [
+        41032
+      ],
+      "id": 41028,
+      "conference": "TDI2019",
+      "start_date": "2019-08-10T07:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40009,
+      "location": 40100,
+      "title": "How to lose a container in 10 minutes",
+      "link": "",
+      "end_date": "2019-08-10T07:25+0000",
+      "description": "Moving to the cloud and deploying containers? In this talk I discuss both the mindset shift and tech challenges, with some common mistakes made in real-life deployments with some real life. We'll also be looking at my ongoing research about how easy (or not) it is to get a container or kubernetes cluster hacked on purpose.",
+      "speakers": [
+        41033
+      ],
+      "id": 41029,
+      "conference": "TDI2019",
+      "start_date": "2019-08-10T07:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40009,
+      "location": 40100,
+      "title": "Stranger Things: Data Driven Incident Forecasting",
+      "link": "",
+      "end_date": "2019-08-10T07:25+0000",
+      "description": "The Netflix Detection and Response Team (D&R) has grown out of the unique Netflix culture and technology stacks. We seek to make our team central to a learning security organization while buying down risk across a broad range of known and unknown threats. To achieve this we are leveraging big data related concepts to predict incident workload and look for trends over time.\n\nIn this talk, we will show how we used Pandas and Seaborn in Python to uncover patterns and trends in our security incident data, and how to create a forecast of future incidents using Prophet. The goal of the talk is to give the audience insights into what we learned and how we are applying this data to grow our incident response capabilities through engineering and new approaches as opposed to large multi-tiered SOCs with linear staffing requirements.",
+      "speakers": [
+        41034,
+        41035
+      ],
+      "id": 41030,
+      "conference": "TDI2019",
+      "start_date": "2019-08-10T07:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40009,
+      "location": 40100,
+      "title": "Is Your Period Tracker App Leaking Data?",
+      "link": "",
+      "end_date": "2019-08-10T07:25+0000",
+      "description": "\u201cRoses are red\nViolets are blue\nWhen the product is free\nThe product is you.\u201d -- Twitter user Matt Cagle (@Matt_Cagle)\n\n\u201cFemtech\u201d refers to technology intended to improve women's health, and it's a lucrative and growing market.  One common example of femtech is period tracking apps, which help women track their menstrual periods and other aspects of their reproductive health.  However, there are serious concerns with a number of these apps, notably related to privacy and security.  Vox reporter Kaitlin Tiffany wrote, \u201cThis app wasn't designed for me. It wasn't designed for anyone who wants to track their period or general reproductive health. The same is true of almost every menstruation-tracking app: They're designed for marketers, for men, for hypothetical unborn children, and perhaps weirdest of all, a kind of voluntary surveillance stance.\u201d\n\nWe discuss privacy issues related to period tracker applications and introduce some techniques to statically and dynamically analyze the behavior of Android apps so that we can see where data from period tracker apps may be going.",
+      "speakers": [
+        41036
+      ],
+      "id": 41031,
+      "conference": "TDI2019",
+      "start_date": "2019-08-10T07:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40009,
+      "location": 40100,
+      "title": "CTI AfterDark",
+      "link": "",
+      "end_date": "2019-08-10T07:25+0000",
+      "description": "\u201cBeauty may be dangerous, but intelligence is lethal.\u201d Bad guys everywhere experience the pain of burning their infrastructure due to being spotted by defenders. Cyber Threat Intelligence is one of many strategies defenders use to make it harder for bad guys to be bad. Cyber Threat Intel Analysts are a group of dedicated professionals that play a wicked meme game but also sniff out badness on the internet for their employer. In this talk, I'll share a typical day in the life of a Cyber Threat Intelligence Analyst. Learn how CTI operates to better understand how you can interact with and leverage an integral team in your enterprise.  Get some CTI techniques you can use in your everyday life and even at your workplace! If you've ever been curious, catch a glimpse into the secret world of CTI AfterDark.",
+      "speakers": [
+        41018
+      ],
+      "id": 41032,
+      "conference": "TDI2019",
+      "start_date": "2019-08-10T07:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40009,
+      "location": 40100,
+      "title": "Mythbusters: Cyber Threat Intelligence Edition",
+      "link": "",
+      "end_date": "2019-08-10T07:25+0000",
+      "description": "Cyber threat intelligence (CTI) is a powerful tool to enable organizations to make better decisions. But too often, common myths and misconceptions about it prevent analysts from making it as effective as it could be. This talk will discuss commonly-believed untruths about CTI while helping the audience understand how they can use CTI to support better decision-making and improved defenses. The audience will take away a richer understanding of CTI and why they should care about it, while being empowered to go back to their teams and help others understand its value as well.",
+      "speakers": [
+        41037
+      ],
+      "id": 41033,
+      "conference": "TDI2019",
+      "start_date": "2019-08-10T07:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40009,
+      "location": 40100,
+      "title": "Sneaky Wi-Fi Networks Stealing Your Passwords",
+      "link": "",
+      "end_date": "2019-08-10T07:25+0000",
+      "description": "Can you trust the Wi-Fi networks you connect to? This talk will briefly discuss an incident triage that was conducted after two employee's laptops, connected to a hotel's wireless network, were found to be attempting connections to an IP address (on the internet) via SMB. This sort of activity is generally viewed as suspicious as hackers can use it to capture NTLM password hashes. Once root of the suspicious network traffic is relieved, a proof of concept attack will be explained and demonstrated. It will show how easily connecting to Wi-Fi can lead to sending your computer's username and NTLM password hash to an attacker.",
+      "speakers": [
+        41038
+      ],
+      "id": 41034,
+      "conference": "TDI2019",
+      "start_date": "2019-08-10T07:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40009,
+      "location": 40100,
+      "title": "Automating security operations in the Cloud",
+      "link": "",
+      "end_date": "2019-08-10T07:25+0000",
+      "description": "Security of assets can be a big challenge whether you are in the Cloud or in the on-premises environment. With the Cloud, you gain the flexibility to Automate security operations due to well-integrated service. In this session, we will discuss how you can achieve security goals in an organization through the use of Cloud Security best practices.",
+      "speakers": [
+        41039
+      ],
+      "id": 41035,
+      "conference": "TDI2019",
+      "start_date": "2019-08-10T07:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40009,
+      "location": 40100,
+      "title": "Ain't Nobody Got Time For That!':  Understanding Algorithmic Game Theory and Price of Anarchy",
+      "link": "",
+      "end_date": "2019-08-10T07:50+0000",
+      "description": "As cyber becomes the new battlefield for the lowest levels of criminal activity, much of our cyber defense posture as a community is built on Anti-Virus (AV) signatures (and other alert based systems), and policy.  What do we know about the people/entities we are protecting ourselves against?  In this game of cyber chess, how do we know what move to make next?  There is a mathematical model of study that is growing in popularity in the Computer Science community called Game Theory.  Algorithmic Game Theory could help advance algorithmic systems to identify malicious activity BEFORE it affects a network (being proactive vs reactive) by using strategic decisions based on the interactions of rational decision makers.  But what about negligence in following policy as a kind of insider threat?  Price of Anarchy (PoA) is a subset of Game Theory that analyzes and attempts to measure how much a system can be degraded by selfish behaviors.  \n\nThis talk is for everyone looking to crack the egg of cyber defense and stop the Whack-A-Intrusion game and asks how we can use Game Theory to create proactive solutions in the technical and psychological realm of cybersecurity.  We will discuss what Game Theory is, how it is being used today in Cybersecurity, and then attempt to apply a non-cyber principle (PoA) to further calculate if the changes we are making in cyber defense is actually helping us become more secure (or if it is just lip service).  This talk will NOT tell you the best AV to use.  The purpose is to show you a different way of thinking about defense decision making, down to the employee/policy level.",
+      "speakers": [
+        41040
+      ],
+      "id": 41036,
+      "conference": "TDI2019",
+      "start_date": "2019-08-10T07:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40009,
+      "location": 40100,
+      "title": "Attacking & Defending AWS S3 Bucket",
+      "link": "",
+      "end_date": "2019-08-10T07:50+0000",
+      "description": "In the recent past, we have seen various well-known organizations encountered AWS S3 bucket data leak exposing millions of customer records and confidential corporate information. Hackers enumerate and try to find out publicly accessible S3 buckets because it's like public share with juicy information. In most of the cases, it was seen that excessive permissions and misconfiguration were the main reasons for data exposure. In the run to get the most benefit of cloud, security considerations are avoided or ignored leaving S3 bucket exposed. Though Organizations are working hard to secure data in the cloud more efforts are required to put in place to make sure people, process and technology work hand in hand to protect data in the cloud.\nIn this talk, the audience will learn to enumerate public S3 buckets, gain access to them through open sources tools. Further, they will be demonstrated to exploit READ, WRITE, READ_ACP, WRITE_ACP or FULL permissions on buckets/objects to download sensitive information or upload unintended content. Following, the AWS security tools, services and features will be recommended to secure and restrict S3 buckets. The emphasis is on customer responsibilities, so that they understand importance of their role in securing S3 and circumvent misconfigurations.",
+      "speakers": [
+        41041
+      ],
+      "id": 41037,
+      "conference": "TDI2019",
+      "start_date": "2019-08-10T07:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40009,
+      "location": 40100,
+      "title": "Hacking Modern Webapps",
+      "link": "",
+      "end_date": "2019-08-10T07:50+0000",
+      "description": "Web applications power everything, and penetration testers/red team members need to know how to use, and abuse, the new technologies that modern web apps are using. This talk will cover more modern web application features like web application local storage, Cross Origin Resource Sharing, and WebSockets from a penetration tester's perspective.",
+      "speakers": [
+        41042
+      ],
+      "id": 41038,
+      "conference": "TDI2019",
+      "start_date": "2019-08-10T07:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40009,
+      "location": 40100,
+      "title": "Exploiting Data Subject Access Rights under New Privacy Laws",
+      "link": "",
+      "end_date": "2019-08-10T07:50+0000",
+      "description": "The ability to request access to all the personal information a company has on an individual under new privacy laws such as the GDPR and CCPA has created new attack vectors for social engineering. These personal data access requests are usually managed by legal or compliance teams with minimal security review, increasing the potential for successful phishing, OSINT, and \u201clegal DDoS.\u201d This talk will discuss the personal data access options required in different regions, how most companies respond to data access requests, and the most effective exploits for privacy vulnerabilities. We'll explore the psychology driving corporate responses to requests and ways these emotions can be exploited, as well as the most likely targets for a weak privacy program. A cheatsheet with key sections of the laws you need to know for successful exploits will be included.",
+      "speakers": [
+        41043
+      ],
+      "id": 41039,
+      "conference": "TDI2019",
+      "start_date": "2019-08-10T07:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40009,
+      "location": 40100,
+      "title": "Exploiting Web Apps: Hands-On",
+      "link": "",
+      "end_date": "2019-08-10T07:50+0000",
+      "description": "Learn attack techniques in a fun, CTF-style hands-on workshop.  Participants will attack on Web applications with: command injections in Bash, PowerShell and ImageMagick; SQL injection; Cross-Site Request Forgery; Cross-Site Scripting; cookie manipulation, and exploit Drupal and SAML.  We will also implement network defenses and monitoring agents. We will use Burp, Splunk, Snort, and simple Python scripts.\n\nPrerequisites: participants should know basic security and networking. Experience with Web development is helpful but not necessary.\n\nStudents must have a computer with a Web browser and Java.  For some projects you will need a Linux or Windows virtual or cloud machine.\n\nAll project instructions and materials are freely available online.",
+      "speakers": [
+        41044,
+        41045
+      ],
+      "id": 41040,
+      "conference": "TDI2019",
+      "start_date": "2019-08-10T07:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40008,
+      "location": 40099,
+      "title": "Please don\ufffdt hate me, but I need to social engineer you now. ",
+      "link": "",
+      "end_date": "2019-08-10T07:25+0000",
+      "description": "The \ufffdether sheet\ufffd, also known as the \ufffdblood/brain barrier\ufffd is a sheet that covers the face of a patient in surgery. While it is practical for sterilization, it also helps facilitate a surgeon to make the cut. While all doctors make an oath to \ufffddo no harm,\ufffd for some, they need to do some harm before thorough healing can happen. Similarly, for social engineers we need to do some harm in order for security awareness to advance. However, there is no defined blood/brain barrier for social engineering. Without one, social engineers are vulnerable to feelings of guilt and remorse even though they are working for the greater good. Those feelings can prevent a good social engineer from being a great social engineer. This research explores how to build one\ufffds own social engineering blood/brain barrier so that social engineers can protect themselves in their efforts to better protect others.",
+      "speakers": [
+        41046
+      ],
+      "id": 41041,
+      "conference": "TDI2019",
+      "start_date": "2019-08-10T07:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40008,
+      "location": 40099,
+      "title": "Hacking Humans: Addressing Vulnerabilities in the Advancing Medical Device Landscape",
+      "link": "",
+      "end_date": "2019-08-10T07:25+0000",
+      "description": "As technology advances, the health care critical infrastructure sector comprises much of the potential attack surface of the national security landscape. Medical devices are being fitted with \ufffdsmart\ufffd technology in order to better serve patients and stay at the forefront of health technology. However, medical devices that enable connectivity, like all other computer systems, incorporate software that is vulnerable to threats.\n\nMedical device recalls increased 126% in the first quarter of 2018, mostly due to software issues and vulnerabilities. Abbott and Bayer, among other medical device companies, had recalls on devices based on weaknesses discovered by both government security entities and academic institutions. These devices, which included pacemakers, infusion pumps, and MRI machines, were found to have vulnerabilities ranging from buffer overflow bugs to the presence of hard-coded credentials that easily lent to unauthorized access of proprietary information.\n\nA breach of any one of these devices could compromise data confidentiality, integrity, and availability, as well as patient safety. In order to mitigate these types of vulnerabilities, the FDA has issued a guidance, as well as a vulnerability scoring system, in order to assess impact. This system assesses the attack vector, the complexity, risk and severity of both patient harm and information compromise, and the remediation level. By utilizing a more rigid system along these guidelines, there is hope that the threat of a medical device attack will be diminished.\n\nThis talk will explore some of the past and current vulnerabilities facing the medical device industry, and the steps that the FDA is taking to mitigate these risks.",
+      "speakers": [
+        41047
+      ],
+      "id": 41042,
+      "conference": "TDI2019",
+      "start_date": "2019-08-10T07:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40008,
+      "location": 40099,
+      "title": "Are we making our engineers blue?",
+      "link": "",
+      "end_date": "2019-08-10T07:50+0000",
+      "description": "Our engineers are going from software engineers to software + infrastructure + network + database engineers, and they're delivering faster. In an environment of continuous deployment how do security teams scale? Can we? \n\nLet's talk about TTP's for are engineering teams, to better equip them to secure our estate. We're going to be using real threat models as examples to guide us through how we can increase our security teams and reduce our threat landscape. Like how to use incidents to evolve our threat models, why and how we should write and use security tests to validate our models and the power of POC'ing attack vectors from our models to evolve them further. Finally, how we build, evolve, share and ultimately transfer ownership of these models to our engineering teams - teaching them to be our blue team.",
+      "speakers": [
+        41048
+      ],
+      "id": 41043,
+      "conference": "TDI2019",
+      "start_date": "2019-08-10T07:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40008,
+      "location": 40099,
+      "title": "The relevance of social science to the cybersecurity discourse",
+      "link": "",
+      "end_date": "2019-08-10T07:50+0000",
+      "description": "While cyberattacks and cybersecurity may involve technical aspects, the offenders, defenders, and victims are human. Cybercrime is a broader societal problem and thus the social sciences can, and should, be included in discussions of cyberattacks and cybersecurity in both the research and education domains. This talk shares how social science has been used in research to understand adversarial movement, decision-making, adaptation, and group dynamics. It then discusses how it has been blended with data analytic techniques to delve into these areas further. On the education front, this talk shares how hands-on projects can expose students across both the hard and social sciences to areas of critical infrastructure cybersecurity, adversarial mindsets, and social engineering.",
+      "speakers": [
+        41049
+      ],
+      "id": 41044,
+      "conference": "TDI2019",
+      "start_date": "2019-08-10T07:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40008,
+      "location": 40099,
+      "title": "How Online Dating Made Me Better At Threat Modeling",
+      "link": "",
+      "end_date": "2019-08-10T07:50+0000",
+      "description": "[Speaker Name] has used online dating sites such as Tinder and OkCupid. At times this seems antithetical to his stance on privacy and security. To better understand the security ramifications of online dating, and to establish safer methods of doing it, he applied threat modeling to online dating. Through this he came up with a set of best practices depending on your threat model. This talk is relevant for anyone who is trying to balance privacy/security and a desire for human connection in this modern world. Due to the real and perceived dangers of online dating, the stigma that surrounds it, and the pervasiveness of it, it is a great lens through which folks can be introduced to the core principles of threat modeling. It also makes it fun to talk about!",
+      "speakers": [
+        41050
+      ],
+      "id": 41045,
+      "conference": "TDI2019",
+      "start_date": "2019-08-10T07:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40008,
+      "location": 40099,
+      "title": "I'm a hunter! But what does that mean?",
+      "link": "",
+      "end_date": "2019-08-10T07:50+0000",
+      "description": "The term \"Threat Hunter\" and \"Threat Researcher\" seem to be buzzing around these days. But what does it mean? What do those people do?  Where do they fall in?\nI'm going to tell you my thoughts on what the skills and abilities of seasoned hunter might look like and how having one could help an organization. \nI will talk a little about the common types of hunters, but I will talk more about my passion that is also my job.\nMy goal is to help clear a couple of things up and maybe spark some interest in this field that I love.",
+      "speakers": [
+        41051
+      ],
+      "id": 41046,
+      "conference": "TDI2019",
+      "start_date": "2019-08-10T07:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40008,
+      "location": 40099,
+      "title": "Hacking Brainstems, Mitigating Vulns: Promise from a 0 Day Inside",
+      "link": "",
+      "end_date": "2019-08-10T07:50+0000",
+      "description": "When I was 32, I lived on the beach, thrived in my made-for-me role inspecting large-scale construction sites, and enjoyed a mix of being highly social and deeply reflective. Then I had a Brainstem Stroke, four Cerebellar strokes, and massive concussions from external trauma/being strangled. Ability to move, communicate, comprehend, or even unconsciously run homeostasis was gone. Just like that. So, what do you do when every sense has been wiped of prior filters, every known ability glitches or has been removed, and only you can climb your way out? Hear how I analytically devised an ingenious way to format a wholly new internal working platform, one based on rational steps, exploiting my body's electrical system to remove the conscious/subconscious barrier, electrical impulses, ratios and leaning on \u201chacking\u201d ways around what was no longer functioning. This started with the only things I could control: breath and my tongue against my teeth. I held faith that any logical networking would provide a workable outcome. What transpired turned into something that approximately 1% of 1% do: survive, and then thrive, beyond damage to the deepest, most challenging CPU known to man. Doing this, I made 45 years of recovery in 5. An analog reality of \u201cengineering out of the problem\u201d that inspires joy, courage, humanity.",
+      "speakers": [
+        41052
+      ],
+      "id": 41047,
+      "conference": "TDI2019",
+      "start_date": "2019-08-10T07:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40008,
+      "location": 40099,
+      "title": "Web Application Penetration Testing: An Introductory Workshop For Developers and Security Professionals At All Levels",
+      "link": "",
+      "end_date": "2019-08-10T07:50+0000",
+      "description": "In this completely hands-on workshop, you will get to understand the techniques and methodologies that could be applied when performing a web application penetration testing. Throughout this workshop, you will use the Burp Suite tool, which is a conglomerate of distinct tools with powerful features. Apart from gaining familiarity with the tools and the techniques involved in application security testing, you will also get an opportunity to understand some of the common vulnerabilities from the OWASP Top 10 list. I will provide you with a vulnerable website, and you will uncover security issues in it even if you have never done this before!\n\nIt will have a pinch of Agile Methodology, DevSecOps and CI/CD pipeline.",
+      "speakers": [
+        41053
+      ],
+      "id": 41048,
+      "conference": "TDI2019",
+      "start_date": "2019-08-10T07:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40008,
+      "location": 40099,
+      "title": "Is it time to think about Incident Response differently?",
+      "link": "",
+      "end_date": "2019-08-10T07:50+0000",
+      "description": "While so much in the threat landscape is changing, why have our Incident Response processes have stayed the same? They have not adapted to the latest threats, which can put organizations at risk. This talk will present conclusions from doctoral research on the implementation of double-loop learning as a way to improve the incident response process. The presentation discusses the success of incorporating learning loops into IR cycles. Incident response is traditionally taught as a single loop learning cycle, but research shows double-loop learning can help limit or mitigate the extent of new issues and includes constant learning at each phase.",
+      "speakers": [
+        41054
+      ],
+      "id": 41049,
+      "conference": "TDI2019",
+      "start_date": "2019-08-10T07:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40010,
+      "location": 40101,
+      "title": "Backwards and In Heels: You Must Know The Business To Secure The Business",
+      "link": "",
+      "end_date": "2019-08-10T07:50+0000",
+      "description": "Security teams spend a lot of time focused on the results and impact of what happens when there's a security failure. In turn, we have a bad habit of 'Monday-Morning-Quarterback'ing all the things that should have happened to prevent the security failure in the first place. But have you ever attempted to fully implement ***all*** of the security advice that's out there in conjunction with business priorities? Well, I did. In this presentation, I will share what I learned about what it takes to get application security right from design to delivery, how to communicate about *REAL* risk (without the FUD) and why we should eliminate the word \"**just**\" from our solutioning.",
+      "speakers": [
+        41003
+      ],
+      "id": 41050,
+      "conference": "TDI2019",
+      "start_date": "2019-08-10T07:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40010,
+      "location": 40101,
+      "title": "Call Center Authentication",
+      "link": "",
+      "end_date": "2019-08-10T07:50+0000",
+      "description": "You've built login for your application\u2014maybe you even have 2FA\u2014but what happens when a customer calls the support number listed on your website or product?\n\nSecurity teams and app developers have thought a lot about online authentication, but we haven't applied the same rigor to designing systems for authenticating over the phone. At Twilio, product and engineering teams have spent the last year thinking about this problem and how to make the experience better for both the customer and the call center agent. In that time, I've called dozens of contact centers to learn about how everyone from startups to Fortune 50 companies attempt to identify and authenticate the end user. This talk will take a look at that research and outline best practices you can use in your own call centers. You'll leave the session understanding what information should be made available to the agent and what kind of product features you can build into your web or mobile application that can facilitate phone authentication.",
+      "speakers": [
+        41055
+      ],
+      "id": 41051,
+      "conference": "TDI2019",
+      "start_date": "2019-08-10T07:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40010,
+      "location": 40101,
+      "title": "Ethics in Social Engineering - Destroying the Target is Not the Goal",
+      "link": "",
+      "end_date": "2019-08-10T07:50+0000",
+      "description": "Ethics in penetration testing and specifically social engineering is a topic that is\nrarely addressed and frequently left up to the individuals involved. What is the difference\nbetween morals, ethics, and culture? Why do those distinctions matter.  This presentation discusses best practices and the potential adverse impacts of unethical behavior. Why should the Social\nEngineer care about the target and why should the client care about the Social Engineers ethical values and approach.",
+      "speakers": [
+        41056
+      ],
+      "id": 41052,
+      "conference": "TDI2019",
+      "start_date": "2019-08-10T07:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40010,
+      "location": 40101,
+      "title": "Inside Out Security - Building Castles not Warehouses",
+      "link": "",
+      "end_date": "2019-08-10T07:50+0000",
+      "description": "Medieval castle builders made effective use of simple design principles to defend the most valuable assets in their castles.  Centuries later there are clearly lessons we've forgotten that could help when it comes to how we defend our IT assets. From the moment we started to enable multi-user systems, we've gone about defending our information in all the wrong ways. In this session we'll look at a completely different approach to designing security into our systems. We'll look at new ways to understand what assets are, what threats those assets face, and how to leverage three basic types of defense mechanisms to effectively protect what we hold most dear. Ultimately you'll learn how to bring technology and offensive security practices together into a cohesive defense approach that works. It's time to defend your crown jewels inside a fortified castle rather than a thinly constructed warehouse.",
+      "speakers": [
+        41057
+      ],
+      "id": 41053,
+      "conference": "TDI2019",
+      "start_date": "2019-08-10T07:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40010,
+      "location": 40101,
+      "title": "Status: Ready - Preparing for your next Infosec Role",
+      "link": "",
+      "end_date": "2019-08-10T07:50+0000",
+      "description": "What happens when you are tired of your current InfoSec role, experience an unexpected layoff or if you would like to move on or up in your career? Instead of waiting to land a new job to learn new skills you can already be getting a head start on being the perfect candidate for your next role! This talk will discuss self-learning and taking the initiative to learn new skills on your own time for free or at a discounted price. I want to encourage others not to wait for their employer, university or a Bootcamp to get new skills. I will be providing resources and strategies that can be used to advance in your InfoSec career. Key factors to advancing in your InfoSec career include Never stop learning, your future job title, networking, and investing in yourself. After this talk, you will gain the confidence and the resources to prepare for your next InfoSec role.",
+      "speakers": [
+        41058
+      ],
+      "id": 41054,
+      "conference": "TDI2019",
+      "start_date": "2019-08-10T07:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40010,
+      "location": 40101,
+      "title": "Tell Me About Yourself: Perfecting Your Elevator Pitch",
+      "link": "",
+      "end_date": "2019-08-10T07:50+0000",
+      "description": "Almost every interview has a version of the request, \u201cTell Me About Yourself.\u201d People often have trouble articulating their journey and how it has made them a great employee. After my recent experiences having to answer it myself innumerable times as well as mentoring others at all career levels, I have developed tips for turning vague stories into a polished pitch. As a software engineer who went to art school, it's critical that I articulate my skills clearly before I am dismissed by technical recruiters. This workshop starts with a presentation, but then quickly becomes interactive. I start with a warm-up question, then ask for a volunteer to tell their story. I give direct feedback which helps everyone absorb the main points by connecting it with the live example.\n\nThe key takeaways are:\nEveryone is better than they were before. At every job you were in, you learned something, even if technically you moved laterally or even down. \nIf you worked as a barista, you learned customer service, multi-tasking and problem solving. \nYour skills are more important than how you used them.\nInstead of focusing on the task (e.g. folding clothes at a retail store), turn it into the skill (in that example, attention to detail and quality control). \nRemember that you are interviewing them as well. If a manager cannot appreciate your diverse skills, find the one who can.",
+      "speakers": [
+        41059
+      ],
+      "id": 41055,
+      "conference": "TDI2019",
+      "start_date": "2019-08-10T07:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40010,
+      "location": 40101,
+      "title": "We Broke the Code - Now Let's Rewrite the OS!",
+      "link": "",
+      "end_date": "2019-08-10T07:50+0000",
+      "description": "Women have made great strides since we entered the workforce.  We have a foot firmly in the door, and are scrambling for seats at the table. Now that we are in the system, it's painfully obvious that the rules weren't written with our requirements in mind and the code is woefully outdated. \n\nHow do we adapt the mad skills we developed to break into a male dominated industry, to find our niche and encourage more women to join the ranks?  Are we going to settle for minor bug fixes and a superficial graphics refresh, or are we going to work together to rewrite the operating system?  \n\nWe may not be able to accomplish everything at once but we can do something at once. We can start by re-programing ourselves, open-sourcing that code, and building a self-healing network and an operating system that is resilient enough to support our growing community.  Let's get started now!",
+      "speakers": [
+        41060
+      ],
+      "id": 41056,
+      "conference": "TDI2019",
+      "start_date": "2019-08-10T07:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40010,
+      "location": 40101,
+      "title": "Why won't they just get password managers already!? User empathy for better security",
+      "link": "",
+      "end_date": "2019-08-10T07:50+0000",
+      "description": "Empathy as a security tool has been trending lately, mostly regarding attackers. But what does it look like to be  empathetic to our users? Toward developers? Toward those who make the bugs, cut the corners, reuse their passwords and decline 2FA? And where do you even start?\n\nI will make the case that empathetic security design and communication will:\n- increase take-up of security behaviors by users and developers\n- improve your ability, as a security professional, to communicate security concepts to developers, decision-makers, designers and users, and\n- help you design better tools and tips for users.\n\nThe core of the talk will focus on understanding users and developers. I will give three key concepts to guide you toward empathy, and I will present some entertaining and enlightening research on the beliefs, feelings and threat models that inform user behavior, and answer the question \"why won't users just get password managers already?\" (It's probably not what you think!)\n\nTo finish, I will give you some practical techniques for teasing out the reasons behind the reasons why your target audience, be they users, developers, or others, act the way they do, and tools for turning those reasons into incentives for better behavior and mutually agreeable outcomes.",
+      "speakers": [
+        41061
+      ],
+      "id": 41057,
+      "conference": "TDI2019",
+      "start_date": "2019-08-10T07:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40010,
+      "location": 40101,
+      "title": "Winning at workplace politics",
+      "link": "",
+      "end_date": "2019-08-10T07:50+0000",
+      "description": "Chances are, you're frustrated that your ideas, solutions, and advice just don't seem to get through to the decision-makers you work with. This happens to everyone from time to time, but if it's a regular occurrence for you, you might need to learn to increase your influence at work.\n\nInfluence is the difference between that person at work whose team always seems to get extra staffing, or that developer who always gets to choose the tech, and those that don't. \n\nIt isn't magic, it isn't luck, and it isn't _just_ natural ability. You can learn how to increase your influence through some simple planning, framing and delivery steps.\n\nThese skills are important if you want to make sure your expert opinion is understood and considered by those making crucial decisions about budgets, time frames, architecture, security and even everyday things like the air-conditioning temperature.\n\nIn this interactive workshop I will explain the basics of influence in a workplace, talk you through the steps, and walk you through addressing a real problem in your real workplace.",
+      "speakers": [
+        41061
+      ],
+      "id": 41058,
+      "conference": "TDI2019",
+      "start_date": "2019-08-10T07:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40011,
+      "location": 40102,
+      "title": "Career Village",
+      "link": "",
+      "end_date": "2019-08-10T16:00+0000",
+      "description": "Our Career Village is a perfect place for Diana Initiative attendees to obtain personalized advice for professional development.\n\nAvailable professional opportunities range from resume reviews to in-person interviews with corporate representatives. All activities in the Career Village require sign-up at Registration. When you pick up your Conference Badge at Registration, you will be able to sign up for an available time slot for the particular activity you are interested in. https://www.dianainitiative.org/career-village/",
+      "speakers": [
+        41062
+      ],
+      "id": 41059,
+      "conference": "TDI2019",
+      "start_date": "2019-08-10T07:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40011,
+      "location": 40102,
+      "title": "Career Village",
+      "link": "",
+      "end_date": "2019-08-10T01:00+0000",
+      "description": "Our Career Village is a perfect place for Diana Initiative attendees to obtain personalized advice for professional development.\n\nAvailable professional opportunities range from resume reviews to in-person interviews with corporate representatives. All activities in the Career Village require sign-up at Registration. When you pick up your Conference Badge at Registration, you will be able to sign up for an available time slot for the particular activity you are interested in. https://www.dianainitiative.org/career-village/",
+      "speakers": [
+        41062
+      ],
+      "id": 41060,
+      "conference": "TDI2019",
+      "start_date": "2019-08-09T16:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40011,
+      "location": 40103,
+      "title": "Lockpick Village",
+      "link": "",
+      "end_date": "2019-08-10T21:00+0000",
+      "description": "Lockpick Extreme will be hosting free hands-on training in our Lockpick Village throughout the conference. Come on your own time and explore this fascinating art, observe and learn, or just hang out for a friendly chat. ",
+      "speakers": [
+        41062
+      ],
+      "id": 41061,
+      "conference": "TDI2019",
+      "start_date": "2019-08-10T07:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40011,
+      "location": 40103,
+      "title": "Lockpick Village",
+      "link": "",
+      "end_date": "2019-08-10T06:00+0000",
+      "description": "Lockpick Extreme will be hosting free hands-on training in our Lockpick Village throughout the conference. Come on your own time and explore this fascinating art, observe and learn, or just hang out for a friendly chat. ",
+      "speakers": [
+        41062
+      ],
+      "id": 41062,
+      "conference": "TDI2019",
+      "start_date": "2019-08-09T16:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40011,
+      "location": 40104,
+      "title": "Soldering Village",
+      "link": "",
+      "end_date": "2019-08-10T16:00+0000",
+      "description": "Are you new to soldering? Then you\ufffdre in luck! Our Soldering Village, open throughout the conference, is designed to teach everyone how to solder. And the best part is, you\ufffdll be creating your very own badge!\n\nThe village will be open from 9:00 AM until 6:00 PM each day.",
+      "speakers": [
+        41062
+      ],
+      "id": 41063,
+      "conference": "TDI2019",
+      "start_date": "2019-08-10T07:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40011,
+      "location": 40104,
+      "title": "Soldering Village",
+      "link": "",
+      "end_date": "2019-08-10T01:00+0000",
+      "description": "Are you new to soldering? Then you\ufffdre in luck! Our Soldering Village, open throughout the conference, is designed to teach everyone how to solder. And the best part is, you\ufffdll be creating your very own badge!\n\nThe village will be open from 9:00 AM until 6:00 PM each day.",
+      "speakers": [
+        41062
+      ],
+      "id": 41064,
+      "conference": "TDI2019",
+      "start_date": "2019-08-09T16:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40011,
+      "location": 40105,
+      "title": "Capture the Flag event",
+      "link": "",
+      "end_date": "2019-08-10T15:45+0000",
+      "description": "Our Capture the Flag event (CTF) is a great place to meet friends, shell a server for the first time, or compete to win. This on-site Jeopardy-style CTF features challenges from cryptograms to lateralization and a full difficulty range. Experienced CTF players, hackers, and security folks will be available to offer encouragement, teach skills, and answer questions.\n \n\nCTF challenge categories include OSINT, lockpicking, soldering, web application and binary exploitation, network discovery, and more. Shout out to the Lockpick Village and Soldering Village for their collaboration!\n\nHacking is better together! We encourage team play, with no team size limit. Bring your friends or join up with the other folks at your table. Simply sign up one account per team and share the credentials with your teammates. Arrangements you may make to include off-site players are none of our knowledge or concern; we will only be supporting on-site play.\n\nEach table will have a power strip and one Ethernet connection. WiFi will also be available. Tip: bring a small network switch to enable table-level networking. https://www.dianainitiative.org/capture-the-flag-event/",
+      "speakers": [
+        41063
+      ],
+      "id": 41065,
+      "conference": "TDI2019",
+      "start_date": "2019-08-10T07:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40011,
+      "location": 40105,
+      "title": "Capture the Flag event",
+      "link": "",
+      "end_date": "2019-08-10T04:00+0000",
+      "description": "Our Capture the Flag event (CTF) is a great place to meet friends, shell a server for the first time, or compete to win. This on-site Jeopardy-style CTF features challenges from cryptograms to lateralization and a full difficulty range. Experienced CTF players, hackers, and security folks will be available to offer encouragement, teach skills, and answer questions.\n \n\nCTF challenge categories include OSINT, lockpicking, soldering, web application and binary exploitation, network discovery, and more. Shout out to the Lockpick Village and Soldering Village for their collaboration!\n\nHacking is better together! We encourage team play, with no team size limit. Bring your friends or join up with the other folks at your table. Simply sign up one account per team and share the credentials with your teammates. Arrangements you may make to include off-site players are none of our knowledge or concern; we will only be supporting on-site play.\n\nEach table will have a power strip and one Ethernet connection. WiFi will also be available. Tip: bring a small network switch to enable table-level networking. https://www.dianainitiative.org/capture-the-flag-event/",
+      "speakers": [
+        41063
+      ],
+      "id": 41066,
+      "conference": "TDI2019",
+      "start_date": "2019-08-09T19:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40011,
+      "location": 40105,
+      "title": "CTF4NOOBZ Workshop\ufffd",
+      "link": "",
+      "end_date": "2019-08-09T19:00+0000",
+      "description": "Registration sold out, but there will be an ON-SITE wait list. Stop by Registration early Friday morning to get on this list. ",
+      "speakers": [
+        41064
+      ],
+      "id": 41067,
+      "conference": "TDI2019",
+      "start_date": "2019-08-09T16:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40011,
+      "location": 40105,
+      "title": "Quiet Party",
+      "link": "",
+      "end_date": "2019-08-10T06:00+0000",
+      "description": "A Diana Initiative Badge is required to attend either of our After Parties.\nDoors open at 7:30pm and space is limited. Enjoy light refreshments, low-key background music, and a safe & fun atmosphere for networking and chatting while you relax playing an assortment of board and card games. The Lock Pick Village will be open during the party to sharpen your skills and bond over 5-pin successes. This is a great time to meet and talk with other attendees from the conference without the noise and crowds of a typical Friday night.",
+      "speakers": [
+        41065
+      ],
+      "id": 41068,
+      "conference": "TDI2019",
+      "start_date": "2019-08-10T03:00+0000"
+    },
+    {
+      "includes": "",
+      "updated_at": "2019-08-02T20:57+0000",
+      "event_type": 40011,
+      "location": 40105,
+      "title": "Not-Quiet Party",
+      "link": "",
+      "end_date": "2019-08-10T10:00+0000",
+      "description": "A Diana Initiative Badge is required to attend either of our After Parties.\nDoors open at 7:30pm and space is limited. It\ufffds Saturday night and time to cut loose after multiple days of conference talks \ufffd come celebrate with us! Enjoy a great mix of music by our masterful DJ, Tineh Nimjeh, with lasers, dancing and more in a comfortable and safe space. There will be a cash bar available for refreshments. For one last hurrah, the Lock Pick Village will be open during the party as a fun and relaxing getaway for all skill levels.",
+      "speakers": [
+        41065
+      ],
+      "id": 41069,
+      "conference": "TDI2019",
+      "start_date": "2019-08-10T07:00+0000"
+    }
+  ],
+  "updated_at": "2019-08-02T20:57+0000"
+}
