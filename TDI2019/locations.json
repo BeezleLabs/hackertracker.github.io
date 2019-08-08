@@ -1,52 +1,52 @@
 {
   "locations": [
     {
-      "hotel": "Westin",
-      "name": "The Westin Las Vegas Hotel & Spa, Acacia C",
       "id": 40099,
+      "hotel": "Westin",
       "conference": "TDI2019",
+      "name": "The Westin Las Vegas Hotel & Spa, Acacia C",
       "updated_at": "2019-08-08T03:12+0000"
     },
     {
-      "hotel": "Westin",
-      "name": "The Westin Las Vegas Hotel & Spa, Acacia D",
       "id": 40100,
+      "hotel": "Westin",
       "conference": "TDI2019",
+      "name": "The Westin Las Vegas Hotel & Spa, Acacia D",
       "updated_at": "2019-08-08T03:12+0000"
     },
     {
-      "hotel": "Westin",
-      "name": "The Westin Las Vegas Hotel & Spa, Acacia A&B",
       "id": 40101,
+      "hotel": "Westin",
       "conference": "TDI2019",
+      "name": "The Westin Las Vegas Hotel & Spa, Acacia A&B",
       "updated_at": "2019-08-08T03:12+0000"
     },
     {
-      "hotel": "Westin",
-      "name": "The Westin Las Vegas Hotel & Spa, Mesquite 2 (First Floor)",
       "id": 40102,
+      "hotel": "Westin",
       "conference": "TDI2019",
+      "name": "The Westin Las Vegas Hotel & Spa, Mesquite 2 (First Floor)",
       "updated_at": "2019-08-08T03:12+0000"
     },
     {
-      "hotel": "Westin",
-      "name": "The Westin Las Vegas Hotel & Spa, Lockpick Village",
       "id": 40103,
+      "hotel": "Westin",
       "conference": "TDI2019",
+      "name": "The Westin Las Vegas Hotel & Spa, Lockpick Village",
       "updated_at": "2019-08-08T03:13+0000"
     },
     {
-      "hotel": "Westin",
-      "name": "The Westin Las Vegas Hotel & Spa, Soldering Village",
       "id": 40104,
+      "hotel": "Westin",
       "conference": "TDI2019",
+      "name": "The Westin Las Vegas Hotel & Spa, Soldering Village",
       "updated_at": "2019-08-08T03:14+0000"
     },
     {
-      "hotel": "Westin",
-      "name": "The Westin Las Vegas Hotel & Spa, CTF Room",
       "id": 40105,
+      "hotel": "Westin",
       "conference": "TDI2019",
+      "name": "The Westin Las Vegas Hotel & Spa, CTF Room",
       "updated_at": "2019-08-08T03:14+0000"
     }
   ],

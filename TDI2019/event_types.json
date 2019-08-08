@@ -1,31 +1,31 @@
 {
   "event_types": [
     {
-      "color": "#ACDD88",
-      "name": "Track 2",
       "id": 40008,
       "conference": "TDI2019",
+      "name": "Track 2",
+      "color": "#ACDD88",
       "updated_at": "2019-08-08T01:10+0000"
     },
     {
-      "color": "#E48882",
-      "name": "Track 1",
       "id": 40009,
       "conference": "TDI2019",
+      "name": "Track 1",
+      "color": "#E48882",
       "updated_at": "2019-08-08T01:11+0000"
     },
     {
-      "color": "#BACBFA",
-      "name": "Track 3",
       "id": 40010,
       "conference": "TDI2019",
+      "name": "Track 3",
+      "color": "#BACBFA",
       "updated_at": "2019-08-08T01:12+0000"
     },
     {
-      "color": "#374C76",
-      "name": "Event",
       "id": 40011,
       "conference": "TDI2019",
+      "name": "Event",
+      "color": "#374C76",
       "updated_at": "2019-08-08T03:22+0000"
     }
   ],
