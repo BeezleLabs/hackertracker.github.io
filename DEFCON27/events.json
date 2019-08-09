@@ -1,5 +1,5 @@
 {
-  "updated_at": "2019-08-09T17:27+0000",
+  "updated_at": "2019-08-09T17:41+0000",
   "schedule": [
     {
       "event_type": 40004,
@@ -11025,7 +11025,7 @@
     },
     {
       "event_type": 40005,
-      "end_date": "2019-08-10T20:10+0000",
+      "end_date": "2019-08-09T21:30+0000",
       "title": "Hacking into automotive clouds",
       "conference": "DEFCON27",
       "speakers": [
@@ -11035,9 +11035,9 @@
       "link": "",
       "includes": "",
       "location": 40086,
-      "updated_at": "2019-08-04T17:07+0000",
+      "updated_at": "2019-08-09T17:36+0000",
       "description": "In this talk I will share my experience about how I hacked different automotive clouds, techniques I used and goals I pursue after connecting.\r\n\r\nIn this talk I will give real life examples of:\r\n\r\n- From zero to hero \u2013 Full backend control with examples\r\n- Common fails which allow me to jump between networks\r\n- Dangers of connected cars - Taking over a car from the cloud\r\n- How to break a production line\r\n- Cloud credentials leakage\r\n\r\nI will talk about the main connectivity areas I look for, supplier integrations and differences between normal clouds and automotive clouds. Once I got a good foothold, Possible targets and places which can harm the most. Where can I jump next inside and how deep the rabbit hole goes.\r\n\r\nThis will be a technical talk going into places I've experienced personally in the last few years and will try to give a glimpse of the fun life of hacking into the vehicle ecosystem.",
-      "start_date": "2019-08-10T19:30+0000"
+      "start_date": "2019-08-09T20:30+0000"
     },
     {
       "event_type": 40005,
@@ -11862,7 +11862,7 @@
     },
     {
       "event_type": 40005,
-      "end_date": "2019-08-09T17:25+0000",
+      "end_date": "2019-08-10T17:30+0000",
       "title": "Fast, Furious and Insecure: Passive Keyless Entry and Start Systems in Modern Supercars",
       "conference": "DEFCON27",
       "speakers": [
@@ -11872,9 +11872,9 @@
       "link": "",
       "includes": "",
       "location": 40034,
-      "updated_at": "2019-08-05T19:36+0000",
+      "updated_at": "2019-08-09T17:40+0000",
       "description": "Our research revealed several weaknesses in the Tesla Model S passive keyless entry and start system. The talk will be a comprehensive overview of how we reverse engineered the key fob, the issues we found and an efficient proof of concept attack. The proof of concept attack exploits the use of an inadequate cipher and allows us to clone a Tesla Model S key fob in a matter of seconds using commercial off-the-shelf hardware. Information from the FCC database suggests that the same attack could affect vehicles produced by McLaren, Karma and Triumph Motorcycles as they all use a passive keyless entry and start system designed by Pektron. I will share our experience with responsibly disclosing our findings with all the manufacturers. \r\n\r\nSome extra information:\r\nWe made a PoC video which is available here:\r\nhttps://www.youtube.com/watch?v=aVlYuPzmJoY\r\n\r\nThe paper describing this research was published at TCHES and is available here:\r\nhttps://tches.iacr.org/index.php/TCHES/article/view/8289\r\n\r\nI was an invited speaker at Real World Crypto to present this research, the presentation was recorded and is available here:\r\nhttps://youtu.be/4hq4yiVCopU?t=4189\r\n",
-      "start_date": "2019-08-09T17:00+0000"
+      "start_date": "2019-08-10T17:00+0000"
     },
     {
       "event_type": 40005,
@@ -11894,7 +11894,7 @@
     },
     {
       "event_type": 40005,
-      "end_date": "2019-08-09T21:55+0000",
+      "end_date": "2019-08-09T22:00+0000",
       "title": "Tell Me Lies - Automotive LIDAR and Low-Tech Obfuscation",
       "conference": "DEFCON27",
       "speakers": [
@@ -11904,13 +11904,13 @@
       "link": "",
       "includes": "",
       "location": 40034,
-      "updated_at": "2019-08-05T19:41+0000",
+      "updated_at": "2019-08-09T17:37+0000",
       "description": "What will it mean if LIDAR becomes ubiquitous in autonomous vehicles? \r\n\r\nJoin us for an exploration of a LIDAR\u2019s operation, network attack surface, and the development of low-tech countermeasures that render solid objects invisible and turn thin air into a virtual wall of steel.",
       "start_date": "2019-08-09T21:30+0000"
     },
     {
       "event_type": 40005,
-      "end_date": "2019-08-09T22:25+0000",
+      "end_date": "2019-08-09T22:30+0000",
       "title": "Intro to UDS",
       "conference": "DEFCON27",
       "speakers": [
@@ -11920,13 +11920,13 @@
       "link": "",
       "includes": "",
       "location": 40034,
-      "updated_at": "2019-08-05T19:41+0000",
+      "updated_at": "2019-08-09T17:38+0000",
       "description": "\"What is UDS and how can it help me hack cars?\"\r\n\r\nThe goal of this talk is to give a brief introduction to UDS (ISO 14229), what the capabilities of UDS are, why automotive ECUs implement it, and how it is useful in hacking cars. The talk will have examples using standard Linux socketcan interfaces as well as CanCat scripts to help people discover UDS devices and services on their own vehicles.",
       "start_date": "2019-08-09T22:00+0000"
     },
     {
       "event_type": 40005,
-      "end_date": "2019-08-09T22:55+0000",
+      "end_date": "2019-08-09T23:00+0000",
       "title": "Lojack'd - pwning car alarms, vehicle trackers and immobilisers",
       "conference": "DEFCON27",
       "speakers": [
@@ -11936,13 +11936,13 @@
       "link": "",
       "includes": "",
       "location": 40034,
-      "updated_at": "2019-08-05T19:41+0000",
+      "updated_at": "2019-08-09T17:38+0000",
       "description": "Research by us has revealed direct CAN injection remote via APIs, which we intend to present the detail of live.\r\n\r\nViper Alarms uses a back-end from CalAmp, the manufacturer of LoJack. We'll show how the LoJack vehicle tracking & recovery device could be compromised and recovery of a stolen vehicle prevented.\r\n\r\nThis research lead us on to compromise of OEM-approved vehicle trackers and immobilisers. The rabbit hole went very deep indeed.\r\n\r\nThis is a story of systemic compromise through weak platform providers and outsourced security.",
       "start_date": "2019-08-09T22:30+0000"
     },
     {
       "event_type": 40005,
-      "end_date": "2019-08-09T23:50+0000",
+      "end_date": "2019-08-10T00:00+0000",
       "title": "Legal Over-the-Air Spoofing of GNSS and its Effects on Autonomous Vehicles",
       "conference": "DEFCON27",
       "speakers": [
@@ -11952,13 +11952,13 @@
       "link": "",
       "includes": "",
       "location": 40034,
-      "updated_at": "2019-08-05T19:41+0000",
+      "updated_at": "2019-08-09T17:39+0000",
       "description": "Many systems depend on accurate location information from Global Navigation System Satellites (GNSS) for normal operation. Public GNSS lacks integrity mechanisms and is vulnerable to spoofing. U.S. Federal law does not allow over-the-air spoofing of GNSS or other signals, which makes assessment of vulnerabilities difficult outside of an enclosed laboratory environment. This research proved the usefulness of a Mobile GNSS Spoofing System that enables legal, real-world evaluation of GNSS vulnerabilities. The mobile spoofing system was used to evaluate vulnerabilities in an Unmanned Ground Vehicle (UGV). The UGV GNSS was exploited using several different attacks including forced lane switching, driving off the road, and stopping the vehicle.",
       "start_date": "2019-08-09T23:00+0000"
     },
     {
       "event_type": 40005,
-      "end_date": "2019-08-10T00:50+0000",
+      "end_date": "2019-08-10T01:00+0000",
       "title": "Digital Vehicle Forensics",
       "conference": "DEFCON27",
       "speakers": [
@@ -11968,13 +11968,13 @@
       "link": "",
       "includes": "",
       "location": 40034,
-      "updated_at": "2019-08-05T19:41+0000",
+      "updated_at": "2019-08-09T17:39+0000",
       "description": "Digital Vehicle Forensics involves the acquisition and analysis of digital data (digital evidence) from various vehicle systems to assist in motor vehicle related investigations.\r\n\r\nTHIS WILL NOT BE RECORDED",
       "start_date": "2019-08-10T00:00+0000"
     },
     {
       "event_type": 40005,
-      "end_date": "2019-08-10T17:30+0000",
+      "end_date": "2019-08-10T18:00+0000",
       "title": "Hacking Android and qnx (What treasures lie inside your radio)",
       "conference": "DEFCON27",
       "speakers": [
@@ -11984,13 +11984,13 @@
       "link": "",
       "includes": "",
       "location": 40034,
-      "updated_at": "2019-08-05T19:40+0000",
+      "updated_at": "2019-08-09T17:40+0000",
       "description": "Showing the inside of QNX and Android with a high overview of each system and there unique attributes. Finding common misconfigurations in Android systems, while also showing people how to extract and begin the process to reverse engineer (but no in depth reversing of apks).\r\nHardware hacking on systems to gain escalated privileges to obtain initial foothold on device and begin reverse engineering from there!",
       "start_date": "2019-08-10T17:30+0000"
     },
     {
       "event_type": 40005,
-      "end_date": "2019-08-10T18:50+0000",
+      "end_date": "2019-08-10T19:00+0000",
       "title": "Reverse Engineering and Flashing ECU Firmware Updates",
       "conference": "DEFCON27",
       "speakers": [
@@ -12000,13 +12000,13 @@
       "link": "",
       "includes": "",
       "location": 40034,
-      "updated_at": "2019-08-05T19:40+0000",
+      "updated_at": "2019-08-09T17:41+0000",
       "description": "Many ECUs do not support reading firmware over CAN, but since automotive manufacturers make mistakes and need to fix firmware bugs, they release firmware updates and support writing firmware over CAN. This will be a deep dive into how you can obtain these firmware updates, decrypt them, (modify if you like) and flash a firmware update file for Honda ECUs. The ECU tools provided by automotive manufacturers are from the stone age, so let\u2019s use a modern web browser to flash an ECU!",
       "start_date": "2019-08-10T18:00+0000"
     },
     {
       "event_type": 40005,
-      "end_date": "2019-08-10T19:50+0000",
+      "end_date": "2019-08-10T20:00+0000",
       "title": "Weaponizing Hypervisors to protect Car Infotainment from hackers",
       "conference": "DEFCON27",
       "speakers": [
@@ -12016,7 +12016,7 @@
       "link": "",
       "includes": "",
       "location": 40034,
-      "updated_at": "2019-08-05T19:40+0000",
+      "updated_at": "2019-08-09T17:41+0000",
       "description": "Historically, hypervisors have existed in the cloud for efficient utilization of resources, saving space, and money. \r\n\r\nThe isolation feature is one of the reasons hypervisors are heavily moving to other ecosystems, like Automobiles, so that for example, if an Infotainment crashes, does not affect other sensitive ECUs like ADAS. Blackberry QNX and AGL announced the use of Hypervisors in their deployments on Cars.\r\n\r\nThe trending is real, but there is a big challenge! Most of the systems in Cars run on ARM, plus, protection at the hypervisor level is still limited. So, is it possible to have a framework that runs at the hypervisor level, able to monitor at the OS level and most important, capable to identify and kill threats coming into the monitored devices?\r\n\r\nDuring this talk we will walk you through the steps needed to setup a framework running on Renesas R-Car H3 board able to monitor ARM-based devices and to kill malicious threats identified. Also will discuss challenges on syscall monitoring, single-stepping limitations, techniques to stay stealthy or to get better latency, techniques to detect and kill traditional malware seen in enterprise like Ransomware, Heap Exploits and capabilities on VM Escape attacks and feasibilty to detect Spectre-like exploits.",
       "start_date": "2019-08-10T19:00+0000"
     },
