@@ -1,5 +1,5 @@
 {
-  "updated_at": "2019-08-09T17:41+0000",
+  "updated_at": "2019-08-09T18:43+0000",
   "schedule": [
     {
       "event_type": 40004,
@@ -11605,22 +11605,6 @@
     },
     {
       "event_type": 40005,
-      "end_date": "2019-08-09T17:30+0000",
-      "title": "Cult of the Dead Cow",
-      "conference": "DEFCON27",
-      "speakers": [
-        40054
-      ],
-      "id": 40764,
-      "link": "",
-      "includes": "",
-      "location": 40074,
-      "updated_at": "2019-08-05T02:38+0000",
-      "description": "",
-      "start_date": "2019-08-09T17:15+0000"
-    },
-    {
-      "event_type": 40005,
       "end_date": "2019-08-09T17:45+0000",
       "title": "Hacking Your Future",
       "conference": "DEFCON27",
@@ -12058,7 +12042,7 @@
     {
       "event_type": 40005,
       "end_date": "2019-08-09T20:00+0000",
-      "title": "Secure Your Smart Home Again: In-Depth Security Assessment of Smart Thermostats",
+      "title": "[CANCELLED] Secure Your Smart Home Again: In-Depth Security Assessment of Smart Thermostats",
       "conference": "DEFCON27",
       "speakers": [
         40841
@@ -12067,8 +12051,8 @@
       "link": "",
       "includes": "",
       "location": 40043,
-      "updated_at": "2019-08-05T20:00+0000",
-      "description": "Residential controllers have always been an integral part of every home. The recent smart generation of them is more complicated and has increased attack surface. Also new versions are released at a faster rate and get replaced and even re-deployed sooner. Therefore, the risk of installing a maliciously tampered device is increased. This presentation focuses on the repercussions of this accelerated life cycle by performing an in-depth security assessment of smart thermostats developed by ecobee.\r\n\r\nSmart home devices, such as thermostats, light bulbs, vents, home entertainment systems, etc. are changing people\u2019s life and making residential home more energy efficient, comfort and convenient. The smartness of these devices also increase the cyber attack surface which may be exploited by malicious actors and thus make the home \u201cunsafe\u201d. In this talk, we investigate the security posture of a smart thermostat made by Ecobee, which is widely purchased and used in many homes nowadays. We perform an in-depth security assessments, identifying various security vulnerabilities and developed selected exploits to demonstrate the security risks.\r\n\r\nEcobee\u2019s design of smart thermostats is shared across multiple models such as the ecobee3, ecobee4, and Cor\u2019s WiFi thermostat. The design is centered around the NXP\u2019s very capable Cortex-A9-based i.MX6 application processor. Despite the processor being able to boot securely, we identify vulnerabilities on two recent versions of the platform. We highlight that security needs to be baked-in and not applied through incremental patching. Our main findings are summarized below.\r\n\r\n- An outdated customized U-Boot version exhibits a quirky countdown behavior that allowed us to extract the password character-by-character.\r\n- A customized Linux login script resets within seconds after three failed attempts instead of locking. Combined with a weak password, this allows for dictionary attacks.\r\n- The firmware is unencrypted which allows downloading it. Since the binary application still has debug symbols, significant reverse engineering is possible.\r\n\r\nOlder versions of ecobee\u2019s thermostats have been pen-tested in the past (IoT Village in DEF CON 23), where complete device control was achieved through two exposed testpoints of the device. Recent versions remedied this specific problem, yet, they remain vulnerable.\r\n\r\nOur attacks are especially relevant in conjunction with long untrusted supply chains where devices are not secured during transit and an adversary can easily compromise them in bulk. The emerging trend of upgrading to a newer smart home devices every few years creates a market of used and possibly tampered devices.",
+      "updated_at": "2019-08-09T18:39+0000",
+      "description": "Cancelled",
       "start_date": "2019-08-09T19:30+0000"
     },
     {
@@ -14403,6 +14387,54 @@
       "updated_at": "2019-08-09T02:53+0000",
       "description": "Here\u2019s the use case. You learn of a problem with a government system or some technology, and you want to do the right thing. You want to get the information into the right hands, but you\u2019d be more comfortable sharing if you knew you couldn\u2019t be identified as the messenger of the problem. Sound familiar?\r\n\r\nThis very problem has been the subject of a years-long conversation in the space between government and independent security research. The goal is to create a sturdy, anonymous system for hackers and researchers that shares your tip directly with the part of government that needs to know, and keeps you out of the equation. This is your chance to be part of the conversation. Join The Dark Tangent, the NYT\u2019s Runa Sandvik, Leviathan\u2019s Corbin Souffrant, SOFWERX and The Donovan Groups Pablo Breuer, the ACLU\u2019s Jennifer Granick and the DHS CISA Christopher Krebs and have your voice heard.",
       "start_date": "2019-08-09T16:00+0000"
+    },
+    {
+      "event_type": 40005,
+      "end_date": "2019-08-10T19:00+0000",
+      "title": "Getting into ham radio and introduction to SDR",
+      "conference": "DEFCON27",
+      "speakers": [
+        41096
+      ],
+      "id": 41157,
+      "link": "",
+      "includes": "",
+      "location": 40047,
+      "updated_at": "2019-08-09T18:26+0000",
+      "description": "I got my start hacking in Arduino and RFID, but recently made the jump to understand ham radio. It was not as hard as I thought and there's a surprising amount of stuff you can do without a license. Come learn how easy ham radio can be and how to use an SDR to explore the radio waves without a test.",
+      "start_date": "2019-08-10T18:00+0000"
+    },
+    {
+      "event_type": 40005,
+      "end_date": "2019-08-11T19:00+0000",
+      "title": "Getting into ham radio and introduction to SDR",
+      "conference": "DEFCON27",
+      "speakers": [
+        41096
+      ],
+      "id": 41158,
+      "link": "",
+      "includes": "",
+      "location": 40047,
+      "updated_at": "2019-08-09T18:30+0000",
+      "description": "I got my start hacking in Arduino and RFID, but recently made the jump to understand ham radio. It was not as hard as I thought and there's a surprising amount of stuff you can do without a license. Come learn how easy ham radio can be and how to use an SDR to explore the radio waves without a test.",
+      "start_date": "2019-08-11T18:00+0000"
+    },
+    {
+      "event_type": 6,
+      "end_date": "2019-08-09T20:00+0000",
+      "title": "A glorious celebration of IoT security",
+      "conference": "DEFCON27",
+      "speakers": [
+        40282
+      ],
+      "id": 41159,
+      "link": "",
+      "includes": "",
+      "location": 40043,
+      "updated_at": "2019-08-09T18:43+0000",
+      "description": "The IoT industry is often lambasted for lax security, it faces unique challenges. This talk brings expertise from a veteran security engineer who has spent the last few months embedded (pun intended) in an IoT manufacturer, working on security from the inside. \r\nWhat are some of the unique challenges in this space, and why do so many of these issues occur and re-occur? This talk will explore those challenges as well as how the industry is changing, and how to create IoT devices without the security dumpster fire.",
+      "start_date": "2019-08-09T19:30+0000"
     }
   ]
 }

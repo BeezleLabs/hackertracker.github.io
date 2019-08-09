@@ -1,5 +1,5 @@
 {
-  "updated_at": "2019-08-09T02:52+0000",
+  "updated_at": "2019-08-09T18:40+0000",
   "speakers": [
     {
       "link": "",
@@ -2713,12 +2713,12 @@
     },
     {
       "link": "",
-      "twitter": "",
+      "twitter": "@synackpse",
       "name": "Lee Brotherston",
       "conference": "DEFCON27",
       "title": "",
-      "description": "",
-      "updated_at": "2019-07-30T05:24+0000",
+      "description": "Lee is a security professional of mumble years, having worked across a number of industries. Currently, however, he is embedded (hah!) as Director of Security at an IoT company.",
+      "updated_at": "2019-08-09T18:40+0000",
       "id": 40282
     },
     {
@@ -7660,6 +7660,16 @@
       "description": "The Dark Tangent",
       "updated_at": "2019-08-09T02:52+0000",
       "id": 41094
+    },
+    {
+      "link": "",
+      "twitter": "@illiteratebeef",
+      "name": "IlliterateBeef",
+      "conference": "DEFCON27",
+      "title": "",
+      "description": "",
+      "updated_at": "2019-08-09T18:26+0000",
+      "id": 41096
     }
   ]
 }
