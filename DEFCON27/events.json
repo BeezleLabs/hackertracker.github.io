@@ -1,5 +1,5 @@
 {
-  "updated_at": "2019-08-09T18:43+0000",
+  "updated_at": "2019-08-09T18:48+0000",
   "schedule": [
     {
       "event_type": 40004,
@@ -14421,7 +14421,7 @@
       "start_date": "2019-08-11T18:00+0000"
     },
     {
-      "event_type": 6,
+      "event_type": 40005,
       "end_date": "2019-08-09T20:00+0000",
       "title": "A glorious celebration of IoT security",
       "conference": "DEFCON27",
@@ -14432,7 +14432,7 @@
       "link": "",
       "includes": "",
       "location": 40043,
-      "updated_at": "2019-08-09T18:43+0000",
+      "updated_at": "2019-08-09T18:48+0000",
       "description": "The IoT industry is often lambasted for lax security, it faces unique challenges. This talk brings expertise from a veteran security engineer who has spent the last few months embedded (pun intended) in an IoT manufacturer, working on security from the inside. \r\nWhat are some of the unique challenges in this space, and why do so many of these issues occur and re-occur? This talk will explore those challenges as well as how the industry is changing, and how to create IoT devices without the security dumpster fire.",
       "start_date": "2019-08-09T19:30+0000"
     }
