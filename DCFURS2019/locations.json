@@ -1,4 +1,33 @@
 {
-  "locations": [],
-  "updated_at": "2018-01-01T01:00+0000"
+  "locations": [
+    {
+      "id": 40115,
+      "hotel": "Alexis Park",
+      "conference": "DCFURS2019",
+      "name": "DEFCON Furs Lounge, Alexis Park, Zeus A",
+      "updated_at": "2019-08-09T00:23+0000"
+    },
+    {
+      "id": 40116,
+      "hotel": "Alexis Park",
+      "conference": "DCFURS2019",
+      "name": "DEFCON Furs Talks, Alexis Park, Zeus A",
+      "updated_at": "2019-08-09T00:32+0000"
+    },
+    {
+      "id": 40117,
+      "hotel": "Alexis Park",
+      "conference": "DCFURS2019",
+      "name": "Alexis Park, Pool 3",
+      "updated_at": "2019-08-09T00:41+0000"
+    },
+    {
+      "id": 40118,
+      "hotel": "Bally's",
+      "conference": "DCFURS2019",
+      "name": "DEFCON Furs Furry Village, Bally's, Jubilee, 6409",
+      "updated_at": "2019-08-09T00:51+0000"
+    }
+  ],
+  "updated_at": "2019-08-09T00:51+0000"
 }

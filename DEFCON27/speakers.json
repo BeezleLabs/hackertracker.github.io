@@ -7599,7 +7599,67 @@
       "description": "Erie Meyer is the Technology Advisor for Commissioner Rohit Chopra at Federal Trade Commission. Meyer was the co-founder of the United States Digital Service at the White House, Tech Ladymafia, and the Tech and Innovation team at the Consumer Financial Protection Bureau. She also stood up the first digital office of the Ohio Attorney General.Meyer formerly held roles as a Shorenstein Fellow at the Harvard Kennedy School of Government, Senior Advisor to the United States Chief Technology Officer Todd Park at the White House, and Senior Director at Code for America.[6][7] At the White House, she worked on Open Data Initiatives, the Presidential Innovation Fellows program, and cross-agency programs to improve technology in government. Meyer was named Forbes 30 under 30 for Technology and Fedscoop's Top 50 Women in Tech. In 2018 she was featured among \"America's Top 50 Women In Tech\" by Forbes.",
       "conference": "DEFCON27",
       "updated_at": "2019-08-08T16:55+0000"
+    },
+    {
+      "link": "",
+      "id": 41089,
+      "title": "Security Consultant",
+      "name": "Corbin Souffrant",
+      "twitter": "@loliponi",
+      "description": "Corbin Souffrant is a Security Consultant with Leviathan Security Group where his expertise spans several security domains. He has engaged in projects involving everything from firmware and device security, to application assessments, and even fuzzer development. Prior to this, he participated as a competitor in DARPA Cyber Grand Challenge (CGC), researched program analysis tooling, and reverse-engineered exploits from active malware samples.",
+      "conference": "DEFCON27",
+      "updated_at": "2019-08-09T02:45+0000"
+    },
+    {
+      "link": "https://www.sofwerx.org",
+      "id": 41090,
+      "title": "Director of US Special Operations Command Donovan Group",
+      "name": "Pablo Breuer",
+      "twitter": "@sofwerx",
+      "description": "Pablo Breuer is currently the director of US Special Operations Command Donovan Group and senior military advisor and innovation officer to SOFWERX. He's served at the National Security Agency and U.S. Cyber Command as well as being the Director of C4 at U.S. Naval Forces Central Command. He is a DoD Cyber Cup and Defcon Black Badge winner, and has been adjunct faculty at National University, California State University Monterey Bay, and a Visiting Scientist at Carnegie Mellon CERT/SEI. Pablo is also a founder and board member of The Diana Initiative, an InfoSec event focused on advancing the careers of women in cyber security.",
+      "conference": "DEFCON27",
+      "updated_at": "2019-08-09T02:46+0000"
+    },
+    {
+      "link": "https://americanspies.com",
+      "id": 41091,
+      "title": "",
+      "name": "Jennifer Granick",
+      "twitter": "@granick",
+      "description": "Jennifer Granick fights for civil liberties in an age of massive surveillance and powerful digital technology. As the surveillance and cybersecurity counsel with the ACLU Speech, Privacy, and Technology Project, she litigates, speaks, and writes about privacy, security, technology, and constitutional rights. Granick is the author of the book American Spies: Modern Surveillance, Why You Should Care, and What To Do About It, published by Cambridge Press and winner of the 2016 Palmer Civil Liberties Prize.",
+      "conference": "DEFCON27",
+      "updated_at": "2019-08-09T02:47+0000"
+    },
+    {
+      "link": "https://www.dhs.gov/person/christopher-c-krebs",
+      "id": 41092,
+      "title": "",
+      "name": "Christopher Krebs",
+      "twitter": "@CISAKrebs",
+      "description": "Christopher Krebs serves as the first director of the Department of Homeland Security\u2019s Cybersecurity and Infrastructure Security Agency (CISA). Mr. Krebs was originally  sworn in on June 15, 2018 as the Under Secretary for the predecessor of CISA, the National Protection and Programs Directorate (NPPD). Mr. Krebs was nominated for that position by President Trump in February 2018.\r\n\r\nBefore serving as CISA Director, Mr. Krebs was appointed in August 2017 as the Assistant Secretary for Infrastructure Protection. In the absence of a permanent NPPD Under Secretary at the time, Mr. Krebs took on the role of serving as the Senior Official Performing the Duties of the Under Secretary for NPPD until he was subsequently nominated as the Under Secretary and confirmed by the Senate the following year.",
+      "conference": "DEFCON27",
+      "updated_at": "2019-08-09T02:47+0000"
+    },
+    {
+      "link": "https://encrypted.cc",
+      "id": 41093,
+      "title": "Director of Information Security for the Newsroom at The New York Times",
+      "name": "Runa Sandvik",
+      "twitter": "@runasand",
+      "description": "",
+      "conference": "DEFCON27",
+      "updated_at": "2019-08-09T02:48+0000"
+    },
+    {
+      "link": "",
+      "id": 41094,
+      "title": "",
+      "name": "Jeff Moss",
+      "twitter": "",
+      "description": "The Dark Tangent",
+      "conference": "DEFCON27",
+      "updated_at": "2019-08-09T02:52+0000"
     }
   ],
-  "updated_at": "2019-08-08T16:55+0000"
+  "updated_at": "2019-08-09T02:52+0000"
 }

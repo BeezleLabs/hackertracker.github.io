@@ -1,4 +1,75 @@
 {
-  "speakers": [],
-  "updated_at": "2018-01-01T01:00+0000"
+  "speakers": [
+    {
+      "link": "",
+      "id": 41081,
+      "title": "",
+      "name": "DranoTheCat",
+      "twitter": "",
+      "description": "",
+      "conference": "DCFURS2019",
+      "updated_at": "2019-08-09T00:37+0000"
+    },
+    {
+      "link": "",
+      "id": 41083,
+      "title": "",
+      "name": "Kay Fox",
+      "twitter": "",
+      "description": "",
+      "conference": "DCFURS2019",
+      "updated_at": "2019-08-09T00:38+0000"
+    },
+    {
+      "link": "",
+      "id": 41084,
+      "title": "",
+      "name": "Fizz",
+      "twitter": "",
+      "description": "",
+      "conference": "DCFURS2019",
+      "updated_at": "2019-08-09T00:38+0000"
+    },
+    {
+      "link": "",
+      "id": 41085,
+      "title": "",
+      "name": "Nightclaw",
+      "twitter": "",
+      "description": "",
+      "conference": "DCFURS2019",
+      "updated_at": "2019-08-09T00:39+0000"
+    },
+    {
+      "link": "",
+      "id": 41086,
+      "title": "",
+      "name": "Steven/Carnal_Knowledge",
+      "twitter": "",
+      "description": "",
+      "conference": "DCFURS2019",
+      "updated_at": "2019-08-09T00:48+0000"
+    },
+    {
+      "link": "",
+      "id": 41087,
+      "title": "",
+      "name": "FrozenFOXX",
+      "twitter": "",
+      "description": "",
+      "conference": "DCFURS2019",
+      "updated_at": "2019-08-09T00:49+0000"
+    },
+    {
+      "link": "",
+      "id": 41088,
+      "title": "",
+      "name": "Tanuski (Steve)",
+      "twitter": "",
+      "description": "",
+      "conference": "DCFURS2019",
+      "updated_at": "2019-08-09T00:49+0000"
+    }
+  ],
+  "updated_at": "2019-08-09T00:49+0000"
 }

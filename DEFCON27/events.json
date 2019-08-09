@@ -1,5 +1,5 @@
 {
-  "updated_at": "2019-08-08T21:43+0000",
+  "updated_at": "2019-08-09T02:53+0000",
   "schedule": [
     {
       "id": 40001,
@@ -14383,6 +14383,26 @@
       "conference": "DEFCON27",
       "end_date": "2019-08-11T01:00+0000",
       "location": 40113
+    },
+    {
+      "id": 41156,
+      "title": "DEF CON wants to help hackers anonymously submit bugs to the government: Let's discuss.",
+      "description": "Here\u2019s the use case. You learn of a problem with a government system or some technology, and you want to do the right thing. You want to get the information into the right hands, but you\u2019d be more comfortable sharing if you knew you couldn\u2019t be identified as the messenger of the problem. Sound familiar?\r\n\r\nThis very problem has been the subject of a years-long conversation in the space between government and independent security research. The goal is to create a sturdy, anonymous system for hackers and researchers that shares your tip directly with the part of government that needs to know, and keeps you out of the equation. This is your chance to be part of the conversation. Join The Dark Tangent, the NYT\u2019s Runa Sandvik, Leviathan\u2019s Corbin Souffrant, SOFWERX and The Donovan Groups Pablo Breuer, the ACLU\u2019s Jennifer Granick and the DHS CISA Christopher Krebs and have your voice heard.",
+      "updated_at": "2019-08-09T02:53+0000",
+      "start_date": "2019-08-09T16:00+0000",
+      "link": "",
+      "event_type": 40002,
+      "includes": "",
+      "speakers": [
+        41090,
+        41091,
+        41092,
+        41093,
+        41094
+      ],
+      "conference": "DEFCON27",
+      "end_date": "2019-08-09T16:45+0000",
+      "location": 40003
     }
   ]
 }
