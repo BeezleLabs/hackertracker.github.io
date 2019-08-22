@@ -1,65 +1,65 @@
 {
   "locations": [
     {
-      "hotel": "",
+      "hotel": "Lobby",
       "conference": "APPSECDC2019",
-      "updated_at": "2019-08-16T00:43+0000",
+      "updated_at": "2019-08-22T17:55+0000",
       "id": 42001,
       "name": "Lobby Level Salon 2 & 3 Keynote Area"
     },
     {
-      "hotel": "",
+      "hotel": "Lower",
       "conference": "APPSECDC2019",
-      "updated_at": "2019-08-16T00:43+0000",
+      "updated_at": "2019-08-22T17:55+0000",
       "id": 42002,
       "name": "Exhibit Hall C Create"
     },
     {
-      "hotel": "",
+      "hotel": "Lower",
       "conference": "APPSECDC2019",
-      "updated_at": "2019-08-16T00:43+0000",
+      "updated_at": "2019-08-22T17:55+0000",
       "id": 42003,
       "name": "Exhibit Hall C Governance"
     },
     {
-      "hotel": "",
+      "hotel": "Lower",
       "conference": "APPSECDC2019",
-      "updated_at": "2019-08-16T00:43+0000",
+      "updated_at": "2019-08-22T17:56+0000",
       "id": 42004,
       "name": "Exhibit Hall C Industry"
     },
     {
-      "hotel": "",
+      "hotel": "Lower",
       "conference": "APPSECDC2019",
-      "updated_at": "2019-08-16T00:43+0000",
+      "updated_at": "2019-08-22T17:56+0000",
       "id": 42005,
       "name": "Exhibit Hall C Innovations"
     },
     {
-      "hotel": "",
+      "hotel": "Lower",
       "conference": "APPSECDC2019",
-      "updated_at": "2019-08-16T00:43+0000",
+      "updated_at": "2019-08-22T17:56+0000",
       "id": 42006,
       "name": "Exhibit Hall C Solutions"
     },
     {
-      "hotel": "",
+      "hotel": "Lower",
       "conference": "APPSECDC2019",
-      "updated_at": "2019-08-16T00:43+0000",
+      "updated_at": "2019-08-22T17:56+0000",
       "id": 42007,
       "name": "Exhibit Hall C Break Area"
     },
     {
-      "hotel": "",
+      "hotel": "Lobby",
       "conference": "APPSECDC2019",
-      "updated_at": "2019-08-16T00:43+0000",
+      "updated_at": "2019-08-22T17:56+0000",
       "id": 42008,
       "name": "Lobby Level Virginia Suite A/B Contest Area"
     },
     {
-      "hotel": "",
+      "hotel": "Lower",
       "conference": "APPSECDC2019",
-      "updated_at": "2019-08-16T00:43+0000",
+      "updated_at": "2019-08-22T17:56+0000",
       "id": 42009,
       "name": "Exhibit Hall C Members Lounge"
     },
@@ -71,5 +71,5 @@
       "name": "Location To be Determined"
     }
   ],
-  "updated_at": "2019-08-16T00:43+0000"
+  "updated_at": "2019-08-22T17:56+0000"
 }
