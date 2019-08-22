@@ -1,48 +1,48 @@
 {
+  "updated_at": "2019-08-22T17:20+0000",
   "conferences": [
     {
-      "id": 19,
-      "timezone": "America/Los_Angeles",
-      "name": "DEF CON 27",
+      "faqs": {
+        "updated_at": "2018-01-01T01:00+0000",
+        "link": "https://hackertracker.app/APPSECDC2019/faqs.json"
+      },
+      "id": 23,
+      "notifications": {
+        "updated_at": "2018-01-01T01:00+0000",
+        "link": "https://hackertracker.app/APPSECDC2019/notifications.json"
+      },
+      "events": {
+        "updated_at": "2019-08-20T20:47+0000",
+        "link": "https://hackertracker.app/APPSECDC2019/events.json"
+      },
+      "code": "APPSECDC2019",
+      "end_date": "2019-09-13",
+      "link": "https://dc.globalappsec.org",
+      "start_date": "2019-09-09",
+      "vendors": {
+        "updated_at": "2018-01-01T01:00+0000",
+        "link": "https://hackertracker.app/APPSECDC2019/vendors.json"
+      },
       "speakers": {
-        "link": "https://hackertracker.app/DEFCON27/speakers.json",
-        "updated_at": "2019-08-09T02:52+0000"
+        "updated_at": "2019-08-20T20:47+0000",
+        "link": "https://hackertracker.app/APPSECDC2019/speakers.json"
+      },
+      "updated_at": "2019-08-22T17:20+0000",
+      "timezone": "America/New_York",
+      "event_types": {
+        "updated_at": "2019-08-16T00:43+0000",
+        "link": "https://hackertracker.app/APPSECDC2019/event_types.json"
       },
       "articles": {
-        "link": "https://hackertracker.app/DEFCON27/articles.json",
-        "updated_at": "2019-08-08T22:22+0000"
-      },
-      "notifications": {
-        "link": "https://hackertracker.app/DEFCON27/notifications.json",
-        "updated_at": "2018-01-01T01:00+0000"
-      },
-      "updated_at": "2019-07-26T00:18+0000",
-      "end_date": "2019-08-11",
-      "start_date": "2019-08-08",
-      "link": "https://defcon.org/html/defcon-27/dc-27-index.html",
-      "faqs": {
-        "link": "https://hackertracker.app/DEFCON27/faqs.json",
-        "updated_at": "2019-08-05T04:34+0000"
+        "updated_at": "2018-01-01T01:00+0000",
+        "link": "https://hackertracker.app/APPSECDC2019/articles.json"
       },
       "locations": {
-        "link": "https://hackertracker.app/DEFCON27/locations.json",
-        "updated_at": "2019-08-08T21:20+0000"
+        "updated_at": "2019-08-16T00:43+0000",
+        "link": "https://hackertracker.app/APPSECDC2019/locations.json"
       },
-      "description": "DEF CON 27 is August 8-11, 2019 at Paris, Ballys, Flamingo & Planet Hollywood hotels, Las Vegas",
-      "events": {
-        "link": "https://hackertracker.app/DEFCON27/events.json",
-        "updated_at": "2019-08-09T02:53+0000"
-      },
-      "code": "DEFCON27",
-      "event_types": {
-        "link": "https://hackertracker.app/DEFCON27/event_types.json",
-        "updated_at": "2019-08-04T18:17+0000"
-      },
-      "vendors": {
-        "link": "https://hackertracker.app/DEFCON27/vendors.json",
-        "updated_at": "2019-07-27T17:33+0000"
-      }
+      "description": "Global AppSec - DC is coming September 9-13, 2019 to the Washington Marriott Wardman Park Hotel in the nation\u2019s capital. Formerly known as Global AppSec US, this week long event is the largest gathering for the open security community in North America. Designed for private and public sector infosec professionals, the OWASP three day training and two day conference equips developers, defenders, and advocates to build a more secure web.\r\nJoin us for a celebration of leading application security technologies, speakers, prospects, and community, in a unique event that will build on everything you already know to expect from an OWASP Global Conference.",
+      "name": "Global AppSec - DC"
     }
-  ],
-  "updated_at": "2019-08-08T21:48+0000"
+  ]
 }

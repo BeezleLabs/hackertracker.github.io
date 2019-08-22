@@ -1,0 +1,75 @@
+{
+  "locations": [
+    {
+      "hotel": "",
+      "conference": "APPSECDC2019",
+      "updated_at": "2019-08-16T00:43+0000",
+      "id": 42001,
+      "name": "Lobby Level Salon 2 & 3 Keynote Area"
+    },
+    {
+      "hotel": "",
+      "conference": "APPSECDC2019",
+      "updated_at": "2019-08-16T00:43+0000",
+      "id": 42002,
+      "name": "Exhibit Hall C Create"
+    },
+    {
+      "hotel": "",
+      "conference": "APPSECDC2019",
+      "updated_at": "2019-08-16T00:43+0000",
+      "id": 42003,
+      "name": "Exhibit Hall C Governance"
+    },
+    {
+      "hotel": "",
+      "conference": "APPSECDC2019",
+      "updated_at": "2019-08-16T00:43+0000",
+      "id": 42004,
+      "name": "Exhibit Hall C Industry"
+    },
+    {
+      "hotel": "",
+      "conference": "APPSECDC2019",
+      "updated_at": "2019-08-16T00:43+0000",
+      "id": 42005,
+      "name": "Exhibit Hall C Innovations"
+    },
+    {
+      "hotel": "",
+      "conference": "APPSECDC2019",
+      "updated_at": "2019-08-16T00:43+0000",
+      "id": 42006,
+      "name": "Exhibit Hall C Solutions"
+    },
+    {
+      "hotel": "",
+      "conference": "APPSECDC2019",
+      "updated_at": "2019-08-16T00:43+0000",
+      "id": 42007,
+      "name": "Exhibit Hall C Break Area"
+    },
+    {
+      "hotel": "",
+      "conference": "APPSECDC2019",
+      "updated_at": "2019-08-16T00:43+0000",
+      "id": 42008,
+      "name": "Lobby Level Virginia Suite A/B Contest Area"
+    },
+    {
+      "hotel": "",
+      "conference": "APPSECDC2019",
+      "updated_at": "2019-08-16T00:43+0000",
+      "id": 42009,
+      "name": "Exhibit Hall C Members Lounge"
+    },
+    {
+      "hotel": "",
+      "conference": "APPSECDC2019",
+      "updated_at": "2019-08-16T00:43+0000",
+      "id": 42010,
+      "name": "Location To be Determined"
+    }
+  ],
+  "updated_at": "2019-08-16T00:43+0000"
+}
