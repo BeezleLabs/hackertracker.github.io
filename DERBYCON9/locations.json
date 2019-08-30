@@ -1,0 +1,33 @@
+{
+  "updated_at": "2019-08-30T15:49+0000",
+  "locations": [
+    {
+      "id": 42011,
+      "hotel": "Second Level",
+      "name": "Track 1 - Marriott Ballroom",
+      "conference": "DERBYCON9",
+      "updated_at": "2019-08-30T15:48+0000"
+    },
+    {
+      "id": 42012,
+      "hotel": "Second Level",
+      "name": "Track 2 - Marriott Ballroom",
+      "conference": "DERBYCON9",
+      "updated_at": "2019-08-30T15:48+0000"
+    },
+    {
+      "id": 42013,
+      "hotel": "Ground Level",
+      "name": "Track 3 - Kentucky Ballroom",
+      "conference": "DERBYCON9",
+      "updated_at": "2019-08-30T15:49+0000"
+    },
+    {
+      "id": 42014,
+      "hotel": "Ground Level",
+      "name": "Stable Talks - Kentucky Ballroom",
+      "conference": "DERBYCON9",
+      "updated_at": "2019-08-30T15:49+0000"
+    }
+  ]
+}

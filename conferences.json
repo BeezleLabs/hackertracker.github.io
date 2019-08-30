@@ -1,48 +1,91 @@
 {
-  "updated_at": "2019-08-22T17:20+0000",
+  "updated_at": "2019-08-30T15:37+0000",
   "conferences": [
     {
-      "faqs": {
-        "updated_at": "2018-01-01T01:00+0000",
-        "link": "https://hackertracker.app/APPSECDC2019/faqs.json"
-      },
-      "id": 23,
       "notifications": {
         "updated_at": "2018-01-01T01:00+0000",
         "link": "https://hackertracker.app/APPSECDC2019/notifications.json"
       },
+      "link": "https://dc.globalappsec.org",
+      "locations": {
+        "updated_at": "2019-08-22T17:56+0000",
+        "link": "https://hackertracker.app/APPSECDC2019/locations.json"
+      },
+      "timezone": "America/New_York",
+      "description": "Global AppSec - DC is coming September 9-13, 2019 to the Washington Marriott Wardman Park Hotel in the nation\u2019s capital. Formerly known as Global AppSec US, this week long event is the largest gathering for the open security community in North America. Designed for private and public sector infosec professionals, the OWASP three day training and two day conference equips developers, defenders, and advocates to build a more secure web.\r\nJoin us for a celebration of leading application security technologies, speakers, prospects, and community, in a unique event that will build on everything you already know to expect from an OWASP Global Conference.",
+      "end_date": "2019-09-13",
       "events": {
         "updated_at": "2019-08-20T20:47+0000",
         "link": "https://hackertracker.app/APPSECDC2019/events.json"
       },
-      "code": "APPSECDC2019",
-      "end_date": "2019-09-13",
-      "link": "https://dc.globalappsec.org",
-      "start_date": "2019-09-09",
-      "vendors": {
-        "updated_at": "2018-01-01T01:00+0000",
-        "link": "https://hackertracker.app/APPSECDC2019/vendors.json"
-      },
-      "speakers": {
-        "updated_at": "2019-08-20T20:47+0000",
-        "link": "https://hackertracker.app/APPSECDC2019/speakers.json"
-      },
-      "updated_at": "2019-08-22T17:20+0000",
-      "timezone": "America/New_York",
       "event_types": {
         "updated_at": "2019-08-16T00:43+0000",
         "link": "https://hackertracker.app/APPSECDC2019/event_types.json"
       },
+      "code": "APPSECDC2019",
+      "id": 23,
+      "speakers": {
+        "updated_at": "2019-08-20T20:47+0000",
+        "link": "https://hackertracker.app/APPSECDC2019/speakers.json"
+      },
+      "vendors": {
+        "updated_at": "2018-01-01T01:00+0000",
+        "link": "https://hackertracker.app/APPSECDC2019/vendors.json"
+      },
+      "faqs": {
+        "updated_at": "2018-01-01T01:00+0000",
+        "link": "https://hackertracker.app/APPSECDC2019/faqs.json"
+      },
+      "updated_at": "2019-08-22T17:20+0000",
+      "name": "Global AppSec - DC",
+      "start_date": "2019-09-09",
       "articles": {
         "updated_at": "2018-01-01T01:00+0000",
         "link": "https://hackertracker.app/APPSECDC2019/articles.json"
+      }
+    },
+    {
+      "notifications": {
+        "updated_at": "2018-01-01T01:00+0000",
+        "link": "https://hackertracker.app/DERBYCON9/notifications.json"
       },
+      "link": "https://www.derbycon.com",
       "locations": {
-        "updated_at": "2019-08-16T00:43+0000",
-        "link": "https://hackertracker.app/APPSECDC2019/locations.json"
+        "updated_at": "2019-08-30T15:49+0000",
+        "link": "https://hackertracker.app/DERBYCON9/locations.json"
       },
-      "description": "Global AppSec - DC is coming September 9-13, 2019 to the Washington Marriott Wardman Park Hotel in the nation\u2019s capital. Formerly known as Global AppSec US, this week long event is the largest gathering for the open security community in North America. Designed for private and public sector infosec professionals, the OWASP three day training and two day conference equips developers, defenders, and advocates to build a more secure web.\r\nJoin us for a celebration of leading application security technologies, speakers, prospects, and community, in a unique event that will build on everything you already know to expect from an OWASP Global Conference.",
-      "name": "Global AppSec - DC"
+      "timezone": "America/New_York",
+      "description": "The idea of DerbyCon started in a pizza shop in Louisville after a few of us thought how awesome it would be to create a conference in Louisville Kentucky. The 4th street live area was awesome and we had been to so many conferences that we felt we could make one where everyone was welcome. DerbyCon has and continues to be a conference put together and run by awesome people in the security industry and by its attendees. We believe that DerbyCon is a central location for everyone to come share their research \u2013 hang with friends \u2013 and meet new ones. We hope to see you this year!",
+      "end_date": "2019-09-08",
+      "events": {
+        "updated_at": "2019-08-30T23:20+0000",
+        "link": "https://hackertracker.app/DERBYCON9/events.json"
+      },
+      "event_types": {
+        "updated_at": "2019-08-30T15:44+0000",
+        "link": "https://hackertracker.app/DERBYCON9/event_types.json"
+      },
+      "code": "DERBYCON9",
+      "id": 24,
+      "speakers": {
+        "updated_at": "2019-08-30T22:25+0000",
+        "link": "https://hackertracker.app/DERBYCON9/speakers.json"
+      },
+      "vendors": {
+        "updated_at": "2018-01-01T01:00+0000",
+        "link": "https://hackertracker.app/DERBYCON9/vendors.json"
+      },
+      "faqs": {
+        "updated_at": "2018-01-01T01:00+0000",
+        "link": "https://hackertracker.app/DERBYCON9/faqs.json"
+      },
+      "updated_at": "2019-08-30T15:37+0000",
+      "name": "DerbyCon 9.0",
+      "start_date": "2019-09-04",
+      "articles": {
+        "updated_at": "2018-01-01T01:00+0000",
+        "link": "https://hackertracker.app/DERBYCON9/articles.json"
+      }
     }
   ]
 }
