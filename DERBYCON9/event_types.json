@@ -2,18 +2,18 @@
   "event_types": [
     {
       "id": 42009,
-      "updated_at": "2019-08-30T15:44+0000",
-      "name": "Stable Talk",
-      "color": "#968AC8",
+      "updated_at": "2019-08-30T23:31+0000",
+      "name": "Standard Talk",
+      "color": "#fc853f",
       "conference": "DERBYCON9"
     },
     {
       "id": 42010,
-      "updated_at": "2019-08-30T15:43+0000",
-      "name": "Standard Talk",
+      "updated_at": "2019-08-30T23:31+0000",
+      "name": "Stable Talk",
       "color": "#6497DC",
       "conference": "DERBYCON9"
     }
   ],
-  "updated_at": "2019-08-30T15:44+0000"
+  "updated_at": "2019-08-30T23:31+0000"
 }

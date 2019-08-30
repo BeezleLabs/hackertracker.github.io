@@ -1,5 +1,5 @@
 {
-  "updated_at": "2019-08-30T23:20+0000",
+  "updated_at": "2019-08-30T23:43+0000",
   "schedule": [
     {
       "location": 42011,
@@ -492,7 +492,7 @@
       "location": 42014,
       "link": "",
       "includes": "",
-      "description": "Where you certain that Fancy Bear was in your network to find that it was really just a misconfig? Did you spend countless cycles on an incident to find out who-done-it for upper management, only to be disappointed with the lack of actionable intelligence? If you have ever been curious about Attribution or how to make Attribution work in your organization, then this talk is for you! The focus will be on the different ways organizations can maximize their defensive strategies using information shared by the enemy. You\ufffdll learn that the \ufffdwho\ufffd and \ufffdwhy\ufffd aspects of attribution mean little when compared with TTPs in most company\ufffds cyber threat intelligence programs.",
+      "description": "Where you certain that Fancy Bear was in your network to find that it was really just a misconfig? Did you spend countless cycles on an incident to find out who-done-it for upper management, only to be disappointed with the lack of actionable intelligence? If you have ever been curious about Attribution or how to make Attribution work in your organization, then this talk is for you! The focus will be on the different ways organizations can maximize their defensive strategies using information shared by the enemy. You'll learn that the \"who\" and \"why\" aspects of attribution mean little when compared with TTPs in most company's cyber threat intelligence programs.",
       "end_date": "2019-09-06T20:30+0000",
       "title": "It Must Be Fancy Bear!",
       "id": 43029,
@@ -500,7 +500,7 @@
         43040
       ],
       "event_type": 42010,
-      "updated_at": "2019-08-30T22:25+0000",
+      "updated_at": "2019-08-30T23:43+0000",
       "start_date": "2019-09-06T20:00+0000",
       "conference": "DERBYCON9"
     },
