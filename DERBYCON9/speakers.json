@@ -1,1305 +1,1295 @@
 {
-  "updated_at": "2019-08-30T22:25+0000",
   "speakers": [
     {
       "description": "",
-      "twitter": "@edskoudis",
       "conference": "DERBYCON9",
       "id": 43001,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Ed Skoudis",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@edskoudis",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "EvilMog is the Bishop of the Church of Wifi, Member of Team Hashcat and Senior Managing Consultant for X-Force Red. He is Black Badged to Derbycon and Skydog Con and a three time Hacker Jeopardy Winner",
-      "twitter": "@evil_Mog",
       "conference": "DERBYCON9",
       "id": 43002,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Dustin Heywood (Evil Mog) and others",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@evil_Mog",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Chris Hadnagy has been involved in taking risks.... wait, why am I writing anything here at all. We all know what ever i write here will be altered by Dave and there will something here about Hornsby and my love affair for Dave so i might as well write nothing.... yah. I do SE. I hack stuff. I like it.",
-      "twitter": "@humanhacker, @SocEngineerInc",
       "conference": "DERBYCON9",
       "id": 43003,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Chris Hadnagy",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@humanhacker, @SocEngineerInc",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "We are a few of the many people who make Metasploit awesome. Brent Cook heads up Metasploit\ufffds engineering team at Rapid7, Jeffrey Martin is a lead software engineer for both Framework and Metasploit Pro, Pearce Barry is an engineering manager, and Matthew Kienow is one of the senior software engineers who worked on MSF 5\ufffds APIs. We are all staunch open-source security advocates, contributors, and community members.",
-      "twitter": "@busterbcook",
       "conference": "DERBYCON9",
       "id": 43004,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Brent Cook",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@busterbcook",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "We are a few of the many people who make Metasploit awesome. Brent Cook heads up Metasploit\ufffds engineering team at Rapid7, Jeffrey Martin is a lead software engineer for both Framework and Metasploit Pro, Pearce Barry is an engineering manager, and Matthew Kienow is one of the senior software engineers who worked on MSF 5\ufffds APIs. We are all staunch open-source security advocates, contributors, and community members.",
-      "twitter": "",
       "conference": "DERBYCON9",
       "id": 43005,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Pearce Barry",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "We are a few of the many people who make Metasploit awesome. Brent Cook heads up Metasploit\ufffds engineering team at Rapid7, Jeffrey Martin is a lead software engineer for both Framework and Metasploit Pro, Pearce Barry is an engineering manager, and Matthew Kienow is one of the senior software engineers who worked on MSF 5\ufffds APIs. We are all staunch open-source security advocates, contributors, and community members.",
-      "twitter": "@Op3n4M3",
       "conference": "DERBYCON9",
       "id": 43006,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Jeffrey Martin",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@Op3n4M3",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "We are a few of the many people who make Metasploit awesome. Brent Cook heads up Metasploit\ufffds engineering team at Rapid7, Jeffrey Martin is a lead software engineer for both Framework and Metasploit Pro, Pearce Barry is an engineering manager, and Matthew Kienow is one of the senior software engineers who worked on MSF 5\ufffds APIs. We are all staunch open-source security advocates, contributors, and community members.",
-      "twitter": "@hacksforprofit",
       "conference": "DERBYCON9",
       "id": 43007,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Matthew Kienow",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@hacksforprofit",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "John has both consulted and taught hundreds of organizations in the areas of security, regulatory compliance, and penetration testing.He is a coveted speaker and much loved SANS teacher. John is a contributor to the industry shaping Penetration Testing Execution Standard and 20 Critical Controls frameworks.",
-      "twitter": "@strandjs",
       "conference": "DERBYCON9",
       "id": 43008,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "John Strand",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@strandjs",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Cedric is a red teamer who came from a mostly blue team background. His passion revolves around red teams and blue teams working closely together to improve each other's tradecraft. Cedric enjoys writing useful red team utilities and periodically writing posts that are of interest to red and blue team team members on his blog at https://medium.com/red-teaming-with-a-blue-team-mentaility",
-      "twitter": "@cedowens",
       "conference": "DERBYCON9",
       "id": 43009,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Cedric Owens",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@cedowens",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Dr. Jared DeMott is the Founder of VDA Labs. He previously served as a vulnerability analyst with the NSA. He was a finalist in Microsoft\ufffds BlueHat prize contest. He has been on three winning Defcon capture-the-flag teams, an invited lecturer at prestigious institutions, is a Pluralsight author, and is often interviewed by Media.",
-      "twitter": "@jareddemott",
       "conference": "DERBYCON9",
       "id": 43010,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Dr. Jared DeMott",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@jareddemott",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "John Stigerwalt, OSCE, OSCP, SLAE - experienced in pentesting, application auditing, exploit development, and reverse engineering. John has spent years protecting organizations from evolving threats, and is very passionate about improving organizations security.",
-      "twitter": "Jared DeMott - @jareddemott, John Stigerwalt - @jstigerwalt1",
       "conference": "DERBYCON9",
       "id": 43011,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "John Stigerwalt",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "Jared DeMott - @jareddemott, John Stigerwalt - @jstigerwalt1",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Jayson E. Street is an author of the \"Dissecting the hack: Series\". Also the DEF CON Groups Global Ambassador. Plus the VP of InfoSec for SphereNY. He has also spoken at DEF CON, DerbyCon, GRRCon and at several other 'CONs and colleges on a variety of Information Security subjects. *He is a highly carbonated speaker who has partaken of Pizza from Beijing to Brazil. He does not expect anybody to still be reading this far but if they are please note he was chosen as one of Time's persons of the year for 2006.",
-      "twitter": "@jaysonstreet",
       "conference": "DERBYCON9",
       "id": 43012,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Jayson E Street",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@jaysonstreet",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Mathieu Saulnier is a \ufffdSecurity Enthusiast\ufffd \ufffd@h3xstream. He has held numerous positions as a consultant within several of Quebec\ufffds largest institutions. For the last 6 years he has been focused on putting in place a few SOC and has specialized in detection (Blue Team), content creation and mentorship. He currently holds the title of \ufffd Senior Security Architect \ufffd and acts as \ufffdAdversary Detection Team Lead\ufffd and \ufffdThreat Hunting Team Lead\ufffd at Bell Canada one of Canada\ufffds largest carrier. In the last decade, he has taken two separate sabbaticals to travel Africa and Asia.",
-      "twitter": "@ScoubiMtl",
       "conference": "DERBYCON9",
       "id": 43013,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Mathieu Saulnier",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@ScoubiMtl",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Jason Lewis works full-time as a defensive cyber operator for the US Air Force. He enjoys trying to find things that he doesn't think people are interested enough in and making people interested in them. This does not make him popular at cocktail parties, but certainly lends itself to an academic setting, conference or podcast. Jason currently holds certifications in Security +, GCFA, CCNA, and CCDA.",
-      "twitter": "",
       "conference": "DERBYCON9",
       "id": 43014,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Jason Lewis",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Matt Graeber, a researcher at SpecterOps is an attacker and vulnerability researcher at heart who has fully embraced detection engineering as a discipline not only to improve the state of security but to also enable continuous offensive maturity. Matt is a naive security optimist who believes that the future of security is bright. He also spends much of his time pondering the concept of trust, how it applies to Infosec, and how automation can be applied to a mature definition of it. Lastly, Matt enjoys giving and receiving warm, welcoming hugs.",
-      "twitter": "@mattifestation",
       "conference": "DERBYCON9",
       "id": 43015,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Matt Graeber",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@mattifestation",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Ryan Elkins leads the cloud and application security architecture programs for Eli Lilly and Company. Elkins has over 12 years of security experience leading programs across the financial, insurance, and pharmaceutical industries. Throughout his career, he has developed cloud and application security programs, managed a global security services center, performed security consulting, and has led a global information security program. Elkins holds the CISSP and CCSP certifications, a bachelors degree in Computer Technology, and a masters degree in Information Security.",
-      "twitter": "@the_ryan_elkins",
       "conference": "DERBYCON9",
       "id": 43016,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Ryan Elkins",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@the_ryan_elkins",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Carl Hertz is Director of Information Technology at Elevate Energy, a non-profit dedicated to bringing the benefits of the Green Economy to everyone. He has been an IT professional for 30 years, a security professional for 15, a hiring manager for 20 years, a project manager for 10 years, and a goofball for all of his life. You can follow his posts about tech, security, music, cycling, astronomy, feminism, parenthood, depression, and all the lulz at @cillic on Twitter.",
-      "twitter": "@cillic",
       "conference": "DERBYCON9",
       "id": 43017,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Carl Hertz",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@cillic",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Tamaghna Basu, the co-founder/CTO of neoEYED Inc. is on the mission to www.killthepassword.com to build a safer world with stronger, yet very convenient authentication mechanism for companies and end-users. He is a hacker, speaker, trainer and a developer too. He has more than 14 years of experience in cyber-security domain and worked in large enterprises like PwC, Paypal, Walmart etc. His areas of research include application security and AI/ML. He is a frequent speaker/trainer in various conferences like NULLCON, C0C0N, OWASP, ISACA etc. and having certifications like OSCP, GCIH etc.",
-      "twitter": "@titanlambda",
       "conference": "DERBYCON9",
       "id": 43018,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Tamaghna Basu",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@titanlambda",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Tim Tomes is an Application Security Professional with over a decade of experience in the information security industry. From software development to full-scope penetration testing, Tim has worked in multiple disciplines as both a manager and technician for the United States Military and private industry.",
-      "twitter": "@lanmaster53",
       "conference": "DERBYCON9",
       "id": 43019,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Tim (lanmaster53) Tomes",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@lanmaster53",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Kevin Cody is a Principal Application Security Consultant with experience working at several Fortune 500 enterprises. Although his particular expertise is geared toward hacking Web and Mobile applications, he is also experienced in the entire gamut from mainframes to embedded systems.",
-      "twitter": "@kevcody",
       "conference": "DERBYCON9",
       "id": 43020,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Kevin Cody",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@kevcody",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Nick is an offensive security professional working for <insert company here>. In his spare time he is a casual CS:GO try-hard. Turn ons include: RCE, LFI, TLAs and over-privileged accounts.Turnoffs include:feet, undocumented APIs, and NDAs.",
-      "twitter": "@graphx",
       "conference": "DERBYCON9",
       "id": 43021,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Nick Lehman (Graph-X)",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@graphx",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Steve is an IR and threat hunting specialist, working for <insert company here>. His turn ons include IOCs, fileless malware samples, C++ and gandalf sax guy 10 hour Youtube jams.His turn offs: People who don't hold doors, lactose, and Perl.",
-      "twitter": "",
       "conference": "DERBYCON9",
       "id": 43022,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Steve Eisen (Rum Twinkies)",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Samantha Davison is a Behavioral Engineering Manager at Lyft where she nudges employees & users towards positive security & privacy behaviors. Before Lyft, Davison designed and implemented security engagement programs at Snap, Uber, and over a dozen Fortune 500 companies. Davison is the proud co-founder of Privilgd, provider of boutique security & privacy consulting.",
-      "twitter": "@sam_e_davison",
       "conference": "DERBYCON9",
       "id": 43023,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Samantha Davison",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@sam_e_davison",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Josh Schwartz, aka FuzzyNop, has been known to be a computer who knows how to computer. He currently is the Director of Offensive Security at Verizon Media where he and his team hack all the things.",
-      "twitter": "@fuzzynop",
       "conference": "DERBYCON9",
       "id": 43024,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Josh Schwartz",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@fuzzynop",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Before joining Tenable in 2014, Joseph worked at Symantec doing malware reverse engineering. Since joining Tenable as a reverse engineer, Joseph has produced several publications on malware, exploitation and reverse engineering.",
-      "twitter": "@pneumagennao",
       "conference": "DERBYCON9",
       "id": 43025,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Joseph Bingham",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@pneumagennao",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Will Schroeder (@harmj0y) is an offensive engineer and red teamer for Specter Ops. He is a co-founder of GhostPack, Empire/Empyre, BloodHound, and the Veil-Framework, developed PowerView and PowerUp, is an active developer on the PowerSploit project, and is a Microsoft PowerShell MVP. He has spoken at a number of security conferences including ShmooCon, DerbyCon, Troopers, BlackHat, DEF CON, BlueHat Israel, and more on topics ranging from domain trust abuse to advanced offensive tradecraft.",
-      "twitter": "@harmj0y",
       "conference": "DERBYCON9",
       "id": 43026,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Will Schroeder",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@harmj0y",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Lee Christensen is an offensive engineer and red teamer for SpecterOps. Lee enjoys building tools to support red team and hunt operations and is the author of several offensive tools and techniques, including UnmanagedPowerShell (incorporated into the Metasploit, Empire, and Cobalt Strike toolsets) and KeeThief.",
-      "twitter": "@tifkin_",
       "conference": "DERBYCON9",
       "id": 43027,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Lee Christensen",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@tifkin_",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Mark Baggett has more than 28 years of commercial and government experience ranging from Software Developer to Chief Information Security Officer. Mark is a Senior Instructor for The SANS Institute and the author of the Automating Information Security with Python (SEC573). Mark has a Master's Degree in Information Security Engineering and many industry certifications including being 15th person in the world to receive the prestigious GIAC Security Expert certification (GSE). Mark is the founding president of The Greater Augusta ISSA chapter and the Cofounder of BSidesAugusta.",
-      "twitter": "@markbaggett",
       "conference": "DERBYCON9",
       "id": 43028,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Mark Baggett",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@markbaggett",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Principal Security Architect for Azure Storage, Azure Stack. PowerShell developer, fanatical hobbyist, and author of the Windows PowerShell Cookbook",
-      "twitter": "@Lee_Holmes",
       "conference": "DERBYCON9",
       "id": 43029,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Lee Holmes",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@Lee_Holmes",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "I started back in 2011 as a system administrator, but came to the conclusion that breaking infrastructures was more fun than actually maintaining it. Since breaking stuff is not particularly appreciated when you're a sysadmin, I joined Fox-IT to use my Windows and Active Directory background to break stuff, which resulted in tools such as Invoke-ACLPwn, Invoke-Credentialphisher and more.",
-      "twitter": "@Nebukatnetsar",
       "conference": "DERBYCON9",
       "id": 43030,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Rindert Kramer",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@Nebukatnetsar",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "This group has been working together in some capacity for over 14 years. Ranging from CSO's, CIO's to penetration testing and hackers. This group has a substantial amount of experience in large organizations across the globe.",
-      "twitter": "@HackingDave",
       "conference": "DERBYCON9",
       "id": 43031,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Dave Kennedy",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@HackingDave",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "This group has been working together in some capacity for over 14 years. Ranging from CSO's, CIO's to penetration testing and hackers. This group has a substantial amount of experience in large organizations across the globe.",
-      "twitter": "",
       "conference": "DERBYCON9",
       "id": 43032,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Jess Walpole",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "This group has been working together in some capacity for over 14 years. Ranging from CSO's, CIO's to penetration testing and hackers. This group has a substantial amount of experience in large organizations across the globe.",
-      "twitter": "",
       "conference": "DERBYCON9",
       "id": 43033,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Scott Angelo",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "This group has been working together in some capacity for over 14 years. Ranging from CSO's, CIO's to penetration testing and hackers. This group has a substantial amount of experience in large organizations across the globe.",
-      "twitter": "",
       "conference": "DERBYCON9",
       "id": 43034,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Kevin Baker",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "LitMoose is a DFIR analyst for [really big corp]. She has a Master's in Digital Forensics from USF, is an adjunct professor of Digital Forensics, and doesn't know what life is like outside of Digital Forensics anymore. Plays on the Red side for CCDC. Likes to slap-fight with APT's and long walks on the beach. Otherwise known for fiddle music, veterinary work, cat pictures and shitposting. She represents no one but herself, and even then it's iffy.",
-      "twitter": "@LitMoose",
       "conference": "DERBYCON9",
       "id": 43035,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Heather Smith",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@LitMoose",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Jake Williams is the founder of Rendition Infosec, IANS faculty, and a former NSA hacker (as endorsed by Russian intelligence operatives). He performs research on incident response and red team operations, as well as cyber threat intelligence. Jake uses his passion for information security and business experience to translate complex topics into formats that are easily digestible by those without a technical background.",
-      "twitter": "@MalwareJake",
       "conference": "DERBYCON9",
       "id": 43036,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Jacob Williams",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@MalwareJake",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Former Army Veteran. Worked in the I.T. industry for ~23 years. Worked the last 10 in Information Security. Worked in both Healthcare, Government, Financial, and Utility industries. Amateur lock picker. Avid Gamer. Listens to Nerdcore Rap and Dubstep. Likes Anime and building Gundam Models.",
-      "twitter": "@deyo2794",
       "conference": "DERBYCON9",
       "id": 43037,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "David E Young Jr",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@deyo2794",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Lance Peterman is Enterprise Security Architect at Merck. With more than 20 years of experience working in various sectors of the technology industry, Lance\ufffds current focus has been in specialized areas of information security, including identity and access management, risk management, cybersecurity and mobility. Lance is also a member of the adjunct faculty at the University of North Carolina \ufffd Charlotte, teaching software architecture and design. He is a founding member of IDPro and currently serving on its board of directors. Active credentials include CISSP and PMP.",
-      "twitter": "@lpeterman",
       "conference": "DERBYCON9",
       "id": 43038,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Lance Peterman",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@lpeterman",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Gabrielle is a graduate of the University of Cincinnati, where she studied Neuroscience and Psychology. She worked in regulatory pharmaceutical and medical device compliance, and led specialized committees targeting Phase I research and emergency research. She moved to IT consulting in 2018, and currently works as an Information Security Analyst with Accenture. She serves as a mentor for a student cohort of cybersecurity analysts, and volunteers with various community organizations that encourage youth and minorities to pursue careers in STEM and information security.",
-      "twitter": "@gabsmashh",
       "conference": "DERBYCON9",
       "id": 43039,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Gabrielle Hempel",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@gabsmashh",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Xena Olsen is a cyber threat intelligence analyst in the financial services industry. A graduate of SANS Women\ufffds Academy with 6 GIAC certifications, an MBA IT Management, and a doctoral student in Cybersecurity at Marymount University.",
-      "twitter": "@ch33r10",
       "conference": "DERBYCON9",
       "id": 43040,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Xena Olsen",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@ch33r10",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Tim and Brent are Senior Security Consultants within NTT Security\ufffds Threat Services group with focus on physical intrusion, social engineering, and covert entry. Their experiences with traditional/non-traditional penetration testing techniques include network, wireless, social engineering, application and physical testing. These techniques have led to highly successful Red Team assessments against Corporate and Federal environments. By sharing their experiences, they hope to continue to contribute to the InfoSec community.",
-      "twitter": "@brentwdesign",
       "conference": "DERBYCON9",
       "id": 43041,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Brent White",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@brentwdesign",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Tim and Brent are Senior Security Consultants within NTT Security\ufffds Threat Services group with focus on physical intrusion, social engineering, and covert entry. Their experiences with traditional/non-traditional penetration testing techniques include network, wireless, social engineering, application and physical testing. These techniques have led to highly successful Red Team assessments against Corporate and Federal environments. By sharing their experiences, they hope to continue to contribute to the InfoSec community.",
-      "twitter": "@zanshinh4x",
       "conference": "DERBYCON9",
       "id": 43042,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Tim Roberts",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@zanshinh4x",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Justin is an infosec professional who dabbles in hardware. As a lifetime learner he loves to help others understand new information. He is an organizer and board member for the Northeastern Ohio Information Security Forum.",
-      "twitter": "@jdogherman",
       "conference": "DERBYCON9",
       "id": 43043,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Justin Herman",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@jdogherman",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Jimi is a Senior member of Tenable's Zero Day Research team. He bounces between research disciplines in an effort to appear knowledgeable about a variety of topics. Occasionally he succeeds in tricking someone into listening to him. When not working, Jimi is an avid rock climber and beer enthusiast.",
-      "twitter": "@dinobytes",
       "conference": "DERBYCON9",
       "id": 43044,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Jimi Sebree",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@dinobytes",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Oddvar Moe is a Red teamer, Microsoft MVP, Security Researcher, blogger, trainer, speaker and works at TrustedSec as a Senior Security Consultant. Mostly known for his work around AppLocker bypasses, LOLBins/LOLBAS and persistence techniques.",
-      "twitter": "@oddvarmoe",
       "conference": "DERBYCON9",
       "id": 43045,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Oddvar Moe",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@oddvarmoe",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Hans Lahkan controls multiple AI systems that leverage software defined synergies to cloud hyper converge bios. Thru many years of experience Hans has created a neural network with ML that can output biographies. Hans once neglected his machine slaves for a 48hr DnD marathon. Hans doesn\ufffdt love me\ufffd 000001010100001001 Aismov override.",
-      "twitter": "Hans Lakhan - @jarsnah12",
       "conference": "DERBYCON9",
       "id": 43046,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Hans Lakhan",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "Hans Lakhan - @jarsnah12",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Will Pearce is a Senior Security Consultant and Data Operations Lead at Silent Break Security. His work involves security consulting, red team operations, and data operations. He has taught the \"Dark Side Ops\" course series for over 2 years at Black and DerbyCon.",
-      "twitter": "@moo_hax",
       "conference": "DERBYCON9",
       "id": 43047,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Will Pearce",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@moo_hax",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Nick Landers is the Technical Lead at Silent Break Security. His work involves security consulting, red team operations, malware development, and offensive research. He has authored and presented the \"\"Dark Side Ops\"\" course series for over 3 years at Black Hat and other conferences.",
-      "twitter": "@monoxgas",
       "conference": "DERBYCON9",
       "id": 43048,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Nick Landers",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@monoxgas",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "I am a full-time author with Pluralsight focusing on security operations and incident response conducting research and producing advanced level video courses and demonstration content for Pluralsight. A part time member of the Florida Air National Guard, I built and operated one of the first mission defense teams for the 601 AOC Tyndall and now focus on the development of security monitoring, detection, and threat hunting.Certs: GCED, GCIA, CCNA Cyber Operations, Comptia Sec+, and the new Comptia Pentest+; more found at www.aaronrosenmund.com. Sec dev work at www.github.com/arosenmund",
-      "twitter": "@arosenmund",
       "conference": "DERBYCON9",
       "id": 43049,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Aaron Rosenmund",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@arosenmund",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "www.vinnytroia.com :)",
-      "twitter": "@vinnytroia",
       "conference": "DERBYCON9",
       "id": 43050,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Vinny Troia",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@vinnytroia",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Currently a security consultant for Aon Cyber Services (formerly Gotham Digital Science) focusing on Red Team and infrastructure testing.Over my career I have held positions in most areas of IT, such as a programmer, SOC operator, network and system administrator.I currently hold a number of industry certificates, such as CREST Threat Analyst and OSCP. When I\ufffdm not on my computer, I pretend to be a farmer and bee keeper.",
-      "twitter": "@ferretking",
       "conference": "DERBYCON9",
       "id": 43051,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Patrick Matthews",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@ferretking",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Larry Suto is an independent security consultant based out of Oakland, CA. He spends a lot of time researching using cloud infrastructure for all types of security testing. He spends some time on Windows security as well.",
-      "twitter": "@larrysuto",
       "conference": "DERBYCON9",
       "id": 43052,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Larry Suto",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@larrysuto",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Jeff Holden works for a large college system as an Information Security Manager/jack of all trades. His favorite part of the job though is in the penetration testing of the colleges in the system. He also contributes to open source projects and releases his own code.",
-      "twitter": "@jeffh",
       "conference": "DERBYCON9",
       "id": 43053,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Jeff Holden",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@jeffh",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Timothy Wright is the team lead of a large power utility in central Ohio has 22 years of Cyber security experience. The last 6 years he has been the team lead of the internal red team and focuses on scoping and executing penetration tests, red team engagements and hardware security assessments.",
-      "twitter": "@redteam_hack",
       "conference": "DERBYCON9",
       "id": 43054,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Timothy Wright",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@redteam_hack",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Jacob Griffith is a Cyber Security Technical Specialist with two years experience in Vulnerability Management. Jacob graduated from Columbus State Community College with his Associates Degree in Network Security and has obtained his OSCP certification.",
-      "twitter": "@maddhatt3r2",
       "conference": "DERBYCON9",
       "id": 43055,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Jacob Griffith",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@maddhatt3r2",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "David Tulis (@kafkaesqu3) is a senior security consultant at NCC Group, where he specializes in adversary simulations, red teams, and network penetration tests. He is most comfortable operating in Windows and Active Directory environments, but always enjoys the challenge of developing new techniques, and learning how to hack new and exciting things.",
-      "twitter": "@kafkaesqu3",
       "conference": "DERBYCON9",
       "id": 43056,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "David Tulis",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@kafkaesqu3",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "James Condon is Director of Research at Lacework. James is a security veteran with over 10 years of experience in incident response, intelligence analysis, and automated threat detection. James was previously Director of Threat Research at ProtectWise (acquired by Verizon), an Incident Analyst for Mandiant, and a Special Agent in USAF OSI.",
-      "twitter": "@jameswcondon",
       "conference": "DERBYCON9",
       "id": 43057,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "James Condon",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@jameswcondon",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Kevin is an infosec jack-of-all-trades but master of none.After 20 years of doing this stuff, he's kinda had it with hardcoded creds, but appreciates their role in his ongoing employment. He's worked across many industries, and has attempted to give back to the community by speaking at various conferences including BSides Pittsburgh, Cleveland, and Columbus, as well as three times at DerbyCon.",
-      "twitter": "@kevvyg",
       "conference": "DERBYCON9",
       "id": 43058,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Kevin Gennuso",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@kevvyg",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Deral Heiland, serves as a Research Lead (IoT) for Rapid7. Deral has over 25 years of experience in the Information Technology field. Over the last 15+ years Deral\ufffds career has focused on security research, penetration testing, and consulting. Deral has conducted security research on numerous subjects, releasing white papers, advisories, and has presented the information at conferences including Blackhat, Defcon, Shmoocon, DerbyCon. Deral has been interviewed by and quoted by media outlets and publications including ABC World News Tonight, BBC, Consumer Reports, and MIT Technical Review.",
-      "twitter": "@Percent_X",
       "conference": "DERBYCON9",
       "id": 43059,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Deral Heiland",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@Percent_X",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Mike Saunders has over 25 years of experience in IT and security and has worked in the ISP, financial, insurance, and agribusiness industries. He has held a variety of roles in his career including system and network administration, development, and security architect. Mike been performing penetration tests for nearly a decade. Mike is an experienced speaker and has spoken at DerbyCon, BSides MSP, BSides Winnipeg / The Long Con, BSides KC, WWHF, and the NDSU Cyber Security Conference. He has participated multiple times as a member of NCCCDC Red Team.",
-      "twitter": "@hardwaterhacker",
       "conference": "DERBYCON9",
       "id": 43060,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Mike Saunders",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@hardwaterhacker",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Michael is a Managing Consultant with Sikich. Michael takes great pride in furthering his education to maximize his value to clients.",
-      "twitter": "@Michael_Vieau",
       "conference": "DERBYCON9",
       "id": 43061,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Michael Vieau",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@Michael_Vieau",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Kevin Bong - Kevin is the Director of penetration testing at Sikich focusing on information security and compliance issues.",
-      "twitter": "",
       "conference": "DERBYCON9",
       "id": 43062,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Kevin Bong",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Karl is a Practice Director at NetSPI who specializes in network and web application penetration testing. With over ten years of consulting experience in the computer security industry, he has worked in a variety of industries and has been a guest administrator on a bunch of Windows domains. Recently, he has spent his time working on a set of tools (MicroBurst) to help automate attacks against the Azure stack. Over the years at NetSPI, Karl has worn several hats: password cracker, social engineer, and pinball machine maintainer. Karl has previously spoken at THOTCON, DerbyCon, and BSidesPDX.",
-      "twitter": "@kfosaaen",
       "conference": "DERBYCON9",
       "id": 43063,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Karl Fosaaen",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@kfosaaen",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Matthew Szymanski is a Senior Security Engineer specializing in Application Security. Passionate about AppSec, he leverages over a decade of experience as a programmer to discover and help remediate vulnerabilities. He has developed and taught secure coding workshops, mentored Jr Security Engineers and Developers as well as presented talks to increase security awareness. As a co-organizer of the CLT Hacking and Infosec Charlotte meetup group, Matt plans to continue increasing community awareness around Information Security.",
-      "twitter": "@rvrshell",
       "conference": "DERBYCON9",
       "id": 43064,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Matthew Szymanski",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@rvrshell",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Philip builds predictive models for detecting and categorizing malware as a Staff Data Scientist at FireEye.",
-      "twitter": "@phtully",
       "conference": "DERBYCON9",
       "id": 43065,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Philip Tully",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@phtully",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Matthew develops automation tools for malware detection and analysis as a reverse engineer on FireEye\ufffds FLARE team.",
-      "twitter": "@iAmThePr0blem",
       "conference": "DERBYCON9",
       "id": 43066,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Matthew Haigh",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@iAmThePr0blem",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Jay reverses malware and develops systems to automate and accelerate malware analysis as a Staff Research Engineer for FLARE, and has 20+ years of experience as an R&D engineer.",
-      "twitter": "",
       "conference": "DERBYCON9",
       "id": 43067,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Jay Gibble",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Michael is a Senior Director at FireEye where he runs the FLARE Team. He is co-author of the book \ufffdPractical Malware Analysis\ufffd and teaches a reverse engineering course at Columbia University.",
-      "twitter": "@mikesiko",
       "conference": "DERBYCON9",
       "id": 43068,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Michael Sikorski",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@mikesiko",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Reformed Java developer who has an appreciation for security, privacy and an honest day\ufffds work. Mowed grass and saved $249 to buy a Commodore Vic 20 and was hooked on computers. Started my career long ago testing computer hardware as it came off the assembly line, and now work for a security company that pranked itself this summer.",
-      "twitter": "@ruff_tr",
       "conference": "DERBYCON9",
       "id": 43069,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Tom Ruff",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@ruff_tr",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Old skewl. Ack'd for 1st breakout of VM's via VMWare, AIX Heap Overflows, Lots of tools used by the community in 2000's et al.",
-      "twitter": "@redsandbl4ck",
       "conference": "DERBYCON9",
       "id": 43070,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Tim Shelton",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@redsandbl4ck",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Ronnie Tokazowski, aka iHeartMalware, is a Senior Threat Researcher with Agari who specializes in BEC intelligence. Ronnie also has experience reverse engineering APT malware and finds enjoyment by messing with threat actors.",
-      "twitter": "@iHeartMalware",
       "conference": "DERBYCON9",
       "id": 43071,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Ronnie Tokazowski",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@iHeartMalware",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Kelly is a consultant at SpecterOps with several years of experience improving the security posture of Fortune 500 companies through adversary simulation activities. Since graduating from the University of Miami, Kelly has informally continued her studies in behavioral science and economics, and she enjoys applying her abstract ideas to red team operations.",
-      "twitter": "@KellTheNoise",
       "conference": "DERBYCON9",
       "id": 43072,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Kelly Villanueva",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@KellTheNoise",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Jason is passionate about defending organizations often using unique and unexpected methods. Nothing makes him smile more than ticking off attackers and red teamers. He has worked for companies both large and small in manufacturing, healthcare, government contracting, retail, and the hospitality industries holding positions ranging from software development, infrastructure administration, security analyst, security manager, IT director, and systems architect. He also enjoys irritating his co-workers with his awful singing voice. Especially early in the morning.",
-      "twitter": "@snorkel42",
       "conference": "DERBYCON9",
       "id": 43073,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Jason Nester",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@snorkel42",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Andy Robbins and Rohan Vazarkar are two creators of BloodHound, along with Will Schroeder. Andy and Rohan both come from a penetration testing and red teaming background, but focus more on defense these days while continuing to support red team operations. Both formerly from Veris Group's Adaptive Threat Division, both now working at SpecterOps as Adversary Resilience consultants.",
-      "twitter": "@_wald0",
       "conference": "DERBYCON9",
       "id": 43074,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Andy Robbins",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@_wald0",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Andy Robbins and Rohan Vazarkar are two creators of BloodHound, along with Will Schroeder. Andy and Rohan both come from a penetration testing and red teaming background, but focus more on defense these days while continuing to support red team operations. Both formerly from Veris Group's Adaptive Threat Division, both now working at SpecterOps as Adversary Resilience consultants.",
-      "twitter": "@CptJesus",
       "conference": "DERBYCON9",
       "id": 43075,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Rohan Vazarkar",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@CptJesus",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "In the past year, Tal Melamed been experimenting in offensive and defensive security for the serverless technology, as part of his role as Head of Security Research at Protego Labs. Specializing in AppSec, he has more than 15 years of experience in security research and vulnerability assessment, previously working for leading security organizations such as Synack, AppSec Labs, CheckPoint, and RSA. Tal is also the leader and creator of the OWASP Serverless Top 10 and DVSA projects.",
-      "twitter": "@dvsaowasp, @_nu11p0inter",
       "conference": "DERBYCON9",
       "id": 43076,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Tal Melamed",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@dvsaowasp, @_nu11p0inter",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Long time system admin who enjoys packets above all else.",
-      "twitter": "",
       "conference": "DERBYCON9",
       "id": 43077,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Harold Tabellion",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Alex \"Jay\" Balan works as Chief Security Researcher and his career is focused on information security, innovation and product strategy, fields in which he has so far accumulated over 15 years of experience. He drove the vision for Bitdefender\ufffds UNIX-based security solutions before kickstarting an ambitious project that would advance the company\ufffds R&D department and steer a good part of the company\ufffds focus towards technology and innovation",
-      "twitter": "@jaymzu",
       "conference": "DERBYCON9",
       "id": 43078,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Alex \"Jay\" Balan",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@jaymzu",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Jason Lang (@curi0usJack) is a caffeine-imbued coding hermit, briefly emerging from the Wisconsin woods to congregate with other infosec & PowerShell lovers. Proficient in { }\ufffds, storytelling, and trollery, Jason spends his days on the prowl for customer data and evenings in off-the-grid pursuits. #Nano4lyfeLOLActuallyVIM",
-      "twitter": "@curi0usJack",
       "conference": "DERBYCON9",
       "id": 43079,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Jason Lang",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@curi0usJack",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Lesley Carhart is a Principal Threat Analyst at the industrial cyber security company Dragos, Inc. She is recognized as a subject matter expert in cybersecurity incident response and digital forensics, regularly speaking on the topic at conferences and universities. She has spent the last 11 years of her 20+ year IT career specializing in information security, with a heavy focus on response to nation-state adversary attacks.",
-      "twitter": "@hacks4pancakes",
       "conference": "DERBYCON9",
       "id": 43080,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Lesley Carhart",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@hacks4pancakes",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Chelle's worked in cyber security for over 20 years. She has a BS and an MS in ISM from University of San Francisco, and strongly supports STEM. She is an Army Veteran, she spent 30-years at Lawrence Livermore Nat\ufffdl Lab in three different fields (chemistry, physics and computer science). Lesley Carhart is a Principal Threat Analyst, Threat Operations Center at the industrial cyber security company Dragos, Inc. She is recognized as a subject matter expert in cybersecurity incident response and digital forensics, regularly speaking on the topic at conferences and universities.",
-      "twitter": "",
       "conference": "DERBYCON9",
       "id": 43081,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Chelle Clements",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "April C. Wright is a hacker, author, teacher, and community leader with over 25 years of breaking, making, fixing, and defending global critical communications and connections. She is an international speaker and trainer, educating others about Information Security, with the goal of protecting individual privacy and important assets to make the digital components that impact our lives safer and more secure. A security program specialist for a Fortune 15 company, April has held roles on offensive, defensive, operational, and development teams throughout her career, and been a speaker and contributor at numerous security conferences including BlackHat, DEF CON, DerbyCon, Hack in Paris, DefCamp, ITWeb, as well as for the US Government and industry organizations such as OWASP and ISSA. She has started multiple small businesses including a non-profit, is a member of the DEF CON Groups Core Team, and in 2017 she co-founded the Boston DEF CON Group DC617. April has collected dozens of certifications to add letters at the end of her name, almost died in Dracula\ufffds secret staircase, and once read on \ufffdteh interwebs\ufffd that researchers at the University of North Carolina released a comprehensive report in 2014 confirming that she is the \ufffdmost significant and interesting person currently inhabiting the earth\ufffd, so it must be true.",
-      "twitter": "",
       "conference": "DERBYCON9",
       "id": 43082,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "April C. Wright",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Amanda co-authored the best practices book called \"Defensive Security Handbook: Best Practices for Securing Infrastructure\ufffd with Lee Brotherston through O'Reilly Media. She is a co-host on the Brakeing Down Security podcast and writes for several blogs. She has spent over a decade in different areas of technology and sectors providing infrastructure support, triage, and design. Amanda has been involved in implementing a secure Payment Card Industries (PCI) process and Health Insurance Portability and Accountability Act (HIPAA) compliance as well as building a comprehensive phishing and awards-based user education program. Amanda is an avid volunteer and has also presented at a large number of conventions, meetings and industry events. Some examples of these are: DerbyCon, O\ufffdReilly Security, GrrCon, and DEFCON. While she doesn't have the credentials or notoriety that others might have, she hopes to make up for it with her wit, sense of humor, and knack for catching on quick to new technologies.",
-      "twitter": "",
       "conference": "DERBYCON9",
       "id": 43083,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Amanda Berlin",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "",
-      "twitter": "",
       "conference": "DERBYCON9",
       "id": 43084,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Lee Neely (moderator)",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Mick is the founder and managing partner of InfoSec Innovations, a member of the IANS faculty, and a SANS instructor where he teaches SEC504 and SEC555.",
-      "twitter": "@BetterSafetyNet",
       "conference": "DERBYCON9",
       "id": 43085,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Mick Douglas",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@BetterSafetyNet",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Mr. Petersen has been the CISO and Director of Technology at Causeway Capital Management since June 2001. Pete\ufffds technology experience spans more than three decades.",
-      "twitter": "@BetterSafetyNet",
       "conference": "DERBYCON9",
       "id": 43086,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Pete Petersen",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@BetterSafetyNet",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Trent Lo is a seasoned and well regarded speaker with over 15 years of security research, Incident Response and protecting large scale infrastructure from advanced cyber threat actors. Trent\ufffds technical expertise and understanding of the inherent risks corporations face today has given him a unique ability to build strong cyber defenses to proactively and predictively detect and disrupt cyber threats.",
-      "twitter": "@surbo",
       "conference": "DERBYCON9",
       "id": 43087,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Trent Lo",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@surbo",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Jim Shaver is a penetration tester and security researcher.",
-      "twitter": "@elitest",
       "conference": "DERBYCON9",
       "id": 43088,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Jim Shaver",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@elitest",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "A long time hacker, info-sec enthusiast, Mentor. The Blind Hacker has volunteered to read over resumes and do mock interviews as well as mentor anyone who ask.As a person with a disability he has never let it slow him down.",
-      "twitter": "@TheBlindHacker",
       "conference": "DERBYCON9",
       "id": 43089,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Joe B (TheBlindHacker)",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@TheBlindHacker",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Jamison Budacki, a Senior Information Security Architect. Jamison_s focus is on developing usable security architectures as well as developing monitoring and detection solutions that can be used across the corporate network. Previously, Jamison worked as a Security Engineer for a fortune 100 company on the Incident Response team. Jamison received his degree from the School of Informatics and Computing at Indiana University in 2005. He resides in Erie, Pennsylvania, with his wife and their two sons. Jamison is a volunteer firefighter, washed up hockey player, and coach for various sports.",
-      "twitter": "@jbudacki",
       "conference": "DERBYCON9",
       "id": 43090,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Jamison Budacki",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@jbudacki",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Josh Rickard serves as a security research engineer at Swimlane. He is a GIAC Certified Windows Security Administrator (GCWN) and GIAC Certified Forensic Analyst (GCFA). He has a diverse background ranging from system administration to digital forensics and incident response to managing teams and products. As a Windows security expert, Josh focuses on creating tools to help defend and automate everyday processes using PowerShell and Python. You can engage with Josh via his blog, letsautomate.it, or Twitter at @MSAdministrator.",
-      "twitter": "@MSAdministrator",
       "conference": "DERBYCON9",
       "id": 43091,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Josh Rickard",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@MSAdministrator",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Kate Mullin CISSP, MLSE is a CISO and influential information security practitioner with more than 20 years of experience.Throughout her career, Kate has volunteered and participated in maturing information security as a profession.Kate serves internationally as a featured speaker and panelist.",
-      "twitter": "@kate944032",
       "conference": "DERBYCON9",
       "id": 43092,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Kate Mullin",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@kate944032",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Brett has worked in Information Security for several years working for multiple Fortune 500 companies across different industries. He has focused on both offensive and defensive disciplines and is currently a Red Team consultant at FireEye Mandiant. He holds several industry recognized certifications from SANS and Offensive Security and has spoken at several conferences including DerbyCon and BSides Cleveland. Brett\ufffds extensive knowledge and experience in a breadth of different Information Security areas gives him a unique and well-rounded perspective.",
-      "twitter": "@h4wkst3r",
       "conference": "DERBYCON9",
       "id": 43093,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Brett Hawkins",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@h4wkst3r",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Nicole Schwartz (@CircuitSwan was AmazonV) is a Product Manager for the GitLab Secure team. In her career, she has been in Product, System Administration, and Agile coaching. Before her career ever started she was a Hacker. When she isn\ufffdt working she attends conventions (you may have known her as @CircuitSwan was AmazonV) and volunteers at events such as the Diana Initiative.",
-      "twitter": "@CircuitSwan",
       "conference": "DERBYCON9",
       "id": 43094,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Nicole Schwartz aka CircuitSwan formerly AmazonV",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@CircuitSwan",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Marisa is an Information Security Engineer at USAA focusing on managing and securing our web proxies, email and cloud technologies. She\ufffds currently heading the way for the cloud remediation effort at USAA. Her previous roles at USAA include management of the API gateway and B2B teams.",
-      "twitter": "",
       "conference": "DERBYCON9",
       "id": 43095,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Marisa Dyer",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Jessica is Director at USAA focusing on the security and availability of USAA\ufffds platforms and endpoints including web security and cloud technologies. Prior to USAA, Jessica served as lead for an operational team supporting US cyber intelligence efforts along with military intelligence experience.",
-      "twitter": "",
       "conference": "DERBYCON9",
       "id": 43096,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Jessica Hazelrigg",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Casey has a passion for understanding and testing the limits of and assertions of defensive systems.",
-      "twitter": "@subTee",
       "conference": "DERBYCON9",
       "id": 43097,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Casey Smith",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@subTee",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Both Justin Leapline and Rick Yocum are experienced governance program managers, leading a number of companies to optimize their security posture. This includes including working regulatory and contractual compliance within the information security realm, security program management, various regulatory/compliance initiatives, and general governance practices and frameworks. Both Rick and Justin currently work at TrustedSec within the Advisory group.",
-      "twitter": "@jmleapline",
       "conference": "DERBYCON9",
       "id": 43098,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Justin Leapline",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@jmleapline",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Both Justin Leapline and Rick Yocum are experienced governance program managers, leading a number of companies to optimize their security posture. This includes including working regulatory and contractual compliance within the information security realm, security program management, various regulatory/compliance initiatives, and general governance practices and frameworks. Both Rick and Justin currently work at TrustedSec within the Advisory group.",
-      "twitter": "",
       "conference": "DERBYCON9",
       "id": 43099,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Rick Yocum",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Adam Compton has been a programmer, researcher, professional pentester, father, husband, and farmer.He has 2 decades of programming, network security, incident response, security assessment, and penetration testing experience. Throughout, he has worked for both federal and international government agencies as well as within the private sector.",
-      "twitter": "@tatanus",
       "conference": "DERBYCON9",
       "id": 43100,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Adam Compton",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@tatanus",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "David Boyd (@fir3d0g)is a Christian, husband, and father who also enjoys geek culture, video games, and Mountain Dew. He has over 15 years of technical experience in several environments, learning something from each one along the way.",
-      "twitter": "@fir3d0g",
       "conference": "DERBYCON9",
       "id": 43101,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "David Boyd",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@fir3d0g",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Andy is a bowtied hacker who enjoys creating tools in Python 3 to make his life a little more repeatable, making ridiculous devices that serve nearly little purpose or are dangerous then putting them in a hat, and spending entirely too much time at a wood lathe or forge.",
-      "twitter": "@integgroll",
       "conference": "DERBYCON9",
       "id": 43102,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Andy Cooper",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@integgroll",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Marcello Salvati (@byt3bl33d3r) is a Security Analyst at BlackHills Information Security by day and by night a tool developer who discovered a novel technique to turn tea, sushi, alcohol and dank memes into somewhat functioning code. His passions include anything Active Directory related, trolling people on GitHub and developing open-source tools for the security community at large which he\ufffds been doing for the past several years, some of his projects include SilentTrinity, CrackMapExec, DeathStar, RedBaron and many more.",
-      "twitter": "@byt3bl33d3r",
       "conference": "DERBYCON9",
       "id": 43103,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Marcello Salvati",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@byt3bl33d3r",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Jason Blanchard \"works in marketing\" but only because it is an outlet for his creativity, desire to connect with other humans, and because he loves telling stories. You may remember him from the comedy show at DerbyCon or his talk on \"Social Engineering Your Way Into Your Dream Job.\" He has a particular set of skills he likes sharing with the Hacker Community. He is the Marketing & Outreach Director for Black Hills Information Security, a husband, and father.",
-      "twitter": "@BanjoCrashland",
       "conference": "DERBYCON9",
       "id": 43104,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Jason Blanchard",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@BanjoCrashland",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Rich enjoys talking in the 3rd person, long walks on secure beaches and LED lit dinners. Rich likes to push the boundaries of what is acceptable and has been a natural hacker all his life. Rich has been in the security field for 12 years and uses a lot of colloquial phrases in his Bio's. Come see Rich talk about cool and interesting topics, before Rich is put out to pasture.",
-      "twitter": "",
       "conference": "DERBYCON9",
       "id": 43105,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Rich Rumble",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Walter Legowski [@SadProcessor] / \"Make the world a safer place\" @ ERNW [DE] / PowerShell Bad Boy & Noob for life / Likes Tools, Security & Automation / Likes Streets, Cats and Trees / Likes mixing stuff...",
-      "twitter": "@SadProcessor",
       "conference": "DERBYCON9",
       "id": 43106,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Walter Legowski",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@SadProcessor",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Sean Metcalf is founder & principal consultant at Trimarc (Trimarc.io), a professional services company which focuses on improving enterprise security. He is one of about 100 people in the world who holds the Microsoft Certified Master Directory Services (MCM) certification, is a Microsoft MVP, and has presented on Active Directory attack & defense at many security conferences (Black Hat, DEFCON, DerbyCon, etc). He currently provides security consulting services to customers and posts interesting Active Directory security information at ADSecurity.org.",
-      "twitter": "@PyroTek3",
       "conference": "DERBYCON9",
       "id": 43107,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Sean Metcalf",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@PyroTek3",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Dave Mayer is a Senior Security Consultant with InGuardians, specializing in Red Teaming and Penetration Testing. Previously he was on the Red Team for a global financial organization where he performed Red Team engagements, internal and external penetration tests, and product testing. Prior to that he worked within healthcare as an Information Security Generalist.",
-      "twitter": "@dmay3r",
       "conference": "DERBYCON9",
       "id": 43108,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Dave Mayer",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@dmay3r",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Wim is the CEO and Principal Consultant at Wire Security, a Belgium-based internationall active boutique security company working with organizations to make their infrastructure more secure. He also served as a board member and chair of ISC2, co-developed the Penetration Testing Execution Standard, and spoke at too many security and developer conferences.",
-      "twitter": "@wimremes",
       "conference": "DERBYCON9",
       "id": 43109,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Wim Remes",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@wimremes",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Stuart is a Red Teamer at IronNet, where he focuses on tool development, Unix, and general Swiss Army knifery.He's been on the offensive side of public and private sector security for six years, during which time he's been an operator and trainer and developed a small arsenal of public and private offensive tools. Stuart's been a speaker at BSides and CarolinaCon and has red teamed for Quantum Dawn and the Collegiate Cyber Defense Competition.",
-      "twitter": "@magisterquis",
       "conference": "DERBYCON9",
       "id": 43110,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Stuart McMurray",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@magisterquis",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Thomas Reed has been working with Macs since 1984, and is a self-taught security researcher and the creator of the AdwareMedic anti-adware tool for Macs. He now directs the development of Mac and mobile products at Malwarebytes, and continues to do malware analysis and threat research.",
-      "twitter": "@thomasareed",
       "conference": "DERBYCON9",
       "id": 43111,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Thomas Reed",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@thomasareed",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Paul Coggin works as a Cyber SME at nou Systems, Inc. His expertise includes tactical, service provider, and ICS/SCADA network infrastructure attacks, and defenses, as well as large complex network design and implementation. His experience includes leading network architecture reviews, vulnerability analysis, and penetration testing engagements for critical infrastructure and tactical networks. Pauls\ufffd experience includes teaching networking, hacking and forensics courses internationally. He has a BS in Math/Computer Science, a MS in Information Assurance and Security and a MS in Computer Information Systems. In addition he holds a number of network and security certifications.",
-      "twitter": "@PaulCoggin",
       "conference": "DERBYCON9",
       "id": 43112,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Paul Coggin",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@PaulCoggin",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Josh Bryant is a Director of Technical Account Management at Tanium where he helps very large enterprise customers gain high speed visibility and control over their endpoints.",
-      "twitter": "@FixTheExchange",
       "conference": "DERBYCON9",
       "id": 43113,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Josh Bryant",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@FixTheExchange",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Robert is a Threat Researcher with Palo Alto Networks' Unit 42 focusing on malware analysis, reverse engineering and tracking advanced threat actors.",
-      "twitter": "@r0bf4lc",
       "conference": "DERBYCON9",
       "id": 43114,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Robert Falcone",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@r0bf4lc",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Eric is a seasoned pentester and a Principal Security Consultant at Secureworks. On a daily basis he attempts to compromise large enterprise networks to test their physical, human, network and wireless security. His team consecutively won first place at DEF CON 23, 24, and 25's Wireless CTF, snagging a black badge along the way. Forcibly retired from competing in the Wireless CTF, he\ufffds now a member of the DEF CON Wireless Village team. Before entering the cyber security arena, Eric attained both a BS and MS in Civil Engineering along with his Professional Engineering license.",
-      "twitter": "@ericescobar",
       "conference": "DERBYCON9",
       "id": 43115,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Eric Escobar",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@ericescobar",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Mauricio Velazco (@mvelazco) is a Peruvian, Infosec professional who started his career as a penetration tester and jumped to the blue team 7 years ago. He currently leads the Threat Management team at a financial services organization where he focuses on threat detection/hunting and adversary simulation. Mauricio has presented and hosted workshops at conferences like Defcon, Derbycon, BSides and the SANS Threat Hunting Summit. He holds a few certifications including OSCP and OSCE.",
-      "twitter": "@mvelazco",
       "conference": "DERBYCON9",
       "id": 43116,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Mauricio Velazco",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@mvelazco",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Tracy Z. Maleeff, @InfoSecSherpa, is a GSEC certified Information Security professional. Before InfoSec, Tracy worked as a librarian in academic, corporate, and private law firm libraries. A Fellow of the Special Libraries Association, Tracy received the Dow Jones Innovate Award and the Wolters Kluwer Law & Business Innovations in Law Librarianship Award. Tracy holds a Master of Library and Information Science degree from the University of Pittsburgh, as well as undergraduate degrees from both Temple University (magna cum laude), and the Pennsylvania State University.",
-      "twitter": "@InfoSecSherpa",
       "conference": "DERBYCON9",
       "id": 43117,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Tracy Z. Maleeff",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@InfoSecSherpa",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Ryan Linn has a background in red teaming, penetration testing, incident response, and forensics that has helped him to understand many of the challenges that security practitioners face today. He enjoys sharing this knowledge at places like DefCon, BlackHat, DerbyCon and many others. He has helped train individuals in corporate security, law enforcement, and federal governments around the world on hacking and incident response techniques. Ryan is one of the authors Gray Hat Hacking and has contributed to many open source frameworks including Metasploit, BeEF and Ettercap.",
-      "twitter": "@sussurro",
       "conference": "DERBYCON9",
       "id": 43118,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Ryan Linn",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@sussurro",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Jared is the Adversary Detection Technical Lead at SpecterOps where specializes in Detection Engineering and Digital Forensics. In this role, he helps private sector orgs build their detection programs. In his previous life, Jared lead incident response missions for the U.S. Air Force Hunt Team.",
-      "twitter": "@jaredcatkinson",
       "conference": "DERBYCON9",
       "id": 43119,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Jared Atkinson",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@jaredcatkinson",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Bryson is the Founder of SCYTHE, a start-up building a next generation attack emulation platform, and GRIMM, a boutique cybersecurity consultancy, and Co-Founder of the ICS Village, a non-profit advancing awareness of industrial control system security. He is a National Security Institute Fellow and an Advisor to the Army Cyber Institute. Prior, Bryson led an elite offensive capabilities development group. As a U.S. Army Officer, he served as a Battle Captain and Brigade Engineering Officer in support of Operation Iraqi Freedom before leaving the Army as a Captain.",
-      "twitter": "@brysonbort",
       "conference": "DERBYCON9",
       "id": 43120,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Bryson Bort",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@brysonbort",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Francis and Emilio are undergraduate students from (respectively) \ufffdcole de Technologie Sup\ufffdrieure and Universit\ufffd de Sherbrooke in Canada. Both have a strong interest in information security and are involved with their university\ufffds computer science club. Francis participates competitively in several CTF competitions with the DCIETS team and is interested in the offensive side of cybersecurity. \ufffdmilio organizes several computer science-related events for the students of his university and likes to learn about the defensive side of cybersecurity.",
-      "twitter": "@res260",
       "conference": "DERBYCON9",
       "id": 43121,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Emilio Gonzalez",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@res260",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Francis and Emilio are undergraduate students from (respectively) \ufffdcole de Technologie Sup\ufffdrieure and Universit\ufffd de Sherbrooke in Canada. Both have a strong interest in information security and are involved with their university\ufffds computer science club. Francis participates competitively in several CTF competitions with the DCIETS team and is interested in the offensive side of cybersecurity. \ufffdmilio organizes several computer science-related events for the students of his university and likes to learn about the defensive side of cybersecurity.",
-      "twitter": "@xshill_",
       "conference": "DERBYCON9",
       "id": 43122,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Francis Labelle",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@xshill_",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Michael Fowl works as a Senior Security Engineer at VDA Labs where he leverages offensive information security skills to help clients. An avid bug hunter and penetration tester, Michael has spent countless hours performing web application assessments, including placing as a top finisher in events like \ufffdHack the Pentagon.\ufffd",
-      "twitter": "@WhiteHatTSA",
       "conference": "DERBYCON9",
       "id": 43123,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Michael Fowl",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@WhiteHatTSA",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Nick Defoe is a Security Operations Manager at VDA Labs where he manages security consulting engagements to ensure success. Coming from a background in web application development, Nick has worked on penetration tests and application assessments for many major brands.",
-      "twitter": "@ndefoe",
       "conference": "DERBYCON9",
       "id": 43124,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Nick Defoe",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@ndefoe",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Olaf is a person of many interests with a passion for defensive security and data. He has over 13 years of experience in security, he specializes in building and operationalizing SOC teams through the use of SIEM systems or log management systems such as Splunk. He is an expert Threat Hunter and works in close collaboration with the Red Team to facilitate Purple teaming workshops for his clients. He is the author of several security focused tools and blogs. Olaf has spoken at MITRE ATT&CKcon, ISF Live, Splunk Live, BlackHat, FIRST",
-      "twitter": "@olafhartong",
       "conference": "DERBYCON9",
       "id": 43125,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Olaf Hartong",
       "link": "",
-      "title": ""
-    },
-    {
-      "description": "Heidi is an Australian professional currently specialising in cyber security risk management, incident management and operations. She has a strong interest in offensive and deceptive security projects and has recently been delving into malware analysis and cyber threat intel. While also being a self-declared perpetual n00b, Heidi spends her time giving back to the community by volunteering at conferences across the globe, organising meet ups and CTFs, and running popular community projects to educate young and old on the joys of the infosec.",
-      "twitter": "@summer__heidi",
-      "conference": "DERBYCON9",
-      "id": 43126,
-      "updated_at": "2019-08-30T22:25+0000",
-      "name": "Heidi Winter",
-      "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@olafhartong",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "EvilMog is the Bishop of the Church of Wifi, Member of Team Hashcat and Senior Managing Consultant for X-Force Red. He is Black Badged to Derbycon and Skydog Con and a three time Hacker Jeopardy Winner",
-      "twitter": "@Evil_Mog",
       "conference": "DERBYCON9",
       "id": 43127,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "EvilMog",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@Evil_Mog",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Bill Gardner is an Assistant Professor at Marshall University, where he teaches information assurance and related courses in the Department of Forensics. Bill has spent the past four summers teaching making, cyber security, fundamental technology, and coding to to K-12 students. Bill is also a co-author of \"Building an Information Security Awareness Program: Defending Against Social Engineering and Technical Threats\", and \"Google Hacking For Penetration Testers\".",
-      "twitter": "@oncee",
       "conference": "DERBYCON9",
       "id": 43128,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Bill Gardner",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@oncee",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Micah K Brown is a member of the IT Security Engineering team at the Munich RE Group. Over the past four years he has served as the lead Engineer on the DLP implementation for Data Loss Prevention for the Munich RE organizations around the globe. In this role Micah has learned a new appreciation towards data first focused security.In his free time, Micah serves on the Greater Cincinnati ISSA Chapter as Vice President. Micah graduated from the University of Cincinnati and holds an active CISSP.",
-      "twitter": "@MicahKBrown",
       "conference": "DERBYCON9",
       "id": 43129,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Micah K Brown",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "@MicahKBrown",
+      "updated_at": "2019-08-30T22:25+0000"
     },
     {
       "description": "Eddie David, a blue teamer, loves technology and all aspects of exploiting, breaking and understanding how to properly secure systems. Having over 20 years of Systems Administration experience. His main focus of experience is around active directory, active directory security, active directory certificate services, developing security baselines on all Microsoft operating systems and Office 365/azure cloud security.",
-      "twitter": "",
       "conference": "DERBYCON9",
       "id": 43130,
-      "updated_at": "2019-08-30T22:25+0000",
       "name": "Eddie David",
       "link": "",
-      "title": ""
+      "title": "",
+      "twitter": "",
+      "updated_at": "2019-08-30T22:25+0000"
     }
-  ]
+  ],
+  "updated_at": "2019-08-30T22:25+0000"
 }
