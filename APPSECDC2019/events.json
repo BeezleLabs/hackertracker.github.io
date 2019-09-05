@@ -2,22 +2,6 @@
   "schedule": [
     {
       "event_type": 42001,
-      "location": 42006,
-      "includes": "",
-      "start_date": "2019-09-09T13:00+0000",
-      "id": 42001,
-      "end_date": "2019-09-09T21:00+0000",
-      "link": "http://globalappsecdc2019.sched.com/event/1c93ba8b385019bd4e419d43661e3d15",
-      "updated_at": "2019-09-05T16:49+0000",
-      "conference": "APPSECDC2019",
-      "speakers": [
-        42001
-      ],
-      "description": "Honeypots can be implemented to discover new threat information or detect intruders on a network. However, while there are numerous free honeypots available, many of them can be complicated to deploy or require additional engineering around them to consume log data. Are you curious to learn more about honeypots? Are you interested in deploying your own honeypots on the Internet? HoneyDB is comprised of a honeypot agent and data collection backend, which makes getting started with honeypots simple. In the HoneyDB honeypot workshop, you will learn about honeypots, configure and deploy a honeydb-agent in the cloud, and use HoneyDB tools to query honeypot data. This workshop is for beginner levels and up. See the latest details about this workshop at https://riskdiscovery.com/honeydb/workshop",
-      "title": "HoneyDB Workshop"
-    },
-    {
-      "event_type": 42001,
       "location": 42003,
       "includes": "",
       "start_date": "2019-09-09T13:00+0000",
@@ -540,22 +524,6 @@
       "title": "Shift left, shift right, or run security right through the middle?"
     },
     {
-      "event_type": 42003,
-      "location": 42006,
-      "includes": "",
-      "start_date": "2019-09-12T15:30+0000",
-      "id": 42036,
-      "end_date": "2019-09-12T16:15+0000",
-      "link": "http://globalappsecdc2019.sched.com/event/c53b8aaf3b2faf07dbca2f4788832dd1",
-      "updated_at": "2019-08-20T20:47+0000",
-      "conference": "APPSECDC2019",
-      "speakers": [
-        42027
-      ],
-      "description": "In very mature Agile organizations, application security teams focus on adding automated validation and testing points into their DevOps pipelines aka DevSecOps (or SecDevOps) to enforce the release of secure code. While it can feel like a \"work in progress,\" it's still a huge improvement over the typical manual \u201cgates\u201d that block rapid deployment. However, this is only one part of the effort. In Agile Product Security, the goal is to \u201cshift left,\u201d which means moving validation to earlier parts of the development process. But how does a team accomplish this? By partnering with development teams and acting as a product manager for \"Security as a Feature,\" teams can embed themselves into the ALM. Treating security as a set of required user features is far more effective than the typical tactic of adding non-functional requirements into a product backlog. It empowers security teams by adding real value to the business portfolio, thereby transforming them from the organization naysayers into heroes.",
-      "title": "Security's Digital Transformation"
-    },
-    {
       "event_type": 42004,
       "location": 42007,
       "includes": "",
@@ -689,10 +657,11 @@
       "id": 42045,
       "end_date": "2019-09-12T20:15+0000",
       "link": "http://globalappsecdc2019.sched.com/event/07d7f1f16a8dd5cccb3e499fcfc8144e",
-      "updated_at": "2019-08-20T20:47+0000",
+      "updated_at": "2019-09-05T17:47+0000",
       "conference": "APPSECDC2019",
       "speakers": [
-        42034
+        42034,
+        43133
       ],
       "description": "",
       "title": "API Security Project"
@@ -1380,7 +1349,21 @@
       ],
       "description": "Trail of Bits participated in the first wide-scale assessment of Kubernetes for the CNCF. This talkrelays the unique challenges presented by both Kubernetes, the focus of theassessment, as well as some of the more interesting findings. We will present threeover-arching themes of the Kubernetes code base, and how these patterns influence the system as a whole.",
       "title": "Swimming with the kubectl fish: the why, the how, the what of the CNCF Kubernetes Assessment"
+    },
+    {
+      "event_type": 42011,
+      "location": 42015,
+      "includes": "",
+      "start_date": "2019-09-11T12:00+0000",
+      "id": 43108,
+      "end_date": "2019-09-11T21:00+0000",
+      "link": "",
+      "updated_at": "2019-09-05T17:37+0000",
+      "conference": "APPSECDC2019",
+      "speakers": [],
+      "description": "",
+      "title": "Registration"
     }
   ],
-  "updated_at": "2019-09-05T17:20+0000"
+  "updated_at": "2019-09-05T17:47+0000"
 }

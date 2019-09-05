@@ -1,16 +1,6 @@
 {
-  "updated_at": "2019-09-05T17:17+0000",
+  "updated_at": "2019-09-05T17:50+0000",
   "speakers": [
-    {
-      "link": "",
-      "twitter": "",
-      "updated_at": "2019-08-20T20:47+0000",
-      "conference": "APPSECDC2019",
-      "id": 42001,
-      "name": "Phillip Maddux",
-      "description": "Phillip Maddux is a Principal Application Security Researcher & Advisor at Signal Sciences and has over 10 years of experience in information security, with the majority of that time focused on application security in the financial services sector. In his spare moments he enjoys converting ideas to code and committing them to Github.",
-      "title": ""
-    },
     {
       "link": "",
       "twitter": "",
@@ -259,16 +249,6 @@
       "id": 42026,
       "name": "Meera Rao",
       "description": "Ms. Meera Rao works as a Senior Principal Consultant and the Director of DevSecOps Practice at Synopsys, Inc who has over 20 years of experience in software development organizations in a variety of roles including Architect, Lead Developer, and Project Manager, and Security Architect. Meera has overseen and performed secure code reviews, static analysis implementations, architectural risk analysis, secure design reviews and threat modeling of systems built from a few thousand lines of code to systems containing tens of millions of lines of code (Java, JEE, .Net, Rails, Grails, and C/C++). Ms. Meera has been working as a trusted adviser to Fortune 500 companies helping them achieve realistic goals for Practical CI/CD & DevSecOps. She advises organizations in defining, implementing, maturing, scaling and measuring DevSecOps. Meera was awarded the SecDevOps Trailblazer award from SecuritySerious in London.Ms. Meera is very passionate about getting more women working in the technology industry. Ms. Meera participates, presents and speaks at several conferences, spreading her knowledge of security, DevSecOps and the importance of women in the technology workforce.",
-      "title": ""
-    },
-    {
-      "link": "",
-      "twitter": "",
-      "updated_at": "2019-08-20T20:47+0000",
-      "conference": "APPSECDC2019",
-      "id": 42027,
-      "name": "Michele Chubirka",
-      "description": "The ubiquitous Mrs. Y. is a recovering Unix engineer currently working as a security architect for a large financial institution. She specializes in digital transformations and cloud-native security. Creator of the Healthy Paranoia Podcast, also a freelance writer for various B2B publications and a professional nerd stalker. She likes long walks in hubsites, deconstructing pipelines and spending time in the Bat Cave. Sincerely believes that every problem can be solved with a \"for\"\u009d loop. When not blogging or podcasting, can be found using up her 15 minutes in the Twittersphere as @MrsYisWhy.",
       "title": ""
     },
     {
@@ -594,11 +574,11 @@
     {
       "link": "",
       "twitter": "",
-      "updated_at": "2019-08-20T20:47+0000",
+      "updated_at": "2019-09-05T17:50+0000",
       "conference": "APPSECDC2019",
       "id": 42060,
-      "name": "Pete Thurston",
-      "description": "Pete has spent over 15 years at the intersection of Business and Technology. He has worn many hats (often at the same time) throughout his career including Data Analyst, Product Owner, Business Analyst, Software Engineer, Team Leader, QA Engineer and probably several others he's forgotten. Out of all of this, he's discovered his passion is really in identifying simple and effective applications of technology to the problems all businesses face. This has driven his leadership of the technology team as Chief Product & Services Officer at RevCult since day one and has proven to be enjoyable, sustainable and productive for the company. Pete has had the privilege of being part of Dreamforce Session Intuit Implements Shield Platform Encryption in Record Time, Midwest Dreaming '18 Session \"Salesforce Shield -Quick Wins to Ensure Long Term Security\", Salesforce Guest Blogs, a guest on Salesforce Webinars and leads RevCult's Salesforce Security and Governance Webinar Series.",
+      "name": "Patrick Fields",
+      "description": "Patrick Fields is Account Executive \u2013 East with RevCult, tasked with leading the firm\u2019s sales efforts with clients based in the Eastern United States. Mr. Fields is an experienced information security sales executive with a background in Governance, Risk and Compliance (GRC), Incident Detection and Response, and Identity and Access Management (IAM) technologies. Patrick believes a sale is only successful once the client is able to demonstrate a reduction in risk delivered by implementation of the solution which has been acquired.",
       "title": ""
     },
     {
@@ -679,6 +659,16 @@
       "id": 43132,
       "name": "Stefan Edwards",
       "description": "Stefan was a coal miner until ~1856, when a tragic accident involving a tunafish sandwich ruined his ability to sing to the deep veins of the earth. So instead, he fell back on his avocation, which was \"with those computer thingies.\" At Uni, he had studied continental philosophy and computer science, but dropped out to pursue an exciting career in \"working too much.\" Currently, he is a principal security consultant at Trail of Bits, where he works in the Assurance department; when not working, he's growing something, reading something, or doing something with his family.",
+      "title": ""
+    },
+    {
+      "link": "",
+      "twitter": "",
+      "updated_at": "2019-09-05T17:47+0000",
+      "conference": "APPSECDC2019",
+      "id": 43133,
+      "name": "Inon Shkedy",
+      "description": "The speaker has 7 years of experience in application security. He started his career in a red team in a government organization for 5 years, and then moved to the Silicon Valley to learn more about startups, modern applications and APIs. Today he provides consultation to various companies, and leads the research for a startup in the field of API security.",
       "title": ""
     }
   ]
