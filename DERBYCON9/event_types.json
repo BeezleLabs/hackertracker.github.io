@@ -4,15 +4,15 @@
     {
       "conference": "DERBYCON9",
       "id": 42009,
-      "color": "#fc853f",
       "name": "Standard Talk",
+      "color": "#fc853f",
       "updated_at": "2019-08-30T23:31+0000"
     },
     {
       "conference": "DERBYCON9",
       "id": 42010,
-      "color": "#6497DC",
       "name": "Stable Talk",
+      "color": "#6497DC",
       "updated_at": "2019-08-30T23:31+0000"
     }
   ]
