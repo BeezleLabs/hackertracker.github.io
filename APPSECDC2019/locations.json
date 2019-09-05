@@ -1,75 +1,96 @@
 {
+  "updated_at": "2019-09-05T16:02+0000",
   "locations": [
     {
-      "hotel": "Lobby",
       "conference": "APPSECDC2019",
-      "updated_at": "2019-08-22T17:55+0000",
       "id": 42001,
-      "name": "Lobby Level Salon 2 & 3 Keynote Area"
+      "name": "Lobby Level Salon 2 & 3 Keynote Area",
+      "updated_at": "2019-08-22T17:55+0000",
+      "hotel": "Lobby"
     },
     {
-      "hotel": "Lower",
       "conference": "APPSECDC2019",
-      "updated_at": "2019-08-22T17:55+0000",
       "id": 42002,
-      "name": "Exhibit Hall C Create"
-    },
-    {
-      "hotel": "Lower",
-      "conference": "APPSECDC2019",
+      "name": "Exhibit Hall C Create",
       "updated_at": "2019-08-22T17:55+0000",
+      "hotel": "Lower"
+    },
+    {
+      "conference": "APPSECDC2019",
       "id": 42003,
-      "name": "Exhibit Hall C Governance"
+      "name": "Exhibit Hall C Governance",
+      "updated_at": "2019-08-22T17:55+0000",
+      "hotel": "Lower"
     },
     {
-      "hotel": "Lower",
       "conference": "APPSECDC2019",
-      "updated_at": "2019-08-22T17:56+0000",
       "id": 42004,
-      "name": "Exhibit Hall C Industry"
+      "name": "Exhibit Hall C Industry",
+      "updated_at": "2019-08-22T17:56+0000",
+      "hotel": "Lower"
     },
     {
-      "hotel": "Lower",
       "conference": "APPSECDC2019",
-      "updated_at": "2019-08-22T17:56+0000",
       "id": 42005,
-      "name": "Exhibit Hall C Innovations"
+      "name": "Exhibit Hall C Innovations",
+      "updated_at": "2019-08-22T17:56+0000",
+      "hotel": "Lower"
     },
     {
-      "hotel": "Lower",
       "conference": "APPSECDC2019",
-      "updated_at": "2019-08-22T17:56+0000",
       "id": 42006,
-      "name": "Exhibit Hall C Solutions"
+      "name": "Exhibit Hall C Solutions",
+      "updated_at": "2019-08-22T17:56+0000",
+      "hotel": "Lower"
     },
     {
-      "hotel": "Lower",
       "conference": "APPSECDC2019",
-      "updated_at": "2019-08-22T17:56+0000",
       "id": 42007,
-      "name": "Exhibit Hall C Break Area"
+      "name": "Exhibit Hall C Break Area",
+      "updated_at": "2019-08-22T17:56+0000",
+      "hotel": "Lower"
     },
     {
-      "hotel": "Lobby",
       "conference": "APPSECDC2019",
-      "updated_at": "2019-08-22T17:56+0000",
       "id": 42008,
-      "name": "Lobby Level Virginia Suite A/B Contest Area"
-    },
-    {
-      "hotel": "Lower",
-      "conference": "APPSECDC2019",
+      "name": "Lobby Level Virginia Suite A/B Contest Area",
       "updated_at": "2019-08-22T17:56+0000",
-      "id": 42009,
-      "name": "Exhibit Hall C Members Lounge"
+      "hotel": "Lobby"
     },
     {
-      "hotel": "",
       "conference": "APPSECDC2019",
-      "updated_at": "2019-08-16T00:43+0000",
+      "id": 42009,
+      "name": "Exhibit Hall C Members Lounge",
+      "updated_at": "2019-08-22T17:56+0000",
+      "hotel": "Lower"
+    },
+    {
+      "conference": "APPSECDC2019",
       "id": 42010,
-      "name": "Location To be Determined"
+      "name": "Location To be Determined",
+      "updated_at": "2019-08-16T00:43+0000",
+      "hotel": ""
+    },
+    {
+      "conference": "APPSECDC2019",
+      "id": 42015,
+      "name": "Atrium",
+      "updated_at": "2019-09-05T16:01+0000",
+      "hotel": "Lower"
+    },
+    {
+      "conference": "APPSECDC2019",
+      "id": 42016,
+      "name": "Exhibit Hall C",
+      "updated_at": "2019-09-05T16:02+0000",
+      "hotel": "Lower"
+    },
+    {
+      "conference": "APPSECDC2019",
+      "id": 42017,
+      "name": "Stone's Throw Restaurant Lobby Level",
+      "updated_at": "2019-09-05T16:02+0000",
+      "hotel": "Lobby"
     }
-  ],
-  "updated_at": "2019-08-22T17:56+0000"
+  ]
 }

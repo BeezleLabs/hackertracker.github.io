@@ -1,61 +1,75 @@
 {
+  "updated_at": "2019-09-05T16:05+0000",
   "event_types": [
     {
-      "color": "#fc853f",
-      "updated_at": "2019-08-16T00:43+0000",
+      "conference": "APPSECDC2019",
       "id": 42001,
       "name": "Training",
-      "conference": "APPSECDC2019"
+      "color": "#fc853f",
+      "updated_at": "2019-08-16T00:43+0000"
     },
     {
-      "color": "#AD1457",
-      "updated_at": "2019-08-16T00:43+0000",
+      "conference": "APPSECDC2019",
       "id": 42002,
       "name": "Keynote",
-      "conference": "APPSECDC2019"
+      "color": "#AD1457",
+      "updated_at": "2019-08-16T00:43+0000"
     },
     {
-      "color": "#42d2bc",
-      "updated_at": "2019-08-16T00:43+0000",
+      "conference": "APPSECDC2019",
       "id": 42003,
       "name": "Talk",
-      "conference": "APPSECDC2019"
+      "color": "#42d2bc",
+      "updated_at": "2019-08-16T00:43+0000"
     },
     {
-      "color": "#5c74ff",
-      "updated_at": "2019-08-16T00:43+0000",
+      "conference": "APPSECDC2019",
       "id": 42004,
       "name": "Break",
-      "conference": "APPSECDC2019"
+      "color": "#5c74ff",
+      "updated_at": "2019-08-16T00:43+0000"
     },
     {
-      "color": "#9a3290",
-      "updated_at": "2019-08-16T00:43+0000",
+      "conference": "APPSECDC2019",
       "id": 42005,
       "name": "Other",
-      "conference": "APPSECDC2019"
+      "color": "#9a3290",
+      "updated_at": "2019-08-16T00:43+0000"
     },
     {
-      "color": "#4141d2",
-      "updated_at": "2019-08-16T00:43+0000",
+      "conference": "APPSECDC2019",
       "id": 42006,
       "name": "Contest",
-      "conference": "APPSECDC2019"
+      "color": "#4141d2",
+      "updated_at": "2019-08-16T00:43+0000"
     },
     {
-      "color": "#653fff",
-      "updated_at": "2019-08-16T00:43+0000",
+      "conference": "APPSECDC2019",
       "id": 42007,
       "name": "Project Showcase",
-      "conference": "APPSECDC2019"
+      "color": "#653fff",
+      "updated_at": "2019-08-16T00:43+0000"
     },
     {
-      "color": "#76d6ff",
-      "updated_at": "2019-08-16T00:43+0000",
+      "conference": "APPSECDC2019",
       "id": 42008,
       "name": "Lounge",
-      "conference": "APPSECDC2019"
+      "color": "#76d6ff",
+      "updated_at": "2019-08-16T00:43+0000"
+    },
+    {
+      "conference": "APPSECDC2019",
+      "id": 42011,
+      "name": "Registration",
+      "color": "#76d6ff",
+      "updated_at": "2019-09-05T16:05+0000"
+    },
+    {
+      "conference": "APPSECDC2019",
+      "id": 42012,
+      "name": "Party",
+      "color": "#76d6ff",
+      "updated_at": "2019-09-05T16:05+0000"
     }
-  ],
-  "updated_at": "2019-08-16T00:43+0000"
+  ]
 }
