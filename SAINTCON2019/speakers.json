@@ -1,0 +1,815 @@
+{
+  "speakers": [
+    {
+      "name": "Alan Gibbons",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44001,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Cory Stokes",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44002,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Seth Johnson",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44003,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Spencer Heywood",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44004,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Troy Jessup",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44005,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Mark Miline",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44006,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Michael Fischer",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44007,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Rachel Tobac",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44008,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Victor Steven Morales",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44009,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Bryce Kunz",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44010,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Carol Lear",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44011,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Heidi Alder",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44012,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Jeremy Pierson",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44013,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Erich Ficker",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44014,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Clint Russell",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44015,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Robert Kerby",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44016,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Jon Stutz",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44017,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Mark Petersen",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44018,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Sam Bowne",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44019,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Scot McCombs",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44020,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Karl Sickendick",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44021,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Corey Batiuk",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44022,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Matt Lorimer",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44023,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Sean Jackson",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44024,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Daniel Zappala",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44025,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Dallin Warne",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44026,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Senator Todd Weiler",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44027,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Chase Palmer",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44028,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Shaun Stapley",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44029,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Jim Shakespear",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44030,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Ethan Heintzelman",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44031,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Kyle Feuz",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44032,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Corey Roach",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44033,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Jeff Egly",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44034,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "MicK Gomm",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44035,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Chris Mather",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44036,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Jason Eyre",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44037,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Kenton McDaniel",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44038,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "David Sallay",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44039,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Andrew Brandt",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44040,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Josh Galvez",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44041,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Keenan Fessler",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44042,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Mike Weaver",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44043,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Mike Spicer",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44044,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Jerry Smith",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44045,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Jeremy Cox",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44046,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Kevin Crook",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44047,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Ryan Otteson",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44048,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Jason Gale",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44049,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Hanna Bennett",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44050,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Kevin Lustic",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44051,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "David Packham",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44052,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Aelon Porat",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44053,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Jake Bernardes",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44054,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Michael Whiteley",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44055,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Ryan Burnett",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44056,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Kaydan/Pips",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44057,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Nate Henne",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44058,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Andrew Goble",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44059,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Gavin Anderson",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44060,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Kevin Womack",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44061,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Jonathan Smith",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44062,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Adam Fishre",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44063,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Steve Ball",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44064,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Clint Sorensen",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44065,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "George Bekmezian",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44066,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Bryan Peterson",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44067,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Rick Gaisford",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44068,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "David Long",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44069,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Waylon Grange",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44070,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Seth Law",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T22:25+0000",
+      "twitter": "@sethlaw",
+      "title": "",
+      "id": 44071,
+      "description": "Seth Law is the President and Principal Security Consultant of Redpoint Security (rdpt.io). During the last 15 years as a security professional, Seth has worked within multiple disciplines, from software development to network protection, as a manager and individual contributor. Seth has honed his application security skills using offensive and defensive techniques, including tool development. His understanding of the software development lifecycle and ability to equate security issues with development tasks has allowed him to speak at conferences ranging from Blackhat and DEF CON to local security meetups. In his spare time, Seth revels in deep-level analysis of programming languages and inherent flaws, helps develop the iOS version of Hacker Tracker, and co-hosts the Absolute AppSec podcast with Ken Johnson. ",
+      "link": "https://rdpt.io"
+    },
+    {
+      "name": "Sean McHenry",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44072,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Stefanie Tidwell",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44073,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Kimber Duke",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44074,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Pete Kruckenberg",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44075,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Daniel Dayley",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44076,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "James Pope",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44077,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "John Pope",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44078,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Shaun Price",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44079,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Chris Larsen",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "twitter": "",
+      "title": "",
+      "id": 44080,
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Justin Larson",
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T22:25+0000",
+      "twitter": "@Phant0mTrav3ler",
+      "title": "",
+      "id": 44081,
+      "description": "Justin Larson has several years of experience testing applications for security vulnerabilities. He has tested Java thick client apps from last century to mobile apps and everything in between. Justin is currently an Application Security Consultant at Redpoint Security where he gets to split his time on vulnerability assessments and developing internal tools and customer products.",
+      "link": ""
+    }
+  ],
+  "updated_at": "2019-10-21T22:25+0000"
+}

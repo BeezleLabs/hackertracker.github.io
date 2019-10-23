@@ -1,0 +1,40 @@
+{
+  "event_types": [
+    {
+      "name": "Training",
+      "id": 44001,
+      "color": "#112F41",
+      "updated_at": "2019-10-21T21:00+0000",
+      "conference": "SAINTCON2019"
+    },
+    {
+      "name": "Leadership",
+      "id": 44002,
+      "color": "#79BD8F",
+      "updated_at": "2019-10-21T21:00+0000",
+      "conference": "SAINTCON2019"
+    },
+    {
+      "name": "Presentation",
+      "id": 44003,
+      "color": "#00A388",
+      "updated_at": "2019-10-21T21:00+0000",
+      "conference": "SAINTCON2019"
+    },
+    {
+      "name": "Event",
+      "id": 44004,
+      "color": "#FFFF9D",
+      "updated_at": "2019-10-21T21:00+0000",
+      "conference": "SAINTCON2019"
+    },
+    {
+      "name": "Keynote",
+      "id": 44005,
+      "color": "#BEEB9F",
+      "updated_at": "2019-10-21T21:00+0000",
+      "conference": "SAINTCON2019"
+    }
+  ],
+  "updated_at": "2019-10-21T21:00+0000"
+}

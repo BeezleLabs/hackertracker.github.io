@@ -1,0 +1,68 @@
+{
+  "locations": [
+    {
+      "name": "Leadership Track",
+      "id": 44001,
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "hotel": ""
+    },
+    {
+      "name": "Track ONE",
+      "id": 44002,
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "hotel": ""
+    },
+    {
+      "name": "Track THREE",
+      "id": 44003,
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "hotel": ""
+    },
+    {
+      "name": "Leadership Lounge",
+      "id": 44004,
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "hotel": ""
+    },
+    {
+      "name": "Train ONE",
+      "id": 44005,
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "hotel": ""
+    },
+    {
+      "name": "Track TWO",
+      "id": 44006,
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "hotel": ""
+    },
+    {
+      "name": "Train THREE",
+      "id": 44007,
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "hotel": ""
+    },
+    {
+      "name": "Train TWO",
+      "id": 44008,
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "hotel": ""
+    },
+    {
+      "name": "Events",
+      "id": 44009,
+      "conference": "SAINTCON2019",
+      "updated_at": "2019-10-21T21:00+0000",
+      "hotel": ""
+    }
+  ],
+  "updated_at": "2019-10-21T21:00+0000"
+}

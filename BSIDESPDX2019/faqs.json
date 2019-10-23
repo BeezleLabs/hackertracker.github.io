@@ -1,0 +1,19 @@
+{
+  "faqs": [
+    {
+      "id": 50,
+      "question": "What is the Code of Conduct?",
+      "conference": "BSIDESPDX2019",
+      "answer": "\r\n\r\nWe use the same Code of Conduct used by BSides Las Vegas and many other BSides Conferences. It certainly is not perfect, but neither is any Code of Conduct, and this one has worked for us for several years.\r\n\r\nWe have NO TOLERANCE for physical/verbal/sexual harassment of any human!\r\n\r\nOur \u201cCode of Conduct\u201d is \u201cBe Excellent to Each Other\u201d AKA the Golden Rule. Failing that, it is \u201cDo not be an Ass* or we will kick your ass out!\u201d.\r\n\r\nAsking questions of a speaker during their talk, to get clarity or debate a point is NOT being an ass \u2013 heckling or haranguing the speaker IS. If you are not sure, ask, or err on the side of basic decency and common courtesy. If what they are doing would not be acceptable to have done to you, your best friend, your worst enemy, your sister, niece, daughter, brother, nephew, son, mother, father, or any human being, do not let them treat anyone else that way \u2013 whether you know them or not. If someone asks you to stop \u2013 stop.\r\n\r\nIf you are having an issue with a BSidesPDX participant of ANY badge type, find a BsidesPDX Volunteeer. They will help you locate a Coordinator or Board member, who will assist you in determining the next steps for you to feel safe and heard.\r\n",
+      "updated_at": "2019-10-22T15:55+0000"
+    },
+    {
+      "id": 51,
+      "question": "How do I register for workshops?",
+      "conference": "BSIDESPDX2019",
+      "answer": "Registration for workships is open at https://bsides-pdx.square.site/product/BsidesPDX2019/11.\r\n\r\nSince capacity is limited, we do attach a nominal $10 fee to advance registration to prevent speculative registrations and limit no-shows. We will not keep a waitlist, but empty seats will be made available first-come-first-served at the start of the workshop.\r\n\r\nIf for any reason, this fee is a barrier to your attending, use the coupon code \u2018IPROMISETOATTEND\u2019 to register for free.",
+      "updated_at": "2019-10-22T16:56+0000"
+    }
+  ],
+  "updated_at": "2019-10-22T16:56+0000"
+}

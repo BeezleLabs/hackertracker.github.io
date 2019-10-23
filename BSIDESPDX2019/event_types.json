@@ -1,0 +1,26 @@
+{
+  "event_types": [
+    {
+      "name": "Talk",
+      "id": 44008,
+      "color": "#42d2bc",
+      "updated_at": "2019-10-22T15:53+0000",
+      "conference": "BSIDESPDX2019"
+    },
+    {
+      "name": "Workshop",
+      "id": 44009,
+      "color": "#6497DC",
+      "updated_at": "2019-10-22T15:53+0000",
+      "conference": "BSIDESPDX2019"
+    },
+    {
+      "name": "Misc",
+      "id": 44010,
+      "color": "#D86A68",
+      "updated_at": "2019-10-22T15:54+0000",
+      "conference": "BSIDESPDX2019"
+    }
+  ],
+  "updated_at": "2019-10-22T15:54+0000"
+}

@@ -1,0 +1,605 @@
+{
+  "speakers": [
+    {
+      "link": "",
+      "updated_at": "2019-10-20T23:31+0000",
+      "conference": "BSIDESDC2019",
+      "description": "",
+      "twitter": "",
+      "id": 43134,
+      "title": "",
+      "name": "(None Specified)"
+    },
+    {
+      "link": "",
+      "updated_at": "2019-10-21T00:42+0000",
+      "conference": "BSIDESDC2019",
+      "description": "Marc has nearly fifteen years of identity, credential, and access management experience coming from backgrounds of software engineering, product development, and consulting. He is experienced in designing, building and deploying solutions, as well as working directly with the security teams analyzing compliance requirements and their impacts for remediation. Marc has lead the architect teams for multiple civilian agencies FICAM programs. He has spoken at KubeCon 2017, Google\u2019s DevFest 2016, ISSA, and given multiple briefings on identity management for OpenShift Commons. He has also presented on OpenShift identity management at Red Hat Summit in 2017.",
+      "twitter": "",
+      "id": 43135,
+      "title": "CTO at Tremolo Security, Inc.",
+      "name": "Marc Boorshtein"
+    },
+    {
+      "link": "",
+      "updated_at": "2019-10-21T00:43+0000",
+      "conference": "BSIDESDC2019",
+      "description": "Dina Haines and Marcelle Lee are security practitioners as well as educators. Both have experience in government and private sector and have taught digital forensics for several years in a variety of arenas. Collectively they have multiple degrees and around twenty industry certs and both are passionate advocates of diversity in cybersecurity. They enjoy building out engaging course materials over a glass of chardonnay.",
+      "twitter": "",
+      "id": 43136,
+      "title": "",
+      "name": "Marcelle Lee"
+    },
+    {
+      "link": "",
+      "updated_at": "2019-10-21T00:43+0000",
+      "conference": "BSIDESDC2019",
+      "description": "Dina Haines and Marcelle Lee are security practitioners as well as educators. Both have experience in government and private sector and have taught digital forensics for several years in a variety of arenas. Collectively they have multiple degrees and around twenty industry certs and both are passionate advocates of diversity in cybersecurity. They enjoy building out engaging course materials over a glass of chardonnay.",
+      "twitter": "",
+      "id": 43137,
+      "title": "",
+      "name": "Dina Haines"
+    },
+    {
+      "link": "",
+      "updated_at": "2019-10-21T00:44+0000",
+      "conference": "BSIDESDC2019",
+      "description": "Ben (@CyberPraesidium) brings over 12 years of diverse experience in cyber security, IT, and law. He leads Polito's commercial services including vulnerability assessments, penetration testing, incident response, forensics, and threat hunting. Prior to joining Polito, Ben worked on APT hunt teams at federal and commercial clients. He holds CISSP, GCFA, GWAPT, and Splunk certifications.",
+      "twitter": "@CyberPraesidium",
+      "id": 43138,
+      "title": "Sr. Security Engineer at Polito Inc.",
+      "name": "Ben Hughes"
+    },
+    {
+      "link": "",
+      "updated_at": "2019-10-21T00:44+0000",
+      "conference": "BSIDESDC2019",
+      "description": "With over 15 years of experience in cybersecurity, Fred (@politoinc) was a founding member of an elite group of computer forensics and intrusion analysts for a major defense contractor. He has performed numerous web application assessments and penetration tests for financial services, federal government, and retail clients. He has managed SOCs, responded to incidents, and analyzed malware.",
+      "twitter": "@politoinc",
+      "id": 43140,
+      "title": "Hacker in Chief at Polito Inc.",
+      "name": "Fred Mastrippolito"
+    },
+    {
+      "link": "",
+      "updated_at": "2019-10-21T00:45+0000",
+      "conference": "BSIDESDC2019",
+      "description": "Jeff has over 10 years of federal and commercial expertise in the field of Endpoint and Mobile based Intrusion Detection and Protection, Network Security, e-Discovery, Mobile Application Security, and Penetration Testing. Jeffrey holds a Masters of Science in Digital Forensics from George Mason Univ. along with a Bachelors in Business IT from St Johns Univ. Jeffrey also has earned certifications such as GIAC Certified Forensic Analyst, Encase Examiner and Encase E-Discovery, Xways, and Cellebrite certifications.",
+      "twitter": "",
+      "id": 43141,
+      "title": "Sr. Cyber Consultant at Polito Inc.",
+      "name": "Jeff Magloire"
+    },
+    {
+      "link": "",
+      "updated_at": "2019-10-21T00:45+0000",
+      "conference": "BSIDESDC2019",
+      "description": "evm has been staring at code for over a decade. A recovering Windows internals guy, he now spends most of his time in embedded systems. At APL he helped start an RE working group, and a hacker magazine. His goal is to teach others about reverse engineering and make it more accessible to everyone.",
+      "twitter": "",
+      "id": 43142,
+      "title": "Software Reverse Engineer at JHU/APL",
+      "name": "evm"
+    },
+    {
+      "link": "",
+      "updated_at": "2019-10-21T00:46+0000",
+      "conference": "BSIDESDC2019",
+      "description": "Mark B. Cooper, president and founder of PKI Solutions, has deep knowledge and experience in all things Public Key Infrastructure (PKI), known as \u201cThe PKI Guy\u201d since his early days at Microsoft. PKI Solutions Inc. provides consulting, training and software solutions for Microsoft PKI and related technologies for enterprises around the world. Its expertise and proprietary software solutions ensure the right PKI for all enterprise security and management needs, including securing IoT and mobile devices. Prior to founding PKI Solutions, Cooper was a senior engineer at Microsoft, where he was a PKI and identity management subject matter expert who designed, implemented, and supported Active Directory Certificate Services (ADCS) environments for Microsoft\u2019s largest customers.",
+      "twitter": "",
+      "id": 43143,
+      "title": "President and Founder at PKI Solutions",
+      "name": "Mark Cooper"
+    },
+    {
+      "link": "",
+      "updated_at": "2019-10-21T00:46+0000",
+      "conference": "BSIDESDC2019",
+      "description": "Nicole Schwartz (@CircuitSwan) is a Product Manager for the GitLab Secure team. In her career, she has been in Product, System Administration, and Agile coaching. Before her career ever started she was a Hacker, and forever will be. When she isn't working she attends conventions (you may have known her as @AmazonV) and volunteers at SkyTalks and Diana Initiative.",
+      "twitter": "@CircuitSwan",
+      "id": 43144,
+      "title": "Product Manager, Secure at GitLab",
+      "name": "Nicole Schwartz"
+    },
+    {
+      "link": "",
+      "updated_at": "2019-10-21T00:47+0000",
+      "conference": "BSIDESDC2019",
+      "description": "Mark started his security career in 2001 as a Security Analyst, and since then has been both fighting for blue team resources and trying to automate them out of a job. He has built, assessed, and managed security teams at the Pentagon, the White House, the Department of Energy, global Managed Security Service Providers, and numerous financial sector and Fortune 500 clients. Short on patience and attention, Mark is constantly working on new projects to improve defensive security through automation and other short cut-y things so defenders can be more agile and creative. In 2012, Mark designed and launched a Managed Detection and Response (MDR) service offering and helped to invent an automated cyber threat hunting technology, both of which were later acquired. He enjoys teaching and learning from others but spends far more time doing the latter.",
+      "twitter": "",
+      "id": 43145,
+      "title": "Founder at Bionic",
+      "name": "Mark Orlando"
+    },
+    {
+      "link": "",
+      "updated_at": "2019-10-21T00:48+0000",
+      "conference": "BSIDESDC2019",
+      "description": "Brandon Denker is a Cyber Threat Intelligence Analyst at NBCUniversal. He is responsible for identifying and testing of tools and data sources for the ingestion, processing, analyzing and dissemination of Threat Intelligence data to NBCUniversal. In his 12 year career he has worked with several government agencies and divisions, such as Department of Defense and Department of Energy to provide Intelligence and analysis services. Prior to NBCUniversal he helped manage a specialized Threat Hunting service for Raytheon Cyber, specializing in architecture and development of Security Orchestration Automated Response solutions.",
+      "twitter": "",
+      "id": 43146,
+      "title": "Cyber Threat Intelligence Analyst at NBC Universal",
+      "name": "Brandon Denker"
+    },
+    {
+      "link": "",
+      "updated_at": "2019-10-21T00:48+0000",
+      "conference": "BSIDESDC2019",
+      "description": "Data-driven security has been Ryan\u2019s passion for 20 years. From IDS analysis using Network Flight Recorder (NFR) and being one of the first handful of certified SANS professionals in 2000 to construction of an enterprise-wide email analysis platform for the Transportation Security Administration and overseeing development of a patented threat intelligence hunting platform for an early Managed Detection and Response (MDR) provider, Ryan continually mines security insights using readily available data. Ryan enjoys building and leading teams to explore both new frontiers and to look for missed opportunities in well-traveled spaces. Ryan is currently co-founder of Bionic, a startup that brings advanced security operations to the 99%.",
+      "twitter": "",
+      "id": 43147,
+      "title": "Founder at Bionic",
+      "name": "Ryan Shaw"
+    },
+    {
+      "link": "",
+      "updated_at": "2019-10-21T00:48+0000",
+      "conference": "BSIDESDC2019",
+      "description": "Chris Cox is the founder and past president of the OPSEC Professional's Association (OSPA) and currently serves as the executive director of its anti-domestic violence initiative, Operation: Safe Escape. In the past, he's served as the Chief Information Officer and Information Assurance Manager for the Army's National Training Center, cybersecurity instructor for the Department of Defense, security operations center team lead, and other roles.",
+      "twitter": "",
+      "id": 43148,
+      "title": "Executive Director at Operation: Safe Escape",
+      "name": "Chris Cox"
+    },
+    {
+      "link": "",
+      "updated_at": "2019-10-21T00:49+0000",
+      "conference": "BSIDESDC2019",
+      "description": "Ronnie Obenhaus is a cybersecurity professional with over 20 years of experience in varying fields. He served with the United States Army and solidified his background in Network Defense and brings that background knowledge to the forefront of his job with the Defense Cyber Crime Center (DC3) as the Deputy Chief of Analytics. He loves movies and comic books. Do not ask him about the latter unless you are prepared for a lengthy conversation about the state of the industry today.",
+      "twitter": "",
+      "id": 43149,
+      "title": "Deputy Chief of Analytics at DoD Cyber Crime Center (DC3)",
+      "name": "Ronnie Obenhaus"
+    },
+    {
+      "link": "",
+      "updated_at": "2019-10-21T00:49+0000",
+      "conference": "BSIDESDC2019",
+      "description": "Mr. Stoner has over 18 years of experience in the national security sector working a variety of roles, including most recently as a Cyber Threat Analyst, Cyber Counterintelligence Analyst and Instructor. His work experience includes IT, instruction and course design, cyber exercise and testing, intelligence collection, threat support, SIGINT (Signals Intelligence), and Cyber Operations. He holds A+, Net+, CEH, CHFI, CEI, CISD, CASP and CISSP certifications. He loves soccer and is an avid coach and fan. He is currently the Chief of Analytics, in DCISE at DC3.",
+      "twitter": "",
+      "id": 43150,
+      "title": "Chief of Analytics at DoD Cyber Crime Center (DC3)",
+      "name": "John Stoner"
+    },
+    {
+      "link": "",
+      "updated_at": "2019-10-21T00:49+0000",
+      "conference": "BSIDESDC2019",
+      "description": "I work at the JHU Applied Physics Laboratory as a software engineer with a focus in open development and enterprise use of security tools. In the context of cyber security, my work focuses on furthering adoption of SOAR platforms where they can benefit companies, and the formalization of standards regarding threat intelligence data and sharing. On the flip side, I also work on development and usage of static analysis tools to scan current and legacy code, with the goal of making software safer to use for all parties involved.",
+      "twitter": "",
+      "id": 43151,
+      "title": "Software Engineer at JHU Applied Physics Laboratory",
+      "name": "Amar Paul"
+    },
+    {
+      "link": "",
+      "updated_at": "2019-10-21T00:49+0000",
+      "conference": "BSIDESDC2019",
+      "description": "Dr. Desiree Beck joined the MITRE Corporation in 2001 and is a principal cybersecurity engineer in the Cyber Operations and Effects Technical Center. Her work focuses on the research and development of malware analysis tools and techniques.",
+      "twitter": "",
+      "id": 43152,
+      "title": "Principal Cybersecurity Engineer at MITRE",
+      "name": "Desiree Beck"
+    },
+    {
+      "link": "",
+      "updated_at": "2019-10-21T00:49+0000",
+      "conference": "BSIDESDC2019",
+      "description": "Haley Bui-Nguyen joined the MITRE Corporation in 2016. As a malware analyst and researcher, she is passionate about improving the quality and speed of malware analysis; her current research is on evaluating techniques for identifying similar malware samples. Haley got her B.S. in Electrical Engineering and Computer Science from University of California, Berkeley, and her M.S. in Information Security from Carnegie Mellon University.",
+      "twitter": "",
+      "id": 43153,
+      "title": "Senior Cyber Security Engineer at MITRE",
+      "name": "Haley Bui-Nguyen"
+    },
+    {
+      "link": "",
+      "updated_at": "2019-10-21T00:50+0000",
+      "conference": "BSIDESDC2019",
+      "description": "Following 5 strokes and major injuries, Mandy is no longer in construction engineering. She used her life hacking prowess (ex: skipped 5 years of K-12 school, worked on a ranch, then graduated traditional HS in 2.5 yrs with 4.2 GPA) to re-establish neuro control using her tongue against her teeth and her electrical system. Now, as a happy dyslexic autistic person she pursues Biohacking, Neurological Integration, AGI, and Community, pressing forth to improve the lives of those she meets. She enjoys art, travel, naps, laughing, and hopes to be half the person her service dog, Trevor, is.",
+      "twitter": "",
+      "id": 43154,
+      "title": "",
+      "name": "Mandy Logan"
+    },
+    {
+      "link": "",
+      "updated_at": "2019-10-21T00:50+0000",
+      "conference": "BSIDESDC2019",
+      "description": "Tony is pentester for a government contractor and is the community manager for Offensive Security. On his spare time he coaches one of the top Community College Cyber team in the state of Maryland. He earned a BS in Cybersecurity from University of Maryland University College (UMUC) where he is a board member for the award winning UMUC Cyber Padawans. Over the years he has participated in over 230 Cyber Security competitions across the globe and is a 2-time SANS Netwars Champion. Tony is also one of the Founding members and Lead moderators of NetSec Focus an online Information Security community.",
+      "twitter": "",
+      "id": 43155,
+      "title": "Community Manager at Offensive Security",
+      "name": "Tony Punturiero"
+    },
+    {
+      "link": "",
+      "updated_at": "2019-10-21T00:50+0000",
+      "conference": "BSIDESDC2019",
+      "description": "My name is Shreyans Devendra Doshi. I am a Cybersecurity Graduate Student at the University of Maryland, College Park. I have previously worked as a Malware Research Intern at Cybrary Inc., where I created PErfidious and researched on other techniques that can be used to bypass modern endpoint detection systems. I have also worked as a teaching assistant for a graduate course on Big Data Analytics and as a research intern with the Department of Science and Technology, Government of India. My main areas of interests are reverse-engineering, malware analysis, exploit development and intersection between software security and machine learning. I am also an avid anime and movie fan.",
+      "twitter": "",
+      "id": 43156,
+      "title": "Malware Research Intern at Cybrary Inc.",
+      "name": "Shreyans Doshi"
+    },
+    {
+      "link": "",
+      "updated_at": "2019-10-21T00:51+0000",
+      "conference": "BSIDESDC2019",
+      "description": "8 year Navy veteran, defense contracting, then startup fun the past few years! CISSP-ISSEP, but that doesn't really matter to the folks this talk is targeting! I live in the DC Metro Area, and currently work to help healthcare organizations secure their networks.",
+      "twitter": "",
+      "id": 43157,
+      "title": "Security Architect at CryptoniteNXT",
+      "name": "Hans Ismirnioglou"
+    },
+    {
+      "link": "",
+      "updated_at": "2019-10-21T00:51+0000",
+      "conference": "BSIDESDC2019",
+      "description": "Daniel Gordon, CISSP, CEH, GCIA, GCTI, GCFA is a cyber threat intelligence analyst contracted to the Department of Defense Cyber Crime Center (DC3). He holds a BA in political science from St Mary's College of Maryland, an MS in modeling and simulation from the University of Central Florida, and a graduate certificate in modeling and simulation of behavioral cyber security from the University of Central Florida.",
+      "twitter": "",
+      "id": 43158,
+      "title": "Cyber Intelligence Analyst",
+      "name": "Daniel Gordon"
+    },
+    {
+      "link": "",
+      "updated_at": "2019-10-21T00:51+0000",
+      "conference": "BSIDESDC2019",
+      "description": "Stuart is a Red Teamer at IronNet, where he focuses on tool development, Unix, and general Swiss Army knifery. He's been on the offensive side of public and private sector security for six years, during which time he's been an operator and trainer and developed a small arsenal of public and private offensive tools. Stuart's been a speaker at BSides and CarolinaCon and has red teamed for Quantum Dawn and the Collegiate Cyber Defense Competition.",
+      "twitter": "",
+      "id": 43159,
+      "title": "Red Team Operator and Developer at IronNet",
+      "name": "Stuart McMurray"
+    },
+    {
+      "link": "",
+      "updated_at": "2019-10-21T00:51+0000",
+      "conference": "BSIDESDC2019",
+      "description": "Carson is an Information Assurance and Cybersecurity student at Pennsylvania College of Technology where he's a member of the Information Security Association. He is currently an intern at IronNet developing network auditing tools in Go, deploying and testing the IronDefense stack in AWS GovCloud, and developing layered physical and logical diagrams of both on-prem and cloud variants of IronDefense. In his spare time, Carson maintains an enterprise-grade homelab where he experiments with new software, network, and security technologies.",
+      "twitter": "",
+      "id": 43160,
+      "title": "",
+      "name": "Carson Seese"
+    },
+    {
+      "link": "",
+      "updated_at": "2019-10-21T00:52+0000",
+      "conference": "BSIDESDC2019",
+      "description": "John York (@cynetise) began his networking career in 2001, where he installed and supported SONET/DWDM Transport equipment across various metropolitan cities throughout the U.S. He continued working in the telecommunications field, including serving on emergency response teams to sustain the telecom infrastructure during disasters, until he transitioned his career into the IT & IS field in 2005 as the founder and former CEO of a managed service provider in Des Moines, IA. Today John continues to work amongst the wrath of network/blue team defenders as a Network Security Engineer for Aureon. He is passionate in the infosec community as a member of the local InfraGard, ISSA Chapter, and other IT security and information sharing communities. Outside of working on architecting security solutions, John spends what little spare time he has with family and friends in the outdoors, primarily on the water, chasing down his next fishing story.",
+      "twitter": "@cynetise",
+      "id": 43161,
+      "title": "Security Engineer at Aureon",
+      "name": "John York"
+    },
+    {
+      "link": "",
+      "updated_at": "2019-10-21T00:52+0000",
+      "conference": "BSIDESDC2019",
+      "description": "Arden Meyer began his journey into IT in 1982 when he first learned to program computers, then quickly moved on to hacking BBS, PBX, and ICS systems. He joined the USAF in 1996 and for 15 years traveled the world doing various mysterious things with electrons. Arden was hand selected in the initial cadre of the Network Warfare Operations career field and tasked to develop the first Cyber Functional Training Unit where over the next three years he taught thousands of students everything from vulnerabilities in LMR/ICS/SS7 to basic computer programming to advanced exploitation & covert exfiltration. He finished his military career helping monitor & defend USAF networks at the AFCERT. After retiring from military service Arden ran the security operations team for a national financial services company until deciding to return to university to get his PhD. In his limited spare time, he also manages to lead his local chapter of The Open Organisation Of Lockpickers (TOOOL) and mentor local youth interested in anything IT related.",
+      "twitter": "",
+      "id": 43162,
+      "title": "",
+      "name": "Arden Meyer"
+    },
+    {
+      "link": "",
+      "updated_at": "2019-10-21T00:52+0000",
+      "conference": "BSIDESDC2019",
+      "description": "Marita Fowler is the team lead for the Emerging Technology Security team where she is responsible for the identification and analysis of technologically innovative malware threats to Capital One customers and the corporate network. Her work experience includes cybersecurity analyst roles within the Department of Homeland Security (DHS), Department of Defense (DoD), and financial sector.",
+      "twitter": "",
+      "id": 43163,
+      "title": "Analyst at Capital One",
+      "name": "Marita Fowler"
+    },
+    {
+      "link": "",
+      "updated_at": "2019-10-21T00:53+0000",
+      "conference": "BSIDESDC2019",
+      "description": "Mark Schmidt is an analyst working on the Emerging Technology Security team where he is responsible analyzing data to he protect the Capital One network. With 3 years of experience in the cyber security field, Mark actually began his career in the infancy of the Capital One SOC in Mclean, VA. Prior to working for Capital One, Mark worked for the Dept. of State with the Defensive Equipment & Armored Vehicles division of Diplomatic Security. He enjoys diving, snowboarding, automotive fabrication and pc building.",
+      "twitter": "",
+      "id": 43164,
+      "title": "Analyst at Capital One",
+      "name": "Mark Schmidt"
+    },
+    {
+      "link": "",
+      "updated_at": "2019-10-21T00:53+0000",
+      "conference": "BSIDESDC2019",
+      "description": "Luis Polio is an analyst on the Emerging Technology Security team where he is responsible for analyzing data to help protect Capital One customers and corporate network. His work experience includes Cybersecurity analyst roles, IT support specialist and mobile support. Luis Enjoys playing soccer, hiking, and spending time with friends and family.",
+      "twitter": "",
+      "id": 43165,
+      "title": "Analyst at Capital One",
+      "name": "Luis Polio"
+    },
+    {
+      "link": "",
+      "updated_at": "2019-10-21T00:53+0000",
+      "conference": "BSIDESDC2019",
+      "description": "Jake Jeffers is a digital forensics analyst on the Cyber Technical Investigations team, responsible for the identification and investigation of malicious and non-malicious insider threats. His work experience includes roles as a local law enforcement investigator and digital forensics analyst, with specialization in mobile device forensics.",
+      "twitter": "",
+      "id": 43166,
+      "title": "Analyst at Capital One",
+      "name": "Jake Jeffers"
+    },
+    {
+      "link": "",
+      "updated_at": "2019-10-21T00:53+0000",
+      "conference": "BSIDESDC2019",
+      "description": "Adam Gilbert is an avid security researcher and founder of AGDC Services, a boutique computer security firm. He has over a decade of information security experience and specializes in complex malware analysis and training. Adam has a M.S. in Electrical and Computer Engineering but his knowledge isn\u2019t academic, it comes from digging deep into malware to understand every aspect. Translating complex malware techniques into understandable concepts to increase fellow security practitioners skills is a truly rewarding experience that Adam is passionate about.",
+      "twitter": "",
+      "id": 43167,
+      "title": "Founder at AGDC Services",
+      "name": "Adam Gilbert"
+    },
+    {
+      "link": "",
+      "updated_at": "2019-10-21T00:54+0000",
+      "conference": "BSIDESDC2019",
+      "description": "I am Brooke Mellendick, and my handle is Berdingle. I am a 10 year old kid in 5 th grade who loves glitter and making plays with my friends. I love to build Legos, swim, and play the bass guitar and piano. I really like to learn coding!",
+      "twitter": "",
+      "id": 43168,
+      "title": "",
+      "name": "Brooke Mellendick"
+    },
+    {
+      "link": "",
+      "updated_at": "2019-10-21T00:54+0000",
+      "conference": "BSIDESDC2019",
+      "description": "Kerry Hazelton\u2019s career between Information Technology and Security has spanned the course of over twenty years, and with it he has developed considerable experience with systems and network support, data center operations, and information security. As such, he considers himself a \u201ccybersecurity enthusiast\u201d due to his desire and motivation to read up on the latest trends within the industry, to learn about a new exploit or tool, or his willingness to teach and share with others his experiences over the years. He also has presented technical workshops on the tools and procedures often used in security analysis and cloud-based digital forensics at prior conferences including BSides Charm, DC, and NoVA; which helped to form the basis for the Cloud Forensics Challenge he currently runs. Additionally, he gave a talk at his hometown inaugural BSides Idaho Falls conference about his experiences as an instructor, and the importance of mentoring the next generation of hackers.",
+      "twitter": "",
+      "id": 43169,
+      "title": "",
+      "name": "Kerry Hazelton"
+    },
+    {
+      "link": "",
+      "updated_at": "2019-10-21T00:54+0000",
+      "conference": "BSIDESDC2019",
+      "description": "",
+      "twitter": "",
+      "id": 43170,
+      "title": "",
+      "name": "Fernando Tomlinson"
+    },
+    {
+      "link": "",
+      "updated_at": "2019-10-21T00:55+0000",
+      "conference": "BSIDESDC2019",
+      "description": "BiaSciLab is a 12 year old hacker and maker. She was the youngest speaker at H.O.P.E. and has spoken at DEFCON in both the Bio Hacking Village and the R00TZ asylum kids con. She received national attention when she hacked the voting reporting system at DEFCON 26, this work was recently highlighted at the Congressional Hearing on Election Security. BiaSciLab is also the Founder and CEO of Girls Who Hack, an organization focused on teaching girls the skills of hacking so that they can change the future. She enjoys inventing things, giving talks and teaching classes on making, programming and hacking. Follow her on twitter @BiaSciLab @GirlsWhoHack and check out her websites www.BiaSciLab.com www.GirlsWhoHack.com",
+      "twitter": "@BiaSciLab",
+      "id": 43171,
+      "title": "Founder, CEO at Girls Who Hack",
+      "name": "BiaSciLab"
+    },
+    {
+      "link": "",
+      "updated_at": "2019-10-21T00:55+0000",
+      "conference": "BSIDESDC2019",
+      "description": "Oren is Chief Architect, DevOps & Modern Software at Insight, and a Microsoft Regional Director. He is passionate about reducing friction in the development process and creating modern software solutions to solve complex business challenges. Named a Microsoft MVP for Windows Platform Development in 2014, Microsoft MVP for Visual Studio and Development Technologies in 2016, Xamarin MVP in 2016, member of the .NET Foundation Advisory Council in 2017, and a .NET Foundation board member in 2018, he has been writing code on the Microsoft platform since the days a 2400 baud modem was considered cutting-edge. His prior experience ranges from building identity solutions for global organizations, developing real-time trading systems dealing with massive amounts of data to the complex data models of equity derivatives and the regulatory needs of Medicaid claims processing. He believes that technology is meaningless in a vacuum and strives to show how the bleeding-edge delivers superior value to the clients\u2019 bottom line.",
+      "twitter": "",
+      "id": 43172,
+      "title": "Chief Architect, DevOps & Modern Software at Insight",
+      "name": "Oren Novotny"
+    },
+    {
+      "link": "",
+      "updated_at": "2019-10-21T00:55+0000",
+      "conference": "BSIDESDC2019",
+      "description": "Justin Warner (@sixdub) is the Director of Applied Threat Research at Gigamon where he leads a team of intelligence analysts, detection engineers, and security researchers who seek to dismantle a threat actors ability to impact their targets. Justin is an Air Force Academy graduate, former USAF Cyber Operations Officer, and has private sector experience in both blue and red team roles, preferring to use his evil skills for good. In his free time, he can be found climbing with his wife and daughter or volunteering in disaster response organizations, bringing a nerdy edge to the mix.",
+      "twitter": "@sixdub",
+      "id": 43173,
+      "title": "Director, Applied Threat Research at Gigamon",
+      "name": "Justin Warner"
+    },
+    {
+      "link": "",
+      "updated_at": "2019-10-21T00:55+0000",
+      "conference": "BSIDESDC2019",
+      "description": "Ed Miles is a security researcher with Gigamon\u2019s Applied Threat Research team, where he focuses on threat intelligence and malware analysis. Prior to Gigamon, Ed worked on developing security detection products from the ground up for a large enterprise, threat research at AV and other security vendors, and DFIR-focused consulting with companies up and down the Fortune 100. When he\u2019s not working, he enjoys hiking with his wife, twins, and two dogs, playing DOTA2, and spinning drum n bass music.",
+      "twitter": "",
+      "id": 43174,
+      "title": "Senior Staff Security Engineer - Threat Intel at Gigamon",
+      "name": "Ed Miles"
+    },
+    {
+      "link": "",
+      "updated_at": "2019-10-21T00:55+0000",
+      "conference": "BSIDESDC2019",
+      "description": "Chris is a member of Tenable's Zero Day Research team. He enjoys dissecting complex applications and lives for the hunt. Having written code in a multitude of programming languages, he has deep roots in software development, but his true passion is software security. Chris is an avid learner, and he is continuously evolving his skills, capabilities and methodologies. Chris believes any problem can be solved with knowledge, intelligent decisions, and sheer grit.\r\n\r\nChris plays competitive tennis regularly in a league. Occasionally, he enjoys smacking a few golf balls around as well. When he\u2019s not doing something active, Chris can probably be found reading a technical book or tasting craft beers.",
+      "twitter": "",
+      "id": 43175,
+      "title": "Sr Research Engineer at Tenable",
+      "name": "Chris Lyne"
+    },
+    {
+      "link": "",
+      "updated_at": "2019-10-21T00:56+0000",
+      "conference": "BSIDESDC2019",
+      "description": "David Wells entered the cybersecurity industry with a strong emphasis in Windows reverse engineering. As a former Malware Analyst, David uncovered intelligence on various ecrime groups and botnet telemetry through reverse engineering some of the most well known malware families down to individually targeted APT attacks. David now works on Tenable\u2019s Zero Day Research team, uncovering new vulnerabilities.",
+      "twitter": "",
+      "id": 43176,
+      "title": "Sr Research Engineer at Tenable",
+      "name": "David Wells"
+    },
+    {
+      "link": "",
+      "updated_at": "2019-10-21T00:56+0000",
+      "conference": "BSIDESDC2019",
+      "description": "Jimi is a senior member of Tenable's Zero Day Research team. He bounces between research and development disciplines in an effort to appear knowledgeable about a variety of topics. Occasionally he succeeds in tricking someone into listening to him.",
+      "twitter": "",
+      "id": 43177,
+      "title": "Sr Research Engineer at Tenable",
+      "name": "Jimi Sebree"
+    },
+    {
+      "link": "",
+      "updated_at": "2019-10-21T00:56+0000",
+      "conference": "BSIDESDC2019",
+      "description": "Jackie Lasky is a Cyber Security Engineer at MITRE. She is a member of MITRE's ATT&CK team where she focuses on cyber threat intelligence. Prior to joining MITRE, she interned with the Department of Defense where she gained experience with malware analysis, data analytics, and machine learning. Jackie holds a B.S. in Computer Science from George Mason University.",
+      "twitter": "",
+      "id": 43178,
+      "title": "Cyber Security Engineer at The MITRE Corporation",
+      "name": "Jackie Lasky"
+    },
+    {
+      "link": "",
+      "updated_at": "2019-10-21T00:57+0000",
+      "conference": "BSIDESDC2019",
+      "description": "Sarah Yoder is a Cyber Security Engineer for the MITRE Corporation. She enjoys furthering her red team skills and applying cyber threat intelligence to ATT&CK. Prior to joining MITRE, Sarah worked as an Exploit Analyst with the Department of Defense. Sarah received her M.P.A. in Public Administration and B.S. in Cybersecurity from California State University, San Bernardino (CSUSB).",
+      "twitter": "",
+      "id": 43179,
+      "title": "Cyber Security Engineer at The MITRE Corporation",
+      "name": "Sarah Yoder"
+    },
+    {
+      "link": "",
+      "updated_at": "2019-10-21T00:57+0000",
+      "conference": "BSIDESDC2019",
+      "description": "Kathleen Smith, CMO for CyberSecJobs.Com and ClearedJobs.Net, has coached thousands of job seekers and employers to achieve the mutual goal of employment. Kathleen presents at several conferences each year on recruiting and job search. Some of the conferences she has presented at as a sole presenter or moderator include BSidesLV, BSidesTampa, BSidesSATX, DerbyCon, CircleCityCon, FedCyber, and CyberSecureGov. Kathleen is Director of HireGround, BSidesLV\u2019s two-day career track. Kathleen is well respected within the recruiting community and is the co-founder and Past President of recruitDC.",
+      "twitter": "",
+      "id": 43180,
+      "title": "Chief Marketing Officer at CyberSecJobs.com / ClearedJobs.Net",
+      "name": "Kathleen Smith"
+    },
+    {
+      "link": "",
+      "updated_at": "2019-10-21T00:57+0000",
+      "conference": "BSIDESDC2019",
+      "description": "Nathaniel is a Senior Security Threat Consultant for a major US consulting firm. His current focus is in security orchestration and automation. Previously he has consulted on incident response, rogue system detection, SIEM deployments, network architecture, boundary defense and wireless platforms.",
+      "twitter": "",
+      "id": 43181,
+      "title": "Senior Security Threat Consultant",
+      "name": "Nathaniel Davis"
+    },
+    {
+      "link": "",
+      "updated_at": "2019-10-21T00:57+0000",
+      "conference": "BSIDESDC2019",
+      "description": "Shawn spent many years of his career as a dedicated blue teamer as an analyst, incident responder, threat hunter, and security program builder. Recently he finds himself running the security operations center with the Paranoids for Verizon Media, empowering analysts to better find evil. In his free time he likes to get grass stains and go on spooky adventures.",
+      "twitter": "",
+      "id": 43182,
+      "title": "SOC Manager at Verizon Media",
+      "name": "Shawn Thomas"
+    },
+    {
+      "link": "",
+      "updated_at": "2019-10-21T00:57+0000",
+      "conference": "BSIDESDC2019",
+      "description": "For over 40 years, Joe Klein has played many roles in the Cyber Security domain, from Chief Security Officer, incident handler, forensics engineer, cyber intelligence, auditor, trainer, mentor, and administrator of boxes with blinky lights. He has spoken at many national and international venues such as Black Hat, DefCon, BSides, SecTor, Torcon, SANS, SecurityDays, and of course HOPE. Over his career, he has performed hundreds of security audits, assessments, and penetration tests for commercial and government agencies. He enjoys Earl Gray Tea hot his favorite number is 42, and he has a weeping angel painting on his wall.",
+      "twitter": "",
+      "id": 43183,
+      "title": "",
+      "name": "Joe Klein"
+    },
+    {
+      "link": "",
+      "updated_at": "2019-10-21T00:58+0000",
+      "conference": "BSIDESDC2019",
+      "description": "Craig Bowser is an Infosec professional with 18 years of experience in the field. He is a SEC555 Mentor for SANS. He has worked as a Information Security Manager, Security Engineer, Security Analyst and Information System Security Officer in DoD, DOJ and Dept of Energy areas. He has some letters that mean something to HR departments. He is a Christian, Father, Husband, Geek, Scout Leader who enjoys woodworking, sci-fi fantasy, home networking, tinkering with electronics, reading, and hiking. And he has a to do list that is longer the time to do slots that are open.",
+      "twitter": "",
+      "id": 43184,
+      "title": "",
+      "name": "Craig Bowser"
+    },
+    {
+      "link": "",
+      "updated_at": "2019-10-21T00:58+0000",
+      "conference": "BSIDESDC2019",
+      "description": "Bryson is the Founder of SCYTHE, a start-up building a next generation attack emulation platform, and GRIMM, a boutique cybersecurity consultancy, and Co-Founder of the ICS Village, a non-profit advancing awareness of industrial control system security. He is a National Security Institute Fellow and an Advisor to the Army Cyber Institute. Prior, Bryson led an elite offensive capabilities development group. As a U.S. Army Officer, he served as a Battle Captain and Brigade Engineering Officer in support of Operation Iraqi Freedom before leaving the Army as a Captain.\r\n\r\nBryson received his Bachelor of Science in Computer Science with honors from the United States Military Academy at West Point. He holds a Master\u2019s Degree in Telecommunications Management from the University of Maryland, a Master\u2019s in Business Administration from the University of Florida, and completed graduate studies in Electrical Engineering and Computer Science at the University of Texas.",
+      "twitter": "",
+      "id": 43185,
+      "title": "CEO, Founder at SCYTHE",
+      "name": "Bryson Bort"
+    },
+    {
+      "link": "",
+      "updated_at": "2019-10-21T00:58+0000",
+      "conference": "BSIDESDC2019",
+      "description": "Cheryl Biswas is a Strategic Threat Intel Analyst with a major bank in Toronto, Canada. She found her way into InfoSec through a helpdesk backdoor and pivoted into roles for vendor and change management, jumped a gap into privacy and DR/BCP, then laterally moved into security audits and assessments.Her degree in Political Science has evolved into researching APTs, botnets, ransomware and more. She is actively involved in the security community as a speaker, a conference volunteer, and encourages women and diversity in Infosec as a founding member of the \"The Diana Initiative.\"",
+      "twitter": "",
+      "id": 43186,
+      "title": "Strategic threat intel analyst at Major Canadian Bank",
+      "name": "Cheryl Biswas"
+    },
+    {
+      "link": "",
+      "updated_at": "2019-10-21T00:58+0000",
+      "conference": "BSIDESDC2019",
+      "description": "JR has 15 years\u2019 experience in Infosec with the last half of his career as a cyber security architect. He enjoys turning massive piles of data into actionable information.",
+      "twitter": "",
+      "id": 43187,
+      "title": "",
+      "name": "JR Presmy"
+    },
+    {
+      "link": "",
+      "updated_at": "2019-10-21T00:59+0000",
+      "conference": "BSIDESDC2019",
+      "description": "Cody Bramlette IACD Team Johns Hopkins University Applied Physics Laboratory Security+, SSCP, Associate CISSP",
+      "twitter": "",
+      "id": 43188,
+      "title": "Cybersecurity Engineer at Johns Hopkins University Applied Physics Laboratory",
+      "name": "Cody Bramlette"
+    },
+    {
+      "link": "",
+      "updated_at": "2019-10-21T00:59+0000",
+      "conference": "BSIDESDC2019",
+      "description": "Egdares Futch moved recently to Washington, DC.\r\n\r\nHe was previously working in Honduras as Regional Cloud IT Solutions Architect for Cable & Wireless Business Solutions in Central America, Colombia, and the Caribbean, designing Cloud architectures and Disaster Recovery services.\r\n\r\nPrior to that, Mr. Futch was overseeing IT strategy and operations for a regional development bank in the Central American region for more than 22 years. Recognized as CIO of the Year (2008) by IT Now magazine, for leading Business Continuity and Core Banking system renewal projects. Speaker for various international conferences in Guatemala, Honduras, Mexico, Colombia, and Costa Rica, TEDx Tegucigalpa. Recognized as an ACM Senior Member for his career in the IT industry. He also has more than 25 years as a Computer Science educator at universities in Guatemala and Honduras (Compilers/Operating Systems)\r\n\r\nHe holds various IT certifications on Information Security, Six Sigma quality management and various platforms.",
+      "twitter": "",
+      "id": 43189,
+      "title": "IT Security Specialist at Inter-American Development Bank",
+      "name": "Egdares Futch"
+    },
+    {
+      "link": "",
+      "updated_at": "2019-10-21T00:59+0000",
+      "conference": "BSIDESDC2019",
+      "description": "Mr. Laycock has been involved with forensics for over 19 years. Starting out in the world of video forensics before moving over to computer forensics for the Department of Defense. He now works on the Satori Team for White Ops doing threat intel. Mr. Laycock lives in Maryland where he is a happily married father of 3 children and is a 5th generation Cubs fan who can't believe he finally got to see them win it all.",
+      "twitter": "",
+      "id": 43190,
+      "title": "Threat Intel Manager at White Ops",
+      "name": "John Laycock"
+    },
+    {
+      "link": "",
+      "updated_at": "2019-10-21T00:59+0000",
+      "conference": "BSIDESDC2019",
+      "description": "Information Security and Privacy researcher Timothy Kusajtys is the CEO and cofounder of Black Bear InfoSec, an information security consulting company based out of Pittsburgh, PA. While Tim has years of experience in incident response, red teaming and threat hunting, his true passion is putting on his tin foil hat and helping people defend their privacy. In his spare time, he enjoys amateur radio and data hoarding projects.",
+      "twitter": "",
+      "id": 43191,
+      "title": "CEO at Blackbear Infosec",
+      "name": "Tim Kusajtys"
+    },
+    {
+      "link": "",
+      "updated_at": "2019-10-21T01:00+0000",
+      "conference": "BSIDESDC2019",
+      "description": "John Zachary is a Data Scientist at Deloitte where he leads the development of advanced, mission-focused cyber analytics, data science, and AI / ML methods in complex DoD big data environments, including the Big Data Platform (BDP) for the US Army ARCYBER. He has over two decades experience across academic and applied research, software engineering, economic development, and entrepreneurship. John has a Doctorate in computer science from Louisiana State University A&M.",
+      "twitter": "",
+      "id": 43192,
+      "title": "Specialist Master at Deloitte & Touche LLP",
+      "name": "John Zachary"
+    },
+    {
+      "link": "",
+      "updated_at": "2019-10-21T01:00+0000",
+      "conference": "BSIDESDC2019",
+      "description": "Eric Dull is a a Program Manager at Deloitte and is an expert in analytics, large-scale data science, computer network analysis, applied graph analysis, and behavior-based anomaly detection. He has over 17 years of experience using software and data analysis techniques to research, develop, and demonstrate solutions to mission-driven problems for the DoD. Eric has a Master\u2019s degree in computer science from Johns Hopkins.",
+      "twitter": "",
+      "id": 43193,
+      "title": "Specialist Leader at Deloitte & Touche LLP",
+      "name": "Eric Dull"
+    },
+    {
+      "link": "",
+      "updated_at": "2019-10-21T02:17+0000",
+      "conference": "BSIDESDC2019",
+      "description": "I am Dylan Mellendick, and my handle is Dyl. I am an 11 year old in 6th grade who really likes to swim, play soccer, and draw. I play some video games, but not too often. I play the guitar and piano too. I also like to learn coding.",
+      "twitter": "",
+      "id": 43194,
+      "title": "",
+      "name": "Dylan Mellendick"
+    }
+  ],
+  "updated_at": "2019-10-21T02:17+0000"
+}

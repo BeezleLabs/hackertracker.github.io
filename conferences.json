@@ -1,91 +1,134 @@
 {
-  "updated_at": "2019-08-30T15:37+0000",
+  "updated_at": "2019-10-23T00:58+0000",
   "conferences": [
     {
-      "notifications": {
-        "updated_at": "2018-01-01T01:00+0000",
-        "link": "https://hackertracker.app/APPSECDC2019/notifications.json"
-      },
-      "link": "https://dc.globalappsec.org",
-      "locations": {
-        "updated_at": "2019-08-22T17:56+0000",
-        "link": "https://hackertracker.app/APPSECDC2019/locations.json"
-      },
-      "timezone": "America/New_York",
-      "description": "Global AppSec - DC is coming September 9-13, 2019 to the Washington Marriott Wardman Park Hotel in the nation\u2019s capital. Formerly known as Global AppSec US, this week long event is the largest gathering for the open security community in North America. Designed for private and public sector infosec professionals, the OWASP three day training and two day conference equips developers, defenders, and advocates to build a more secure web.\r\nJoin us for a celebration of leading application security technologies, speakers, prospects, and community, in a unique event that will build on everything you already know to expect from an OWASP Global Conference.",
-      "end_date": "2019-09-13",
-      "events": {
-        "updated_at": "2019-08-20T20:47+0000",
-        "link": "https://hackertracker.app/APPSECDC2019/events.json"
-      },
+      "name": "BSidesDC 2019",
+      "end_date": "2019-10-27",
+      "code": "BSIDESDC2019",
+      "id": 25,
+      "start_date": "2019-10-25",
       "event_types": {
-        "updated_at": "2019-08-16T00:43+0000",
-        "link": "https://hackertracker.app/APPSECDC2019/event_types.json"
+        "link": "https://hackertracker.app/BSIDESDC2019/event_types.json",
+        "updated_at": "2019-10-20T23:27+0000"
       },
-      "code": "APPSECDC2019",
-      "id": 23,
-      "speakers": {
-        "updated_at": "2019-08-20T20:47+0000",
-        "link": "https://hackertracker.app/APPSECDC2019/speakers.json"
+      "articles": {
+        "link": "https://hackertracker.app/BSIDESDC2019/articles.json",
+        "updated_at": "2018-01-01T01:00+0000"
       },
       "vendors": {
-        "updated_at": "2018-01-01T01:00+0000",
-        "link": "https://hackertracker.app/APPSECDC2019/vendors.json"
+        "link": "https://hackertracker.app/BSIDESDC2019/vendors.json",
+        "updated_at": "2018-01-01T01:00+0000"
       },
+      "description": "",
       "faqs": {
-        "updated_at": "2018-01-01T01:00+0000",
-        "link": "https://hackertracker.app/APPSECDC2019/faqs.json"
+        "link": "https://hackertracker.app/BSIDESDC2019/faqs.json",
+        "updated_at": "2019-10-20T23:30+0000"
       },
-      "updated_at": "2019-08-22T17:20+0000",
-      "name": "Global AppSec - DC",
-      "start_date": "2019-09-09",
-      "articles": {
-        "updated_at": "2018-01-01T01:00+0000",
-        "link": "https://hackertracker.app/APPSECDC2019/articles.json"
-      }
+      "updated_at": "2019-10-20T23:24+0000",
+      "locations": {
+        "link": "https://hackertracker.app/BSIDESDC2019/locations.json",
+        "updated_at": "2019-10-20T23:47+0000"
+      },
+      "notifications": {
+        "link": "https://hackertracker.app/BSIDESDC2019/notifications.json",
+        "updated_at": "2018-01-01T01:00+0000"
+      },
+      "events": {
+        "link": "https://hackertracker.app/BSIDESDC2019/events.json",
+        "updated_at": "2019-10-21T02:23+0000"
+      },
+      "speakers": {
+        "link": "https://hackertracker.app/BSIDESDC2019/speakers.json",
+        "updated_at": "2019-10-21T02:17+0000"
+      },
+      "timezone": "America/New_York",
+      "link": "http://www.bsidesdc.org/history/2019.html"
     },
     {
-      "notifications": {
-        "updated_at": "2018-01-01T01:00+0000",
-        "link": "https://hackertracker.app/DERBYCON9/notifications.json"
-      },
-      "link": "https://www.derbycon.com",
-      "locations": {
-        "updated_at": "2019-08-30T15:49+0000",
-        "link": "https://hackertracker.app/DERBYCON9/locations.json"
-      },
-      "timezone": "America/New_York",
-      "description": "The idea of DerbyCon started in a pizza shop in Louisville after a few of us thought how awesome it would be to create a conference in Louisville Kentucky. The 4th street live area was awesome and we had been to so many conferences that we felt we could make one where everyone was welcome. DerbyCon has and continues to be a conference put together and run by awesome people in the security industry and by its attendees. We believe that DerbyCon is a central location for everyone to come share their research \u2013 hang with friends \u2013 and meet new ones. We hope to see you this year!",
-      "end_date": "2019-09-08",
-      "events": {
-        "updated_at": "2019-08-30T23:20+0000",
-        "link": "https://hackertracker.app/DERBYCON9/events.json"
-      },
+      "name": "SAINTCON 2019",
+      "end_date": "2019-10-25",
+      "code": "SAINTCON2019",
+      "id": 26,
+      "start_date": "2019-10-22",
       "event_types": {
-        "updated_at": "2019-08-30T15:44+0000",
-        "link": "https://hackertracker.app/DERBYCON9/event_types.json"
+        "link": "https://hackertracker.app/SAINTCON2019/event_types.json",
+        "updated_at": "2019-10-21T21:00+0000"
       },
-      "code": "DERBYCON9",
-      "id": 24,
-      "speakers": {
-        "updated_at": "2019-08-30T22:25+0000",
-        "link": "https://hackertracker.app/DERBYCON9/speakers.json"
+      "articles": {
+        "link": "https://hackertracker.app/SAINTCON2019/articles.json",
+        "updated_at": "2019-10-21T16:21+0000"
       },
       "vendors": {
-        "updated_at": "2018-01-01T01:00+0000",
-        "link": "https://hackertracker.app/DERBYCON9/vendors.json"
+        "link": "https://hackertracker.app/SAINTCON2019/vendors.json",
+        "updated_at": "2018-01-01T01:00+0000"
       },
+      "description": "SAINTCON: Utah's Premiere Cybersecurity Conference",
       "faqs": {
-        "updated_at": "2018-01-01T01:00+0000",
-        "link": "https://hackertracker.app/DERBYCON9/faqs.json"
+        "link": "https://hackertracker.app/SAINTCON2019/faqs.json",
+        "updated_at": "2019-10-21T16:21+0000"
       },
-      "updated_at": "2019-08-30T15:37+0000",
-      "name": "DerbyCon 9.0",
-      "start_date": "2019-09-04",
+      "updated_at": "2019-10-21T16:05+0000",
+      "locations": {
+        "link": "https://hackertracker.app/SAINTCON2019/locations.json",
+        "updated_at": "2019-10-21T21:00+0000"
+      },
+      "notifications": {
+        "link": "https://hackertracker.app/SAINTCON2019/notifications.json",
+        "updated_at": "2018-01-01T01:00+0000"
+      },
+      "events": {
+        "link": "https://hackertracker.app/SAINTCON2019/events.json",
+        "updated_at": "2019-10-22T20:09+0000"
+      },
+      "speakers": {
+        "link": "https://hackertracker.app/SAINTCON2019/speakers.json",
+        "updated_at": "2019-10-21T22:25+0000"
+      },
+      "timezone": "America/Denver",
+      "link": "https://www.saintcon.org"
+    },
+    {
+      "name": "BSidesPDX 2019",
+      "end_date": "2019-10-26",
+      "code": "BSIDESPDX2019",
+      "id": 28,
+      "start_date": "2019-10-25",
+      "event_types": {
+        "link": "https://hackertracker.app/BSIDESPDX2019/event_types.json",
+        "updated_at": "2019-10-22T15:54+0000"
+      },
       "articles": {
-        "updated_at": "2018-01-01T01:00+0000",
-        "link": "https://hackertracker.app/DERBYCON9/articles.json"
-      }
+        "link": "https://hackertracker.app/BSIDESPDX2019/articles.json",
+        "updated_at": "2019-10-22T15:55+0000"
+      },
+      "vendors": {
+        "link": "https://hackertracker.app/BSIDESPDX2019/vendors.json",
+        "updated_at": "2018-01-01T01:00+0000"
+      },
+      "description": "",
+      "faqs": {
+        "link": "https://hackertracker.app/BSIDESPDX2019/faqs.json",
+        "updated_at": "2019-10-22T16:56+0000"
+      },
+      "updated_at": "2019-10-22T15:53+0000",
+      "locations": {
+        "link": "https://hackertracker.app/BSIDESPDX2019/locations.json",
+        "updated_at": "2019-10-22T16:57+0000"
+      },
+      "notifications": {
+        "link": "https://hackertracker.app/BSIDESPDX2019/notifications.json",
+        "updated_at": "2018-01-01T01:00+0000"
+      },
+      "events": {
+        "link": "https://hackertracker.app/BSIDESPDX2019/events.json",
+        "updated_at": "2019-10-22T16:58+0000"
+      },
+      "speakers": {
+        "link": "https://hackertracker.app/BSIDESPDX2019/speakers.json",
+        "updated_at": "2019-10-22T16:54+0000"
+      },
+      "timezone": "America/Seattle",
+      "link": "https://bsidespdx.org/events/2019/"
     }
   ]
 }

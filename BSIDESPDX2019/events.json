@@ -1,0 +1,838 @@
+{
+  "schedule": [
+    {
+      "location": 44014,
+      "start_date": "2019-10-25T16:00+0000",
+      "end_date": "2019-10-25T16:30+0000",
+      "description": "",
+      "link": "",
+      "event_type": 44010,
+      "conference": "BSIDESPDX2019",
+      "updated_at": "2019-10-22T16:30+0000",
+      "speakers": [],
+      "id": 44125,
+      "title": "Registration",
+      "includes": ""
+    },
+    {
+      "location": 44014,
+      "start_date": "2019-10-25T16:30+0000",
+      "end_date": "2019-10-25T16:45+0000",
+      "description": "",
+      "link": "",
+      "event_type": 44010,
+      "conference": "BSIDESPDX2019",
+      "updated_at": "2019-10-22T16:30+0000",
+      "speakers": [],
+      "id": 44126,
+      "title": "Welcoming Remarks",
+      "includes": ""
+    },
+    {
+      "location": 44014,
+      "start_date": "2019-10-25T16:45+0000",
+      "end_date": "2019-10-25T17:45+0000",
+      "description": "",
+      "link": "",
+      "event_type": 44008,
+      "conference": "BSIDESPDX2019",
+      "updated_at": "2019-10-22T16:30+0000",
+      "speakers": [],
+      "id": 44127,
+      "title": "Keynote",
+      "includes": ""
+    },
+    {
+      "location": 44015,
+      "start_date": "2019-10-25T18:00+0000",
+      "end_date": "2019-10-25T19:00+0000",
+      "description": "",
+      "link": "",
+      "event_type": 44008,
+      "conference": "BSIDESPDX2019",
+      "updated_at": "2019-10-22T16:31+0000",
+      "speakers": [],
+      "id": 44128,
+      "title": "BSidesPDX 101 - CTF, Contests, and Events, Badges, & more",
+      "includes": ""
+    },
+    {
+      "location": 44016,
+      "start_date": "2019-10-25T18:00+0000",
+      "end_date": "2019-10-25T19:00+0000",
+      "description": "In late 2018, a popular node.js package changed ownership. This package became the delivery mechanism for malicious code that traversed through multiple environments to inject its final payload into a mobile application. This exploit existed in the wild for 48 days and was downloaded over 8 million times before it was found. How was it found? What was its purpose and how did it happen in the first place?\r\n\r\nThis exploit is one example of a well-planned, sophisticated attack that targeted the most valuable and privileged computers in a company, development and build machines. In this session we will dive into how the attack happened, the three payloads, how they worked, how they were obfuscated, and what their goal ultimately was.\r\n\r\nThis is not node/npm specific and any public repository of source code is vulnerable. This is a growing risk that many companies are absorbing without fully understanding and, without better management, will inevitably lead to incredible exploits in the future.",
+      "link": "",
+      "event_type": 44008,
+      "conference": "BSIDESPDX2019",
+      "updated_at": "2019-10-22T16:34+0000",
+      "speakers": [
+        44102
+      ],
+      "id": 44129,
+      "title": "How did 8 million developers download an exploit with no one noticing?",
+      "includes": ""
+    },
+    {
+      "location": 44017,
+      "start_date": "2019-10-25T18:00+0000",
+      "end_date": "2019-10-25T20:00+0000",
+      "description": "Have a cool security topic the world should know about? Have you wanted to present at BSides but didn\u2019t know where to start? The goal of this workshop is to arrive with an idea and leave with all you need for an amazing presentation that will keep your audience engaged. Topics covered include how a call for papers works, what to do when you\u2019re accepted, speech delivery basics and day of presentation tips and tricks. Participants will receive handouts that walks you through the presentation process tailored to security and tech specific presentations. All basic materials will be provided. Laptop optional, but take that next step and have a completed presentation when you leave!",
+      "link": "",
+      "event_type": 44009,
+      "conference": "BSIDESPDX2019",
+      "updated_at": "2019-10-22T16:48+0000",
+      "speakers": [
+        44113
+      ],
+      "id": 44130,
+      "title": "How to Rock Your BSides Presentation!",
+      "includes": ""
+    },
+    {
+      "location": 44018,
+      "start_date": "2019-10-25T18:00+0000",
+      "end_date": "2019-10-25T20:00+0000",
+      "description": "This workshop will get attendees smart on the foundations they need to perform an end-to-end investigation from network to host. We will cover triage and evidence collection for endpoint and network with a focus on key data points from each that allow us to pivot from endpoint to network data (and vice versa).\r\n\r\nWe will discuss basic topics, open-source and commercial tools, build an investigation timeline and triage report with a hands-on lab.\r\n\r\nAttendees should have a basic understanding of network (ports, protocols, etc) and endpoint (logs, files, windows registry, file system) fundamentals to get the most out of the workshop.",
+      "link": "",
+      "event_type": 44009,
+      "conference": "BSIDESPDX2019",
+      "updated_at": "2019-10-22T16:48+0000",
+      "speakers": [
+        44133,
+        44135
+      ],
+      "id": 44131,
+      "title": "Investigation Basics Crash Course",
+      "includes": ""
+    },
+    {
+      "location": 44015,
+      "start_date": "2019-10-25T19:00+0000",
+      "end_date": "2019-10-25T19:30+0000",
+      "description": "Microsoft\u2019s ElectionGuard is designed to be a new standard of election security. Working with an amazing team of experts, I was able to be an interface between the security engineers and the UX professionals, culminating in the design of the ballot tracker ID. The ballot tracker ID would be the closest contact the end user, or voter, would have to the security back end. In this talk, I will showcase how our team discussed, ranked, and vetted priorities in order to come up with a v1 design.",
+      "link": "",
+      "event_type": 44008,
+      "conference": "BSIDESPDX2019",
+      "updated_at": "2019-10-22T16:35+0000",
+      "speakers": [
+        44109
+      ],
+      "id": 44132,
+      "title": "Designing ElectionGuard: The Tango of Usability and Security",
+      "includes": ""
+    },
+    {
+      "location": 44016,
+      "start_date": "2019-10-25T19:00+0000",
+      "end_date": "2019-10-25T19:30+0000",
+      "description": "Mt. Hood Community College launched a two-year Cybersecurity degree in 2011. Since that time the program has evolved dramatically: courses have been continually revised to teach only industry-relevant skills, the college has hired new faculty to lead even more advanced and updated topics, and also worked with partners to begin offering meaningful internships for students. But the college still faces a problem: academia lives in a slio. As an institution, we realize that if we want to elevate our students learning to the next level, we need to develop stronger relationships with InfoSec professionals, and their organizations. This talk will directly outline how professionals can give back by acting as student mentors, sitting on our advisory committees, developing internships, teaching courses, as well as being willing to review courses to ensure the correct content is being taught.",
+      "link": "",
+      "event_type": 44008,
+      "conference": "BSIDESPDX2019",
+      "updated_at": "2019-10-22T16:38+0000",
+      "speakers": [
+        44118
+      ],
+      "id": 44133,
+      "title": "Giving Back: How to Support The Next Generation of InfoSec Professionals",
+      "includes": ""
+    },
+    {
+      "location": 44015,
+      "start_date": "2019-10-25T19:30+0000",
+      "end_date": "2019-10-25T20:00+0000",
+      "description": "Federal law enforcement agencies recently demanded that Apple break the encryption used by iOS in the Apple v FBI fight in 2015, but backed down when an exploit was used to break into the iPhone.What followed was a pause in the demand for encryption backdoors for a few years, but that break has been short lived. This talk will update attendees on the history of the demands for encryption backdoors, from the Clipper chip to the creation of CALEA, and summarize recent demands from law enforcement to the tech industry to weaken strong encryption and allow law enforcement to access any data, any time.",
+      "link": "",
+      "event_type": 44008,
+      "conference": "BSIDESPDX2019",
+      "updated_at": "2019-10-22T16:40+0000",
+      "speakers": [
+        44127
+      ],
+      "id": 44134,
+      "title": "Updates from the Crypto War 2.0",
+      "includes": ""
+    },
+    {
+      "location": 44016,
+      "start_date": "2019-10-25T19:30+0000",
+      "end_date": "2019-10-25T20:00+0000",
+      "description": "Ever since back to the future, the countdown had begun for Nike to create self lacing shoes, for a bad OTA to brick them and for someone to try and hack them. This talk will take you though my efforts to threat model and reverse engineer Marty McFly\u2019s shoes.\r\n\r\nWe\u2019ll be looking at a Nike BB Adapt. This talk will show how I reverse engineered the Nike Adapt Android application, took a look at Nike\u2019s account\u2019s management and poked at the Bluetooth protocol.",
+      "link": "",
+      "event_type": 44008,
+      "conference": "BSIDESPDX2019",
+      "updated_at": "2019-10-22T16:41+0000",
+      "speakers": [
+        44129
+      ],
+      "id": 44135,
+      "title": "Hacking Hypebeasts: An exercise in threat modeling and reverse engineering the Nike's Self-Lacing Shoes",
+      "includes": ""
+    },
+    {
+      "location": 44015,
+      "start_date": "2019-10-25T20:00+0000",
+      "end_date": "2019-10-25T21:00+0000",
+      "description": "Translation tables are a dynamic component of HDD firmware that translate logical addresses to physical locations on the disk. Corrupted translators can be the cause of drive failures in drives that appear undamaged and are without physical trauma. That failure can be reversed in many cases. We will present ways to identify if a drive\u2019s translator has been corrupted for the Moose & Pharaoh drive families specifically, how to force a translator rebuild, and open source tool(s) to help you repair the translator. Data recovery is a notoriously secretive field. Very little information about firmware and its internal data structures is public. By sharing what we\u2019ve learned we hope to open this field up to more people, encourage repair, encourage re-use rather than disposal of hard drives, and encourage further publicly shared research. After the talk, attendees should be able to fix this type of error themselves in HDDs of the appropriate families using a TTL converter and the supplied code. Familiarity with the basic components of hard drive firmware is helpful, but not required.",
+      "link": "",
+      "event_type": 44008,
+      "conference": "BSIDESPDX2019",
+      "updated_at": "2019-10-22T16:34+0000",
+      "speakers": [
+        44103,
+        44104
+      ],
+      "id": 44136,
+      "title": "Reversing Corruption in Seagate HDD Translators, the Naked Trill Data Recovery Project",
+      "includes": ""
+    },
+    {
+      "location": 44016,
+      "start_date": "2019-10-25T20:00+0000",
+      "end_date": "2019-10-25T21:00+0000",
+      "description": "Software side-channels have been a hot topic recently, and with good reason. Many of the techniques are used to liberate secret information from other processes or trusted execution environments (TEEs) such as Intel\u2019s SGX, ARM\u2019s TrustZone, and the like. Some of the techniques making headlines are related to speculative execution properties of modern processors, but there is an entire class of non-speculative techniques also receiving a lot of attention in recent research. Luckily there are a few techniques available for implementing algorithms that use secrets\u2014like cryptography\u2014so they present as few opportunities for leaking information as possible. In this talk you will learn the anatomy of a few classic non-speculative side-channels on mathematical algorithms used in just about every system in modern computing, followed by industry best practices for mitigating them, and finally what you can do to help minimize the risks for your applications.",
+      "link": "",
+      "event_type": 44008,
+      "conference": "BSIDESPDX2019",
+      "updated_at": "2019-10-22T16:39+0000",
+      "speakers": [
+        44120
+      ],
+      "id": 44137,
+      "title": "How Not to be Seen: Creating Non-Speculative Side-Channel Resistant Code",
+      "includes": ""
+    },
+    {
+      "location": 44017,
+      "start_date": "2019-10-25T20:00+0000",
+      "end_date": "2019-10-25T22:00+0000",
+      "description": "Threat modelling is considered to be a critical component of Secure Development Lifecycle (SDLC) as evidenced by the fact that it\u2019s included in most SDLC methodologies (see Microsoft SDL or OWASP Secure Software Development Lifecycle Project, for example). There\u2019s a ton of information available on threat modelling, though most of it seems to be focused on explaining the importance of it, or where it should fit within SDLC, not so much on practical aspects of how it can be done.\r\n\r\nThis workshop presents a practical collaborative approach to threat modelling with focus on applicability to Agile teams of various scales. We\u2019ll spend a bit of time on threat modelling overview, but the majority of the workshop will be dedicated to going through an example threat modelling session and creating a sample threat model.\r\n\r\nYou might be interested in this workshop if you are a security engineer, software engineer, engineering manager, or product manager.\r\n\r\nThere are no prerequisites, but you are expected to actively participate.",
+      "link": "",
+      "event_type": 44009,
+      "conference": "BSIDESPDX2019",
+      "updated_at": "2019-10-22T16:49+0000",
+      "speakers": [
+        44140
+      ],
+      "id": 44138,
+      "title": "Practical Threat Modelling",
+      "includes": ""
+    },
+    {
+      "location": 44018,
+      "start_date": "2019-10-25T20:00+0000",
+      "end_date": "2019-10-25T22:00+0000",
+      "description": "This workshop provides some helpful and lightweight tools/techniques for both new and experienced SOC analysts and incident responders to speed up their ability to understand and characterize a potential incident. It provides some context and examples about how and why these tools and techniques so consistently show up in SOC triage and analysis efforts.\r\n\r\nThere are many sophisticated and complex endpoint detection and response tools, sandboxes, and analysis tools which a SOC analyst or incident responder can use to identify and understand a potential incident. Many of these tools are complex and powerful, but sometimes it\u2019s the simple tools combined with specific host logging configuration options which can make a difference for SOC analysts and incident responders.\r\n\r\nThis workshop came from my recent realization that the most frequently used tools I was using while looking at incidents had something to do with de-obfuscation or decoding of powershell or other encoded scripts, and I was using CyberChef to do the vast majority of it. Given the prevalence of powershell and encoding in commodity malware campaigns, exploit kits, and in post-exploitation activity, it is likely that most incident responders will benefit from sharing experiences and techniques using these tools. Often, CyberChef and some key powershell logging options are enough to allow a responder to rapidly triage an event or alert to decide whether it\u2019s significant or not, which is why I felt there was value in sharing the techniques I was using.\r\n\r\nIn this workshop I\u2019ll describe why these tools/techniques are important to the detection/incident triage process, provide some examples of the key configurations/logs that are needed to maximize benefit, and provide (and then walk through) several technical decoding examples for the workshop attendees. Please bring your laptop!\u201d\u201d",
+      "link": "",
+      "event_type": 44009,
+      "conference": "BSIDESPDX2019",
+      "updated_at": "2019-10-22T16:50+0000",
+      "speakers": [
+        44141
+      ],
+      "id": 44139,
+      "title": "Minimalist triage of malcode using CyberChef",
+      "includes": ""
+    },
+    {
+      "location": 44015,
+      "start_date": "2019-10-25T21:00+0000",
+      "end_date": "2019-10-25T22:00+0000",
+      "description": "Humans have used games for thousands of years to exchange information and facilitate cooperation. When we combine gamification with decentralized organization methods, we unlock a powerful tool for social engineering at scale.\r\n\r\nIn this talk, we will discuss the application of game theory and \u201c\u201cswarm\u201d\u201d strategies for motivating and networking large groups of individuals. We\u2019ll compare the security implications of this approach alongside more traditional models, and examine how these strategies are already being used to empower (and disrupt) existing human systems.",
+      "link": "",
+      "event_type": 44008,
+      "conference": "BSIDESPDX2019",
+      "updated_at": "2019-10-22T16:36+0000",
+      "speakers": [
+        44110
+      ],
+      "id": 44140,
+      "title": "Swarm Intelligence and Human Systems",
+      "includes": ""
+    },
+    {
+      "location": 44016,
+      "start_date": "2019-10-25T21:00+0000",
+      "end_date": "2019-10-25T22:00+0000",
+      "description": "Incident Response, Cyber Threat Intelligence, and Red Teaming are critical components of a holistic security program; however, many companies have not implemented some of these capabilities. The goal of Interactive Threat Defense (ITD) is to provide a proactive, data driven, hands on approach to risk identification and security control validation. Throughout the presentation, you\u2019ll discover how to effectively integrate these capabilities into one program. Topics will range from methodologies and frameworks to tooling and actionable ways to improve your overall security posture.",
+      "link": "",
+      "event_type": 44008,
+      "conference": "BSIDESPDX2019",
+      "updated_at": "2019-10-22T16:39+0000",
+      "speakers": [
+        44122
+      ],
+      "id": 44141,
+      "title": "Interactive Threat Defense: Incident Response, Threat Intel, and Red Team (oh my!)",
+      "includes": ""
+    },
+    {
+      "location": 44015,
+      "start_date": "2019-10-25T22:00+0000",
+      "end_date": "2019-10-25T23:00+0000",
+      "description": "We now live in a world where blockchains exist, and often times, they\u2019re full of what is now considered to be money. That\u2019s pretty neat. So how might one crack open these pinatas and obtain the delicious goodies within?\r\n\r\nThis talk will focus on using and abusing Ethereum smart contracts for fun and sometimes profit, starting with the basics and then diving deep into the latest dumpster fires and the latest tools and techniques for setting them.",
+      "link": "",
+      "event_type": 44008,
+      "conference": "BSIDESPDX2019",
+      "updated_at": "2019-10-22T16:39+0000",
+      "speakers": [
+        44121
+      ],
+      "id": 44142,
+      "title": "They Put Money on the Internet!",
+      "includes": ""
+    },
+    {
+      "location": 44016,
+      "start_date": "2019-10-25T22:00+0000",
+      "end_date": "2019-10-25T23:00+0000",
+      "description": "The effort to protect users with strong, phishing-resistant authentication just got a huge win with the WebAuthn standard. Modern browsers already support it and many users already carry with them the necessary hardware. All that remains now is for us to integrate it into our web apps. This talk covers many of the important details for implementing WebAuthn as a second factor (and potentially even a first factor) authentication mechanism.",
+      "link": "",
+      "event_type": 44008,
+      "conference": "BSIDESPDX2019",
+      "updated_at": "2019-10-22T16:39+0000",
+      "speakers": [
+        44123
+      ],
+      "id": 44143,
+      "title": "2FA So Strong It Could Be 1FA: Integrating WebAuthn for Phishing-Resistant Authentication",
+      "includes": ""
+    },
+    {
+      "location": 44017,
+      "start_date": "2019-10-25T22:00+0000",
+      "end_date": "2019-10-26T00:00+0000",
+      "description": "CHIPSEC is a security research and validation tool implemented in Python that allows for low-level access to hardware. The powerful scripting capabilities can be used for tasks including verification of security mitigations and security research. This hands-on workshop will provide an overview of the existing tool architecture and how to write modules and tools. CHIPSEC modules focus on verification of firmware mitigations. CHIPSEC tools are designed to stress the system and perform tasks such as fuzzing interfaces.\r\n\r\nSystems will not be provided for the workshop.  Bring an Intel based system with the latest release of CHIPSEC installed (https://github.com/chipsec/chipsec/releases) and verify that CHIPSEC is working.  For ease of use Linux is preferred.  Additional modules and slides will be distributed at the workshop.",
+      "link": "",
+      "event_type": 44009,
+      "conference": "BSIDESPDX2019",
+      "updated_at": "2019-10-22T16:54+0000",
+      "speakers": [
+        44145,
+        44146,
+        44147,
+        44148
+      ],
+      "id": 44144,
+      "title": "Writing CHIPSEC Modules & Tools",
+      "includes": ""
+    },
+    {
+      "location": 44018,
+      "start_date": "2019-10-25T22:00+0000",
+      "end_date": "2019-10-26T00:00+0000",
+      "description": "Until recently, fully exploring the world of USB has been challenging \u2013 as tools for working with USB have historically been expensive and difficult to obtain, and knowledge regarding USB has been cloistered away in lengthy and somewhat-obtuse specifications \u2013 but recent developments in USB tooling have made working with USB significantly more accessible.\r\n\r\nThis workshop provides an overview of USB security and USB-hacking techniques using inexpensive open-source software and hardware tools \u2013 including several tools developed by the presenters in order to make USB hacking more accessible. The workshop includes a variety of demonstrations, and is accompanied by a set of short exercises that allow attendees to get some USB-hacking experience.\r\n\r\nThis workshop is best experienced when attendees bring a laptop with a working Python3 installation to follow along with.",
+      "link": "",
+      "event_type": 44009,
+      "conference": "BSIDESPDX2019",
+      "updated_at": "2019-10-22T16:55+0000",
+      "speakers": [
+        44149,
+        44150
+      ],
+      "id": 44145,
+      "title": "Hacking USB on the Cheap with USB-Tools",
+      "includes": ""
+    },
+    {
+      "location": 44015,
+      "start_date": "2019-10-25T23:00+0000",
+      "end_date": "2019-10-25T23:30+0000",
+      "description": "Imagine being in charge of a system where you own the product. You do not own the software and the hardware is proprietary. You need to coordinate with multiple vendors for any updates or modifications and you\u2019re under strict government regulation. By the way, the product has a lifespan of 20 - 30 years. Welcome to the world of aviation cybersecurity, where safety and security live together. At a high level, this presentation will cover what is aviation cyber security, the unique challenges it represents and why the industry is captivating.  ",
+      "link": "",
+      "event_type": 44008,
+      "conference": "BSIDESPDX2019",
+      "updated_at": "2019-10-22T16:36+0000",
+      "speakers": [
+        44113
+      ],
+      "id": 44146,
+      "title": "Airplane Mode: Cybersecurity @ 30,000+ Feet",
+      "includes": ""
+    },
+    {
+      "location": 44016,
+      "start_date": "2019-10-25T23:00+0000",
+      "end_date": "2019-10-26T00:00+0000",
+      "description": "\u201cSMM is a special-purpose operating mode provided for handling system-wide functions like power management, system hardware control, or proprietary OEM-designed code.\u201d \u2013 Intel Software Developer Manual\r\n\r\nSystem Management Mode (SMM) has gotten a lot of attention for being the most privileged processor mode, which raises concerns over how software and firmware manage hardware. This session demystifies designing and writing System Management Interrupt (SMI) handlers, and covers challenges that developers face in the process. Content covers different types of SMI handlers and various methods of invoking them. The session also describes common vulnerabilities that can result from incorrect coding practices or oversights. Debugging is critical to developing quality SMM drivers, so this session also demonstrates debugging using virtual environments (OVMF) and physical platforms.",
+      "link": "",
+      "event_type": 44008,
+      "conference": "BSIDESPDX2019",
+      "updated_at": "2019-10-22T16:40+0000",
+      "speakers": [
+        44124,
+        44125
+      ],
+      "id": 44147,
+      "title": "ABC to XYZ of Writing System Management Mode (SMM) Drivers",
+      "includes": ""
+    },
+    {
+      "location": 44015,
+      "start_date": "2019-10-25T23:30+0000",
+      "end_date": "2019-10-26T00:00+0000",
+      "description": "Serialized data is neither new nor exciting. Serialization and deserialization have been in use by countless applications, services and frameworks for a long time. Many programming languages support serialization natively, and most people seem to understand it well. However, many of us don\u2019t fully understand security implications of data deserialization, and in the last couple of years this topic got an increasing focus in the security community, up to the point that insecure deserialization made it to the list of OWASP Top 10 most critical web application security risks! Needless to say high-severity vulnerabilities in some well-known applications as well as popular frameworks such as Apache Struts and Apache Commons Collections raised awareness of this risk.\r\n\r\nIn this session, we\u2019ll discuss how serialized data are used in software, talk about different serialization formats and the dangers of deserializing untrusted input. We will review some real life vulnerabilities and related exploits. The presentation will contain several code examples with live demos of bypassing security controls by exploiting deserialization vulnerabilities. We\u2019ll forge a session cookie, elevate privileges, cause a denial of service, and even perform a remote code execution - all via insecure deserialization! The demos will use native Java, Python and .NET serialization, as well as JSON and XML formats. Of course, we\u2019ll also talk about how to deserialize in secure way!\r\n\r\nNext time you develop your awesome web or mobile app or a microservice, keep in mind how a clever attacker could create and supply malicious data to your application, and thinking like a hacker you could write more secure code!",
+      "link": "",
+      "event_type": 44008,
+      "conference": "BSIDESPDX2019",
+      "updated_at": "2019-10-22T16:42+0000",
+      "speakers": [
+        44132
+      ],
+      "id": 44148,
+      "title": "[In]secure deserialization, and how [not] to do it",
+      "includes": ""
+    },
+    {
+      "location": 44015,
+      "start_date": "2019-10-26T00:00+0000",
+      "end_date": "2019-10-26T00:15+0000",
+      "description": "",
+      "link": "",
+      "event_type": 44010,
+      "conference": "BSIDESPDX2019",
+      "updated_at": "2019-10-22T16:19+0000",
+      "speakers": [],
+      "id": 44149,
+      "title": "Closing remarks",
+      "includes": ""
+    },
+    {
+      "location": 44015,
+      "start_date": "2019-10-26T00:15+0000",
+      "end_date": "2019-10-26T01:30+0000",
+      "description": "",
+      "link": "",
+      "event_type": 44010,
+      "conference": "BSIDESPDX2019",
+      "updated_at": "2019-10-22T16:19+0000",
+      "speakers": [],
+      "id": 44150,
+      "title": "Quiz Show",
+      "includes": ""
+    },
+    {
+      "location": 44015,
+      "start_date": "2019-10-26T01:30+0000",
+      "end_date": "2019-10-26T02:30+0000",
+      "description": "",
+      "link": "",
+      "event_type": 44010,
+      "conference": "BSIDESPDX2019",
+      "updated_at": "2019-10-22T16:20+0000",
+      "speakers": [],
+      "id": 44151,
+      "title": "Whose Slide is it anyway?",
+      "includes": ""
+    },
+    {
+      "location": 44014,
+      "start_date": "2019-10-26T16:00+0000",
+      "end_date": "2019-10-26T16:30+0000",
+      "description": "",
+      "link": "",
+      "event_type": 44010,
+      "conference": "BSIDESPDX2019",
+      "updated_at": "2019-10-22T16:20+0000",
+      "speakers": [],
+      "id": 44152,
+      "title": "Registration",
+      "includes": ""
+    },
+    {
+      "location": 44014,
+      "start_date": "2019-10-26T16:30+0000",
+      "end_date": "2019-10-26T16:45+0000",
+      "description": "",
+      "link": "",
+      "event_type": 44010,
+      "conference": "BSIDESPDX2019",
+      "updated_at": "2019-10-22T16:21+0000",
+      "speakers": [],
+      "id": 44153,
+      "title": "Welcoming Remarks",
+      "includes": ""
+    },
+    {
+      "location": 44014,
+      "start_date": "2019-10-26T16:45+0000",
+      "end_date": "2019-10-26T17:45+0000",
+      "description": "",
+      "link": "",
+      "event_type": 44008,
+      "conference": "BSIDESPDX2019",
+      "updated_at": "2019-10-22T16:21+0000",
+      "speakers": [],
+      "id": 44154,
+      "title": "Keynote",
+      "includes": ""
+    },
+    {
+      "location": 44015,
+      "start_date": "2019-10-26T18:00+0000",
+      "end_date": "2019-10-26T19:00+0000",
+      "description": "Serverless, AKA Function as a Service, is becoming common deployment strategy for all sorts of things. The benefits include reduced cost, easier deployment, and not having to worry about platform. The implementation details for Serverless vary by vendor, and are often not public. In this talk, I describe what serverless is, how it works, what sorts of ways you can find yourself inside it, and what you can do once you\u2019re there. Demos will make it abundantly clear that these platforms are eminently hackable, and a tool will be provided that will help assess risk.",
+      "link": "",
+      "event_type": 44008,
+      "conference": "BSIDESPDX2019",
+      "updated_at": "2019-10-22T16:35+0000",
+      "speakers": [
+        44107
+      ],
+      "id": 44155,
+      "title": "Attacking Serverless Architectures",
+      "includes": ""
+    },
+    {
+      "location": 44016,
+      "start_date": "2019-10-26T18:00+0000",
+      "end_date": "2019-10-26T19:00+0000",
+      "description": "OAuth is the foundation of most of modern online security, used everywhere from signing in to mobile apps, to protecting your bank accounts. Despite its ubiquity, it is still often difficult to implement safely and securely, especially in today\u2019s landscape, which is dramatically different from the world of online security as it existed when OAuth was initially created.\r\n\r\nThis talk will explore several real-world OAuth hacks that affected major providers like Twitter, Facebook and Google. I\u2019ll share the details of how each specific attack happened, as well as what they could have done to prevent it. Some of these attacks exploited technical flaws in the system, and some exploited the easier to hack, squishier component in the middle: people.",
+      "link": "",
+      "event_type": 44008,
+      "conference": "BSIDESPDX2019",
+      "updated_at": "2019-10-22T16:37+0000",
+      "speakers": [
+        44114
+      ],
+      "id": 44156,
+      "title": "How to Hack OAuth",
+      "includes": ""
+    },
+    {
+      "location": 44017,
+      "start_date": "2019-10-26T18:00+0000",
+      "end_date": "2019-10-26T20:00+0000",
+      "description": "Ever wondered how vulnerabilities like BlueKeep and Eternal Blue work, or are you just interested in learning about the binary exploitation Capture The Flag (CTF) category? This workshop will walk students through exploiting their first buffer overflow vulnerabilities. It will teach them how to develop their own exploits and obtain RCE by redirecting the flow of code execution to shellcode or libraries with or without ASLR enabled. Students should have some experience with Python and Linux and are expected to bring a laptop with VirtualBox and an SSH client installed (a VM will be provided).",
+      "link": "",
+      "event_type": 44009,
+      "conference": "BSIDESPDX2019",
+      "updated_at": "2019-10-22T16:47+0000",
+      "speakers": [
+        44138,
+        44139
+      ],
+      "id": 44157,
+      "title": "Introduction to Binary Exploitation",
+      "includes": ""
+    },
+    {
+      "location": 44018,
+      "start_date": "2019-10-26T18:00+0000",
+      "end_date": "2019-10-26T20:00+0000",
+      "description": "The purpose of this session is to go over the resources which are freely available to anyone to make testing their security posture simple. The main toolsets for this portion of the lab are going to be Atomic Red Team, MITRE ATT&CK Adversary Emulation Plans, APT Simulator and LOLbins. Using these tools, we can select multiple techniques to abuse a victim machine in various ways. This is intended to be interactive and exciting for security professionals who are not exposed to the red-teaming side of security.\r\n\r\nAfter the abuse of each technique, we can look at the telemetry gathered by the endpoint. To make this resonate with all attendees, we will be using telemetry from Microsoft and their SysInternals tools, which will then be collected and visualized using the Elastic stack. Using the Elastic stack, we can dig into the telemetry and pivot around to understand the scope of an incident.\r\n\r\nAttendees will have the opportunity to see real-world use cases of \u201cmalware\u201d in action, as these are being pulled and linked back to the MITRE ATT&CK framework. This will also demonstrate the power of collecting telemetry for the use of security analytics. We are going to be using free tools in the lab, but the data collected and visualized can reproduced by a number of vendors on hand at RSA each year. Attendees will be able to take this knowledge back to their organization and increase their security posture immediately.",
+      "link": "",
+      "event_type": 44009,
+      "conference": "BSIDESPDX2019",
+      "updated_at": "2019-10-22T16:51+0000",
+      "speakers": [
+        44142,
+        44143
+      ],
+      "id": 44158,
+      "title": "Open Season: Building a Threat Hunting Program with Open Source Tools",
+      "includes": ""
+    },
+    {
+      "location": 44015,
+      "start_date": "2019-10-26T19:00+0000",
+      "end_date": "2019-10-26T19:30+0000",
+      "description": "In 2017 OWASP added XML External Entity (XXE) Processing to its list of Top Ten Vulnerabilities. Do you know what XXE is, how it can be exploited, and how to defend against XXE attacks? Most of the standard examples use open source stacks. Have you seen XXE in .NET? This crystal-clear explanation and demo will give you all the facts.",
+      "link": "",
+      "event_type": 44008,
+      "conference": "BSIDESPDX2019",
+      "updated_at": "2019-10-22T16:34+0000",
+      "speakers": [
+        44105
+      ],
+      "id": 44159,
+      "title": "XXE for Dummies",
+      "includes": ""
+    },
+    {
+      "location": 44016,
+      "start_date": "2019-10-26T19:00+0000",
+      "end_date": "2019-10-26T19:30+0000",
+      "description": "Great people are the foundation of security operations. We\u2019ll discuss how to leverage intern programs and on-the-job training to increase the effectiveness of your existing team and to create a great pipeline to engage new team members. Alex will provide his perspective going through the program as an intern and continuing to develop it / lessons learned as a full time employee.",
+      "link": "",
+      "event_type": 44008,
+      "conference": "BSIDESPDX2019",
+      "updated_at": "2019-10-22T16:43+0000",
+      "speakers": [
+        44133,
+        44135
+      ],
+      "id": 44160,
+      "title": "Performance Hacks for SOC Training",
+      "includes": ""
+    },
+    {
+      "location": 44015,
+      "start_date": "2019-10-26T19:30+0000",
+      "end_date": "2019-10-26T20:00+0000",
+      "description": "This talk is about how Literature Circles were a novel and effective way to teach middle and high school teachers about the GenCyber Cybersecurity Concepts (Defense in Depth, Availability, Confidentiality, Think Like an Adversary, Integrity & Keep it Simple) during the CyberPDX 2019 summer camp. The young adult novel \u201cWarcross\u201d by Marie Lu will be highlighted showing how fiction, poetry and art can be an innovative way to broaden public understanding of cybersecurity. More information about CyberPDX can be found at https://cyberpdx.org/.",
+      "link": "https://cyberpdx.org/",
+      "event_type": 44008,
+      "conference": "BSIDESPDX2019",
+      "updated_at": "2019-10-22T16:42+0000",
+      "speakers": [
+        44130,
+        44131
+      ],
+      "id": 44161,
+      "title": "Literature Circles: Novel Ways to Learn about Cybersecurity",
+      "includes": ""
+    },
+    {
+      "location": 44016,
+      "start_date": "2019-10-26T19:30+0000",
+      "end_date": "2019-10-26T20:00+0000",
+      "description": "With Kubernetes becoming a de-facto container orchestration platform, it\u2019s only a matter of time before it becomes a major target. While there are some widely publicized kubernetes vulnerabilities, this talk is not about them. Turns out, the biggest threat to a kubernetes deployment is the person doing it. Many of the default deployment options open container infrastructure to easy pwnage. Come to see how easy it is to slip in and wreck havoc in a k8s cluster and how some simple config hardening can make it substantially harder to abuse.",
+      "link": "",
+      "event_type": 44008,
+      "conference": "BSIDESPDX2019",
+      "updated_at": "2019-10-22T16:36+0000",
+      "speakers": [
+        44112
+      ],
+      "id": 44162,
+      "title": "Argghh, yer kubernetes be now a shark bait!",
+      "includes": ""
+    },
+    {
+      "location": 44015,
+      "start_date": "2019-10-26T20:00+0000",
+      "end_date": "2019-10-26T21:00+0000",
+      "description": "Every vendor claims to be a threat intelligence company at least at their booths at\u2026pick giant conference here. Many organizations have people who claim to be intelligence analysts. When in fact most vendors just provide data, and most of these so called intelligence analysts are doing IOC integration work for a SOC. Have you heard of being intelligence led? What do you really need to do to be intelligence led? It\u2019s not just a bunch of python scripts and IOCs for a SOC. There is a lot more work in growing into this. And the technology In this talk it\u2019s going to cover how you\u2019ve been thinking about it incorrectly, how you can change your ways, and how you can get talented people from places you\u2019d have never considered to run and build your program.",
+      "link": "",
+      "event_type": 44008,
+      "conference": "BSIDESPDX2019",
+      "updated_at": "2019-10-22T16:37+0000",
+      "speakers": [
+        44116
+      ],
+      "id": 44163,
+      "title": "Building an intelligence team, it\u2019s not what you think.",
+      "includes": ""
+    },
+    {
+      "location": 44016,
+      "start_date": "2019-10-26T20:00+0000",
+      "end_date": "2019-10-26T21:00+0000",
+      "description": "With how many apps are running in the cloud, hacking these instances becomes easier with a simple vulnerability due to an unsanitized user input. In this talk, we\u2019ll discuss a number of different methods that helped us exfil data from different applications using Server-Side Request Forgery (SSRF). Using these methods, we were able to hack some of the major transportation, hospitality, and social media companies and make $50,000 in rewards in 3 months.",
+      "link": "",
+      "event_type": 44008,
+      "conference": "BSIDESPDX2019",
+      "updated_at": "2019-10-22T16:34+0000",
+      "speakers": [
+        44106
+      ],
+      "id": 44164,
+      "title": "Owning the Cloud through SSRF",
+      "includes": ""
+    },
+    {
+      "location": 44017,
+      "start_date": "2019-10-26T20:00+0000",
+      "end_date": "2019-10-26T22:00+0000",
+      "description": "Get hands on experience writing custom network protocol fuzzers. This class will cover the basics of network protocol \u201c\u201csmart fuzzing.\u201d\u201d Exercises will utilize the open source network protocol fuzzing framework, boofuzz. Attendees will gain practice reverse engineering a network protocol, implementing and iterating on a custom fuzzer, and identifying vulnerabilities.\r\n\r\nAfter:\r\n\r\n1. You will know the basics of fuzzing.\r\n2. You will know how to write custom network protocol fuzzers using state of the art open source tools.\r\n3. You will have hands on experience with this widely-discussed but still largely mysterious test method.\r\n\r\nBefore (Prerequisites): You should:\r\n\r\n1. Be comfortable doing some basic programming in Python.\r\n2. Understand basic network protocol concepts (e.g. what is a protocol and what is a network layer).\r\n3. Be familiar with WireShark and how to use it.\r\n4. Have a laptop with at least 8 GB of RAM (16 GB recommended).\r\n\r\nWhat you won\u2019t learn:\r\n\r\n1. Exploit development.\r\n2. Python programming. Because you can already do that (see above). ;)",
+      "link": "",
+      "event_type": 44009,
+      "conference": "BSIDESPDX2019",
+      "updated_at": "2019-10-22T16:52+0000",
+      "speakers": [
+        44144
+      ],
+      "id": 44165,
+      "title": "Custom Network Protocol Fuzzing",
+      "includes": ""
+    },
+    {
+      "location": 44015,
+      "start_date": "2019-10-26T21:00+0000",
+      "end_date": "2019-10-26T22:00+0000",
+      "description": "This talk will detail the techniques, process and outcome of an unusual digital forensics investigation.",
+      "link": "",
+      "event_type": 44008,
+      "conference": "BSIDESPDX2019",
+      "updated_at": "2019-10-22T16:37+0000",
+      "speakers": [
+        44117
+      ],
+      "id": 44166,
+      "title": "Creepy Digital Forensics",
+      "includes": ""
+    },
+    {
+      "location": 44016,
+      "start_date": "2019-10-26T21:00+0000",
+      "end_date": "2019-10-26T22:00+0000",
+      "description": "Attackers are pervasive on modern networks and nothing is safe. Giving up is no option, so let\u2019s bring the fight to attackers with deception, lies, and all other trickery we can come up with. Let\u2019s fool malware about the nature of the computer they\u2019re on, let\u2019s tempt malware with treasures that don\u2019t exist.\r\n\r\nThis talk introduces SNAPTRAP, a modular open-source framework for orchestrating these deceptions across endpoint workstations on a Windows network. SNAPTRAP allows administrators and power users to set traps on workstations and let incautious malware and attackers stumble in to them.\r\n\r\nWe are providing a complete functional system along with a simple SDK and documentation. We aim to create an open community of researchers to draw techniques from the hacker tool chest, turn them around, and plant seeds of doubt that maybe, just maybe, their target computer is lying to them.",
+      "link": "",
+      "event_type": 44008,
+      "conference": "BSIDESPDX2019",
+      "updated_at": "2019-10-22T16:36+0000",
+      "speakers": [
+        44111
+      ],
+      "id": 44167,
+      "title": "SNAPTRAP: The Computer Is Lying: Open-source Deception Platform for Windows",
+      "includes": ""
+    },
+    {
+      "location": 44015,
+      "start_date": "2019-10-26T22:00+0000",
+      "end_date": "2019-10-26T22:30+0000",
+      "description": "Tor is among the most used networks for anonymous communication. This anonymity can be undermined via entry-exit and end-to-end attacks. Using Game Theory, we introduce and analyze the viability of several methods for reducing Tor\u2019s vulnerability to such attacks. Entry-exit attacks rely upon controlling entry and exit nodes within the Tor Network, while end-to-end attacks utilize Autonomous Systems. Because both types of attacks rely on chance, we consider the success probability maximizing strategies of adversaries. We analyze changes to Tor\u2019s routing strategy that decrease the success probability of such attacks. Our goal is to support anonymity preserving systems against large Autonomous Systems providers and attackers with access to large computing power. We build upon previous work by eliminating exit node bandwidth quotas within Tor and decreasing asymmetric routing to make compromising anonymity less likely. We show the probability that anonymity is preserved if one uses Tor for a year can be increased from ~62% to ~85% if our suggestions are implemented.",
+      "link": "",
+      "event_type": 44008,
+      "conference": "BSIDESPDX2019",
+      "updated_at": "2019-10-22T16:41+0000",
+      "speakers": [
+        44128
+      ],
+      "id": 44168,
+      "title": "A Game Theoretic Analysis of Tor's Resilience to Entry-Exit and End-to-End Attacks",
+      "includes": ""
+    },
+    {
+      "location": 44016,
+      "start_date": "2019-10-26T22:00+0000",
+      "end_date": "2019-10-26T22:30+0000",
+      "description": "Your web exploits are showing their age. This talk will outline why it\u2019s becoming harder for developers to mess stuff up with modern technologies and tooling (Go, Rust, Kotlin, React, AngularJS, Vue.js, DynamoDB/MongoDB/other NoSQL, OpenID, etc), as well as what mistakes developers can make with these new technologies, and how we can exploit those, featuring practical Go examples.",
+      "link": "",
+      "event_type": 44008,
+      "conference": "BSIDESPDX2019",
+      "updated_at": "2019-10-22T16:35+0000",
+      "speakers": [
+        44108
+      ],
+      "id": 44169,
+      "title": "Modern Websites require Modern Vulnerabilities",
+      "includes": ""
+    },
+    {
+      "location": 44017,
+      "start_date": "2019-10-26T22:00+0000",
+      "end_date": "2019-10-27T00:00+0000",
+      "description": "The OWASP (Open Web Application Security Project) Top 10 is a powerful awareness document for web application security. It represents a broad consensus about the most critical security risks to web applications. Injection, Broken Authorization, Sensitive Data Exposure are just some of the categories it covers. This training will provide those unfamiliar with the OWASP Top Ten an opportunity to learn about the categories hands on through the OWASP Juice Shop - an intentionally insecure web application.",
+      "link": "",
+      "event_type": 44009,
+      "conference": "BSIDESPDX2019",
+      "updated_at": "2019-10-22T16:46+0000",
+      "speakers": [
+        44137
+      ],
+      "id": 44170,
+      "title": "OWASP Top Ten Lab Featuring OWASP Juice Shop",
+      "includes": ""
+    },
+    {
+      "location": 44015,
+      "start_date": "2019-10-26T22:30+0000",
+      "end_date": "2019-10-26T23:00+0000",
+      "description": "VPNs and Tor are used by average citizens, hackers, and movie characters alike to mask their identity online. However, my research has shown that these tools have shortcomings in usability and privacy preservation; none fulfill both key security and usability requirements.\r\n\r\nThis talk will begin with the philosophy of anonymity networks, their desired technical requirements, and a short introduction to a selection of existing networks, including my new project Onionr. Additionally, the talk will provide an overview of the major features to look for when picking an anonymous network to use. At the end, I will demonstrate how Onionr fulfills our requirements of a well-made anonymity network. Attend this talk to get beginner-friendly insight into the world of anonymity networks and a look at a new network project.",
+      "link": "",
+      "event_type": 44008,
+      "conference": "BSIDESPDX2019",
+      "updated_at": "2019-10-22T16:40+0000",
+      "speakers": [
+        44126
+      ],
+      "id": 44171,
+      "title": "Improving Anonymous Networking",
+      "includes": ""
+    },
+    {
+      "location": 44016,
+      "start_date": "2019-10-26T22:30+0000",
+      "end_date": "2019-10-26T23:00+0000",
+      "description": "As people with the word \u201csecurity\u201d in our titles, we come across a lot of questionable decisions. It\u2019s our job to scrutinize the dubious and guide the less paranoid. Wide eyed developers in a dependency wonderland can easily find themselves smoking opiumssl with a caterpillar from stackoverflow who assured them it\u2019s twice as performant than openssl. Nevermind the fact that it was written by @madhatter in 2012 and never touched since. In our infinite wisdom we set them back on the right track. But how wise are we really? Could a robot do just a good a job at guiding them through the looking glass?",
+      "link": "",
+      "event_type": 44008,
+      "conference": "BSIDESPDX2019",
+      "updated_at": "2019-10-22T16:37+0000",
+      "speakers": [
+        44115
+      ],
+      "id": 44172,
+      "title": "Down the Dependency Rabbit Hole",
+      "includes": ""
+    },
+    {
+      "location": 44015,
+      "start_date": "2019-10-26T23:00+0000",
+      "end_date": "2019-10-27T00:00+0000",
+      "description": "Even mature, robust, and well-funded cyber security programs can be bypassed entirely by poor physical security. Overt social engineering or covert physical security breaches have frequently and consistently compromised numerous Fortune 500 companies, regardless of the sophistication of their cyber security programs.\r\n\r\nWar stories and examples of successful compromises will be shown, showing the intimate relationship between physical and cyber security. Examples include subversive and surreptitious means, or shameless and brazen social engineering, resulting in total compromise achieved with negligible cost, a bit of bravado, and sometimes effort than can be measured in hours.",
+      "link": "",
+      "event_type": 44008,
+      "conference": "BSIDESPDX2019",
+      "updated_at": "2019-10-22T16:38+0000",
+      "speakers": [
+        44119
+      ],
+      "id": 44173,
+      "title": "Blarney and Brigandry - Physical Breach War Stories & Operations",
+      "includes": ""
+    },
+    {
+      "location": 44016,
+      "start_date": "2019-10-26T23:00+0000",
+      "end_date": "2019-10-27T00:00+0000",
+      "description": "",
+      "link": "",
+      "event_type": 44008,
+      "conference": "BSIDESPDX2019",
+      "updated_at": "2019-10-22T16:29+0000",
+      "speakers": [],
+      "id": 44174,
+      "title": "Lightning Talks Hosted by Dean Pierce",
+      "includes": ""
+    },
+    {
+      "location": 44015,
+      "start_date": "2019-10-27T00:00+0000",
+      "end_date": "2019-10-27T00:15+0000",
+      "description": "",
+      "link": "",
+      "event_type": 44010,
+      "conference": "BSIDESPDX2019",
+      "updated_at": "2019-10-22T16:30+0000",
+      "speakers": [],
+      "id": 44175,
+      "title": "Closing remarks",
+      "includes": ""
+    },
+    {
+      "location": 44015,
+      "start_date": "2019-10-27T06:59+0000",
+      "end_date": "2019-10-27T06:59+0000",
+      "description": "This talk will walk the listener through the value and history of canary and honeypot projects going as far back as the early 90s. It will bring to light how the technology is still heavily under utilized in the new era of big data and epic breaches. The speaker will work to equip the listener with a persuasive argument to take back to their corporate class or leadership team. Finally he will reveal and discuss the development of a new open source canary project that focuses on simplicity and sustainability for under-resourced teams.",
+      "link": "",
+      "event_type": 44008,
+      "conference": "BSIDESPDX2019",
+      "updated_at": "2019-10-22T16:44+0000",
+      "speakers": [
+        44136
+      ],
+      "id": 44176,
+      "title": "BACKUP TALK: Clearly seeing the value of Canaries for the year 20/20",
+      "includes": ""
+    },
+    {
+      "location": 44019,
+      "start_date": "2019-10-28T02:00+0000",
+      "end_date": "2019-10-28T06:00+0000",
+      "description": "This afterparty happens at 7:00 PM - 11:00 PM on October 27th!\r\n\r\nMingle and relax after two busy days! After closing down and packing up at the convention center, we\u2019ll be enjoying drinks and light refreshments. Come and join us between 7 and 11 PM at 7608 N Interstate Avenue.\r\n\r\nhttps://pdxhackerspace.org/\r\n",
+      "link": "",
+      "event_type": 44010,
+      "conference": "BSIDESPDX2019",
+      "updated_at": "2019-10-22T16:58+0000",
+      "speakers": [],
+      "id": 44177,
+      "title": "BSidesPDX Afterparty at Ctrl-H PDX Hackerspace",
+      "includes": ""
+    }
+  ],
+  "updated_at": "2019-10-22T16:58+0000"
+}
