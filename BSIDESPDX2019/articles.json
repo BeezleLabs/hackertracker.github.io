@@ -1,12 +1,12 @@
 {
+  "updated_at": "2019-10-22T15:55+0000",
   "articles": [
     {
-      "name": "Welcome to BSidesPDX 2019!",
-      "id": 19,
-      "text": "Welcome to BSidesPDX 2019!",
       "updated_at": "2019-10-22T15:55+0000",
-      "conference": "BSIDESPDX2019"
+      "conference": "BSIDESPDX2019",
+      "id": 19,
+      "name": "Welcome to BSidesPDX 2019!",
+      "text": "Welcome to BSidesPDX 2019!"
     }
-  ],
-  "updated_at": "2019-10-22T15:55+0000"
+  ]
 }

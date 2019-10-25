@@ -127,8 +127,51 @@
         "link": "https://hackertracker.app/BSIDESPDX2019/speakers.json",
         "updated_at": "2019-10-22T16:54+0000"
       },
-      "timezone": "America/Seattle",
+      "timezone": "America/Los_Angeles",
       "link": "https://bsidespdx.org/events/2019/"
+    },
+    {
+      "speakers": {
+        "updated_at": "2019-10-25T13:37+0000",
+        "link": "https://hackertracker.app/APPSECDAY2019/speakers.json"
+      },
+      "event_types": {
+        "updated_at": "2019-10-25T13:37+0000",
+        "link": "https://hackertracker.app/APPSECDAY2019/event_types.json"
+      },
+      "link": "https://appsecday.io/",
+      "locations": {
+        "updated_at": "2019-10-25T13:37+0000",
+        "link": "https://hackertracker.app/APPSECDAY2019/locations.json"
+      },
+      "code": "APPSECDAY2019",
+      "updated_at": "2019-10-23T20:33+0000",
+      "id": 30,
+      "name": "OWASP AppSec Day 2019",
+      "timezone": "Australia/Melbourne",
+      "description": "Australia's biggest software security conference for technology professionals",
+      "faqs": {
+        "updated_at": "2018-01-01T01:00+0000",
+        "link": "https://hackertracker.app/APPSECDAY2019/faqs.json"
+      },
+      "vendors": {
+        "updated_at": "2018-01-01T01:00+0000",
+        "link": "https://hackertracker.app/APPSECDAY2019/vendors.json"
+      },
+      "start_date": "2019-10-28",
+      "articles": {
+        "updated_at": "2019-10-25T15:44+0000",
+        "link": "https://hackertracker.app/APPSECDAY2019/articles.json"
+      },
+      "end_date": "2019-11-01",
+      "notifications": {
+        "updated_at": "2018-01-01T01:00+0000",
+        "link": "https://hackertracker.app/APPSECDAY2019/notifications.json"
+      },
+      "events": {
+        "updated_at": "2019-10-25T02:37+0000",
+        "link": "https://hackertracker.app/APPSECDAY2019/events.json"
+      }
     }
   ]
 }

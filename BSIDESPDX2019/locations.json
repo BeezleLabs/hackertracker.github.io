@@ -1,47 +1,54 @@
 {
+  "updated_at": "2019-10-23T23:44+0000",
   "locations": [
     {
-      "name": "All Tracks",
+      "updated_at": "2019-10-22T15:54+0000",
+      "conference": "BSIDESPDX2019",
       "id": 44014,
-      "conference": "BSIDESPDX2019",
-      "updated_at": "2019-10-22T15:54+0000",
+      "name": "All Tracks",
       "hotel": ""
     },
     {
-      "name": "Talk Track A",
+      "updated_at": "2019-10-22T15:54+0000",
+      "conference": "BSIDESPDX2019",
       "id": 44015,
-      "conference": "BSIDESPDX2019",
-      "updated_at": "2019-10-22T15:54+0000",
+      "name": "Talk Track A",
       "hotel": ""
     },
     {
-      "name": "Talk Track B",
+      "updated_at": "2019-10-22T15:54+0000",
+      "conference": "BSIDESPDX2019",
       "id": 44016,
-      "conference": "BSIDESPDX2019",
-      "updated_at": "2019-10-22T15:54+0000",
+      "name": "Talk Track B",
       "hotel": ""
     },
     {
-      "name": "Workshop Track A",
+      "updated_at": "2019-10-22T15:54+0000",
+      "conference": "BSIDESPDX2019",
       "id": 44017,
-      "conference": "BSIDESPDX2019",
-      "updated_at": "2019-10-22T15:54+0000",
+      "name": "Workshop Track A",
       "hotel": ""
     },
     {
-      "name": "Workshop Track B",
+      "updated_at": "2019-10-22T15:54+0000",
+      "conference": "BSIDESPDX2019",
       "id": 44018,
-      "conference": "BSIDESPDX2019",
-      "updated_at": "2019-10-22T15:54+0000",
+      "name": "Workshop Track B",
       "hotel": ""
     },
     {
-      "name": "Ctrl-H PDX Hackerspace",
-      "id": 44019,
-      "conference": "BSIDESPDX2019",
       "updated_at": "2019-10-22T16:57+0000",
+      "conference": "BSIDESPDX2019",
+      "id": 44019,
+      "name": "Ctrl-H PDX Hackerspace",
+      "hotel": ""
+    },
+    {
+      "updated_at": "2019-10-23T23:44+0000",
+      "conference": "BSIDESPDX2019",
+      "id": 44023,
+      "name": "Convention Center",
       "hotel": ""
     }
-  ],
-  "updated_at": "2019-10-22T16:57+0000"
+  ]
 }

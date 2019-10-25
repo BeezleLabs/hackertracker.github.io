@@ -1,12 +1,12 @@
 {
+  "updated_at": "2019-10-23T20:20+0000",
   "articles": [
     {
-      "name": "Welcome to SAINTCON 2019",
-      "id": 17,
-      "text": "SAINTCON: Utah's Premiere Cybersecurity Conference",
       "updated_at": "2019-10-23T20:20+0000",
-      "conference": "SAINTCON2019"
+      "conference": "SAINTCON2019",
+      "id": 17,
+      "name": "Welcome to SAINTCON 2019",
+      "text": "SAINTCON: Utah's Premiere Cybersecurity Conference"
     }
-  ],
-  "updated_at": "2019-10-23T20:20+0000"
+  ]
 }

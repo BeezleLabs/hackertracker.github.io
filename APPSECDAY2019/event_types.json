@@ -1,0 +1,68 @@
+{
+  "updated_at": "2019-10-25T13:37+0000",
+  "event_types": [
+    {
+      "updated_at": "2019-10-25T13:37+0000",
+      "id": 45001,
+      "color": "#ffdead",
+      "name": "After Party",
+      "conference": "APPSECDAY2019"
+    },
+    {
+      "updated_at": "2019-10-25T13:37+0000",
+      "id": 45002,
+      "color": "#cdc0b0",
+      "name": "Break",
+      "conference": "APPSECDAY2019"
+    },
+    {
+      "updated_at": "2019-10-25T13:37+0000",
+      "id": 45003,
+      "color": "#d0ff8f",
+      "name": "Keynote",
+      "conference": "APPSECDAY2019"
+    },
+    {
+      "updated_at": "2019-10-25T13:37+0000",
+      "id": 45004,
+      "color": "#8f98ff",
+      "name": "Registration",
+      "conference": "APPSECDAY2019"
+    },
+    {
+      "updated_at": "2019-10-25T13:37+0000",
+      "id": 45005,
+      "color": "#07ad6a",
+      "name": "Talk",
+      "conference": "APPSECDAY2019"
+    },
+    {
+      "updated_at": "2019-10-25T13:37+0000",
+      "id": 45006,
+      "color": "#fbc7ff",
+      "name": "Training",
+      "conference": "APPSECDAY2019"
+    },
+    {
+      "updated_at": "2019-10-25T13:37+0000",
+      "id": 45007,
+      "color": "#5a5a97",
+      "name": "Vendors",
+      "conference": "APPSECDAY2019"
+    },
+    {
+      "updated_at": "2019-10-25T13:37+0000",
+      "id": 45008,
+      "color": "#fcc1d0",
+      "name": "Other",
+      "conference": "APPSECDAY2019"
+    },
+    {
+      "updated_at": "2019-10-25T13:37+0000",
+      "id": 45009,
+      "color": "#fcc1d1",
+      "name": "Meetup",
+      "conference": "APPSECDAY2019"
+    }
+  ]
+}
