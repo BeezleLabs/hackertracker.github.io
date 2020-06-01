@@ -1,0 +1,27 @@
+{
+  "event_types": [
+    
+    {
+      "updated_at": "2020-6-20T23:26+0000",
+      "color": "#6497DC",
+      "id": 66614,
+      "conference": "CircleCityCon 7.0 Apocalypse",
+      "name": "Training"
+    },
+    {
+      "updated_at": "2020-6-20T23:27+0000",
+      "color": "#A53E4F",
+      "id": 66615,
+      "conference": "CircleCityCon 7.0 Apocalypse",
+      "name": "Village"
+    },
+    {
+      "updated_at": "2020-6-20T23:27+0000",
+      "color": "#42d2bc",
+      "id": 66616,
+      "conference": "CircleCityCon 7.0 Apocalypse",
+      "name": "Talk"
+    }
+  ],
+  "updated_at": "2020-6-20T23:27+0000"
+}
