@@ -1,0 +1,514 @@
+{
+  speakers: [
+  {
+    "id": 1066601,
+    "name": "Tricia Howard",
+    "title": "",
+    "description": "",
+    "twitter": "TriciaKicksSaaS",
+    "linkedin": "",
+    "conference": "CircleCityCon 7.0 Apocalypse",
+    "link": "https://ccc-cfp-2020.busyconf.com/schedule"
+  },
+  {
+    "id": 1066602,
+    "name": "MITCHELL PARKER",
+    "title": "",
+    "description": "",
+    "twitter": "mitchparkerciso",
+    "linkedin": "https://www.linkedin.com/in/mitchparkerciso/",
+    "conference": "CircleCityCon 7.0 Apocalypse",
+    "link": "https://ccc-cfp-2020.busyconf.com/schedule"
+  },
+  {
+    "id": 1066603,
+    "name": "Megan Kaczanowski",
+    "title": "",
+    "description": "",
+    "twitter": "megansdoingfine",
+    "linkedin": "https://www.linkedin.com/in/megankaczanowski/",
+    "conference": "CircleCityCon 7.0 Apocalypse",
+    "link": "https://ccc-cfp-2020.busyconf.com/schedule"
+  },
+  {
+    "id": 1066604,
+    "name": "Shawn Thomas",
+    "title": "",
+    "description": "",
+    "twitter": "Understudy77",
+    "linkedin": "",
+    "conference": "CircleCityCon 7.0 Apocalypse",
+    "link": "https://ccc-cfp-2020.busyconf.com/schedule"
+  },
+  {
+    "id": 1066605,
+    "name": "Keith Chapman",
+    "title": "",
+    "description": "",
+    "twitter": "S1lv3rL10n",
+    "linkedin": "https://www.linkedin.com/in/keithrchapman/",
+    "conference": "CircleCityCon 7.0 Apocalypse",
+    "link": "https://ccc-cfp-2020.busyconf.com/schedule"
+  },
+  {
+    "id": 1066606,
+    "name": "Chad Calease",
+    "title": "",
+    "description": "",
+    "twitter": "wimzkl",
+    "linkedin": "https://linkedin.com/in/calease",
+    "conference": "CircleCityCon 7.0 Apocalypse",
+    "link": "https://ccc-cfp-2020.busyconf.com/schedule"
+  },
+  {
+    "id": 1066607,
+    "name": "Mitchell Parker",
+    "title": "",
+    "description": "",
+    "twitter": "Mitchparkerciso",
+    "linkedin": "",
+    "conference": "CircleCityCon 7.0 Apocalypse",
+    "link": "https://ccc-cfp-2020.busyconf.com/schedule"
+  },
+  {
+    "id": 1066608,
+    "name": "Laura Johnson",
+    "title": "",
+    "description": "",
+    "twitter": "DefiantLJ",
+    "linkedin": "",
+    "conference": "CircleCityCon 7.0 Apocalypse",
+    "link": "https://ccc-cfp-2020.busyconf.com/schedule"
+  },
+  {
+    "id": 1066609,
+    "name": "Gregory Madden",
+    "title": "",
+    "description": "",
+    "twitter": "",
+    "linkedin": "https://www.linkedin.com/in/greg-madden-cissp-15022b4b/",
+    "conference": "CircleCityCon 7.0 Apocalypse",
+    "link": "https://ccc-cfp-2020.busyconf.com/schedule"
+  },
+  {
+    "id": 1066610,
+    "name": "Zach Zenner",
+    "title": "",
+    "description": "",
+    "twitter": "Anxious_Rabbit_",
+    "linkedin": "",
+    "conference": "CircleCityCon 7.0 Apocalypse",
+    "link": "https://ccc-cfp-2020.busyconf.com/schedule"
+  },
+  {
+    "id": 1066611,
+    "name": "Anthony Coggins",
+    "title": "",
+    "description": "",
+    "twitter": "SecOps_and_Hops",
+    "linkedin": "",
+    "conference": "CircleCityCon 7.0 Apocalypse",
+    "link": "https://ccc-cfp-2020.busyconf.com/schedule"
+  },
+  {
+    "id": 1066612,
+    "name": "Erich Kron",
+    "title": "",
+    "description": "",
+    "twitter": "ErichKron",
+    "linkedin": "https://www.linkedin.com/in/erichkron/",
+    "conference": "CircleCityCon 7.0 Apocalypse",
+    "link": "https://ccc-cfp-2020.busyconf.com/schedule"
+  },
+  {
+    "id": 1066613,
+    "name": "JJ Josing",
+    "title": "",
+    "description": "",
+    "twitter": "th3_jiv3r",
+    "linkedin": "",
+    "conference": "CircleCityCon 7.0 Apocalypse",
+    "link": "https://ccc-cfp-2020.busyconf.com/schedule"
+  },
+  {
+    "id": 1066614,
+    "name": "Alex Holden",
+    "title": "",
+    "description": "",
+    "twitter": "HoldSecurity",
+    "linkedin": "",
+    "conference": "CircleCityCon 7.0 Apocalypse",
+    "link": "https://ccc-cfp-2020.busyconf.com/schedule"
+  },
+  {
+    "id": 1066615,
+    "name": "Matt Coons",
+    "title": "",
+    "description": "",
+    "twitter": "arborbytes",
+    "linkedin": "",
+    "conference": "CircleCityCon 7.0 Apocalypse",
+    "link": "https://ccc-cfp-2020.busyconf.com/schedule"
+  },
+  {
+    "id": 1066616,
+    "name": "Steven Briggs",
+    "title": "",
+    "description": "",
+    "twitter": "tnvolsfan29",
+    "linkedin": "",
+    "conference": "CircleCityCon 7.0 Apocalypse",
+    "link": "https://ccc-cfp-2020.busyconf.com/schedule"
+  },
+  {
+    "id": 1066617,
+    "name": "Yoshi LNU",
+    "title": "",
+    "description": "",
+    "twitter": "chicagocyber",
+    "linkedin": "",
+    "conference": "CircleCityCon 7.0 Apocalypse",
+    "link": "https://ccc-cfp-2020.busyconf.com/schedule"
+  },
+  {
+    "id": 1066618,
+    "name": "Micah Brown",
+    "title": "",
+    "description": "",
+    "twitter": "MicahKBrown",
+    "linkedin": "",
+    "conference": "CircleCityCon 7.0 Apocalypse",
+    "link": "https://ccc-cfp-2020.busyconf.com/schedule"
+  },
+  {
+    "id": 1066619,
+    "name": "Ryan Wisniewski",
+    "title": "",
+    "description": "",
+    "twitter": "Ry_Wiz",
+    "linkedin": "",
+    "conference": "CircleCityCon 7.0 Apocalypse",
+    "link": "https://ccc-cfp-2020.busyconf.com/schedule"
+  },
+  {
+    "id": 1066620,
+    "name": "Mary Waddick",
+    "title": "",
+    "description": "",
+    "twitter": "S3rEni1Y",
+    "linkedin": "",
+    "conference": "CircleCityCon 7.0 Apocalypse",
+    "link": "https://ccc-cfp-2020.busyconf.com/schedule"
+  },
+  {
+    "id": 1066621,
+    "name": "Joe B",
+    "title": "",
+    "description": "",
+    "twitter": "TheBlindHacker",
+    "linkedin": "",
+    "conference": "CircleCityCon 7.0 Apocalypse",
+    "link": "https://ccc-cfp-2020.busyconf.com/schedule"
+  },
+  {
+    "id": 1066622,
+    "name": "Suzanne Pereira",
+    "title": "",
+    "description": "",
+    "twitter": "1suzannepereira",
+    "linkedin": "http://linkedin.com/in/suzanne-pereira-511777156",
+    "conference": "CircleCityCon 7.0 Apocalypse",
+    "link": "https://ccc-cfp-2020.busyconf.com/schedule"
+  },
+  {
+    "id": 1066623,
+    "name": "Catherine Ullman",
+    "title": "",
+    "description": "",
+    "twitter": "investigatorchi",
+    "linkedin": "https://www.linkedin.com/in/catherine-ullman-26a9406",
+    "conference": "CircleCityCon 7.0 Apocalypse",
+    "link": "https://ccc-cfp-2020.busyconf.com/schedule"
+  },
+  {
+    "id": 1066624,
+    "name": "Olivia Stella",
+    "title": "",
+    "description": "",
+    "twitter": "oliviacurls",
+    "linkedin": "",
+    "conference": "CircleCityCon 7.0 Apocalypse",
+    "link": "https://ccc-cfp-2020.busyconf.com/schedule"
+  },
+  {
+    "id": 1066625,
+    "name": "Matt Perry",
+    "title": "",
+    "description": "",
+    "twitter": "SirguardWV",
+    "linkedin": "",
+    "conference": "CircleCityCon 7.0 Apocalypse",
+    "link": "https://ccc-cfp-2020.busyconf.com/schedule"
+  },
+  {
+    "id": 1066626,
+    "name": "Hannah Robbins",
+    "title": "",
+    "description": "",
+    "twitter": "robbinbs",
+    "linkedin": "",
+    "conference": "CircleCityCon 7.0 Apocalypse",
+    "link": "https://ccc-cfp-2020.busyconf.com/schedule"
+  },
+  {
+    "id": 1066627,
+    "name": "Rebecca Deck",
+    "title": "",
+    "description": "",
+    "twitter": "ranger_cha",
+    "linkedin": "",
+    "conference": "CircleCityCon 7.0 Apocalypse",
+    "link": "https://ccc-cfp-2020.busyconf.com/schedule"
+  },
+  {
+    "id": 1066628,
+    "name": "Krassimir Tzvetanov",
+    "title": "",
+    "description": "",
+    "twitter": "",
+    "linkedin": "https://www.linkedin.com/in/krassi/",
+    "conference": "CircleCityCon 7.0 Apocalypse",
+    "link": "https://ccc-cfp-2020.busyconf.com/schedule"
+  },
+  {
+    "id": 1066629,
+    "name": "Ochaun Marshall",
+    "title": "",
+    "description": "",
+    "twitter": "OchaunM",
+    "linkedin": "https://www.linkedin.com/in/ochaunmarshall/",
+    "conference": "CircleCityCon 7.0 Apocalypse",
+    "link": "https://ccc-cfp-2020.busyconf.com/schedule"
+  },
+  {
+    "id": 1066630,
+    "name": "Alexei Kojenov",
+    "title": "",
+    "description": "",
+    "twitter": "kojenov",
+    "linkedin": "https://www.linkedin.com/in/kojenov",
+    "conference": "CircleCityCon 7.0 Apocalypse",
+    "link": "https://ccc-cfp-2020.busyconf.com/schedule"
+  },
+  {
+    "id": 1066631,
+    "name": "Alexei Kojenov",
+    "title": "",
+    "description": "",
+    "twitter": "kojenov",
+    "linkedin": "https://www.linkedin.com/in/kojenov",
+    "conference": "CircleCityCon 7.0 Apocalypse",
+    "link": "https://ccc-cfp-2020.busyconf.com/schedule"
+  },
+  {
+    "id": 1066632,
+    "name": "Colin Cowie",
+    "title": "",
+    "description": "",
+    "twitter": "th3_protoCOL",
+    "linkedin": "https://www.linkedin.com/in/colincowie98/",
+    "conference": "CircleCityCon 7.0 Apocalypse",
+    "link": "https://ccc-cfp-2020.busyconf.com/schedule"
+  },
+  {
+    "id": 1066633,
+    "name": "Alex Ivkin",
+    "title": "",
+    "description": "",
+    "twitter": "alexivkinx",
+    "linkedin": "",
+    "conference": "CircleCityCon 7.0 Apocalypse",
+    "link": "https://ccc-cfp-2020.busyconf.com/schedule"
+  },
+  {
+    "id": 1066634,
+    "name": "Nathan Sweaney",
+    "title": "",
+    "description": "",
+    "twitter": "sweaney",
+    "linkedin": "https://www.linkedin.com/in/nathansweaney/",
+    "conference": "CircleCityCon 7.0 Apocalypse",
+    "link": "https://ccc-cfp-2020.busyconf.com/schedule"
+  },
+  {
+    "id": 1066635,
+    "name": "C. Emma Peel",
+    "title": "",
+    "description": "",
+    "twitter": "ladydemona",
+    "linkedin": "",
+    "conference": "CircleCityCon 7.0 Apocalypse",
+    "link": "https://ccc-cfp-2020.busyconf.com/schedule"
+  },
+  {
+    "id": 1066636,
+    "name": "Xena Olsen",
+    "title": "",
+    "description": "",
+    "twitter": "ch33r10",
+    "linkedin": "",
+    "conference": "CircleCityCon 7.0 Apocalypse",
+    "link": "https://ccc-cfp-2020.busyconf.com/schedule"
+  },
+  {
+    "id": 1066637,
+    "name": "David Young",
+    "title": "",
+    "description": "",
+    "twitter": "deyo2794",
+    "linkedin": "",
+    "conference": "CircleCityCon 7.0 Apocalypse",
+    "link": "https://ccc-cfp-2020.busyconf.com/schedule"
+  },
+  {
+    "id": 1066638,
+    "name": "Nick Roy",
+    "title": "",
+    "description": "",
+    "twitter": "",
+    "linkedin": "",
+    "conference": "CircleCityCon 7.0 Apocalypse",
+    "link": "https://ccc-cfp-2020.busyconf.com/schedule"
+  },
+  {
+    "id": 1066639,
+    "name": "David Lindner",
+    "title": "",
+    "description": "",
+    "twitter": "golfhackerdave",
+    "linkedin": "https://www.linkedin.com/in/dlindner/",
+    "conference": "CircleCityCon 7.0 Apocalypse",
+    "link": "https://ccc-cfp-2020.busyconf.com/schedule"
+  },
+  {
+    "id": 1066640,
+    "name": "Grant Harris",
+    "title": "",
+    "description": "",
+    "twitter": "",
+    "linkedin": "",
+    "conference": "CircleCityCon 7.0 Apocalypse",
+    "link": "https://ccc-cfp-2020.busyconf.com/schedule"
+  },
+  {
+    "id": 1066641,
+    "name": "Alyssa Miller",
+    "title": "",
+    "description": "",
+    "twitter": "alyssam_infosec",
+    "linkedin": "https://www.linkedin.com/in/alyssam-infosec",
+    "conference": "CircleCityCon 7.0 Apocalypse",
+    "link": "https://ccc-cfp-2020.busyconf.com/schedule"
+  },
+  {
+    "id": 1066642,
+    "name": "Mike Saunders",
+    "title": "",
+    "description": "",
+    "twitter": "hardwaterhacker",
+    "linkedin": "https://www.linkedin.com/in/mike-saunders-7902631",
+    "conference": "CircleCityCon 7.0 Apocalypse",
+    "link": "https://ccc-cfp-2020.busyconf.com/schedule"
+  },
+  {
+    "id": 1066643,
+    "name": "Jimmy James",
+    "title": "",
+    "description": "",
+    "twitter": "",
+    "linkedin": "",
+    "conference": "CircleCityCon 7.0 Apocalypse",
+    "link": "https://ccc-cfp-2020.busyconf.com/schedule"
+  },
+  {
+    "id": 1066644,
+    "name": "Mark Orlando",
+    "title": "",
+    "description": "",
+    "twitter": "markaorlando",
+    "linkedin": "https://www.linkedin.com/in/marko16/",
+    "conference": "CircleCityCon 7.0 Apocalypse",
+    "link": "https://ccc-cfp-2020.busyconf.com/schedule"
+  },
+  {
+    "id": 1066645,
+    "name": "Matt Scheurer",
+    "title": "",
+    "description": "",
+    "twitter": "c3rkah",
+    "linkedin": "https://www.linkedin.com/in/mattscheurer/",
+    "conference": "CircleCityCon 7.0 Apocalypse",
+    "link": "https://ccc-cfp-2020.busyconf.com/schedule"
+  },
+  {
+    "id": 1066646,
+    "name": "Adam Schaal",
+    "title": "",
+    "description": "",
+    "twitter": "clevernyyyy",
+    "linkedin": "https://www.linkedin.com/in/adamschaal/",
+    "conference": "CircleCityCon 7.0 Apocalypse",
+    "link": "https://ccc-cfp-2020.busyconf.com/schedule"
+  },
+  {
+    "id": 1066647,
+    "name": "Dylan Katz",
+    "title": "",
+    "description": "",
+    "twitter": "Plazmaz",
+    "linkedin": "",
+    "conference": "CircleCityCon 7.0 Apocalypse",
+    "link": "https://ccc-cfp-2020.busyconf.com/schedule"
+  },
+  {
+    "id": 1066648,
+    "name": "zamester",
+    "title": "",
+    "description": "",
+    "twitter": "",
+    "linkedin": "",
+    "conference": "CircleCityCon 7.0 Apocalypse",
+    "link": "https://ccc-cfp-2020.busyconf.com/schedule"
+  },
+  {
+    "id": 1066649,
+    "name": "Aleks Frelas",
+    "title": "",
+    "description": "",
+    "twitter": "red_echel0n",
+    "linkedin": "",
+    "conference": "CircleCityCon 7.0 Apocalypse",
+    "link": "https://ccc-cfp-2020.busyconf.com/schedule"
+  },
+  {
+    "id": 1066650,
+    "name": "Joe Kuemerle",
+    "title": "",
+    "description": "",
+    "twitter": "jkuemerle",
+    "linkedin": "",
+    "conference": "CircleCityCon 7.0 Apocalypse",
+    "link": "https://ccc-cfp-2020.busyconf.com/schedule"
+  },
+  {
+    "id": 1066651,
+    "name": "Chris Culling",
+    "title": "",
+    "description": "",
+    "twitter": "chrisculling",
+    "linkedin": "https://www.linkedin.com/in/chrisculling/",
+    "conference": "CircleCityCon 7.0 Apocalypse",
+    "link": "https://ccc-cfp-2020.busyconf.com/schedule"
+  }
+  ]
+}
