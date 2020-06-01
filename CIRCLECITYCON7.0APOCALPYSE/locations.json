@@ -1,5 +1,4 @@
 {
-  "updated_at": "2020-06-01T18:21:53+00:00",
   "locations": [
     {
       "id": 99901,
@@ -8,28 +7,46 @@
       "name": "global"
     },
     {
-      "id": 99901,
+      "id": 99902,
       "updated_at": "2020-06-01T18:21:53+00:00",
       "conference": "CircleCityCon 7.0 Apocalypse",
       "name": "Virtual Room 1"
     },
     {
-      "id": 99902,
+      "id": 99903,
       "updated_at": "2020-06-01T18:21:53+00:00",
       "conference": "CircleCityCon 7.0 Apocalypse",
       "name": "Virtual Room 2"
     },
     {
-      "id": 99903,
+      "id": 99904,
       "updated_at": "2020-06-01T18:21:53+00:00",
-      "conference": "CACTUSCON2018",
+      "conference": "CircleCityCon 7.0 Apocalypse",
       "name": "Virtual Room 3"
     },
     {
-      "id": 99904,
+      "id": 99905,
       "updated_at": "2020-06-01T18:21:53+00:00",
-      "conference": "CACTUSCON2018",
-      "name": "Superstition Ballroom"
+      "conference": "CircleCityCon 7.0 Apocalypse",
+      "name": "Virtual Training Room 1"
+    },
+    {
+      "id": 99906,
+      "updated_at": "2020-06-01T18:21:53+00:00",
+      "conference": "CircleCityCon 7.0 Apocalypse",
+      "name": "Virtual Trainng Room 2"
+    },
+    {
+      "id": 99907,
+      "updated_at": "2020-06-01T18:21:53+00:00",
+      "conference": "CircleCityCon 7.0 Apocalypse",
+      "name": "Virtual Training Room 3"
+    },
+    {
+      "id": 99908,
+      "updated_at": "2020-06-01T18:21:53+00:00",
+      "conference": "CircleCityCon 7.0 Apocalypse",
+      "name": "Virtual Training Room 4"
     }
   ],
   "updated_at": "2020-06-01T18:21:53+00:00"
