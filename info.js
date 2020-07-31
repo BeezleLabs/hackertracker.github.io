@@ -84,7 +84,7 @@ function loadEvents(inital) {
 
               //console.log(`${e.id} => ${e.title} => ${e.begin_timestamp.toMillis()}`);
 
-              let element = `<div class="card text-white"  style="border: 0px; background-color: #2a2b35;">
+              let element = `<div class="card text-white"  style="border: 0px; background-color: #222222;">
                     <div  style="background-color: ${e.type.color}; width: 8px; height: 90%; display: inline-block; position: absolute;"> </div>
                     <div class="row">`;
 
@@ -93,6 +93,7 @@ function loadEvents(inital) {
               let tmpString = begin.toLocaleTimeString(navigator.language, {
                 hour: "2-digit",
                 minute: "2-digit",
+			    timeZoneName: "short"
               });
               if (timeString != tmpString) {
                 timeString = tmpString;
@@ -107,11 +108,24 @@ function loadEvents(inital) {
 
               element += `
                         <div class="card-body col-10">
-                            <h6 class="card-text">${e.title}</h6>
-                            <div class="card-text" style="color: #cccccc">${e.location.name}</div>
-                            <!-- <div class="card-text" style="color: #cccccc"><span class="dot"></span>${e.type.name}</div> -->
+                            <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#M-${e.id}">${e.title}</button>
+							<p class="text-left" style="color: #cccccc">${e.location.name}</p>
+					    </div>
+                    </div>
+                    <div class="modal" id="M-${e.id}" tabindex="-1" role="dialog" aria-labelledby="${e.id}-modalLabel" aria-hidden="true">
+                      <div class="modal-dialog modal-xl" role="document">
+                        <div class="modal-content">
+                          <div class="modal-header">
+                            <h5 class="modal-title">${e.title}</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                              <span aria-hidden="true">&times;</span>
+                            </button>
+                          </div>
+                          <div class="modal-body">
+                            <p>${e.description}</p>
+                          </div>
                         </div>
-                        </div>
+                      </div>
                     </div>`;
               //console.log(element)
               eventList.insertAdjacentHTML("beforeend", element);

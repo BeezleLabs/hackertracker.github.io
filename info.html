@@ -7,6 +7,7 @@
       content="width=device-width, initial-scale=1, shrink-to-fit=no"
     />
     <title>info.defcon.org</title>
+    <link rel="stylesheet" href="base.css">
     <link
       rel="stylesheet"
       href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
@@ -19,10 +20,10 @@
     />
     <link rel="stylesheet" href="info.css" />
   </head>
-  <body style="background-color: #2a2b35;">
+  <body style="background-color: #000000;">
     <nav class="navbar navbar-expand-md navbar-dark">
       <div class="mr-4">
-        <a href="#" class="navbar-brand mr-4">DEF CON 28 Schedule</a>
+        <h1>DEF CON 28 Schedule</h1>
       </div>
 
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -65,7 +66,10 @@
     </nav>
     <div class="container-fluid">
       <div class="row">
-        <div class="col-md-2 text-white .d-none .d-lg-block .d-xl-none">
+
+        <div id="eventlist" class="col-md-9 text-white"></div>
+
+        <div class="col-md-3 text-white .d-none .d-lg-block .d-xl-none">
           <a
             class="twitter-timeline"
             data-theme="dark"
@@ -79,21 +83,6 @@
           ></script>
         </div>
 
-        <div id="eventlist" class="col-md-8 text-white"></div>
-
-        <div class="col-md-2 text-white">
-          <a
-            class="twitter-timeline"
-            data-theme="dark"
-            href="https://twitter.com/dcib?ref_src=twsrc%5Etfw"
-            >Tweets by defcon</a
-          >
-          <script
-            async
-            src="https://platform.twitter.com/widgets.js"
-            charset="utf-8"
-          ></script>
-        </div>
       </div>
 
       <hr />
