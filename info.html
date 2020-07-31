@@ -1,130 +1,130 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<title>info.defcon.org</title>
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="info.css">
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
-<script src="https://www.gstatic.com/firebasejs/6.3.4/firebase-app.js"></script>
-<script src="https://www.gstatic.com/firebasejs/6.3.4/firebase-firestore.js"></script>
-</head>
-<body style="background-color: #2a2b35;">
-<nav class="navbar navbar-expand-md navbar-dark">
-    <div class="mr-4">
-        <a href="#" class="navbar-brand mr-4">DEF CON 27 Schedule</a>
-    </div>
-</nav>
-<div class="container-fluid">
-    <div class="row">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <title>info.defcon.org</title>
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
+      integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk"
+      crossorigin="anonymous"
+    />
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <link rel="stylesheet" href="info.css" />
+  </head>
+  <body style="background-color: #2a2b35;">
+    <nav class="navbar navbar-expand-md navbar-dark">
+      <div class="mr-4">
+        <a href="#" class="navbar-brand mr-4">DEF CON 28 Schedule</a>
+      </div>
 
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+          <li>
+            <select
+              id="category-selector"
+              class="bootstrap-select custom-select-md form-control"
+            >
+            </select>
+          </li>
+          <li style="padding-left: 2em;">
+            <div class="form-inline my-2 my-lg-0">
+              <input
+                id="search-bar"
+                class="form-control mr-sm-2"
+                type="search"
+                placeholder="Search"
+                aria-label="Search"
+              />
+              <button
+                id="search-btn"
+                class="btn btn-outline-success my-2 my-sm-0"
+                type="submit"
+              >
+                Search
+              </button>
+              &nbsp;&nbsp;
+              <button
+                id="search-cancel-btn"
+                class="btn btn-outline-success my-2 my-sm-0"
+                type="submit"
+              >
+                X
+              </button>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </nav>
+    <div class="container-fluid">
+      <div class="row">
         <div class="col-md-2 text-white .d-none .d-lg-block .d-xl-none">
-            <a class="twitter-timeline" data-theme="dark" href="https://twitter.com/defcon?ref_src=twsrc%5Etfw">Tweets by defcon</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+          <a
+            class="twitter-timeline"
+            data-theme="dark"
+            href="https://twitter.com/defcon?ref_src=twsrc%5Etfw"
+            >Tweets by defcon</a
+          >
+          <script
+            async
+            src="https://platform.twitter.com/widgets.js"
+            charset="utf-8"
+          ></script>
         </div>
 
-        <div id="eventlist" class="col-md-8 text-white" >
+        <div id="eventlist" class="col-md-8 text-white"></div>
 
+        <div class="col-md-2 text-white">
+          <a
+            class="twitter-timeline"
+            data-theme="dark"
+            href="https://twitter.com/dcib?ref_src=twsrc%5Etfw"
+            >Tweets by defcon</a
+          >
+          <script
+            async
+            src="https://platform.twitter.com/widgets.js"
+            charset="utf-8"
+          ></script>
         </div>
+      </div>
 
-            <div class="col-md-2 text-white">
-                <a class="twitter-timeline" data-theme="dark" href="https://twitter.com/dcib?ref_src=twsrc%5Etfw">Tweets by defcon</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-            </div>
-        </div>
-
-        <hr>
-    <footer>
+      <hr />
+      <footer>
         <div class="row">
-            <div class="col-md-6 text-white">
-                <p>HackerTracker Web</p>
-            </div>
-            <div class="col-md-6 text-md-right">
-                <a href="#" class="text-white">@sethlaw | @_advice_dog</a>
-            </div>
+          <div class="col-md-6 text-white">
+            <p>HackerTracker Web</p>
+          </div>
+          <div class="col-md-6 text-md-right">
+            <a href="#" class="text-white">@sethlaw | @_advice_dog</a>
+          </div>
         </div>
-    </footer>
-</div>
-<script>
-  // Your web app's Firebase configuration
-  var firebaseConfig = {
-    apiKey: "AIzaSyAsAP88rl0Qk0v4g_vYFpybKohS_hiyq-w",
-    authDomain: "hackertest-5a202.firebaseapp.com",
-    databaseURL: "https://hackertest-5a202.firebaseio.com",
-    projectId: "hackertest-5a202",
-    storageBucket: "hackertest-5a202.appspot.com",
-    messagingSenderId: "611899979455",
-    appId: "1:611899979455:web:e52aa3314edcf7a2"
-  };
-  // Initialize Firebase
-  firebase.initializeApp(firebaseConfig);
-
-  function loadEvents() {
-      var eventList = document.getElementById('eventlist');
-      eventList.innerHTML = ""
-      console.log(eventList)
-      var currentTime = Date.now();
-      console.log(`Current Time: ${currentTime}`);
-      var first = true
-      var dayString = ""
-      var timeString = ""
-
-      firebase.firestore().collection('conferences')
-        .doc('DEFCON27').collection('events').orderBy('begin_timestamp', 'asc')
-        .get().then((querySnapshot) => {
-        querySnapshot.forEach((event) => {
-            e = event.data();
-            if (e.type.id == 40002) {
-                if (e.end_timestamp.toMillis() > currentTime) {
-                    var begin = e.begin_timestamp.toDate();
-                    if (dayString != begin.toDateString()) {
-                        dayString = begin.toDateString();
-                        newDayHTML = `<h4 class="text-center">${dayString}</h4>`
-                        eventList.insertAdjacentHTML('beforeend',newDayHTML);
-                    }
-                    //console.log(`${e.id} => ${e.title} => ${e.begin_timestamp.toMillis()}`);
-
-                    var element = `<div class="card text-white"  style="border: 0px; background-color: #2a2b35;">
-                    <div  style="background-color: ${e.type.color}; width: 8px; height: 90%; display: inline-block; position: absolute;"> </div>
-                    <div class="row">`
-                    //eventList.insertAdjacentHTML('beforeend',e1);
-
-                    var tmpString = begin.toLocaleTimeString(navigator.language, {hour: '2-digit', minute:'2-digit'});
-                    if (timeString != tmpString) {
-                        timeString = tmpString;
-                        newTimeHTML = `<div class="card-body col-2"><p class="text-center" style="color: #cccccc">${timeString.replace('AM','').replace('PM','')}</p></div>`
-                        element += newTimeHTML;
-                    } else {
-                        newTimeHTML = `<div class="card-body col-2"><p class="text-center" style="color: #cccccc">&nbsp;</p></div>`
-                        element += newTimeHTML;
-                    }
-
-                    element += `
-                        <div class="card-body col-10">
-                            <h6 class="card-text">${e.title}</h6>
-                            <div class="card-text" style="color: #cccccc">${e.location.name}</div>
-                            <div class="card-text" style="color: #cccccc"><span class="dot"></span>  Official Talk</div>
-                        </div>
-                        </div>
-                    </div>`;
-                    //console.log(element)
-                    eventList.insertAdjacentHTML('beforeend',element);
-                } else {
-                    console.log(`nope ${e.begin_timestamp.toMillis()} is <= ${currentTime}`)
-                }
-
-            }
-
-        });
-      });
-  };
-
-  window.onload = loadEvents();
-  $(function() {
-      setInterval(loadEvents,60000)
-  });
-</script>
-</body>
+      </footer>
+    </div>
+    <script
+      src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+      integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+      integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"
+      integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI"
+      crossorigin="anonymous"
+    ></script>
+    <script src="https://www.gstatic.com/firebasejs/7.17.1/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/7.17.1/firebase-firestore.js"></script>
+    <script src="info.js"></script>
+  </body>
 </html>
