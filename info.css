@@ -5,3 +5,7 @@
   border-radius: 50%;
   display: inline-block;
 }
+
+.modal-dialog {
+    pointer-events: all;
+}
