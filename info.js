@@ -166,4 +166,4 @@ searchCancelButton.addEventListener("click", () => {
 
 setInterval(() => {
   loadEvents(false);
-}, 60000);
+}, 600000);
