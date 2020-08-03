@@ -93,13 +93,12 @@ function loadEvents(inital) {
               let tmpString = begin.toLocaleTimeString(navigator.language, {
                 hour: "2-digit",
                 minute: "2-digit",
-			    timeZoneName: "short"
+			    timeZoneName: "short",
+                hour12: false
               });
               if (timeString != tmpString) {
                 timeString = tmpString;
-                let newTimeHTML = `<div class="card-body col-2"><p class="text-center" style="color: #cccccc">${timeString
-                  .replace("AM", "")
-                  .replace("PM", "")}</p></div>`;
+                let newTimeHTML = `<div class="card-body col-2"><p class="text-center" style="color: #cccccc">${timeString}</p></div>`;
                 element += newTimeHTML;
               } else {
                 let newTimeHTML = `<div class="card-body col-2"><p class="text-center" style="color: #cccccc">&nbsp;</p></div>`;
