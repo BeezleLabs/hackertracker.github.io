@@ -116,7 +116,7 @@ function loadEvents(inital) {
 
               element += `
                         <div class="card-body col-9">
-                            <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#M-${e.id}">${e.title}</button>
+                            <button type="button" style="-webkit-box-shadow: 0 7px 5px -5px ${e.type.color}; -moz-box-shadow: 0 7px 5px -5px ${e.type.color}; box-shadow: 0 7px 5px -5px ${e.type.color};"class="btn btn-secondary" data-toggle="modal" data-target="#M-${e.id}">${e.title}</button>
 							<p class="text-left" style="color: #cccccc">${e.location.name}</p>
 					    </div>
                     </div>
