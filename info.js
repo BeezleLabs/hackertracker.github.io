@@ -76,6 +76,7 @@ function loadEvents(inital) {
           ) {
             if (e.end_timestamp.toMillis() > currentTime) {
               let begin = e.begin_timestamp.toDate();
+              let end = e.end_timestamp.toDate();
               if (dayString != begin.toDateString()) {
                 dayString = begin.toDateString();
                 let newDayHTML = `<h4 class="text-center">${dayString}</h4>`;
@@ -114,6 +115,37 @@ function loadEvents(inital) {
                 element += newTimeHTML;
               }
 
+              let endPdtString = end.toLocaleTimeString(navigator.language, {
+                hour: "2-digit",
+                minute: "2-digit",
+                timeZoneName: "short",
+                timeZone: "America/Los_Angeles",
+                hour12: false,
+              });
+              let endGmtString = end.toLocaleTimeString(navigator.language, {
+                hour: "2-digit",
+                minute: "2-digit",
+                timeZoneName: "short",
+                timeZone: "GMT",
+                hour12: false,
+              });
+
+              let beginLocalString = begin.toLocaleTimeString(
+                navigator.language,
+                {
+                  hour: "2-digit",
+                  minute: "2-digit",
+                  timeZoneName: "short",
+                  hour12: false,
+                }
+              );
+
+              let endLocalString = end.toLocaleTimeString(navigator.language, {
+                hour: "2-digit",
+                minute: "2-digit",
+                timeZoneName: "short",
+                hour12: false,
+              });
               element += `
                         <div class="card-body col-9">
                             <button type="button" style="-webkit-box-shadow: 0 7px 5px -5px ${e.type.color}; -moz-box-shadow: 0 7px 5px -5px ${e.type.color}; box-shadow: 0 7px 5px -5px ${e.type.color};"class="btn btn-secondary" data-toggle="modal" data-target="#M-${e.id}">${e.title}</button>
