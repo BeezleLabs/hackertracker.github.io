@@ -162,7 +162,32 @@ function loadEvents(inital) {
                             </button>
                           </div>
                           <div class="modal-body">
-                            <p>${e.description}</p>
+                          <h6>${beginLocalString} - ${endLocalString}</h6>
+                          <h6>${pdtString} - ${endPdtString}</h6>
+                          <h6>${gmtString} - ${endGmtString}</h6>
+                            <p>${e.description}</p>`;
+
+              const speakers = e.speakers.map((speaker) => speaker.name);
+
+              if (speakers.length == 1) {
+                element += `<p>Speaker: ${speakers[0]}</p>`;
+              } else if (speakers.length > 1) {
+                element += `<p>Speakers: ${speakers.join(", ")}</p>`;
+              }
+
+              const forumUrl = e.type.subforum_url;
+
+              if (forumUrl) {
+                element += `<hr><a href="${forumUrl}">Forum</a>`;
+              }
+
+              const discordUrl = e.type.discord_url;
+
+              if (discordUrl) {
+                element += `<hr><a href="${discordUrl}">Discord</a>`;
+              }
+
+              element += `
                           </div>
                         </div>
                       </div>
