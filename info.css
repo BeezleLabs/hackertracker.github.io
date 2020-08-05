@@ -1,13 +1,15 @@
 .dot {
   height: 12px;
   width: 12px;
-  background-color: #6497DC;
+  background-color: #6497dc;
   border-radius: 50%;
   display: inline-block;
 }
 
 .modal-dialog {
-    pointer-events: all;
+  pointer-events: all;
+}
+
 .btn-secondary {
   margin-bottom: 5px;
 }

@@ -94,16 +94,16 @@ function loadEvents(inital) {
               let pdtString = begin.toLocaleTimeString(navigator.language, {
                 hour: "2-digit",
                 minute: "2-digit",
-			    timeZoneName: "short",
+                timeZoneName: "short",
                 timeZone: "America/Los_Angeles",
-                hour12: false
+                hour12: false,
               });
               let gmtString = begin.toLocaleTimeString(navigator.language, {
                 hour: "2-digit",
                 minute: "2-digit",
-			    timeZoneName: "short",
+                timeZoneName: "short",
                 timeZone: "GMT",
-                hour12: false
+                hour12: false,
               });
 
               if (timeString != pdtString) {
@@ -146,6 +146,7 @@ function loadEvents(inital) {
                 timeZoneName: "short",
                 hour12: false,
               });
+
               element += `
                         <div class="card-body col-9">
                             <button type="button" style="-webkit-box-shadow: 0 7px 5px -5px ${e.type.color}; -moz-box-shadow: 0 7px 5px -5px ${e.type.color}; box-shadow: 0 7px 5px -5px ${e.type.color};"class="btn btn-secondary" data-toggle="modal" data-target="#M-${e.id}">${e.title}</button>
