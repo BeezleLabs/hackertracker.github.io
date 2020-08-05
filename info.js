@@ -90,23 +90,32 @@ function loadEvents(inital) {
 
               //eventList.insertAdjacentHTML('beforeend',e1);
 
-              let tmpString = begin.toLocaleTimeString(navigator.language, {
+              let pdtString = begin.toLocaleTimeString(navigator.language, {
                 hour: "2-digit",
                 minute: "2-digit",
 			    timeZoneName: "short",
+                timeZone: "America/Los_Angeles",
                 hour12: false
               });
-              if (timeString != tmpString) {
-                timeString = tmpString;
-                let newTimeHTML = `<div class="card-body col-2"><p class="text-center" style="color: #cccccc">${timeString}</p></div>`;
+              let gmtString = begin.toLocaleTimeString(navigator.language, {
+                hour: "2-digit",
+                minute: "2-digit",
+			    timeZoneName: "short",
+                timeZone: "GMT",
+                hour12: false
+              });
+
+              if (timeString != pdtString) {
+                timeString = pdtString;
+                let newTimeHTML = `<div class="card-body col-3"><p class="text-center" style="color: #cccccc">${timeString} / ${gmtString}</p></div>`;
                 element += newTimeHTML;
               } else {
-                let newTimeHTML = `<div class="card-body col-2"><p class="text-center" style="color: #cccccc">&nbsp;</p></div>`;
+                let newTimeHTML = `<div class="card-body col-3"><p class="text-center" style="color: #cccccc">&nbsp;</p></div>`;
                 element += newTimeHTML;
               }
 
               element += `
-                        <div class="card-body col-10">
+                        <div class="card-body col-9">
                             <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#M-${e.id}">${e.title}</button>
 							<p class="text-left" style="color: #cccccc">${e.location.name}</p>
 					    </div>
