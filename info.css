@@ -8,4 +8,6 @@
 
 .modal-dialog {
     pointer-events: all;
+.btn-secondary {
+  margin-bottom: 5px;
 }
