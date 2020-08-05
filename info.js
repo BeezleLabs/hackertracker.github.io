@@ -76,6 +76,7 @@ function loadEvents(inital) {
           ) {
             if (e.end_timestamp.toMillis() > currentTime) {
               let begin = e.begin_timestamp.toDate();
+              let end = e.end_timestamp.toDate();
               if (dayString != begin.toDateString()) {
                 dayString = begin.toDateString();
                 let newDayHTML = `<h4 class="text-center">${dayString}</h4>`;
@@ -93,16 +94,16 @@ function loadEvents(inital) {
               let pdtString = begin.toLocaleTimeString(navigator.language, {
                 hour: "2-digit",
                 minute: "2-digit",
-			    timeZoneName: "short",
+                timeZoneName: "short",
                 timeZone: "America/Los_Angeles",
-                hour12: false
+                hour12: false,
               });
               let gmtString = begin.toLocaleTimeString(navigator.language, {
                 hour: "2-digit",
                 minute: "2-digit",
-			    timeZoneName: "short",
+                timeZoneName: "short",
                 timeZone: "GMT",
-                hour12: false
+                hour12: false,
               });
 
               if (timeString != pdtString) {
@@ -114,9 +115,41 @@ function loadEvents(inital) {
                 element += newTimeHTML;
               }
 
+              let endPdtString = end.toLocaleTimeString(navigator.language, {
+                hour: "2-digit",
+                minute: "2-digit",
+                timeZoneName: "short",
+                timeZone: "America/Los_Angeles",
+                hour12: false,
+              });
+              let endGmtString = end.toLocaleTimeString(navigator.language, {
+                hour: "2-digit",
+                minute: "2-digit",
+                timeZoneName: "short",
+                timeZone: "GMT",
+                hour12: false,
+              });
+
+              let beginLocalString = begin.toLocaleTimeString(
+                navigator.language,
+                {
+                  hour: "2-digit",
+                  minute: "2-digit",
+                  timeZoneName: "short",
+                  hour12: false,
+                }
+              );
+
+              let endLocalString = end.toLocaleTimeString(navigator.language, {
+                hour: "2-digit",
+                minute: "2-digit",
+                timeZoneName: "short",
+                hour12: false,
+              });
+
               element += `
                         <div class="card-body col-9">
-                            <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#M-${e.id}">${e.title}</button>
+                            <button type="button" style="-webkit-box-shadow: 0 7px 5px -5px ${e.type.color}; -moz-box-shadow: 0 7px 5px -5px ${e.type.color}; box-shadow: 0 7px 5px -5px ${e.type.color};"class="btn btn-secondary" data-toggle="modal" data-target="#M-${e.id}">${e.title}</button>
 							<p class="text-left" style="color: #cccccc">${e.location.name}</p>
 					    </div>
                     </div>
@@ -130,7 +163,32 @@ function loadEvents(inital) {
                             </button>
                           </div>
                           <div class="modal-body">
-                            <p>${e.description}</p>
+                          <h6>${beginLocalString} - ${endLocalString}</h6>
+                          <h6>${pdtString} - ${endPdtString}</h6>
+                          <h6>${gmtString} - ${endGmtString}</h6>
+                            <p>${e.description}</p>`;
+
+              const speakers = e.speakers.map((speaker) => speaker.name);
+
+              if (speakers.length == 1) {
+                element += `<p>Speaker: ${speakers[0]}</p>`;
+              } else if (speakers.length > 1) {
+                element += `<p>Speakers: ${speakers.join(", ")}</p>`;
+              }
+
+              const forumUrl = e.type.subforum_url;
+
+              if (forumUrl) {
+                element += `<hr><a href="${forumUrl}">Forum</a>`;
+              }
+
+              const discordUrl = e.type.discord_url;
+
+              if (discordUrl) {
+                element += `<hr><a href="${discordUrl}">Discord</a>`;
+              }
+
+              element += `
                           </div>
                         </div>
                       </div>
@@ -166,8 +224,9 @@ searchButton.addEventListener("click", () => {
 });
 
 searchCancelButton.addEventListener("click", () => {
-  if (searchBar.value.length != 0) {
+  if (searchBar.value.length != 0 || categorysSelector.selectedIndex != 0) {
     searchBar.value = "";
+    categorysSelector.selectedIndex = 0;
     loadEvents(false);
   }
 });
