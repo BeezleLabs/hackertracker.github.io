@@ -223,8 +223,9 @@ searchButton.addEventListener("click", () => {
 });
 
 searchCancelButton.addEventListener("click", () => {
-  if (searchBar.value.length != 0) {
+  if (searchBar.value.length != 0 || categorysSelector.selectedIndex != 0) {
     searchBar.value = "";
+    categorysSelector.selectedIndex = 0;
     loadEvents(false);
   }
 });
