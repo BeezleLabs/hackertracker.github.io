@@ -28,6 +28,17 @@
 
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mr-auto">
+          <li class="timezone">
+            <select
+              id="timezone-selector"
+              class="bootstrap-select custom-select-md form-control"
+            >
+            <option selected disabled value="">Time Zone</option>
+            <option value="">Local</option>
+            <option value="America/Los_Angeles">PDT</option>
+            <option value="GMT">UTC</option>
+            </select>
+          </li>
           <li>
             <select
               id="category-selector"
@@ -35,7 +46,7 @@
             >
             </select>
           </li>
-          <li style="padding-left: 2em;">
+          <li style="margin-left: 15px;">
             <div class="form-inline my-2 my-lg-0">
               <input
                 id="search-bar"

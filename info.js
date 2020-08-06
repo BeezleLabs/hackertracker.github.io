@@ -1,3 +1,4 @@
+const timeZoneSelector = document.querySelector("#timezone-selector");
 const categorysSelector = document.querySelector("#category-selector");
 const searchButton = document.querySelector("#search-btn");
 const searchBar = document.querySelector("#search-bar");
@@ -91,87 +92,27 @@ function loadEvents(inital) {
 
               //eventList.insertAdjacentHTML('beforeend',e1);
 
-              let pdtString = begin.toLocaleTimeString(navigator.language, {
-                hour: "2-digit",
-                minute: "2-digit",
-                timeZoneName: "short",
-                timeZone: "America/Los_Angeles",
-                hour12: false,
-              });
-              let gmtString = begin.toLocaleTimeString(navigator.language, {
-                hour: "2-digit",
-                minute: "2-digit",
-                timeZoneName: "short",
-                timeZone: "GMT",
-                hour12: false,
-              });
+              let [beginOptions, endOptions] = getTimeOptions();
 
-              if (timeString != pdtString) {
-                timeString = pdtString;
-                let newTimeHTML = `<div class="card-body col-3"><p class="text-center" style="color: #cccccc">${timeString} / ${gmtString}</p></div>`;
-                element += newTimeHTML;
-              } else {
-                let newTimeHTML = `<div class="card-body col-3"><p class="text-center" style="color: #cccccc">&nbsp;</p></div>`;
-                element += newTimeHTML;
-              }
-
-              let endPdtString = end.toLocaleTimeString(navigator.language, {
-                hour: "2-digit",
-                minute: "2-digit",
-                timeZoneName: "short",
-                timeZone: "America/Los_Angeles",
-                hour12: false,
-              });
-              let endGmtString = end.toLocaleTimeString(navigator.language, {
-                hour: "2-digit",
-                minute: "2-digit",
-                timeZoneName: "short",
-                timeZone: "GMT",
-                hour12: false,
-              });
-
-              let beginLocalString = begin.toLocaleTimeString(
+              let beginString = begin.toLocaleTimeString(
                 navigator.language,
-                {
-                  hour: "2-digit",
-                  minute: "2-digit",
-                  timeZoneName: "short",
-                  hour12: false,
-                }
+                beginOptions
+              );
+              let endString = end.toLocaleTimeString(
+                navigator.language,
+                endOptions
               );
 
-              let endLocalString = end.toLocaleTimeString(navigator.language, {
-                hour: "2-digit",
-                minute: "2-digit",
-                timeZoneName: "short",
-                hour12: false,
-              });
-
-              let eventTimes = [
-                `${beginLocalString} - ${endLocalString}`,
-                `${pdtString} - ${endPdtString}`,
-                `${gmtString} - ${endGmtString}`,
-              ];
+              let newTimeHTML = `<div class="card-body col-3"><p class="text-center" style="color: #cccccc">${beginString} - ${endString}</p></div>`;
+              element += newTimeHTML;
 
               element += `
                         <div class="card-body col-9">
-                            <button type="button" style="-webkit-box-shadow: 0 7px 5px -5px ${
-                              e.type.color
-                            }; -moz-box-shadow: 0 7px 5px -5px ${
-                e.type.color
-              }; box-shadow: 0 7px 5px -5px ${
-                e.type.color
-              };"class="btn btn-secondary" data-toggle="modal" data-target="#M-${
-                e.id
-              }">${e.title}</button>
+                            <button type="button" style="-webkit-box-shadow: 0 7px 5px -5px ${e.type.color}; -moz-box-shadow: 0 7px 5px -5px ${e.type.color}; box-shadow: 0 7px 5px -5px ${e.type.color};"class="btn btn-secondary" data-toggle="modal" data-target="#M-${e.id}">${e.title}</button>
 							<p class="text-left" style="color: #cccccc">${e.location.name}</p>
 					    </div>
                     </div>
-                    <div class="modal" id="M-${
-                      e.id
-                    }" tabindex="-1" role="dialog" aria-labelledby="${
-                e.id
-              }-modalLabel" aria-hidden="true">
+                    <div class="modal" id="M-${e.id}" tabindex="-1" role="dialog" aria-labelledby="${e.id}-modalLabel" aria-hidden="true">
                       <div class="modal-dialog modal-xl modal-dialog-centered" role="document">
                         <div class="modal-content">
                           <div class="modal-header">
@@ -181,12 +122,7 @@ function loadEvents(inital) {
                             </button>
                           </div>
                           <div class="modal-body">
-                          <h6>${eventTimes.join(
-                            " &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
-                          )}</h6>
-                            <p>${e.description}</p>`;
-
-              const speakers = e.speakers.map((speaker) => speaker.name);
+                          <h6>${beginString} - ${endString}</h6>`;
 
               if (speakers.length == 1) {
                 element += `<p>Speaker: ${speakers[0]}</p>`;
@@ -246,6 +182,46 @@ function loadEvents(inital) {
     });
 }
 
+function getTimeOptions() {
+  let selectedTimezone =
+    timeZoneSelector.options[timeZoneSelector.selectedIndex].value;
+  if (selectedTimezone != "") {
+    return [
+      {
+        hour: "2-digit",
+        minute: "2-digit",
+        timeZoneName: "short",
+        timeZone: selectedTimezone,
+        hour12: false,
+        weekday: "short",
+      },
+      {
+        hour: "2-digit",
+        minute: "2-digit",
+        timeZoneName: "short",
+        timeZone: selectedTimezone,
+        hour12: false,
+      },
+    ];
+  } else {
+    return [
+      {
+        hour: "2-digit",
+        minute: "2-digit",
+        timeZoneName: "short",
+        hour12: false,
+        weekday: "short",
+      },
+      {
+        hour: "2-digit",
+        minute: "2-digit",
+        timeZoneName: "short",
+        hour12: false,
+      },
+    ];
+  }
+}
+
 function extractLinks(description) {
   let linkTitle = [];
   let urlRegex = new RegExp(
@@ -302,6 +278,10 @@ function extractLinks(description) {
 loadEvents(true);
 
 categorysSelector.addEventListener("change", () => {
+  loadEvents(false);
+});
+
+timeZoneSelector.addEventListener("change", () => {
   loadEvents(false);
 });
 

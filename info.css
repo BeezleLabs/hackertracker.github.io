@@ -14,6 +14,10 @@
   margin-bottom: 5px;
 }
 
+li.timezone {
+  margin-right: 15px;
+}
+
 #defcon-links {
   overflow-x: hidden;
   overflow-y: auto;
