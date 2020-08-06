@@ -186,9 +186,9 @@ function loadEvents(inital) {
               //console.log(element)
               eventList.insertAdjacentHTML("beforeend", element);
             } else {
-              console.log(
-                `nope ${e.begin_timestamp.toMillis()} is <= ${currentTime}`
-              );
+              // console.log(
+              //   `nope ${e.begin_timestamp.toMillis()} is <= ${currentTime}`
+              // );
             }
           }
         }
