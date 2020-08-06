@@ -1,4 +1,3 @@
-const timeZoneSelector = document.querySelector("#timezone-selector");
 const categorysSelector = document.querySelector("#category-selector");
 const searchButton = document.querySelector("#search-btn");
 const searchBar = document.querySelector("#search-bar");
@@ -70,14 +69,10 @@ function loadEvents(inital) {
           categorysSelector.options[categorysSelector.selectedIndex].value;
 
         const searchText = searchBar.value;
-        const speakers = e.speakers.map((speaker) => speaker.name);
-
         if (selectedCategory == "all" || e.type.id == selectedCategory) {
           if (
             searchText.length == 0 ||
-            e.title.toLowerCase().includes(searchText.toLowerCase()) ||
-            e.description.toLowerCase().includes(searchText.toLowerCase()) ||
-            speakers.join().toLowerCase().includes(searchText.toLowerCase())
+            e.title.toLowerCase().includes(searchText.toLowerCase())
           ) {
             if (e.end_timestamp.toMillis() > currentTime) {
               let begin = e.begin_timestamp.toDate();
@@ -96,27 +91,87 @@ function loadEvents(inital) {
 
               //eventList.insertAdjacentHTML('beforeend',e1);
 
-              let [beginOptions, endOptions] = getTimeOptions();
+              let pdtString = begin.toLocaleTimeString(navigator.language, {
+                hour: "2-digit",
+                minute: "2-digit",
+                timeZoneName: "short",
+                timeZone: "America/Los_Angeles",
+                hour12: false,
+              });
+              let gmtString = begin.toLocaleTimeString(navigator.language, {
+                hour: "2-digit",
+                minute: "2-digit",
+                timeZoneName: "short",
+                timeZone: "GMT",
+                hour12: false,
+              });
 
-              let beginString = begin.toLocaleTimeString(
+              if (timeString != pdtString) {
+                timeString = pdtString;
+                let newTimeHTML = `<div class="card-body col-3"><p class="text-center" style="color: #cccccc">${timeString} / ${gmtString}</p></div>`;
+                element += newTimeHTML;
+              } else {
+                let newTimeHTML = `<div class="card-body col-3"><p class="text-center" style="color: #cccccc">&nbsp;</p></div>`;
+                element += newTimeHTML;
+              }
+
+              let endPdtString = end.toLocaleTimeString(navigator.language, {
+                hour: "2-digit",
+                minute: "2-digit",
+                timeZoneName: "short",
+                timeZone: "America/Los_Angeles",
+                hour12: false,
+              });
+              let endGmtString = end.toLocaleTimeString(navigator.language, {
+                hour: "2-digit",
+                minute: "2-digit",
+                timeZoneName: "short",
+                timeZone: "GMT",
+                hour12: false,
+              });
+
+              let beginLocalString = begin.toLocaleTimeString(
                 navigator.language,
-                beginOptions
-              );
-              let endString = end.toLocaleTimeString(
-                navigator.language,
-                endOptions
+                {
+                  hour: "2-digit",
+                  minute: "2-digit",
+                  timeZoneName: "short",
+                  hour12: false,
+                }
               );
 
-              let newTimeHTML = `<div class="card-body col-3"><p class="text-center" style="color: #cccccc">${beginString} - ${endString}</p></div>`;
-              element += newTimeHTML;
+              let endLocalString = end.toLocaleTimeString(navigator.language, {
+                hour: "2-digit",
+                minute: "2-digit",
+                timeZoneName: "short",
+                hour12: false,
+              });
+
+              let eventTimes = [
+                `${beginLocalString} - ${endLocalString}`,
+                `${pdtString} - ${endPdtString}`,
+                `${gmtString} - ${endGmtString}`,
+              ];
 
               element += `
                         <div class="card-body col-9">
-                            <button type="button" style="-webkit-box-shadow: 0 7px 5px -5px ${e.type.color}; -moz-box-shadow: 0 7px 5px -5px ${e.type.color}; box-shadow: 0 7px 5px -5px ${e.type.color};"class="btn btn-secondary" data-toggle="modal" data-target="#M-${e.id}">${e.title}</button>
+                            <button type="button" style="-webkit-box-shadow: 0 7px 5px -5px ${
+                              e.type.color
+                            }; -moz-box-shadow: 0 7px 5px -5px ${
+                e.type.color
+              }; box-shadow: 0 7px 5px -5px ${
+                e.type.color
+              };"class="btn btn-secondary" data-toggle="modal" data-target="#M-${
+                e.id
+              }">${e.title}</button>
 							<p class="text-left" style="color: #cccccc">${e.location.name}</p>
 					    </div>
                     </div>
-                    <div class="modal" id="M-${e.id}" tabindex="-1" role="dialog" aria-labelledby="${e.id}-modalLabel" aria-hidden="true">
+                    <div class="modal" id="M-${
+                      e.id
+                    }" tabindex="-1" role="dialog" aria-labelledby="${
+                e.id
+              }-modalLabel" aria-hidden="true">
                       <div class="modal-dialog modal-xl modal-dialog-centered" role="document">
                         <div class="modal-content">
                           <div class="modal-header">
@@ -126,12 +181,17 @@ function loadEvents(inital) {
                             </button>
                           </div>
                           <div class="modal-body">
-                          <h6>${beginString} - ${endString}</h6>`;
+                          <h6>${eventTimes.join(
+                            " &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+                          )}</h6>
+                            <p>${e.description}</p>`;
+
+              const speakers = e.speakers.map((speaker) => speaker.name);
 
               if (speakers.length == 1) {
-                element += `<br><p>Speaker: ${speakers[0]}</p>`;
+                element += `<p>Speaker: ${speakers[0]}</p>`;
               } else if (speakers.length > 1) {
-                element += `<br><p>Speakers: ${speakers.join(", ")}</p>`;
+                element += `<p>Speakers: ${speakers.join(", ")}</p>`;
               }
 
               let eventLinks = [];
@@ -152,9 +212,7 @@ function loadEvents(inital) {
                 );
               }
 
-              let [extractedLinks, transformedDescription] = extractLinks(
-                e.description
-              );
+              let extractedLinks = extractLinks(e.description);
               if (extractedLinks.length > 0) {
                 extractedLinks.forEach((link) => {
                   if (link.title == "Forum" && forumUrl) {
@@ -165,20 +223,12 @@ function loadEvents(inital) {
                     return;
                   }
 
-                  eventLinks.push(link.html);
+                  let htmlLink = `<a target="_blank" href="${link.url}">${link.title}</a>`;
+                  eventLinks.push(htmlLink);
                 });
               }
 
-              const newLines = /\n/gi;
-              let newDescription = transformedDescription.replaceAll(
-                newLines,
-                "<br>"
-              );
-
-              element += `
-              <br>
-              <p>${newDescription}</p>
-              <p>${eventLinks.join(" | ")}</p>}
+              element += `<p>${eventLinks.join(" | ")}</p>}
                           </div>
                         </div>
                       </div>
@@ -186,54 +236,14 @@ function loadEvents(inital) {
               //console.log(element)
               eventList.insertAdjacentHTML("beforeend", element);
             } else {
-              // console.log(
-              //   `nope ${e.begin_timestamp.toMillis()} is <= ${currentTime}`
-              // );
+              console.log(
+                `nope ${e.begin_timestamp.toMillis()} is <= ${currentTime}`
+              );
             }
           }
         }
       });
     });
-}
-
-function getTimeOptions() {
-  let selectedTimezone =
-    timeZoneSelector.options[timeZoneSelector.selectedIndex].value;
-  if (selectedTimezone != "") {
-    return [
-      {
-        hour: "2-digit",
-        minute: "2-digit",
-        timeZoneName: "short",
-        timeZone: selectedTimezone,
-        hour12: false,
-        weekday: "short",
-      },
-      {
-        hour: "2-digit",
-        minute: "2-digit",
-        timeZoneName: "short",
-        timeZone: selectedTimezone,
-        hour12: false,
-      },
-    ];
-  } else {
-    return [
-      {
-        hour: "2-digit",
-        minute: "2-digit",
-        timeZoneName: "short",
-        hour12: false,
-        weekday: "short",
-      },
-      {
-        hour: "2-digit",
-        minute: "2-digit",
-        timeZoneName: "short",
-        hour12: false,
-      },
-    ];
-  }
 }
 
 function extractLinks(description) {
@@ -243,10 +253,10 @@ function extractLinks(description) {
     "ig"
   );
 
-  let matches = description.match(urlRegex);
+  let matches = description.match(urlRegex); //?
 
   if (matches == null) {
-    return [[], description];
+    return [];
   }
 
   matches.forEach((link) => {
@@ -254,63 +264,44 @@ function extractLinks(description) {
     if (linkLower.includes("forum.defcon.org")) {
       linkTitle.push({
         title: "Forum",
-        url: link,
+        url: linkLower,
       });
     } else if (linkLower.includes("discord")) {
       linkTitle.push({
         title: "Discord",
-        url: link,
+        url: linkLower,
       });
     } else if (linkLower.includes("youtube.com")) {
       linkTitle.push({
         title: "YouTube",
-        url: link,
+        url: linkLower,
       });
     } else if (linkLower.includes("twitch.tv")) {
       let twitchHandle = linkLower.split(".tv/")[1].split("/")[0];
       linkTitle.push({
         title: `${twitchHandle} on Twitch`,
-        url: link,
+        url: linkLower,
       });
     } else if (linkLower.includes("twitter.com")) {
       let twitterHandle = linkLower.split(".com/")[1].split("/")[0];
       linkTitle.push({
         title: `@${twitterHandle}`,
-        url: link,
+        url: linkLower,
       });
     } else {
       linkTitle.push({
-        title: link,
-        url: link,
+        title: linkLower,
+        url: linkLower,
       });
     }
   });
 
-  let linkObjects = linkTitle.map((link) => ({
-    title: link.title,
-    url: link.url,
-    html: `<a target="_blank" href="${link.url}">${link.title}</a>`,
-  }));
-
-  var transformedDescription = description;
-
-  linkObjects.forEach((link) => {
-    transformedDescription = transformedDescription.replace(
-      link.url,
-      `<a target="_blank" href="${link.url}">${link.url}</a>`
-    );
-  });
-
-  return [linkObjects, transformedDescription];
+  return linkTitle;
 }
 
 loadEvents(true);
 
 categorysSelector.addEventListener("change", () => {
-  loadEvents(false);
-});
-
-timeZoneSelector.addEventListener("change", () => {
   loadEvents(false);
 });
 
@@ -326,9 +317,11 @@ searchButton.addEventListener("click", () => {
 });
 
 searchCancelButton.addEventListener("click", () => {
-  searchBar.value = "";
-  categorysSelector.selectedIndex = 0;
-  loadEvents(false);
+  if (searchBar.value.length != 0 || categorysSelector.selectedIndex != 0) {
+    searchBar.value = "";
+    categorysSelector.selectedIndex = 0;
+    loadEvents(false);
+  }
 });
 
 setInterval(() => {
