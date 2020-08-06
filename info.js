@@ -200,7 +200,7 @@ function loadEvents(inital) {
 
               if (forumUrl) {
                 eventLinks.push(
-                  `<a href="${forumUrl}">${e.type.name} Forum</a>`
+                  `<a target="_blank" href="${forumUrl}">${e.type.name} Forum</a>`
                 );
               }
 
@@ -208,7 +208,7 @@ function loadEvents(inital) {
 
               if (discordUrl) {
                 eventLinks.push(
-                  `<a href="${discordUrl}">${e.type.name} Discord</a>`
+                  `<a target="_blank" href="${discordUrl}">${e.type.name} Discord</a>`
                 );
               }
 
@@ -223,7 +223,7 @@ function loadEvents(inital) {
                     return;
                   }
 
-                  let htmlLink = `<a href="${link.url}">${link.title}</a>`;
+                  let htmlLink = `<a target="_blank" href="${link.url}">${link.title}</a>`;
                   eventLinks.push(htmlLink);
                 });
               }
