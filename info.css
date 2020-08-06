@@ -13,3 +13,15 @@
 .btn-secondary {
   margin-bottom: 5px;
 }
+
+#defcon-links {
+  overflow-x: hidden;
+  overflow-y: auto;
+  height: 700px;
+}
+
+#eventlist {
+  overflow-x: hidden;
+  overflow-y: auto;
+  height: 700px;
+}
