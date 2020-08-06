@@ -13,3 +13,26 @@
 .btn-secondary {
   margin-bottom: 5px;
 }
+
+#defcon-links {
+  overflow-x: hidden;
+  overflow-y: auto;
+  height: 700px;
+}
+
+#eventlist {
+  overflow-x: hidden;
+  overflow-y: auto;
+  height: 700px;
+}
+
+#search-btn,
+#search-cancel-btn {
+  border-color: #c93234;
+  color: #ffffff;
+}
+
+#search-btn:hover,
+#search-cancel-btn:hover {
+  background-color: #c93234;
+}
