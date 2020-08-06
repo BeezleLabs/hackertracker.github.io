@@ -170,7 +170,7 @@ function loadEvents(inital) {
               }
 
               const newLines = /\n/gi;
-              let newDescription = transformedDescription.replaceAll(
+              let newDescription = transformedDescription.replace(
                 newLines,
                 "<br>"
               );
