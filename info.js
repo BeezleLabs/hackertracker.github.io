@@ -70,10 +70,14 @@ function loadEvents(inital) {
           categorysSelector.options[categorysSelector.selectedIndex].value;
 
         const searchText = searchBar.value;
+        const speakers = e.speakers.map((speaker) => speaker.name);
+
         if (selectedCategory == "all" || e.type.id == selectedCategory) {
           if (
             searchText.length == 0 ||
-            e.title.toLowerCase().includes(searchText.toLowerCase())
+            e.title.toLowerCase().includes(searchText.toLowerCase()) ||
+            e.description.toLowerCase().includes(searchText.toLowerCase()) ||
+            speakers.join().toLowerCase().includes(searchText.toLowerCase())
           ) {
             if (e.end_timestamp.toMillis() > currentTime) {
               let begin = e.begin_timestamp.toDate();
@@ -297,11 +301,9 @@ searchButton.addEventListener("click", () => {
 });
 
 searchCancelButton.addEventListener("click", () => {
-  if (searchBar.value.length != 0 || categorysSelector.selectedIndex != 0) {
-    searchBar.value = "";
-    categorysSelector.selectedIndex = 0;
-    loadEvents(false);
-  }
+  searchBar.value = "";
+  categorysSelector.selectedIndex = 0;
+  loadEvents(false);
 });
 
 setInterval(() => {
