@@ -79,38 +79,41 @@ function loadEvents(inital) {
             e.description.toLowerCase().includes(searchText.toLowerCase()) ||
             speakers.join().toLowerCase().includes(searchText.toLowerCase())
           ) {
-            if (e.end_timestamp.toMillis() > currentTime) {
-              let begin = e.begin_timestamp.toDate();
-              let end = e.end_timestamp.toDate();
-              if (dayString != begin.toDateString()) {
-                dayString = begin.toDateString();
-                let newDayHTML = `<h4 class="text-center">${dayString}</h4>`;
-                eventList.insertAdjacentHTML("beforeend", newDayHTML);
-              }
+            let begin = e.begin_timestamp.toDate();
+            let end = e.end_timestamp.toDate();
+            if (dayString != begin.toDateString()) {
+              dayString = begin.toDateString();
+              let newDayHTML = `<h4 class="text-center">${dayString}</h4>`;
+              eventList.insertAdjacentHTML("beforeend", newDayHTML);
+            }
 
-              //console.log(`${e.id} => ${e.title} => ${e.begin_timestamp.toMillis()}`);
+            //console.log(`${e.id} => ${e.title} => ${e.begin_timestamp.toMillis()}`);
 
-              let element = `<div class="card text-white"  style="border: 0px; background-color: #222222;">
+            let element = `<div class="card text-white"  style="border: 0px; background-color: #222222;">
                     <div  style="background-color: ${e.type.color}; width: 8px; height: 90%; display: inline-block; position: absolute;"> </div>
                     <div class="row">`;
 
-              //eventList.insertAdjacentHTML('beforeend',e1);
+            //eventList.insertAdjacentHTML('beforeend',e1);
 
-              let [beginOptions, endOptions] = getTimeOptions();
+            let [beginOptions, endOptions] = getTimeOptions();
 
-              let beginString = begin.toLocaleTimeString(
-                navigator.language,
-                beginOptions
-              );
-              let endString = end.toLocaleTimeString(
-                navigator.language,
-                endOptions
-              );
-
+            let beginString = begin.toLocaleTimeString(
+              navigator.language,
+              beginOptions
+            );
+            let endString = end.toLocaleTimeString(
+              navigator.language,
+              endOptions
+            );
+            if (e.end_timestamp.toMillis() < currentTime) {
               let newTimeHTML = `<div class="card-body col-3"><p class="text-center" style="color: #cccccc">${beginString} - ${endString}</p></div>`;
               element += newTimeHTML;
+            } else {
+              let newTimeHTML = `<div class="card-body col-3 future-event"><p class="text-center" style="color: #cccccc">${beginString} - ${endString}</p></div>`;
+              element += newTimeHTML;
+            }
 
-              element += `
+            element += `
                         <div class="card-body col-9">
                             <button type="button" style="-webkit-box-shadow: 0 7px 5px -5px ${e.type.color}; -moz-box-shadow: 0 7px 5px -5px ${e.type.color}; box-shadow: 0 7px 5px -5px ${e.type.color};"class="btn btn-secondary" data-toggle="modal" data-target="#M-${e.id}">${e.title}</button>
 							<p class="text-left" style="color: #cccccc">${e.location.name}</p>
@@ -128,54 +131,54 @@ function loadEvents(inital) {
                           <div class="modal-body">
                           <h6>${beginString} - ${endString}</h6>`;
 
-              if (speakers.length == 1) {
-                element += `<br><p>Speaker: ${speakers[0]}</p>`;
-              } else if (speakers.length > 1) {
-                element += `<br><p>Speakers: ${speakers.join(", ")}</p>`;
-              }
+            if (speakers.length == 1) {
+              element += `<br><p>Speaker: ${speakers[0]}</p>`;
+            } else if (speakers.length > 1) {
+              element += `<br><p>Speakers: ${speakers.join(", ")}</p>`;
+            }
 
-              let eventLinks = [];
+            let eventLinks = [];
 
-              const forumUrl = e.type.subforum_url;
+            const forumUrl = e.type.subforum_url;
 
-              if (forumUrl) {
-                eventLinks.push(
-                  `<a target="_blank" href="${forumUrl}">${e.type.name} Forum</a>`
-                );
-              }
-
-              const discordUrl = e.type.discord_url;
-
-              if (discordUrl) {
-                eventLinks.push(
-                  `<a target="_blank" href="${discordUrl}">${e.type.name} Discord</a>`
-                );
-              }
-
-              let [extractedLinks, transformedDescription] = extractLinks(
-                e.description
+            if (forumUrl) {
+              eventLinks.push(
+                `<a target="_blank" href="${forumUrl}">${e.type.name} Forum</a>`
               );
-              if (extractedLinks.length > 0) {
-                extractedLinks.forEach((link) => {
-                  if (link.title == "Forum" && forumUrl) {
-                    return;
-                  }
+            }
 
-                  if (link.title == "Discord" && discordUrl) {
-                    return;
-                  }
+            const discordUrl = e.type.discord_url;
 
-                  eventLinks.push(link.html);
-                });
-              }
-
-              const newLines = /\n/gi;
-              let newDescription = transformedDescription.replace(
-                newLines,
-                "<br>"
+            if (discordUrl) {
+              eventLinks.push(
+                `<a target="_blank" href="${discordUrl}">${e.type.name} Discord</a>`
               );
+            }
 
-              element += `
+            let [extractedLinks, transformedDescription] = extractLinks(
+              e.description
+            );
+            if (extractedLinks.length > 0) {
+              extractedLinks.forEach((link) => {
+                if (link.title == "Forum" && forumUrl) {
+                  return;
+                }
+
+                if (link.title == "Discord" && discordUrl) {
+                  return;
+                }
+
+                eventLinks.push(link.html);
+              });
+            }
+
+            const newLines = /\n/gi;
+            let newDescription = transformedDescription.replaceAll(
+              newLines,
+              "<br>"
+            );
+
+            element += `
               <br>
               <p>${newDescription}</p>
               <p>${eventLinks.join(" | ")}</p>}
@@ -183,15 +186,19 @@ function loadEvents(inital) {
                         </div>
                       </div>
                     </div>`;
-              //console.log(element)
-              eventList.insertAdjacentHTML("beforeend", element);
-            } else {
-              // console.log(
-              //   `nope ${e.begin_timestamp.toMillis()} is <= ${currentTime}`
-              // );
-            }
+            //console.log(element)
+            eventList.insertAdjacentHTML("beforeend", element);
+          } else {
+            // console.log(
+            //   `nope ${e.begin_timestamp.toMillis()} is <= ${currentTime}`
+            // );
           }
         }
+      });
+      const futureEvent = document.querySelector(".future-event");
+      console.log(futureEvent);
+      futureEvent.scrollIntoView({
+        behavior: "smooth",
       });
     });
 }
