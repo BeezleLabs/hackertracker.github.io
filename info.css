@@ -15,7 +15,11 @@
 }
 
 li.timezone {
-  margin-right: 15px;
+  margin-right: 5px;
+}
+
+#timezone-selector {
+  padding-right: 2px;
 }
 
 #defcon-links {
