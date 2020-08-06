@@ -173,7 +173,7 @@ function loadEvents(inital) {
             }
 
             const newLines = /\n/gi;
-            let newDescription = transformedDescription.replaceAll(
+            let newDescription = transformedDescription.replace(
               newLines,
               "<br>"
             );
@@ -338,6 +338,6 @@ searchCancelButton.addEventListener("click", () => {
   loadEvents(false);
 });
 
-setInterval(() => {
-  loadEvents(false);
-}, 600000);
+//setInterval(() => {
+//  loadEvents(false);
+//}, 600000);
