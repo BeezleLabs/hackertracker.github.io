@@ -12,12 +12,15 @@ const firebaseConfig = {
   storageBucket: "hackertest-5a202.appspot.com",
   messagingSenderId: "611899979455",
   appId: "1:611899979455:web:e52aa3314edcf7a2",
+  measurementId: "G-RBXLKX75MN"
 };
 
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
+const analytics = firebase.analytics();
 
 function loadEvents(inital) {
+  analytics.logEvent('info.defcon.org loadEvents');
   let eventList = document.querySelector("#eventlist");
   eventList.innerHTML = "";
   let currentTime = Date.now();
@@ -197,9 +200,15 @@ function loadEvents(inital) {
         }
       });
       const futureEvent = document.querySelector(".future-event");
-      console.log(futureEvent);
+      //var myEventList = document.getElementById('eventlist')
+      //var topPos = myEventList.offsetTop
+      //console.log(futureEvent);
+      //myEventList.scrollTop = myEventList.offsetTop - futureEvent.offsetTop;
+      //myEventList.scrollTo()
+      //console.log("List Top: " + myEventList.offsetTop)
+      //console.log("futureEvent Top: " + futureEvent.offsetTop)
       futureEvent.scrollIntoView({
-        behavior: "smooth",
+        behavior: "smooth"
       });
     });
 }
@@ -337,20 +346,24 @@ function extractLinks(description) {
 loadEvents(true);
 
 categorysSelector.addEventListener("change", () => {
+  analytics.logEvent('info.defcon.org category select');
   loadEvents(false);
 });
 
 timeZoneSelector.addEventListener("change", () => {
+  analytics.logEvent('info.defcon.org timezone select');
   loadEvents(false);
 });
 
 searchBar.addEventListener("keyup", (event) => {
   if (event.keyCode === 13) {
+    analytics.logEvent('info.defcon.org search');
     loadEvents(false);
   }
 });
 searchButton.addEventListener("click", () => {
   if (searchBar.value.length != 0) {
+    analytics.logEvent('info.defcon.org search');
     loadEvents(false);
   }
 });
