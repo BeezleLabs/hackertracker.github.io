@@ -14,16 +14,24 @@
   margin-bottom: 5px;
 }
 
+li.timezone {
+  margin-right: 5px;
+}
+
+#timezone-selector {
+  padding-right: 2px;
+}
+
 #defcon-links {
   overflow-x: hidden;
   overflow-y: auto;
-  height: 700px;
+  height: 1400px;
 }
 
 #eventlist {
   overflow-x: hidden;
   overflow-y: auto;
-  height: 700px;
+  height: 1400px;
 }
 
 #search-btn,
