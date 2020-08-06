@@ -147,13 +147,31 @@ function loadEvents(inital) {
                 hour12: false,
               });
 
+              let eventTimes = [
+                `${beginLocalString} - ${endLocalString}`,
+                `${pdtString} - ${endPdtString}`,
+                `${gmtString} - ${endGmtString}`,
+              ];
+
               element += `
                         <div class="card-body col-9">
-                            <button type="button" style="-webkit-box-shadow: 0 7px 5px -5px ${e.type.color}; -moz-box-shadow: 0 7px 5px -5px ${e.type.color}; box-shadow: 0 7px 5px -5px ${e.type.color};"class="btn btn-secondary" data-toggle="modal" data-target="#M-${e.id}">${e.title}</button>
+                            <button type="button" style="-webkit-box-shadow: 0 7px 5px -5px ${
+                              e.type.color
+                            }; -moz-box-shadow: 0 7px 5px -5px ${
+                e.type.color
+              }; box-shadow: 0 7px 5px -5px ${
+                e.type.color
+              };"class="btn btn-secondary" data-toggle="modal" data-target="#M-${
+                e.id
+              }">${e.title}</button>
 							<p class="text-left" style="color: #cccccc">${e.location.name}</p>
 					    </div>
                     </div>
-                    <div class="modal" id="M-${e.id}" tabindex="-1" role="dialog" aria-labelledby="${e.id}-modalLabel" aria-hidden="true">
+                    <div class="modal" id="M-${
+                      e.id
+                    }" tabindex="-1" role="dialog" aria-labelledby="${
+                e.id
+              }-modalLabel" aria-hidden="true">
                       <div class="modal-dialog modal-xl modal-dialog-centered" role="document">
                         <div class="modal-content">
                           <div class="modal-header">
@@ -163,9 +181,9 @@ function loadEvents(inital) {
                             </button>
                           </div>
                           <div class="modal-body">
-                          <h6>${beginLocalString} - ${endLocalString}</h6>
-                          <h6>${pdtString} - ${endPdtString}</h6>
-                          <h6>${gmtString} - ${endGmtString}</h6>
+                          <h6>${eventTimes.join(
+                            " &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+                          )}</h6>
                             <p>${e.description}</p>`;
 
               const speakers = e.speakers.map((speaker) => speaker.name);
