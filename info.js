@@ -194,19 +194,41 @@ function loadEvents(inital) {
                 element += `<p>Speakers: ${speakers.join(", ")}</p>`;
               }
 
+              let eventLinks = [];
+
               const forumUrl = e.type.subforum_url;
 
               if (forumUrl) {
-                element += `<hr><a href="${forumUrl}">Forum</a>`;
+                eventLinks.push(
+                  `<a href="${forumUrl}">${e.type.name} Forum</a>`
+                );
               }
 
               const discordUrl = e.type.discord_url;
 
               if (discordUrl) {
-                element += `<hr><a href="${discordUrl}">Discord</a>`;
+                eventLinks.push(
+                  `<a href="${discordUrl}">${e.type.name} Discord</a>`
+                );
               }
 
-              element += `
+              let extractedLinks = extractLinks(e.description);
+              if (extractedLinks.length > 0) {
+                extractedLinks.forEach((link) => {
+                  if (link.title == "Forum" && forumUrl) {
+                    return;
+                  }
+
+                  if (link.title == "Discord" && discordUrl) {
+                    return;
+                  }
+
+                  let htmlLink = `<a href="${link.url}">${link.title}</a>`;
+                  eventLinks.push(htmlLink);
+                });
+              }
+
+              element += `<p>${eventLinks.join(" | ")}</p>}
                           </div>
                         </div>
                       </div>
@@ -222,6 +244,59 @@ function loadEvents(inital) {
         }
       });
     });
+}
+
+function extractLinks(description) {
+  let linkTitle = [];
+  let urlRegex = new RegExp(
+    "((https?|ftp|gopher|telnet|file):((//)|(\\\\))+[\\w\\d:#@%/;$()~_?\\+-=\\\\\\.&]*)",
+    "ig"
+  );
+
+  let matches = description.match(urlRegex); //?
+
+  if (matches == null) {
+    return [];
+  }
+
+  matches.forEach((link) => {
+    let linkLower = link.toLowerCase().trim().replace(",", "");
+    if (linkLower.includes("forum.defcon.org")) {
+      linkTitle.push({
+        title: "Forum",
+        url: linkLower,
+      });
+    } else if (linkLower.includes("discord")) {
+      linkTitle.push({
+        title: "Discord",
+        url: linkLower,
+      });
+    } else if (linkLower.includes("youtube.com")) {
+      linkTitle.push({
+        title: "YouTube",
+        url: linkLower,
+      });
+    } else if (linkLower.includes("twitch.tv")) {
+      let twitchHandle = linkLower.split(".tv/")[1].split("/")[0];
+      linkTitle.push({
+        title: `${twitchHandle} on Twitch`,
+        url: linkLower,
+      });
+    } else if (linkLower.includes("twitter.com")) {
+      let twitterHandle = linkLower.split(".com/")[1].split("/")[0];
+      linkTitle.push({
+        title: `@${twitterHandle}`,
+        url: linkLower,
+      });
+    } else {
+      linkTitle.push({
+        title: linkLower,
+        url: linkLower,
+      });
+    }
+  });
+
+  return linkTitle;
 }
 
 loadEvents(true);
