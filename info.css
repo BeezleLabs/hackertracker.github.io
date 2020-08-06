@@ -25,3 +25,14 @@
   overflow-y: auto;
   height: 700px;
 }
+
+#search-btn,
+#search-cancel-btn {
+  border-color: #c93234;
+  color: #ffffff;
+}
+
+#search-btn:hover,
+#search-cancel-btn:hover {
+  background-color: #c93234;
+}
