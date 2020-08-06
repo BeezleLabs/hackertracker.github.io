@@ -129,9 +129,9 @@ function loadEvents(inital) {
                           <h6>${beginString} - ${endString}</h6>`;
 
               if (speakers.length == 1) {
-                element += `<p>Speaker: ${speakers[0]}</p>`;
+                element += `<br><p>Speaker: ${speakers[0]}</p>`;
               } else if (speakers.length > 1) {
-                element += `<p>Speakers: ${speakers.join(", ")}</p>`;
+                element += `<br><p>Speakers: ${speakers.join(", ")}</p>`;
               }
 
               let eventLinks = [];
@@ -152,7 +152,9 @@ function loadEvents(inital) {
                 );
               }
 
-              let extractedLinks = extractLinks(e.description);
+              let [extractedLinks, transformedDescription] = extractLinks(
+                e.description
+              );
               if (extractedLinks.length > 0) {
                 extractedLinks.forEach((link) => {
                   if (link.title == "Forum" && forumUrl) {
@@ -163,12 +165,20 @@ function loadEvents(inital) {
                     return;
                   }
 
-                  let htmlLink = `<a target="_blank" href="${link.url}">${link.title}</a>`;
-                  eventLinks.push(htmlLink);
+                  eventLinks.push(link.html);
                 });
               }
 
-              element += `<p>${eventLinks.join(" | ")}</p>}
+              const newLines = /\n/gi;
+              let newDescription = transformedDescription.replaceAll(
+                newLines,
+                "<br>"
+              );
+
+              element += `
+              <br>
+              <p>${newDescription}</p>
+              <p>${eventLinks.join(" | ")}</p>}
                           </div>
                         </div>
                       </div>
@@ -233,10 +243,10 @@ function extractLinks(description) {
     "ig"
   );
 
-  let matches = description.match(urlRegex); //?
+  let matches = description.match(urlRegex);
 
   if (matches == null) {
-    return [];
+    return [[], description];
   }
 
   matches.forEach((link) => {
@@ -244,39 +254,54 @@ function extractLinks(description) {
     if (linkLower.includes("forum.defcon.org")) {
       linkTitle.push({
         title: "Forum",
-        url: linkLower,
+        url: link,
       });
     } else if (linkLower.includes("discord")) {
       linkTitle.push({
         title: "Discord",
-        url: linkLower,
+        url: link,
       });
     } else if (linkLower.includes("youtube.com")) {
       linkTitle.push({
         title: "YouTube",
-        url: linkLower,
+        url: link,
       });
     } else if (linkLower.includes("twitch.tv")) {
       let twitchHandle = linkLower.split(".tv/")[1].split("/")[0];
       linkTitle.push({
         title: `${twitchHandle} on Twitch`,
-        url: linkLower,
+        url: link,
       });
     } else if (linkLower.includes("twitter.com")) {
       let twitterHandle = linkLower.split(".com/")[1].split("/")[0];
       linkTitle.push({
         title: `@${twitterHandle}`,
-        url: linkLower,
+        url: link,
       });
     } else {
       linkTitle.push({
-        title: linkLower,
-        url: linkLower,
+        title: link,
+        url: link,
       });
     }
   });
 
-  return linkTitle;
+  let linkObjects = linkTitle.map((link) => ({
+    title: link.title,
+    url: link.url,
+    html: `<a target="_blank" href="${link.url}">${link.title}</a>`,
+  }));
+
+  var transformedDescription = description;
+
+  linkObjects.forEach((link) => {
+    transformedDescription = transformedDescription.replace(
+      link.url,
+      `<a target="_blank" href="${link.url}">${link.url}</a>`
+    );
+  });
+
+  return [linkObjects, transformedDescription];
 }
 
 loadEvents(true);
