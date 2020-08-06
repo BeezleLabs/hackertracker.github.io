@@ -180,8 +180,9 @@ function loadEvents(inital) {
 
             element += `
               <br>
-              <p>${newDescription}</p>
               <p>${eventLinks.join(" | ")}</p>}
+              <p>${newDescription}</p>
+
                           </div>
                         </div>
                       </div>
@@ -326,7 +327,7 @@ function extractLinks(description) {
   linkObjects.forEach((link) => {
     transformedDescription = transformedDescription.replace(
       link.url,
-      `<a target="_blank" href="${link.url}">${link.url}</a>`
+      `<a target="_blank" href="${link.url}">${link.title}</a>`
     );
   });
 
