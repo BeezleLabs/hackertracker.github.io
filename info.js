@@ -285,6 +285,28 @@ function extractLinks(description) {
         title: `@${twitterHandle}`,
         url: link,
       });
+    } else if (linkLower.includes("media.defcon.org")) {
+        if (linkLower.includes("mp4")) {
+            linkTitle.push({
+              title: "MP4",
+              url: link,
+            });
+        } else if (linkLower.includes("srt")) {
+            linkTitle.push({
+              title: "SRT",
+              url: link,
+            });
+        } else if (linkLower.includes("torrent")) {
+            linkTitle.push({
+              title: "Torrent",
+              url: link,
+            });
+        } else {
+            linkTitle.push({
+              title: "media.defcon.org",
+              url: link
+            });
+        }
     } else {
       linkTitle.push({
         title: link,
