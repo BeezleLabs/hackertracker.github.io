@@ -6,6 +6,14 @@
   display: inline-block;
 }
 
+div.date-header {
+  background: #000000;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0px;
+  z-index: 888;
+}
+
 .modal-dialog {
   pointer-events: all;
 }
@@ -20,6 +28,12 @@ li.timezone {
 
 #timezone-selector {
   padding-right: 2px;
+nav.header {
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0;
+  width: 100%;
+  z-index: 999;
 }
 
 #defcon-links {
