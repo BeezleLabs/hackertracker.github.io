@@ -216,9 +216,7 @@ function loadEvents(inital) {
       //myEventList.scrollTo()
       //console.log("List Top: " + myEventList.offsetTop)
       //console.log("futureEvent Top: " + futureEvent.offsetTop)
-      futureEvent.scrollIntoView({
-        behavior: "smooth",
-      });
+      futureEvent.scrollIntoView();
       window.scrollTo(0, 0);
     });
 }
@@ -405,9 +403,7 @@ sunBtn.addEventListener("click", () => {
 function scrollToDay(day) {
   eventList.scrollTo(0, 0);
   let dest = document.querySelector(`h4.${day}`);
-  dest.scrollIntoView({
-    behavior: "smooth",
-  });
+  dest.scrollIntoView();
   window.scrollTo(0, 0);
 }
 
