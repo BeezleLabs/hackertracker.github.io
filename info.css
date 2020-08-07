@@ -6,10 +6,15 @@
   display: inline-block;
 }
 
+#defcon-links > li {
+  margin-left: 10px;
+}
+
 div.day-links {
   text-align: center;
   margin-bottom: 15px;
 }
+
 div.date-header {
   background: #000000;
   position: -webkit-sticky;
@@ -18,8 +23,16 @@ div.date-header {
   z-index: 888;
 }
 
+button.close {
+  border-radius: 10px;
+}
+
 .modal-dialog {
   pointer-events: all;
+}
+
+.modal-content {
+  border-radius: 20px;
 }
 
 .btn-secondary {
@@ -41,8 +54,10 @@ nav.header {
   position: sticky;
   position: -webkit-sticky;
   top: 0;
-  width: 100%;
+  width: 98%;
   z-index: 999;
+  white-space: nowrap;
+  background-color: #000000;
 }
 
 #defcon-links {
@@ -55,6 +70,10 @@ nav.header {
   overflow-x: hidden;
   overflow-y: auto;
   height: 1400px;
+}
+
+div.container-fluid {
+  width: 98%;
 }
 
 #search-btn,

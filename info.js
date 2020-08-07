@@ -140,7 +140,7 @@ function loadEvents(inital) {
                     </div>
                     <div class="modal" id="M-${e.id}" tabindex="-1" role="dialog" aria-labelledby="${e.id}-modalLabel" aria-hidden="true">
                       <div class="modal-dialog modal-xl modal-dialog-centered" role="document">
-                        <div class="modal-content">
+                        <div class="modal-content" style="-moz-box-shadow: 2px 2px 8px 4px ${e.type.color}; -webkit-box-shadow: 2px 2px 8px 4px ${e.type.color}; box-shadow: 2spx 2px 8px 4px ${e.type.color};">
                           <div class="modal-header">
                             <h5 class="modal-title">${e.title}</h5>
                             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
