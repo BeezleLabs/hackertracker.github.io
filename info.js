@@ -133,6 +133,20 @@ function loadEvents(inital) {
                           </div>
                           <div class="modal-body">
                           <h6>${beginString} - ${endString}</h6>`;
+            
+            element += `<p>${e.type.name} `;
+            const forumUrl2 = e.type.subforum_url;
+            const discordUrl2 = e.type.discord_url;
+            if (forumUrl2 && discordUrl2) {
+              element += ` (<a target="_blank" href="${e.type.subforum_url}">Forum</a> | <a target="_blank" href="${e.type.discord_url}">Discord</a>)`;
+            }
+            else if (forumUrl2) {
+              element += ` (<a target="_blank" href="${e.type.subforum_url}">Forum</a>) `;
+            }
+            else if (discordUrl2) {
+              element += ` (<a target="_blank" href="${e.type.discord_url}">Discord</a>) `;
+            }
+            element += `</p>`;
 
             if (speakers.length == 1) {
               element += `<br><p>Speaker: ${speakers[0]}</p>`;
@@ -141,40 +155,18 @@ function loadEvents(inital) {
             }
 
             let eventLinks = [];
-
-            const forumUrl = e.type.subforum_url;
-
-            if (forumUrl) {
-              eventLinks.push(
-                `<a target="_blank" href="${forumUrl}">${e.type.name} Forum</a>`
-              );
+            if (e.links) {
+              if (e.links.length > 0) {
+                e.links.forEach(function(lnk){
+                  eventLinks.push(`<a href="` + lnk.url + `">` + lnk.label + `</a>`)
+                })
+              }  
             }
-
-            const discordUrl = e.type.discord_url;
-
-            if (discordUrl) {
-              eventLinks.push(
-                `<a target="_blank" href="${discordUrl}">${e.type.name} Discord</a>`
-              );
-            }
-
+            
             let [extractedLinks, transformedDescription] = extractLinks(
-              e.description
+              e.android_description
             );
-            if (extractedLinks.length > 0) {
-              extractedLinks.forEach((link) => {
-                if (link.title == "Forum" && forumUrl) {
-                  return;
-                }
-
-                if (link.title == "Discord" && discordUrl) {
-                  return;
-                }
-
-                eventLinks.push(link.html);
-              });
-            }
-
+            
             const newLines = /\n/gi;
             let newDescription = transformedDescription.replace(
               newLines,
@@ -183,8 +175,8 @@ function loadEvents(inital) {
 
             element += `
               <br>
-              <p>${eventLinks.join(" | ")}</p>}
               <p>${newDescription}</p>
+              <p>${eventLinks.join(" | ")}</p>}
 
                           </div>
                         </div>
