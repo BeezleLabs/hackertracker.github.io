@@ -86,7 +86,7 @@ function loadEvents(inital) {
             let end = e.end_timestamp.toDate();
             if (dayString != begin.toDateString()) {
               dayString = begin.toDateString();
-              let newDayHTML = `<h4 class="text-center">${dayString}</h4>`;
+              let newDayHTML = `<div class="date-header"><h4 class="text-center">${dayString}</h4></div>`;
               eventList.insertAdjacentHTML("beforeend", newDayHTML);
             }
 
@@ -208,8 +208,9 @@ function loadEvents(inital) {
       //console.log("List Top: " + myEventList.offsetTop)
       //console.log("futureEvent Top: " + futureEvent.offsetTop)
       futureEvent.scrollIntoView({
-        behavior: "smooth"
+        behavior: "smooth",
       });
+      window.scrollTo(0, 0);
     });
 }
 
