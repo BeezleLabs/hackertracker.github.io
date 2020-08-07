@@ -12,7 +12,7 @@ const firebaseConfig = {
   storageBucket: "hackertest-5a202.appspot.com",
   messagingSenderId: "611899979455",
   appId: "1:611899979455:web:e52aa3314edcf7a2",
-  measurementId: "G-RBXLKX75MN"
+  measurementId: "G-RBXLKX75MN",
 };
 
 // Initialize Firebase
@@ -20,7 +20,7 @@ firebase.initializeApp(firebaseConfig);
 const analytics = firebase.analytics();
 
 function loadEvents(inital) {
-  analytics.logEvent('info.defcon.org loadEvents');
+  analytics.logEvent("info.defcon.org loadEvents");
   let eventList = document.querySelector("#eventlist");
   eventList.innerHTML = "";
   let currentTime = Date.now();
@@ -86,14 +86,14 @@ function loadEvents(inital) {
             let end = e.end_timestamp.toDate();
             if (dayString != begin.toDateString()) {
               dayString = begin.toDateString();
-              let newDayHTML = `<h4 class="text-center">${dayString}</h4>`;
+              let newDayHTML = `<div class="date-header"><h4 class="text-center">${dayString}</h4></div>`;
               eventList.insertAdjacentHTML("beforeend", newDayHTML);
             }
 
             //console.log(`${e.id} => ${e.title} => ${e.begin_timestamp.toMillis()}`);
 
             let element = `<div class="card text-white"  style="border: 0px; background-color: #222222;">
-                    <div  style="background-color: ${e.type.color}; width: 8px; height: 90%; display: inline-block; position: absolute;"> </div>
+                    <div  style="background-color: ${e.type.color}; width: 10px; height: 90%; display: inline-block; position: absolute;"> </div>
                     <div class="row">`;
 
             //eventList.insertAdjacentHTML('beforeend',e1);
@@ -108,11 +108,11 @@ function loadEvents(inital) {
               navigator.language,
               endOptions
             );
-            if (e.end_timestamp.toMillis() < currentTime) {
-              let newTimeHTML = `<div class="card-body col-3"><p class="text-center" style="color: #cccccc">${beginString} - ${endString}</p></div>`;
+            if (e.begin_timestamp.toMillis() < currentTime) {
+              let newTimeHTML = `<div class="card-body col-3"><p class="text-center" style="color: #cccccc">${beginString}<br> - <br>${endString}</p></div>`;
               element += newTimeHTML;
             } else {
-              let newTimeHTML = `<div class="card-body col-3 future-event"><p class="text-center" style="color: #cccccc">${beginString} - ${endString}</p></div>`;
+              let newTimeHTML = `<div class="card-body col-3 future-event"><p class="text-center" style="color: #cccccc">${beginString}<br> - <br>${endString}</p></div>`;
               element += newTimeHTML;
             }
 
@@ -200,6 +200,7 @@ function loadEvents(inital) {
         }
       });
       const futureEvent = document.querySelector(".future-event");
+      const eventlist = document.querySelector("#eventlist");
       //var myEventList = document.getElementById('eventlist')
       //var topPos = myEventList.offsetTop
       //console.log(futureEvent);
@@ -208,8 +209,9 @@ function loadEvents(inital) {
       //console.log("List Top: " + myEventList.offsetTop)
       //console.log("futureEvent Top: " + futureEvent.offsetTop)
       futureEvent.scrollIntoView({
-        behavior: "smooth"
+        behavior: "smooth",
       });
+      window.scrollTo(0, 0);
     });
 }
 
@@ -232,6 +234,7 @@ function getTimeOptions() {
         timeZoneName: "short",
         timeZone: selectedTimezone,
         hour12: false,
+        weekday: "short",
       },
     ];
   } else {
@@ -248,6 +251,7 @@ function getTimeOptions() {
         minute: "2-digit",
         timeZoneName: "short",
         hour12: false,
+        weekday: "short",
       },
     ];
   }
@@ -296,27 +300,27 @@ function extractLinks(description) {
         url: link,
       });
     } else if (linkLower.includes("media.defcon.org")) {
-        if (linkLower.includes("mp4")) {
-            linkTitle.push({
-              title: "MP4",
-              url: link,
-            });
-        } else if (linkLower.includes("srt")) {
-            linkTitle.push({
-              title: "SRT",
-              url: link,
-            });
-        } else if (linkLower.includes("torrent")) {
-            linkTitle.push({
-              title: "Torrent",
-              url: link,
-            });
-        } else {
-            linkTitle.push({
-              title: "media.defcon.org",
-              url: link
-            });
-        }
+      if (linkLower.includes("mp4")) {
+        linkTitle.push({
+          title: "MP4",
+          url: link,
+        });
+      } else if (linkLower.includes("srt")) {
+        linkTitle.push({
+          title: "SRT",
+          url: link,
+        });
+      } else if (linkLower.includes("torrent")) {
+        linkTitle.push({
+          title: "Torrent",
+          url: link,
+        });
+      } else {
+        linkTitle.push({
+          title: "media.defcon.org",
+          url: link,
+        });
+      }
     } else {
       linkTitle.push({
         title: link,
@@ -346,24 +350,24 @@ function extractLinks(description) {
 loadEvents(true);
 
 categorysSelector.addEventListener("change", () => {
-  analytics.logEvent('info.defcon.org category select');
+  analytics.logEvent("info.defcon.org category select");
   loadEvents(false);
 });
 
 timeZoneSelector.addEventListener("change", () => {
-  analytics.logEvent('info.defcon.org timezone select');
+  analytics.logEvent("info.defcon.org timezone select");
   loadEvents(false);
 });
 
 searchBar.addEventListener("keyup", (event) => {
   if (event.keyCode === 13) {
-    analytics.logEvent('info.defcon.org search');
+    analytics.logEvent("info.defcon.org search");
     loadEvents(false);
   }
 });
 searchButton.addEventListener("click", () => {
   if (searchBar.value.length != 0) {
-    analytics.logEvent('info.defcon.org search');
+    analytics.logEvent("info.defcon.org search");
     loadEvents(false);
   }
 });

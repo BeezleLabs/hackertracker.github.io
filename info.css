@@ -6,6 +6,14 @@
   display: inline-block;
 }
 
+div.date-header {
+  background: #000000;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0px;
+  z-index: 888;
+}
+
 .modal-dialog {
   pointer-events: all;
 }
@@ -18,8 +26,19 @@ li.timezone {
   margin-right: 5px;
 }
 
-#timezone-selector {
+#timezone-selector,
+#search-bar,
+#category-selector {
   padding-right: 2px;
+  font-size: 12px;
+}
+
+nav.header {
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0;
+  width: 100%;
+  z-index: 999;
 }
 
 #defcon-links {
@@ -38,6 +57,7 @@ li.timezone {
 #search-cancel-btn {
   border-color: #c93234;
   color: #ffffff;
+  font-size: 12px;
 }
 
 #search-btn:hover,
