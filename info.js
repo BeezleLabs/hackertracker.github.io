@@ -407,6 +407,6 @@ function scrollToDay(day) {
   window.scrollTo(0, 0);
 }
 
-//setInterval(() => {
-//  loadEvents(false);
-//}, 600000);
+setInterval(() => {
+  loadEvents(false);
+}, 600000);
