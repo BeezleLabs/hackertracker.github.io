@@ -3,6 +3,11 @@ const categorysSelector = document.querySelector("#category-selector");
 const searchButton = document.querySelector("#search-btn");
 const searchBar = document.querySelector("#search-bar");
 const searchCancelButton = document.querySelector("#search-cancel-btn");
+const thurBtn = document.querySelector("#day-thur-btn");
+const friBtn = document.querySelector("#day-fri-btn");
+const satBtn = document.querySelector("#day-sat-btn");
+const sunBtn = document.querySelector("#day-sun-btn");
+const eventList = document.querySelector("#eventlist");
 
 const firebaseConfig = {
   apiKey: "AIzaSyAsAP88rl0Qk0v4g_vYFpybKohS_hiyq-w",
@@ -84,9 +89,20 @@ function loadEvents(inital) {
           ) {
             let begin = e.begin_timestamp.toDate();
             let end = e.end_timestamp.toDate();
+            const daysOfTheWeek = [
+              "sun",
+              "mon",
+              "tue",
+              "wed",
+              "thur",
+              "fri",
+              "sat",
+            ];
+
+            let dayClass = daysOfTheWeek[begin.getDay()];
             if (dayString != begin.toDateString()) {
               dayString = begin.toDateString();
-              let newDayHTML = `<div class="date-header"><h4 class="text-center">${dayString}</h4></div>`;
+              let newDayHTML = `<div class="date-header"><h4 class="text-center ${dayClass}">${dayString}</h4></div>`;
               eventList.insertAdjacentHTML("beforeend", newDayHTML);
             }
 
@@ -124,7 +140,7 @@ function loadEvents(inital) {
                     </div>
                     <div class="modal" id="M-${e.id}" tabindex="-1" role="dialog" aria-labelledby="${e.id}-modalLabel" aria-hidden="true">
                       <div class="modal-dialog modal-xl modal-dialog-centered" role="document">
-                        <div class="modal-content">
+                        <div class="modal-content" style="-moz-box-shadow: 2px 2px 8px 4px ${e.type.color}; -webkit-box-shadow: 2px 2px 8px 4px ${e.type.color}; box-shadow: 2spx 2px 8px 4px ${e.type.color};">
                           <div class="modal-header">
                             <h5 class="modal-title">${e.title}</h5>
                             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
@@ -133,17 +149,15 @@ function loadEvents(inital) {
                           </div>
                           <div class="modal-body">
                           <h6>${beginString} - ${endString}</h6>`;
-            
+
             element += `<p>${e.type.name} `;
             const forumUrl2 = e.type.subforum_url;
             const discordUrl2 = e.type.discord_url;
             if (forumUrl2 && discordUrl2) {
               element += ` (<a target="_blank" href="${e.type.subforum_url}">Forum</a> | <a target="_blank" href="${e.type.discord_url}">Discord</a>)`;
-            }
-            else if (forumUrl2) {
+            } else if (forumUrl2) {
               element += ` (<a target="_blank" href="${e.type.subforum_url}">Forum</a>) `;
-            }
-            else if (discordUrl2) {
+            } else if (discordUrl2) {
               element += ` (<a target="_blank" href="${e.type.discord_url}">Discord</a>) `;
             }
             element += `</p>`;
@@ -157,16 +171,18 @@ function loadEvents(inital) {
             let eventLinks = [];
             if (e.links) {
               if (e.links.length > 0) {
-                e.links.forEach(function(lnk){
-                  eventLinks.push(`<a href="` + lnk.url + `">` + lnk.label + `</a>`)
-                })
-              }  
+                e.links.forEach(function (lnk) {
+                  eventLinks.push(
+                    `<a href="` + lnk.url + `">` + lnk.label + `</a>`
+                  );
+                });
+              }
             }
-            
+
             let [extractedLinks, transformedDescription] = extractLinks(
               e.android_description
             );
-            
+
             const newLines = /\n/gi;
             let newDescription = transformedDescription.replace(
               newLines,
@@ -369,6 +385,31 @@ searchCancelButton.addEventListener("click", () => {
   categorysSelector.selectedIndex = 0;
   loadEvents(false);
 });
+
+thurBtn.addEventListener("click", () => {
+  scrollToDay("thur");
+});
+
+friBtn.addEventListener("click", () => {
+  scrollToDay("fri");
+});
+
+satBtn.addEventListener("click", () => {
+  scrollToDay("sat");
+});
+
+sunBtn.addEventListener("click", () => {
+  scrollToDay("sun");
+});
+
+function scrollToDay(day) {
+  eventList.scrollTo(0, 0);
+  let dest = document.querySelector(`h4.${day}`);
+  dest.scrollIntoView({
+    behavior: "smooth",
+  });
+  window.scrollTo(0, 0);
+}
 
 //setInterval(() => {
 //  loadEvents(false);
