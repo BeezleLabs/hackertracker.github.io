@@ -3,6 +3,11 @@ const categorysSelector = document.querySelector("#category-selector");
 const searchButton = document.querySelector("#search-btn");
 const searchBar = document.querySelector("#search-bar");
 const searchCancelButton = document.querySelector("#search-cancel-btn");
+const thurBtn = document.querySelector("#day-thur-btn");
+const friBtn = document.querySelector("#day-fri-btn");
+const satBtn = document.querySelector("#day-sat-btn");
+const sunBtn = document.querySelector("#day-sun-btn");
+const eventList = document.querySelector("#eventlist");
 
 const firebaseConfig = {
   apiKey: "AIzaSyAsAP88rl0Qk0v4g_vYFpybKohS_hiyq-w",
@@ -84,9 +89,20 @@ function loadEvents(inital) {
           ) {
             let begin = e.begin_timestamp.toDate();
             let end = e.end_timestamp.toDate();
+            const daysOfTheWeek = [
+              "sun",
+              "mon",
+              "tue",
+              "wed",
+              "thur",
+              "fri",
+              "sat",
+            ];
+
+            let dayClass = daysOfTheWeek[begin.getDay()];
             if (dayString != begin.toDateString()) {
               dayString = begin.toDateString();
-              let newDayHTML = `<div class="date-header"><h4 class="text-center">${dayString}</h4></div>`;
+              let newDayHTML = `<div class="date-header"><h4 class="text-center ${dayClass}">${dayString}</h4></div>`;
               eventList.insertAdjacentHTML("beforeend", newDayHTML);
             }
 
@@ -369,6 +385,31 @@ searchCancelButton.addEventListener("click", () => {
   categorysSelector.selectedIndex = 0;
   loadEvents(false);
 });
+
+thurBtn.addEventListener("click", () => {
+  scrollToDay("thur");
+});
+
+friBtn.addEventListener("click", () => {
+  scrollToDay("fri");
+});
+
+satBtn.addEventListener("click", () => {
+  scrollToDay("sat");
+});
+
+sunBtn.addEventListener("click", () => {
+  scrollToDay("sun");
+});
+
+function scrollToDay(day) {
+  eventList.scrollTo(0, 0);
+  let dest = document.querySelector(`h4.${day}`);
+  dest.scrollIntoView({
+    behavior: "smooth",
+  });
+  window.scrollTo(0, 0);
+}
 
 //setInterval(() => {
 //  loadEvents(false);
