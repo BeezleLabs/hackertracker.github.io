@@ -173,7 +173,7 @@ function loadEvents(inital) {
               if (e.links.length > 0) {
                 e.links.forEach(function (lnk) {
                   eventLinks.push(
-                    `<a href="` + lnk.url + `">` + lnk.label + `</a>`
+                    `<a target="_blank" href="` + lnk.url + `">` + lnk.label + `</a>`
                   );
                 });
               }
