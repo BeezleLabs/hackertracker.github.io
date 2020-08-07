@@ -93,7 +93,7 @@ function loadEvents(inital) {
             //console.log(`${e.id} => ${e.title} => ${e.begin_timestamp.toMillis()}`);
 
             let element = `<div class="card text-white"  style="border: 0px; background-color: #222222;">
-                    <div  style="background-color: ${e.type.color}; width: 8px; height: 90%; display: inline-block; position: absolute;"> </div>
+                    <div  style="background-color: ${e.type.color}; width: 10px; height: 90%; display: inline-block; position: absolute;"> </div>
                     <div class="row">`;
 
             //eventList.insertAdjacentHTML('beforeend',e1);
