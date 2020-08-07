@@ -26,8 +26,13 @@ li.timezone {
   margin-right: 5px;
 }
 
-#timezone-selector {
+#timezone-selector,
+#search-bar,
+#category-selector {
   padding-right: 2px;
+  font-size: 12px;
+}
+
 nav.header {
   position: sticky;
   position: -webkit-sticky;
@@ -52,6 +57,7 @@ nav.header {
 #search-cancel-btn {
   border-color: #c93234;
   color: #ffffff;
+  font-size: 12px;
 }
 
 #search-btn:hover,
