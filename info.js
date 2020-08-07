@@ -149,17 +149,15 @@ function loadEvents(inital) {
                           </div>
                           <div class="modal-body">
                           <h6>${beginString} - ${endString}</h6>`;
-            
+
             element += `<p>${e.type.name} `;
             const forumUrl2 = e.type.subforum_url;
             const discordUrl2 = e.type.discord_url;
             if (forumUrl2 && discordUrl2) {
               element += ` (<a target="_blank" href="${e.type.subforum_url}">Forum</a> | <a target="_blank" href="${e.type.discord_url}">Discord</a>)`;
-            }
-            else if (forumUrl2) {
+            } else if (forumUrl2) {
               element += ` (<a target="_blank" href="${e.type.subforum_url}">Forum</a>) `;
-            }
-            else if (discordUrl2) {
+            } else if (discordUrl2) {
               element += ` (<a target="_blank" href="${e.type.discord_url}">Discord</a>) `;
             }
             element += `</p>`;
@@ -173,16 +171,18 @@ function loadEvents(inital) {
             let eventLinks = [];
             if (e.links) {
               if (e.links.length > 0) {
-                e.links.forEach(function(lnk){
-                  eventLinks.push(`<a href="` + lnk.url + `">` + lnk.label + `</a>`)
-                })
-              }  
+                e.links.forEach(function (lnk) {
+                  eventLinks.push(
+                    `<a href="` + lnk.url + `">` + lnk.label + `</a>`
+                  );
+                });
+              }
             }
-            
+
             let [extractedLinks, transformedDescription] = extractLinks(
               e.android_description
             );
-            
+
             const newLines = /\n/gi;
             let newDescription = transformedDescription.replace(
               newLines,
