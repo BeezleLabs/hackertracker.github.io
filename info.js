@@ -108,11 +108,11 @@ function loadEvents(inital) {
               navigator.language,
               endOptions
             );
-            if (e.end_timestamp.toMillis() < currentTime) {
-              let newTimeHTML = `<div class="card-body col-3"><p class="text-center" style="color: #cccccc">${beginString} - ${endString}</p></div>`;
+            if (e.begin_timestamp.toMillis() < currentTime) {
+              let newTimeHTML = `<div class="card-body col-3"><p class="text-center" style="color: #cccccc">${beginString}<br> - <br>${endString}</p></div>`;
               element += newTimeHTML;
             } else {
-              let newTimeHTML = `<div class="card-body col-3 future-event"><p class="text-center" style="color: #cccccc">${beginString} - ${endString}</p></div>`;
+              let newTimeHTML = `<div class="card-body col-3 future-event"><p class="text-center" style="color: #cccccc">${beginString}<br> - <br>${endString}</p></div>`;
               element += newTimeHTML;
             }
 
@@ -232,6 +232,7 @@ function getTimeOptions() {
         timeZoneName: "short",
         timeZone: selectedTimezone,
         hour12: false,
+        weekday: "short",
       },
     ];
   } else {
@@ -248,6 +249,7 @@ function getTimeOptions() {
         minute: "2-digit",
         timeZoneName: "short",
         hour12: false,
+        weekday: "short",
       },
     ];
   }
