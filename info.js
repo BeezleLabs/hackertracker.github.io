@@ -189,11 +189,15 @@ function loadEvents(inital) {
               "<br>"
             );
 
+            let eventUrl = `https://info.defcon.org?event=${e.id}`;
+
             element += `
               <br>
               <p>${newDescription}</p>
               <p>${eventLinks.join(" | ")}</p>}
-
+              <button id="S-${e.id}" onclick="copyLink(${
+              e.id
+            })" type="button" class="btn btn-primary copy-link">Copy event link</button> <p class="event-link">[${eventUrl}]</p>
                           </div>
                         </div>
                       </div>
@@ -366,6 +370,11 @@ function extractLinks(description) {
   });
 
   return [linkObjects, transformedDescription];
+}
+
+function copyLink(id) {
+  let eventUrl = `https://info.defcon.org?event=${id}`;
+  navigator.clipboard.writeText(eventUrl);
 }
 
 loadEvents(true);
