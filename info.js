@@ -218,7 +218,22 @@ function loadEvents(inital) {
       //console.log("futureEvent Top: " + futureEvent.offsetTop)
       futureEvent.scrollIntoView();
       window.scrollTo(0, 0);
+      urlParamsActions();
     });
+}
+
+function urlParamsActions() {
+  try {
+    let url = window.location.href;
+    let eventID = encodeURIComponent(
+      url.split("?")[1].split("event=")[1].split("&")[0]
+    );
+    if (eventID != "") {
+      $(`#M-${eventID}`).modal("show");
+    }
+  } catch (error) {
+    //console.log(error)
+  }
 }
 
 function getTimeOptions() {
