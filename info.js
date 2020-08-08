@@ -173,7 +173,11 @@ function loadEvents(inital) {
               if (e.links.length > 0) {
                 e.links.forEach(function (lnk) {
                   eventLinks.push(
-                    `<a target="_blank" href="` + lnk.url + `">` + lnk.label + `</a>`
+                    `<a target="_blank" href="` +
+                      lnk.url +
+                      `">` +
+                      lnk.label +
+                      `</a>`
                   );
                 });
               }
@@ -189,11 +193,15 @@ function loadEvents(inital) {
               "<br>"
             );
 
+            let eventUrl = `https://info.defcon.org?event=${e.id}`;
+
             element += `
               <br>
               <p>${newDescription}</p>
               <p>${eventLinks.join(" | ")}</p>}
-
+              <button id="S-${e.id}" onclick="copyLink(${
+              e.id
+            })" type="button" class="btn btn-primary copy-link">Copy event link</button> <p class="event-link">[${eventUrl}]</p>
                           </div>
                         </div>
                       </div>
@@ -218,7 +226,22 @@ function loadEvents(inital) {
       //console.log("futureEvent Top: " + futureEvent.offsetTop)
       futureEvent.scrollIntoView();
       window.scrollTo(0, 0);
+      urlParamsActions();
     });
+}
+
+function urlParamsActions() {
+  try {
+    let url = window.location.href;
+    let eventID = encodeURIComponent(
+      url.split("?")[1].split("event=")[1].split("&")[0]
+    );
+    if (eventID != "") {
+      $(`#M-${eventID}`).modal("show");
+    }
+  } catch (error) {
+    //console.log(error)
+  }
 }
 
 function getTimeOptions() {
@@ -351,6 +374,11 @@ function extractLinks(description) {
   });
 
   return [linkObjects, transformedDescription];
+}
+
+function copyLink(id) {
+  let eventUrl = `https://info.defcon.org?event=${id}`;
+  navigator.clipboard.writeText(eventUrl);
 }
 
 loadEvents(true);

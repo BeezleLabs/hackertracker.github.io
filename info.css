@@ -78,15 +78,22 @@ div.container-fluid {
 
 #search-btn,
 #search-cancel-btn,
+button.copy-link,
 button.days {
   border-color: #c93234;
   color: #ffffff;
   font-size: 12px;
+  background-color: #000000;
 }
 
 #search-btn:hover,
 #search-cancel-btn:hover,
+button.copy-link:hover,
 button.days:hover {
   background-color: #c93234;
   border-color: #c93234;
+}
+
+p.event-link {
+  display: inline;
 }
